@@ -1,0 +1,6 @@
+{ Using PSTWRITER 23.1.0 d001Oct-14-2025 at 17:48:19 }
+
+#1 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance J3: SCHEMATIC1, PAGE1 (185.42, 180.34).
+#2 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance J2: SCHEMATIC1, PAGE1 (55.88, 182.88).
+#3 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance J1: SCHEMATIC1, PAGE1 (370.84, 43.18).
+#4 ERROR(ORCAP-36018): Netlisting cannot complete because of the errors listed above in the session log. Correct the errors and netlist design.

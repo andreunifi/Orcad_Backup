@@ -1,0 +1,49 @@
+(ExpressProject "MoistureSensor"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "25.1 S020 (4396590)  [2/5/2026]-[05/04/26]")
+  (ProjectType "Analog or A/D Mixed Mode")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (Allegro Netlist Directory "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Board_sim_option "VHDL_flow")
+    (File ".\moisturesensor.dsn"
+      (Type "Schematic Design")))
+  (Folder "Layout")
+  (Folder "Outputs"
+    (File ".\MOISTURESENSOR_OUTPUT\BOM.SCH.CSV"
+      (Type "Report")
+      (DisplayName ".\MOISTURESENSOR_OUTPUT\BOM.SCH.CSV"))
+    (Sort User))
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (Folder "Logs")
+  (MPSSessionName "andre")
+  (PartMRUSelector
+    (CON3
+      (FullPartName "CON3.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Outputs"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 732"))
+      (Tab 0)))
+  (LastUsedLibraryBrowseDirectory
+     "C:\Cadence\OrCADX_25.1\tools\capture\library"))

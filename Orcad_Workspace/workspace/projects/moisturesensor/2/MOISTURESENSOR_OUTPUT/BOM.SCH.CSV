@@ -1,0 +1,13 @@
+Item Number,Quantity,Value,Description,Part Number,Part Reference,Manufacturer Name,Manufacturer Part Number,ID,SKU,ALT_MPN,ALT_MFR
+1,1,FIDUCIAL1X2,,,FID1,,,3,,,
+2,1,FIDUCIAL1X2,,,FID2,,,9,,,
+3,1,FRAME-LETTER,,,FRAME1,,,16,,,
+4,1,DNP,,,JP1,,,4,,,
+5,1,N_A,,,JP2,,,10,,,
+6,1,SFE_LOGO_NAME_FLAME.1_INCH,,,LOGO1,,,18,,,
+7,1,OSHW-LOGOS,,,LOGO2,,,8,,,
+8,1,2N3904,,,Q1,,,19,,,
+9,1,10k,,,R1,,,23,,,
+10,1,100,,,R2,,,26,,,
+11,1,STAND-OFF,,,STANDOFF1,,,15,,,
+12,1,STAND-OFF,,,STANDOFF2,,,14,,,

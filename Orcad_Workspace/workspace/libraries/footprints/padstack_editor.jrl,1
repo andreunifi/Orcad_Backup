@@ -1,0 +1,10 @@
+\t (00:00:01) padstack_editor 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Thu May 21 09:58:49 2026
+\t (00:00:01)         Host=LAPTOP-DI-ANDRE User=andre Pid=19020 CPUs=8
+\t (00:00:01) CmdLine= padstack_editor -mpssession andre -file C:/Users/andre/AppData/Local/Temp/#Taaaabo01308.tmp -pname R61_161 -data C:/Users/andre/AppData/Local/Temp/#Taaaabs01308.tmp -unison
+\t (00:00:01) 
+\d (00:00:03) QtSignal MainWindow Open triggered
+\d (00:00:14) QtSignal MainWindow UpdateToDesign triggered
+\d (00:00:27) QtSignal MainWindow UpdateToDesign triggered
+\d (00:00:40) QtSignal MainWindow Exit triggered
+\t (00:00:40)     Journal end - Thu May 21 09:59:29 2026

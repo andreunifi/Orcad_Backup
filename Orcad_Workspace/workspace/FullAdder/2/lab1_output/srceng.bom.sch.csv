@@ -1,0 +1,8 @@
+Quantity,Part Number,Part Reference,Value,Description,Manufacturer Name,Manufacturer Part Number,Assigned SKU,Assigned Manufacturer Part Number,Assigned Manufacturer Name,Design Risk Score,Market Availability,Reach Compliant,ROHS Compliant,Status,Price Range
+1,,J1,CON2,,WAGO CORPORATION,231-532/001-000,231-532001-000-1947114012,231-532/001-000,WAGO CORPORATION,10,10,,,Active,$0.64381-$0.70167
+1,,J2,CON3,,WAGO CORPORATION,734-263,734-263-1947981575,734-263,WAGO CORPORATION,8,8,,,Active,$1.24176-$1.29317
+1,,J3,CON2,,WAGO CORPORATION,231-532/001-000,231-532001-000-1947114012,231-532/001-000,WAGO CORPORATION,10,10,,,Active,$0.64381-$0.70167
+1,,U1,74AC08,,Texas Instruments Incorporated,SN74AC08N,SN74AC08N-1419645502,SN74AC08N,Texas Instruments Incorporated,10,9,,,Active,$0.36761-$0.42689
+1,,U2,74AC32,,Texas Instruments Incorporated,SN74AC32N,SN74AC32N-1419645630,SN74AC32N,Texas Instruments Incorporated,10,8,,,Active,$0.34705-$0.36949
+1,,U3,74AC04,,Texas Instruments Incorporated,SN74AC04DR,SN74AC04DR-1419645472,SN74AC04DR,Texas Instruments Incorporated,10,9,,,Active,$0.17283-$0.18822
+1,,U4,74AC08,,Texas Instruments Incorporated,SN74AC08N,SN74AC08N-1419645502,SN74AC08N,Texas Instruments Incorporated,10,9,,,Active,$0.36761-$0.42689

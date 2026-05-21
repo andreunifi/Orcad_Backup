@@ -1,0 +1,22 @@
+\t (00:00:03) allegro 17.2 S048 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Tue Nov 27 12:19:15 2018
+\t (00:00:03)         Host=NEURO-Y50-1 User=d041562 Pid=59776 CPUs=8
+\t (00:00:03) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe D:\Lezioni Cadence Pasero\BLE_TH_Sensor\Tesis_minimum_size_v2.brd
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged Tesis_minimum_size_v2
+\d (00:00:04) Design opened: D:/Lezioni Cadence Pasero/BLE_TH_Sensor/Tesis_minimum_size_v2.brd
+\i (00:00:04) trapsize 2907
+\i (00:00:04) trapsize 2987
+\i (00:00:04) trapsize 2907
+\i (00:00:04) trapsize 2907
+\i (00:00:04) trapsize 2692
+\i (00:00:05) shapeedit 
+\i (00:00:09) artwork 
+\i (00:00:12) setwindow form.film_control
+\i (00:00:12) FORM film_control cancel  
+\i (00:00:12) setwindow pcb
+\i (00:00:12) shapeedit 
+\i (00:00:13) exit 
+\t (00:00:14)     Journal end - Tue Nov 27 12:19:25 2018

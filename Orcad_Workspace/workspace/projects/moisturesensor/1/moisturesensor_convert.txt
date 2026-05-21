@@ -1,0 +1,10 @@
+The conversion of the project was successful.
+
+The new directory structure is as follows:
+
+c:/users/andre/desktop/ese_group18/orcad_workspace/workspace/projects/moisturesensor/1
+    moisturesensor.opj
+    moisturesensor.dsn
+c:/users/andre/desktop/ese_group18/orcad_workspace/workspace/projects/moisturesensor/1/moisturesensor-PSpiceFiles
+c:/users/andre/desktop/ese_group18/orcad_workspace/workspace/projects/moisturesensor/1/moisturesensor-PSpiceFiles/MCU
+c:/users/andre/desktop/ese_group18/orcad_workspace/workspace/projects/moisturesensor/1/moisturesensor-PSpiceFiles/Sensor

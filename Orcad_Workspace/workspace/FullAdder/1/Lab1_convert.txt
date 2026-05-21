@@ -1,0 +1,9 @@
+The conversion of the project was successful.
+
+The new directory structure is as follows:
+
+C:/SPB_Data/cdssetup/workspace/FullAdder/1
+    Lab1.opj
+    lab1.dsn
+C:/SPB_Data/cdssetup/workspace/FullAdder/1/Lab1-PSpiceFiles
+C:/SPB_Data/cdssetup/workspace/FullAdder/1/Lab1-PSpiceFiles/SCHEMATIC1

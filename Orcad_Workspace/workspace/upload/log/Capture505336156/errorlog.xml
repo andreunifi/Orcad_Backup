@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ This snapshot was automatically generated
+ by  on Thursday, May 14, 2026 10:29:40 AM
+-->
+<report version="1">
+  <platform>Win64</platform>
+  <application>Capture</application>
+  <version></version>
+  <computer>LAPTOP-DI-ANDRE</computer>
+  <user>andre</user>
+  <timestamp>134232281801160000</timestamp>
+  <usermsg>Crash</usermsg>
+  <syserror>
+    <code></code>
+    <description></description>
+  </syserror>
+  <cpus>
+    <number>8</number>
+    <architecture>AMD-x64</architecture>
+    <cpu>
+      <id>Intel64 Family 6 Model 158 Stepping 10</id>
+      <speed>2304</speed>
+      <description>Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz</description>
+    </cpu>
+    <cpu>
+      <id>Intel64 Family 6 Model 158 Stepping 10</id>
+      <speed>2304</speed>
+      <description>Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz</description>
+    </cpu>
+    <cpu>
+      <id>Intel64 Family 6 Model 158 Stepping 10</id>
+      <speed>2304</speed>
+      <description>Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz</description>
+    </cpu>
+    <cpu>
+      <id>Intel64 Family 6 Model 158 Stepping 10</id>
+      <speed>2304</speed>
+      <description>Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz</description>
+    </cpu>
+    <cpu>
+      <id>Intel64 Family 6 Model 158 Stepping 10</id>
+      <speed>2304</speed>
+      <description>Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz</description>
+    </cpu>
+    <cpu>
+      <id>Intel64 Family 6 Model 158 Stepping 10</id>
+      <speed>2304</speed>
+      <description>Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz</description>
+    </cpu>
+    <cpu>
+      <id>Intel64 Family 6 Model 158 Stepping 10</id>
+      <speed>2304</speed>
+      <description>Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz</description>
+    </cpu>
+    <cpu>
+      <id>Intel64 Family 6 Model 158 Stepping 10</id>
+      <speed>2304</speed>
+      <description>Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz</description>
+    </cpu>
+  </cpus>
+  <os>
+    <version>Windows 8</version>
+    <spack>

@@ -1,0 +1,546 @@
+INFO(ORDBDLL-1229): XMATIC : Creating Design..C:\USERS\ANDRE\DESKTOP\ESE_GROUP18\XMLS\PROJECT18_PW.DSN
+INFO(ORDBDLL-1229): XMATIC : Writing TitleBlockSymbol..TitleBlock3
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..Doc
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..RevCode
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..Title
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..OrgName
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..OrgAddr1
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..OrgAddr2
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..Page Size
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..Page Number
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..Page Count
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..Page Modify Date
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Doc
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..OrgAddr1
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..OrgAddr2
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..OrgName
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Page Count
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Page Create Date
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Page Number
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Page Size
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..RevCode
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Title
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolCommentText..Title
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolCommentText..Size
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolCommentText..Document Number
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolCommentText..Rev
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolCommentText..Date:
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolCommentText..Sheet
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolCommentText..of
+INFO(ORDBDLL-1229): XMATIC : Writing PortSymbol..PORTRIGHT-L
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..Name
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..PORTRIGHT-L
+INFO(ORDBDLL-1229): XMATIC : Writing OffPageSymbol..OFFPAGELEFT-R
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..Name
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..$PIN0
+INFO(ORDBDLL-1229): XMATIC : Writing GlobalSymbol..GND
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..$PIN0
+INFO(ORDBDLL-1229): XMATIC : Writing PortSymbol..PORTRIGHT-R
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..Name
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..PORTRIGHT-R
+INFO(ORDBDLL-1229): XMATIC : Writing package..CC0603KRX7R6BB105
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..Part Reference
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..Value
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Arrow Part Number
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Arrow Price/Stock
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Datasheet Link
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Description
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Height
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Manufacturer_Name
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Manufacturer_Part_Number
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Mouser Part Number
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Mouser Price/Stock
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..1
+INFO(ORDBDLL-1229): XMATIC : Writing PinDisplayProp..Name
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..2
+INFO(ORDBDLL-1229): XMATIC : Writing PinDisplayProp..Name
+INFO(ORDBDLL-1229): XMATIC : Writing package..RC0603FR-075K1L_2
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..Value
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..Part Reference
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Copyright
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Manufacturer_Name
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Manufacturer_Part_Number
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..1
+INFO(ORDBDLL-1229): XMATIC : Writing PinDisplayProp..Name
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..2
+INFO(ORDBDLL-1229): XMATIC : Writing PinDisplayProp..Name
+INFO(ORDBDLL-1229): XMATIC : Writing package..SS14
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..Part Reference
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..Value
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Arrow Part Number
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Arrow Price/Stock
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Datasheet Link
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Description
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Height
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Manufacturer_Name
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Manufacturer_Part_Number
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Mouser Part Number
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Mouser Price/Stock
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..A
+INFO(ORDBDLL-1229): XMATIC : Writing PinDisplayProp..Name
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..K
+INFO(ORDBDLL-1229): XMATIC : Writing PinDisplayProp..Name
+INFO(ORDBDLL-1229): XMATIC : Writing package..RC0603FR-072KL
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..Part Reference
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..Value
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Arrow Part Number
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Arrow Price/Stock
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Datasheet Link
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Description
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Height
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Manufacturer_Name
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Manufacturer_Part_Number
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Mouser Part Number
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Mouser Price/Stock
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..1
+INFO(ORDBDLL-1229): XMATIC : Writing PinDisplayProp..Name
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..2
+INFO(ORDBDLL-1229): XMATIC : Writing PinDisplayProp..Name
+INFO(ORDBDLL-1229): XMATIC : Writing package..BATTERY
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..Part Reference
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..Value
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..CURRENT
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..DIST
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..NC
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..NEGTOL
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..PACK_IGNORE
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..POSTOL
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..PSpiceTemplate
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..TOL_ON_OFF
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolCommentText..+
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolCommentText..-
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..NEG
+INFO(ORDBDLL-1229): XMATIC : Writing PinUserProp..ALLOW_CONNECT
+INFO(ORDBDLL-1229): XMATIC : Writing PinUserProp..NO_ASSERT_CHECK
+INFO(ORDBDLL-1229): XMATIC : Writing PinUserProp..NO_DIR_CHECK
+INFO(ORDBDLL-1229): XMATIC : Writing PinUserProp..NO_IO_CHECK
+INFO(ORDBDLL-1229): XMATIC : Writing PinUserProp..NO_LOAD_CHECK
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..POS
+INFO(ORDBDLL-1229): XMATIC : Writing PinUserProp..ALLOW_CONNECT
+INFO(ORDBDLL-1229): XMATIC : Writing PinUserProp..NO_ASSERT_CHECK
+INFO(ORDBDLL-1229): XMATIC : Writing PinUserProp..NO_DIR_CHECK
+INFO(ORDBDLL-1229): XMATIC : Writing PinUserProp..NO_IO_CHECK
+INFO(ORDBDLL-1229): XMATIC : Writing PinUserProp..NO_LOAD_CHECK
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..Part Reference
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..Value
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..CURRENT
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..DIST
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..NC
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..NEGTOL
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..PACK_IGNORE
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..POSTOL
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..PSpiceTemplate
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..TOL_ON_OFF
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolCommentText..+
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolCommentText..-
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..NEG
+INFO(ORDBDLL-1229): XMATIC : Writing PinUserProp..ALLOW_CONNECT
+INFO(ORDBDLL-1229): XMATIC : Writing PinUserProp..NO_ASSERT_CHECK
+INFO(ORDBDLL-1229): XMATIC : Writing PinUserProp..NO_DIR_CHECK
+INFO(ORDBDLL-1229): XMATIC : Writing PinUserProp..NO_IO_CHECK
+INFO(ORDBDLL-1229): XMATIC : Writing PinUserProp..NO_LOAD_CHECK
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..POS
+INFO(ORDBDLL-1229): XMATIC : Writing PinUserProp..ALLOW_CONNECT
+INFO(ORDBDLL-1229): XMATIC : Writing PinUserProp..NO_ASSERT_CHECK
+INFO(ORDBDLL-1229): XMATIC : Writing PinUserProp..NO_DIR_CHECK
+INFO(ORDBDLL-1229): XMATIC : Writing PinUserProp..NO_IO_CHECK
+INFO(ORDBDLL-1229): XMATIC : Writing PinUserProp..NO_LOAD_CHECK
+INFO(ORDBDLL-1229): XMATIC : Writing package..RC0603FR-0720KL
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..Part Reference
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..Value
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Arrow Part Number
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Arrow Price/Stock
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Datasheet Link
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Description
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Height
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Manufacturer_Name
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Manufacturer_Part_Number
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Mouser Part Number
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Mouser Price/Stock
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..1
+INFO(ORDBDLL-1229): XMATIC : Writing PinDisplayProp..Name
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..2
+INFO(ORDBDLL-1229): XMATIC : Writing PinDisplayProp..Name
+INFO(ORDBDLL-1229): XMATIC : Writing package..RC0603FR-072K2L
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..Part Reference
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..Value
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Arrow Part Number
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Arrow Price/Stock
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Datasheet Link
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Description
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Height
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Manufacturer_Name
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Manufacturer_Part_Number
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Mouser Part Number
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Mouser Price/Stock
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..1
+INFO(ORDBDLL-1229): XMATIC : Writing PinDisplayProp..Name
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..2
+INFO(ORDBDLL-1229): XMATIC : Writing PinDisplayProp..Name
+INFO(ORDBDLL-1229): XMATIC : Writing package..EEV477M010A9MAA
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..Part Reference
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..Value
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Arrow Part Number
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Arrow Price/Stock
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Datasheet Link
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Description
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Height
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Manufacturer_Name
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Manufacturer_Part_Number
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Mouser Part Number
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Mouser Price/Stock
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..+
+INFO(ORDBDLL-1229): XMATIC : Writing PinDisplayProp..Name
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..-
+INFO(ORDBDLL-1229): XMATIC : Writing PinDisplayProp..Name
+INFO(ORDBDLL-1229): XMATIC : Writing package..NTCLE350E4103FHB0
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..Part Reference
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..Value
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Arrow Part Number
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Arrow Price/Stock
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Datasheet Link
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Description
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Height
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Manufacturer_Name
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Manufacturer_Part_Number
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Mouser Part Number
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Mouser Price/Stock
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..1
+INFO(ORDBDLL-1229): XMATIC : Writing PinDisplayProp..Name
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..2
+INFO(ORDBDLL-1229): XMATIC : Writing PinDisplayProp..Name
+INFO(ORDBDLL-1229): XMATIC : Writing package..MCP73871-2CCIML_0
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..Part Reference
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..Value
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Copyright
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Manufacturer_Name
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Manufacturer_Part_Number
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolCommentText..1 of 2
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..*PG
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..*TE
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..CE
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..EP
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..IN
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..IN_2
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..OUT
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..OUT_2
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..PROG1
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..PROG2
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..PROG3
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..SEL
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..STAT1/*LBO
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..STAT2
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..THERM
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..VBAT
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..VBAT_2
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..VBAT_SENSE
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..VPCC
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..Part Reference
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..Value
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Copyright
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Manufacturer_Name
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Manufacturer_Part_Number
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolCommentText..2 of 2
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..VSS
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..VSS_2
+INFO(ORDBDLL-1229): XMATIC : Writing package..TPS62177DQCR
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..Part Reference
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..Value
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Copyright
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Datasheet
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Description
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Manufacturer_Name
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Manufacturer_Part_Number
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..RefDes
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..TYPE
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..AGND
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..DAP
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..EN
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..FB
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..NC
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..PG
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..PGND
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..SLEEP
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..SW
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..VIN
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..VOS
+INFO(ORDBDLL-1229): XMATIC : Writing package..1054550101_1
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..Part Reference
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..Value
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Copyright
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Datasheet
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Description
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Manufacturer_Name
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Manufacturer_Part_Number
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolCommentText..1 of 2
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..CC1
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..CC2
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..D+
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..D+_2
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..D-
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..D-_2
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..RX1+
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..RX1-
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..RX2+
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..RX2-
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..SBU1
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..SBU2
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..TX1+
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..TX1-
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..TX2+
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..TX2-
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..Part Reference
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..Value
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Copyright
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Datasheet
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Description
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Manufacturer_Name
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Manufacturer_Part_Number
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolCommentText..2 of 2
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..GND
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..GND_2
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..GND_3
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..GND_4
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..VBUS
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..VBUS_2
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..VBUS_3
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..VBUS_4
+INFO(ORDBDLL-1229): XMATIC : Writing package..XZMDK53W-1
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..Value
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolDisplayProp..Part Reference
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Copyright
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Manufacturer_Name
+INFO(ORDBDLL-1229): XMATIC : Writing SymbolUserProp..Manufacturer_Part_Number
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..1
+INFO(ORDBDLL-1229): XMATIC : Writing PinScalar..2
+INFO(ORDBDLL-1229): XMATIC : Creating Schematic..prj18
+INFO(ORDBDLL-1229): XMATIC : Creating Page..power_section
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing WireScalar
+INFO(ORDBDLL-1229): XMATIC : Writing Global..0
+INFO(ORDBDLL-1229): XMATIC : Writing Global..0
+INFO(ORDBDLL-1229): XMATIC : Writing Global..0
+INFO(ORDBDLL-1229): XMATIC : Writing Global..0
+INFO(ORDBDLL-1229): XMATIC : Writing Global..0
+INFO(ORDBDLL-1229): XMATIC : Writing Global..0
+INFO(ORDBDLL-1229): XMATIC : Writing Global..0
+INFO(ORDBDLL-1229): XMATIC : Writing Global..0
+INFO(ORDBDLL-1229): XMATIC : Writing Global..0
+INFO(ORDBDLL-1229): XMATIC : Writing Global..0
+INFO(ORDBDLL-1229): XMATIC : Writing OffPageConnector..3.3 V
+INFO(ORDBDLL-1229): XMATIC : Writing OffPageConnectorDisplayProp..Name
+INFO(ORDBDLL-1229): XMATIC : Writing TitleBlock..TitleBlock3
+INFO(ORDBDLL-1229): XMATIC : Writing TitleBlockDisplayProp..Doc
+INFO(ORDBDLL-1229): XMATIC : Writing TitleBlockDisplayProp..RevCode
+INFO(ORDBDLL-1229): XMATIC : Writing TitleBlockDisplayProp..Title
+INFO(ORDBDLL-1229): XMATIC : Writing TitleBlockDisplayProp..OrgName
+INFO(ORDBDLL-1229): XMATIC : Writing TitleBlockDisplayProp..OrgAddr1
+INFO(ORDBDLL-1229): XMATIC : Writing TitleBlockDisplayProp..OrgAddr2
+INFO(ORDBDLL-1229): XMATIC : Writing TitleBlockDisplayProp..Page Size
+INFO(ORDBDLL-1229): XMATIC : Writing TitleBlockDisplayProp..Page Number
+INFO(ORDBDLL-1229): XMATIC : Writing TitleBlockDisplayProp..Page Count
+INFO(ORDBDLL-1229): XMATIC : Writing TitleBlockDisplayProp..Page Modify Date
+INFO(ORDBDLL-1229): XMATIC : Writing TitleBlockUserProp..Cage Code
+INFO(ORDBDLL-1229): XMATIC : Writing TitleBlockUserProp..Doc
+INFO(ORDBDLL-1229): XMATIC : Writing TitleBlockUserProp..OrgAddr1
+INFO(ORDBDLL-1229): XMATIC : Writing TitleBlockUserProp..OrgAddr2
+INFO(ORDBDLL-1229): XMATIC : Writing TitleBlockUserProp..OrgAddr3
+INFO(ORDBDLL-1229): XMATIC : Writing TitleBlockUserProp..OrgAddr4
+INFO(ORDBDLL-1229): XMATIC : Writing TitleBlockUserProp..OrgName
+INFO(ORDBDLL-1229): XMATIC : Writing TitleBlockUserProp..RevCode
+INFO(ORDBDLL-1229): XMATIC : Writing TitleBlockUserProp..Title
+INFO(ORDBDLL-1229): XMATIC : Writing PartInst..INS168
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstDisplayProp..Part Reference
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstDisplayProp..Value
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstUserProp..PCB Footprint
+INFO(ORDBDLL-1229): XMATIC : Writing PartInst..INS227
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstDisplayProp..Part Reference
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstDisplayProp..Value
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstUserProp..PCB Footprint
+INFO(ORDBDLL-1229): XMATIC : Writing PartInst..INS382
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstDisplayProp..Part Reference
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstDisplayProp..Value
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstUserProp..PCB Footprint
+INFO(ORDBDLL-1229): XMATIC : Writing PortInstDisplay Prop..Name
+INFO(ORDBDLL-1229): XMATIC : Writing PortInstDisplay Prop..Name
+INFO(ORDBDLL-1229): XMATIC : Writing PartInst..INS447
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstDisplayProp..Part Reference
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstDisplayProp..Value
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstUserProp..PCB Footprint
+INFO(ORDBDLL-1229): XMATIC : Writing PartInst..INS512
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstDisplayProp..Part Reference
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstDisplayProp..Value
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstUserProp..PCB Footprint
+INFO(ORDBDLL-1229): XMATIC : Writing PartInst..INS701
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstDisplayProp..Part Reference
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstDisplayProp..Value
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstUserProp..PCB Footprint
+INFO(ORDBDLL-1229): XMATIC : Writing PartInst..INS752
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstDisplayProp..Value
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstDisplayProp..Part Reference
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstUserProp..PCB Footprint
+INFO(ORDBDLL-1229): XMATIC : Writing PartInst..INS781
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstDisplayProp..Part Reference
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstDisplayProp..Value
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstUserProp..PCB Footprint
+INFO(ORDBDLL-1229): XMATIC : Writing PortInstDisplay Prop..Name
+INFO(ORDBDLL-1229): XMATIC : Writing PortInstDisplay Prop..Name
+INFO(ORDBDLL-1229): XMATIC : Writing PartInst..INS855
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstDisplayProp..Part Reference
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstDisplayProp..Value
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstUserProp..PCB Footprint
+INFO(ORDBDLL-1229): XMATIC : Writing PortInstDisplay Prop..Name
+INFO(ORDBDLL-1229): XMATIC : Writing PortInstDisplay Prop..Name
+INFO(ORDBDLL-1229): XMATIC : Writing PartInst..INS892
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstDisplayProp..Part Reference
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstDisplayProp..Value
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstUserProp..PCB Footprint
+INFO(ORDBDLL-1229): XMATIC : Writing PortInstDisplay Prop..Name
+INFO(ORDBDLL-1229): XMATIC : Writing PortInstDisplay Prop..Name
+INFO(ORDBDLL-1229): XMATIC : Writing PartInst..INS929
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstDisplayProp..Part Reference
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstDisplayProp..Value
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstUserProp..PCB Footprint
+INFO(ORDBDLL-1229): XMATIC : Writing PortInstDisplay Prop..Name
+INFO(ORDBDLL-1229): XMATIC : Writing PortInstDisplay Prop..Name
+INFO(ORDBDLL-1229): XMATIC : Writing PartInst..INS966
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstDisplayProp..Part Reference
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstDisplayProp..Value
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstUserProp..PCB Footprint
+INFO(ORDBDLL-1229): XMATIC : Writing PortInstDisplay Prop..Name
+INFO(ORDBDLL-1229): XMATIC : Writing PortInstDisplay Prop..Name
+INFO(ORDBDLL-1229): XMATIC : Writing PartInst..INS1003
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstDisplayProp..Part Reference
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstDisplayProp..Value
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstUserProp..PCB Footprint
+INFO(ORDBDLL-1229): XMATIC : Writing PortInstDisplay Prop..Name
+INFO(ORDBDLL-1229): XMATIC : Writing PortInstDisplay Prop..Name
+INFO(ORDBDLL-1229): XMATIC : Writing PartInst..INS1036
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstDisplayProp..Value
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstDisplayProp..Part Reference
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstUserProp..PCB Footprint
+INFO(ORDBDLL-1229): XMATIC : Writing PortInstDisplay Prop..Name
+INFO(ORDBDLL-1229): XMATIC : Writing PortInstDisplay Prop..Name
+INFO(ORDBDLL-1229): XMATIC : Writing PartInst..INS1052
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstDisplayProp..Value
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstDisplayProp..Part Reference
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstUserProp..PCB Footprint
+INFO(ORDBDLL-1229): XMATIC : Writing PortInstDisplay Prop..Name
+INFO(ORDBDLL-1229): XMATIC : Writing PortInstDisplay Prop..Name
+INFO(ORDBDLL-1229): XMATIC : Writing PartInst..INS1098
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstDisplayProp..Part Reference
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstUserProp..PCB Footprint
+INFO(ORDBDLL-1229): XMATIC : Writing PartInst..INS1123
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstDisplayProp..Part Reference
+INFO(ORDBDLL-1229): XMATIC : Writing PartInstUserProp..PCB Footprint
+INFO(ORDBDLL-1229): XMATIC : Saving Design..C:\USERS\ANDRE\DESKTOP\ESE_GROUP18\XMLS\PROJECT18_PW.DSN
+INFO(ORDBDLL-1229): XMATIC : Design save successful..C:\USERS\ANDRE\DESKTOP\ESE_GROUP18\XMLS\PROJECT18_PW.DSN

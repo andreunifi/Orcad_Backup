@@ -1,0 +1,56 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : SOT-23-3L_AOS-M.dra                           )
+(    Software Version : 25.1S030                                      )
+(    Date/Time        : Thu May 21 11:31:49 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Thu May 21 11:31:49 2026				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/SOT-23-3L_AOS-M.dra'
+Output design = ''
+PAD_STACK_LISTFILE  = 'C:/Users/andre/AppData/Local/Temp/#Taaaajg01308.tmp'
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/OrCADX_25.1/share/orApps/OrCaptureApp/../../../share/local/pcb/symbols 
+           C:/Cadence/OrCADX_25.1/share/orApps/OrCaptureApp/../../../share/pcb/pcb_lib/symbols 
+           C:/Cadence/OrCADX_25.1/share/orApps/OrCaptureApp/../../../share/pcb/allegrolib/symbols 
+           C:/Users/andre/AppData/Roaming/SPB_Data/cdssetup/OrCAD_Capture/25.1.0/downloaded_parts/allegropcb 
+           C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace 
+
+PADPATH =  C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/OrCADX_25.1/share/orApps/OrCaptureApp/../../../share/local/pcb/padstacks 
+           C:/Cadence/OrCADX_25.1/share/orApps/OrCaptureApp/../../../share/pcb/pcb_lib/symbols 
+           C:/Cadence/OrCADX_25.1/share/orApps/OrCaptureApp/../../../share/pcb/allegrolib/symbols 
+           C:/Users/andre/AppData/Roaming/SPB_Data/cdssetup/OrCAD_Capture/25.1.0/downloaded_parts/allegropcb 
+
+
+------ Pad Stack Refresh Messages ------
+
+'C61'  pad stack refresh starting.
+
+     'C61'  pad stack refreshed successfully.
+     
+'C61'  pad stack refresh starting.
+
+     'C61'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.
