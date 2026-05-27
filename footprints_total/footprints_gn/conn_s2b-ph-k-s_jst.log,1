@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : CONN_S2B-PH-K-S_JST.dra                       )
+(    Software Version : 25.1P001                                      )
+(    Date/Time        : Wed May 20 18:59:14 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/Giorgio/Documents/Cadence/cdssetup/workspace/libraries/footprints
+    Name      = conn_s2b-ph-k-s_jst.psm
+    User      = Giorgio
+    Machine   = W11TG-GN
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

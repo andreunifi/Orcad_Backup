@@ -1,6 +1,6 @@
 (ExpressProject "MoistureSensor"
   (ProjectVersion "19981106")
-  (SoftwareVersion "25.1 S030 (4414069)  [3/25/2026]-[05/17/26]")
+  (SoftwareVersion "25.1 S030 (4414069)  [3/25/2026]-[05/26/26]")
   (ProjectType "Analog or A/D Mixed Mode")
   (Folder "Design Resources"
     (Folder "Library")
@@ -105,18 +105,8 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "c:\users\andre\desktop\ese_group18\orcad_workspace\workspace\projects\moisturesensor\so1l.DSN")
-      (Path "Design Resources"
-         "c:\users\andre\desktop\ese_group18\orcad_workspace\workspace\projects\moisturesensor\so1l.DSN"
-         "Sensor")
-      (Path "Design Resources"
-         "c:\users\andre\desktop\ese_group18\orcad_workspace\workspace\projects\moisturesensor\so1l.DSN"
-         "MCU")
       (Path "Outputs")
-      (Select "Design Resources"
-         "c:\users\andre\desktop\ese_group18\orcad_workspace\workspace\projects\moisturesensor\so1l.DSN"
-         "MCU" "PAGE2"))
+      (Select "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -127,7 +117,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 5 24 5 1674 24 663")
-        (Scroll "-23 512")
+        (Scroll "-23 541")
         (Zoom "164"))
       (Path
          "C:\USERS\ANDRE\DESKTOP\ESE_GROUP18\ORCAD_WORKSPACE\WORKSPACE\PROJECTS\MOISTURESENSOR\SO1L.DSN")
@@ -137,18 +127,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 5 24 5 1674 24 663")
-        (Scroll "-208 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\ANDRE\DESKTOP\ESE_GROUP18\ORCAD_WORKSPACE\WORKSPACE\PROJECTS\MOISTURESENSOR\SO1L.DSN")
-      (Schematic "Sensor")
-      (Page "PAGE1"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1674 24 663")
-        (Scroll "-23 574")
+        (Scroll "-23 419")
         (Zoom "164"))
       (Path
          "C:\USERS\ANDRE\DESKTOP\ESE_GROUP18\ORCAD_WORKSPACE\WORKSPACE\PROJECTS\MOISTURESENSOR\SO1L.DSN")
