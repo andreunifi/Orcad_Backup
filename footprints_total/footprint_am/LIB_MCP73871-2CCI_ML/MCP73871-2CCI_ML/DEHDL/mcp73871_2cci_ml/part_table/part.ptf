@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MCP73871_2CCI_ML'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Microchip", "MCP73871-2CCI/ML" (!) = "", "QFN50P400X400X100-21N-D", "Quad Flat No-Lead", "579-MCP73871-2CCI/ML", "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MCP73871-2CCI-ML?qs=qXsUupcbpXyQfJ2clznZxw%3D%3D", "MCP73871-2CCI/ML", "https://www.arrow.com/en/products/mcp73871-2cciml/microchip-technology?utm_currency=USD&region=europe", "Li-Ion Charger USB/DC 4.2V TE LBO QFN20", "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA15/728881.pdf", "1 mm"
+END_PART
+
+END.

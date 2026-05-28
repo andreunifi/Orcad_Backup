@@ -1,0 +1,45 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Database Objects Preventing Layer From Being Deleted             )
+(                                                                     )
+(    Drawing          : LAUNCHXL-CC2640R2.brd                         )
+(    Software Version : 16.6S019                                      )
+(    Date/Time        : Mon Aug 22 13:52:53 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Layer being deleted: BOARD GEOMETRY/NEGATIVE
+
+    (363.150 233.539) SHAPE: Board Geometry/Negative 
+    (361.995 233.526) SHAPE: Board Geometry/Negative 
+    (360.344 233.653) SHAPE: Board Geometry/Negative 
+    (363.490 248.264) SHAPE: Board Geometry/Negative 
+    (361.448 248.553) SHAPE: Board Geometry/Negative 
+    (360.336 248.294) SHAPE: Board Geometry/Negative 
+    (362.957 244.347) SHAPE: Board Geometry/Negative 
+    (362.378 244.256) SHAPE: Board Geometry/Negative 
+    (358.644 244.286) SHAPE: Board Geometry/Negative 
+    (356.495 245.399) SHAPE: Board Geometry/Negative 
+    (355.611 245.841) SHAPE: Board Geometry/Negative 
+    (353.737 244.256) SHAPE: Board Geometry/Negative 
+    (351.999 244.256) FILLED RECTANGLE: Board Geometry/Negative 
+    (351.999 246.069) FILLED RECTANGLE: Board Geometry/Negative 
+    (350.689 245.841) SHAPE: Board Geometry/Negative 
+    (376.400 253.800) SHAPE: Board Geometry/Negative 
+    (380.271 241.950) SHAPE: Board Geometry/Negative 
+    (380.181 234.783) SHAPE: Board Geometry/Negative 
+    (379.711 233.462) FILLED RECTANGLE: Board Geometry/Negative 
+    (379.711 234.974) FILLED RECTANGLE: Board Geometry/Negative 
+    (379.000 233.462) FILLED RECTANGLE: Board Geometry/Negative 
+    (377.184 234.504) SHAPE: Board Geometry/Negative 
+    (375.901 233.551) SHAPE: Board Geometry/Negative 
+    (375.368 233.462) SHAPE: Board Geometry/Negative 
+    (372.980 233.437) SHAPE: Board Geometry/Negative 
+    (372.358 233.462) FILLED RECTANGLE: Board Geometry/Negative 
+    (371.012 233.526) SHAPE: Board Geometry/Negative 
+    (369.043 233.462) SHAPE: Board Geometry/Negative 
+    (367.494 234.415) SHAPE: Board Geometry/Negative 
+    (366.033 234.504) SHAPE: Board Geometry/Negative 
+
+... 62 total objects preventing delete layer

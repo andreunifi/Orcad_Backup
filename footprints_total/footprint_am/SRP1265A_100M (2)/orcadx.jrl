@@ -1,0 +1,325 @@
+\t (00:30:03) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (00:30:03)     Journal start - Sat May 23 22:34:00 2026
+\t (00:30:03)         Host=LAPTOP-DI-ANDRE User=andre Pid=19276 CPUs=8
+\t (00:30:03) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\unison.exe -layout -orcadx
+\t (00:30:03) 
+\d (00:30:03) Design opened: C:/Users/andre/Downloads/SRP1265A_100M (2)/IND_SRP1265A-100M.dra
+\w (00:30:03) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:30:04) updateport VisibilityPane
+\i (00:30:04) updateport PropPane
+\i (00:30:04) ucpedit 
+\i (00:30:04) updateport VisibilityPane
+\i (00:30:04) zoom in 1 
+\i (00:30:04) setwindow pcb
+\i (00:30:04) zoom in -5.3633 -3.4983
+\i (00:30:04) trapsize 3235
+\i (00:30:04) zoom in 1 
+\i (00:30:04) setwindow pcb
+\i (00:30:04) zoom in -5.4280 -3.3688
+\i (00:30:04) trapsize 1617
+\i (00:30:05) zoom in 1 
+\i (00:30:05) setwindow pcb
+\i (00:30:05) zoom in -5.2986 -3.0776
+\i (00:30:05) trapsize 809
+\i (00:30:05) pick grid -4.9913 -0.9910
+\t (00:30:05) last pick:  -4.9913 -0.9910
+\i (00:30:05) updateport ReportsPane
+\i (00:30:05) updateport SearchPane
+\i (00:30:05) updateport PropPane
+\i (00:30:06) prepopup -4.9913 -0.9910
+\i (00:30:08) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (S_R310T500M310_500P310_500) (2)' 
+\i (00:30:08) mod padstack 
+\i (00:32:45) updateport ReportsPane
+\i (00:32:45) updateport SearchPane
+\i (00:32:45) updateport PropPane
+\i (00:32:45) ucpedit 
+\i (00:32:45) updateport ReportsPane
+\i (00:32:45) updateport SearchPane
+\i (00:32:45) updateport VisibilityPane
+\i (00:32:45) updateport PropPane
+\i (00:32:50) QtSignal DisplayGeneral DisplayGeneralMode CurrentIndexChanged 1
+\i (00:32:51) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
+\i (00:32:51) ucpedit 
+\i (00:32:51) updateport ReportsPane
+\i (00:32:51) updateport SearchPane
+\i (00:32:51) updateport VisibilityPane
+\i (00:32:51) updateport PropPane
+\i (00:32:56) QtSignal Algro3DViewCameraWidget Algro3DViewTopAction triggered
+\i (00:33:02) ucp_switchview 
+\i (00:33:02) ucpedit 
+\i (00:33:02) updateport VisibilityPane
+\w (00:33:05) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:33:05) updateport CMPanelPort
+\i (00:33:05) updateport PropPane
+\i (00:33:05) updateport ReportsPane
+\i (00:33:05) updateport SearchPane
+\i (00:33:06) trapsize 644
+\i (00:33:06) trapsize 796
+\i (00:33:06) trapsize 809
+\i (00:33:07) zoom out 1 
+\i (00:33:07) setwindow pcb
+\i (00:33:07) zoom out 3.3549 -0.1337
+\i (00:33:07) trapsize 1617
+\i (00:33:07) zoom out 1 
+\i (00:33:07) setwindow pcb
+\i (00:33:07) zoom out 3.5814 -0.2308
+\i (00:33:07) trapsize 3235
+\i (00:33:07) zoom out 1 
+\i (00:33:07) setwindow pcb
+\i (00:33:07) zoom out 8.4176 -0.6191
+\i (00:33:07) trapsize 6470
+\i (00:33:07) zoom in 1 
+\i (00:33:07) setwindow pcb
+\i (00:33:07) zoom in 74.7343 19.4052
+\i (00:33:07) trapsize 3235
+\i (00:33:07) zoom in 1 
+\i (00:33:07) setwindow pcb
+\i (00:33:07) zoom in 21.8882 17.1407
+\i (00:33:07) trapsize 1617
+\i (00:33:08) roam start
+\i (00:33:08) roam x -13
+\i (00:33:08) roam x -20
+\i (00:33:08) roam y 3
+\i (00:33:08) roam x -25
+\i (00:33:08) roam y 7
+\i (00:33:08) roam x -84
+\i (00:33:08) roam y 31
+\i (00:33:08) roam x -34
+\i (00:33:08) roam y 17
+\i (00:33:08) roam x -173
+\i (00:33:08) roam y 74
+\i (00:33:08) roam x -58
+\i (00:33:08) roam y 25
+\i (00:33:08) roam x -58
+\i (00:33:08) roam y 31
+\i (00:33:08) roam x -33
+\i (00:33:08) roam y 20
+\i (00:33:08) roam x -23
+\i (00:33:08) roam y 14
+\i (00:33:08) roam x -27
+\i (00:33:08) roam y 18
+\i (00:33:08) roam x -31
+\i (00:33:08) roam y 22
+\i (00:33:08) roam x -27
+\i (00:33:08) roam y 14
+\i (00:33:08) roam x -23
+\i (00:33:08) roam y 11
+\i (00:33:09) roam x -5
+\i (00:33:09) roam y 2
+\i (00:33:09) roam x -8
+\i (00:33:09) roam y 4
+\i (00:33:09) roam x -15
+\i (00:33:09) roam y 6
+\i (00:33:09) roam x -119
+\i (00:33:09) roam y 48
+\i (00:33:09) roam x -40
+\i (00:33:09) roam y 16
+\i (00:33:09) roam x -17
+\i (00:33:09) roam y 8
+\i (00:33:09) roam x -1
+\i (00:33:09) roam y 2
+\i (00:33:09) roam x -1
+\i (00:33:09) roam y 1
+\i (00:33:09) roam y 1
+\i (00:33:09) roam end
+\i (00:33:09) zoom in 1 
+\i (00:33:09) setwindow pcb
+\i (00:33:09) zoom in 6.7354 0.5778
+\i (00:33:09) trapsize 809
+\i (00:33:11) pick grid 5.4576 0.3028
+\t (00:33:11) last pick:  5.4576 0.3028
+\i (00:33:11) updateport ReportsPane
+\i (00:33:11) updateport SearchPane
+\i (00:33:11) updateport PropPane
+\i (00:33:23) pick grid 4.9076 0.0278
+\t (00:33:23) last pick:  4.9076 0.0278
+\i (00:33:23) updateport ReportsPane
+\i (00:33:23) updateport SearchPane
+\i (00:33:23) updateport PropPane
+\i (00:33:25) pick grid -5.9456 -0.4574
+\t (00:33:25) last pick:  -5.9456 -0.4574
+\i (00:33:25) updateport ReportsPane
+\i (00:33:25) updateport SearchPane
+\i (00:33:25) updateport PropPane
+\i (00:33:55) pick grid 5.1664 -0.6838
+\t (00:33:55) last pick:  5.1664 -0.6838
+\i (00:33:55) updateport ReportsPane
+\i (00:33:55) updateport SearchPane
+\i (00:33:55) updateport PropPane
+\i (00:34:57) pick grid 4.7782 -0.4412
+\t (00:34:57) last pick:  4.7782 -0.4412
+\i (00:34:57) updateport ReportsPane
+\i (00:34:57) updateport SearchPane
+\i (00:34:57) updateport PropPane
+\i (00:34:58) pick grid 5.1826 -0.5221
+\t (00:34:58) last pick:  5.1826 -0.5221
+\i (00:34:58) updateport ReportsPane
+\i (00:34:58) updateport SearchPane
+\i (00:34:58) updateport PropPane
+\i (00:35:03) drag_start grid 14.0788 -1.1044
+\i (00:35:03) drag_stop 13.9979 -1.1044
+\i (00:35:05) pick grid 5.9590 0.0440
+\t (00:35:05) last pick:  5.9590 0.0440
+\i (00:35:05) updateport ReportsPane
+\i (00:35:05) updateport SearchPane
+\i (00:35:05) updateport PropPane
+\i (00:35:05) prepopup 5.9590 0.0440
+\i (00:35:08) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (S_R310T500M310_500P310_500) (2)' 
+\i (00:35:08) mod padstack 
+\i (00:35:15) ucpedit 
+\i (00:35:15) updateport ReportsPane
+\i (00:35:15) updateport SearchPane
+\i (00:35:15) updateport VisibilityPane
+\i (00:35:15) updateport PropPane
+\i (00:35:20) ucp_user_pref 
+\i (00:35:22) QtSignal ProjectPreferenceDlg AllegroXPreferenceOptionTree selectionChanged System +
+\i (00:35:22) QtSignal Measurement
+\i (00:35:22) QtSignal ProjectPreferenceDlg AllegroXPreferenceOptionTree selectionChanged System +
+\i (00:35:22) QtSignal Measurement
+\i (00:35:22) QtSignal ProjectPreferenceDlg AllegroXPreferenceOptionTree selectionChanged System +
+\i (00:35:22) QtSignal Measurement
+\i (00:35:23) QtSignal TitleBlockGroupBox TitleBlockLineEdit editingFinished "$INSTDIR/tools/capture/library/capsym.olb"
+\i (00:35:23) QtSignal ProjectPreferenceDlg DialogOKButton clicked
+\i (00:35:24) ucpedit 
+\i (00:35:24) updateport ReportsPane
+\i (00:35:24) updateport SearchPane
+\i (00:35:24) updateport VisibilityPane
+\i (00:35:24) updateport PropPane
+\i (00:35:25) pick grid 5.3929 -0.5383
+\t (00:35:25) last pick:  5.3929 -0.5383
+\i (00:35:25) updateport ReportsPane
+\i (00:35:25) updateport SearchPane
+\i (00:35:25) updateport PropPane
+\i (00:35:31) QtSignal PropertyLocationWidget PropertyLocationXInput editingFinished 0
+\i (00:35:31) updateport ReportsPane
+\i (00:35:31) updateport SearchPane
+\i (00:35:31) updateport PropPane
+\i (00:35:36) QtSignal PropertyLocationWidget PropertyLocationXInput editingFinished "7.10"
+\i (00:35:36) updateport ReportsPane
+\i (00:35:36) updateport SearchPane
+\i (00:35:36) updateport PropPane
+\i (00:35:36) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
+\i (00:35:38) pick grid -2.8724 5.3008
+\t (00:35:38) last pick:  -2.8724 5.3008
+\i (00:35:38) ucp_shape_edit_mode 
+\i (00:35:38) updateport ReportsPane
+\i (00:35:38) updateport SearchPane
+\i (00:35:38) updateport VisibilityPane
+\i (00:35:38) updateport PropPane
+\i (00:35:38) ucpedit 
+\i (00:35:41) prepopup -0.8668 3.3437
+\i (00:35:43) prepopup -2.5166 4.2009
+\i (00:35:45) pick grid -5.7354 0.6101
+\t (00:35:45) last pick:  -5.7354 0.6101
+\i (00:35:45) updateport ReportsPane
+\i (00:35:45) updateport SearchPane
+\i (00:35:45) updateport VisibilityPane
+\i (00:35:45) updateport PropPane
+\i (00:35:50) QtSignal PropertyLocationWidget PropertyLocationXInput editingFinished 0
+\i (00:35:50) updateport ReportsPane
+\i (00:35:50) updateport SearchPane
+\i (00:35:50) updateport PropPane
+\i (00:36:07) QtSignal PropertyLocationWidget PropertyLocationXInput editingFinished "-7.10"
+\i (00:36:07) updateport ReportsPane
+\i (00:36:07) updateport SearchPane
+\i (00:36:07) updateport PropPane
+\i (00:36:09) save 
+\i (00:36:10) fillin yes 
+\t (00:36:12) Symbol 'ind_srp1265a-100m.psm' created.
+\i (00:36:12) updateport ReportsPane
+\i (00:36:12) updateport SearchPane
+\i (00:36:12) updateport PropPane
+\i (00:36:12) ucpedit 
+\i (00:36:12) updateport ReportsPane
+\i (00:36:12) updateport SearchPane
+\i (00:36:12) updateport VisibilityPane
+\i (00:36:12) updateport PropPane
+\i (00:36:16) QtSignal DisplayGeneral DisplayGeneralMode CurrentIndexChanged 1
+\i (00:36:16) updateport VisibilityPane
+\i (00:36:16) ucpedit 
+\i (00:36:16) updateport ReportsPane
+\i (00:36:16) updateport SearchPane
+\i (00:36:16) updateport VisibilityPane
+\i (00:36:16) updateport PropPane
+\i (00:36:20) QtSignal Algro3DViewCameraWidget Algro3DViewTopIsoAction triggered
+\i (00:36:22) updateport ReportsPane
+\i (00:36:22) updateport SearchPane
+\i (00:36:22) updateport PropPane
+\i (00:36:32) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:36:32) QtSignal "CP_ALLEGRO_PROPERTIES_DOCK"
+\i (00:36:33) QtSignal PropertySelectionFilterWidget ObjectAll clicked on
+\i (00:36:33) QtSignal PropertySelectionFilterWidget Groups clicked on
+\w (00:36:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:36:49) updateport CMPanelPort
+\i (00:36:49) updateport PropPane
+\i (00:36:49) updateport ReportsPane
+\i (00:36:49) updateport SearchPane
+\i (00:36:52) QtSignal DisplayGeneral DisplayGeneralMode CurrentIndexChanged 0
+\i (00:36:52) ucpedit 
+\i (00:36:52) updateport VisibilityPane
+\i (00:36:53) pick grid -0.8344 -0.3442
+\t (00:36:53) last pick:  -0.8344 -0.3442
+\i (00:36:53) ucp_shape_edit_mode 
+\i (00:36:53) updateport ReportsPane
+\i (00:36:53) updateport SearchPane
+\i (00:36:53) updateport VisibilityPane
+\i (00:36:53) updateport PropPane
+\i (00:36:53) ucpedit 
+\i (00:36:57) QtSignal DisplayGeneral DisplayGeneralMode CurrentIndexChanged 1
+\i (00:36:57) updateport ReportsPane
+\i (00:36:57) updateport SearchPane
+\i (00:36:57) updateport VisibilityPane
+\i (00:36:57) updateport PropPane
+\i (00:36:57) ucpedit 
+\i (00:37:01) QtSignal PropertyStatusWidget 3d_model_import clicked
+\i (00:37:01) ucpedit 
+\i (00:37:01) updateport VisibilityPane
+\i (00:38:17) QtFillin filesystem "SRP1265A series.stp" "SRP1265A series.stp"
+\i (00:38:32) updateport ReportsPane
+\i (00:38:32) updateport SearchPane
+\i (00:38:32) updateport PropPane
+\i (00:38:41) QtSignal PropertyAlign3DWidget MAN clicked on
+\i (00:38:48) updateport ReportsPane
+\i (00:38:48) updateport SearchPane
+\i (00:38:48) updateport PropPane
+\i (00:38:58) QtSignal PropertyStatusWidget 3d_model_color colorAssigned "#000000"
+\i (00:38:58) updateport ReportsPane
+\i (00:38:58) updateport SearchPane
+\i (00:38:58) updateport PropPane
+\i (00:39:04) QtSignal PropertyStatusWidget 3d_model_color colorAssigned "#747474"
+\i (00:39:04) updateport ReportsPane
+\i (00:39:04) updateport SearchPane
+\i (00:39:04) updateport PropPane
+\i (00:39:11) QtSignal Algro3DViewCameraWidget Algro3DViewTopAction triggered
+\i (00:39:25) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:39:25) QtSignal "CP_ALLEGRO_PROPERTIES_DOCK"
+\i (00:39:29) QtSignal DisplayGeneral DisplayGeneralMode CurrentIndexChanged 0
+\i (00:39:30) ucpedit 
+\i (00:39:30) updateport VisibilityPane
+\i (00:39:35) drag_start grid -7.1588 8.2446
+\i (00:39:35) drag_stop 0.1199 -1.8808
+\i (00:39:36) zoom out 1 
+\i (00:39:36) setwindow pcb
+\i (00:39:36) zoom out 8.5146 1.2248
+\i (00:39:36) trapsize 1617
+\i (00:39:37) save 
+\i (00:39:39) fillin yes 
+\t (00:39:40) Symbol 'ind_srp1265a-100m.psm' created.
+\i (00:39:40) updateport ReportsPane
+\i (00:39:40) updateport SearchPane
+\i (00:39:40) updateport PropPane
+\i (00:39:40) ucpedit 
+\i (00:39:40) updateport VisibilityPane
+\i (00:39:41) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:39:41) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:39:41) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:39:41) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:39:41) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:39:41) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:39:41) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:39:41) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:39:41) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:39:41) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:39:41) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:39:42) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
+\t (00:39:47)     Journal end - Sat May 23 22:43:44 2026

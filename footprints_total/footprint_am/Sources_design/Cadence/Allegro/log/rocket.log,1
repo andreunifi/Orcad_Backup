@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : rocket.dra                                    )
+(    Software Version : 16.6S019                                      )
+(    Date/Time        : Fri Aug 19 12:33:29 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: MECHANICAL
+    Directory = C:/kht/work/LAUNCHXL-CC2650R2/design/hw/Cadence/Allegro
+    Name      = rocket.bsm
+    User      = a0190588
+    Machine   = LTA0190588A
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

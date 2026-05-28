@@ -1,0 +1,451 @@
+\t (01:31:30) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (01:31:30)     Journal start - Tue May 26 17:56:05 2026
+\t (01:31:30)         Host=LAPTOP-DI-ANDRE User=andre Pid=24228 CPUs=8
+\t (01:31:30) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\unison.exe -layout -orcadx
+\t (01:31:30) 
+\d (01:31:30) Design opened: C:/Users/andre/Downloads/TS14_1212_60_BK_260_SCR_D (1)/SW_TS14-1212-60-BK-260-SCR-D.dra
+\w (01:31:30) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (01:31:30) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
+\i (01:31:30) updateport VisibilityPane
+\i (01:31:30) updateport PropPane
+\i (01:31:31) zoom in 1 
+\i (01:31:31) setwindow pcb
+\i (01:31:31) zoom in 2.5376 -16.2798
+\i (01:31:31) trapsize 3121
+\i (01:31:31) zoom in 1 
+\i (01:31:31) setwindow pcb
+\i (01:31:31) zoom in 2.4752 -16.2798
+\i (01:31:31) trapsize 1561
+\i (01:31:32) roam start
+\i (01:31:32) roam x -9
+\i (01:31:32) roam y -6
+\i (01:31:32) roam x -10
+\i (01:31:32) roam y -9
+\i (01:31:32) roam x -6
+\i (01:31:32) roam y -3
+\i (01:31:32) roam x -7
+\i (01:31:32) roam y -6
+\i (01:31:32) roam x -9
+\i (01:31:32) roam y -5
+\i (01:31:32) roam x -5
+\i (01:31:32) roam y -2
+\i (01:31:32) roam x -47
+\i (01:31:32) roam y -16
+\i (01:31:32) roam x -21
+\i (01:31:32) roam y -5
+\i (01:31:32) roam x -16
+\i (01:31:32) roam y -6
+\i (01:31:32) roam x -46
+\i (01:31:32) roam y -13
+\i (01:31:32) roam x -12
+\i (01:31:32) roam y -4
+\i (01:31:32) roam x -7
+\i (01:31:32) roam y -2
+\i (01:31:32) roam x -16
+\i (01:31:32) roam y -6
+\i (01:31:32) roam x -19
+\i (01:31:32) roam y -6
+\i (01:31:32) roam x -98
+\i (01:31:32) roam y -25
+\i (01:31:32) roam x -10
+\i (01:31:32) roam y -3
+\i (01:31:32) roam x -9
+\i (01:31:32) roam y -2
+\i (01:31:32) roam x -15
+\i (01:31:32) roam y -1
+\i (01:31:32) roam x -22
+\i (01:31:32) roam y -5
+\i (01:31:32) roam x -23
+\i (01:31:32) roam y -9
+\i (01:31:32) roam x -10
+\i (01:31:32) roam y -3
+\i (01:31:32) roam x -4
+\i (01:31:32) roam x -1
+\i (01:31:32) roam x -1
+\i (01:31:32) roam y -1
+\i (01:31:32) roam x -1
+\i (01:31:32) roam x -2
+\i (01:31:32) roam y -1
+\i (01:31:32) roam end
+\i (01:32:10) roam start
+\i (01:32:10) roam x -1
+\i (01:32:10) roam x -5
+\i (01:32:10) roam y -1
+\i (01:32:10) roam x -5
+\i (01:32:10) roam y -1
+\i (01:32:10) roam x -5
+\i (01:32:10) roam y -5
+\i (01:32:10) roam x -5
+\i (01:32:10) roam y -3
+\i (01:32:10) roam x -2
+\i (01:32:10) roam y -2
+\i (01:32:10) roam x -6
+\i (01:32:10) roam y -5
+\i (01:32:10) roam x -5
+\i (01:32:10) roam y -3
+\i (01:32:10) roam x -2
+\i (01:32:10) roam y -3
+\i (01:32:10) roam x -3
+\i (01:32:10) roam y -3
+\i (01:32:10) roam x -4
+\i (01:32:10) roam y -5
+\i (01:32:10) roam x -3
+\i (01:32:10) roam y -3
+\i (01:32:10) roam x -4
+\i (01:32:10) roam y -6
+\i (01:32:10) roam x -3
+\i (01:32:10) roam y -3
+\i (01:32:10) roam x -6
+\i (01:32:10) roam y -6
+\i (01:32:10) roam x -1
+\i (01:32:10) roam y -4
+\i (01:32:10) roam x -2
+\i (01:32:10) roam y -3
+\i (01:32:10) roam x -3
+\i (01:32:10) roam y -2
+\i (01:32:10) roam x -4
+\i (01:32:10) roam y -5
+\i (01:32:10) roam x -4
+\i (01:32:10) roam y -6
+\i (01:32:10) roam x -4
+\i (01:32:10) roam y -7
+\i (01:32:10) roam x -11
+\i (01:32:10) roam y -9
+\i (01:32:10) roam x -7
+\i (01:32:10) roam y -7
+\i (01:32:10) roam x -8
+\i (01:32:10) roam y -8
+\i (01:32:10) roam x -2
+\i (01:32:10) roam y -1
+\i (01:32:10) roam x -5
+\i (01:32:10) roam y -3
+\i (01:32:10) roam x -1
+\i (01:32:10) roam y -2
+\i (01:32:10) roam x -1
+\i (01:32:10) roam x -3
+\i (01:32:10) roam y 2
+\i (01:32:10) roam x -8
+\i (01:32:10) roam y 11
+\i (01:32:11) roam x -13
+\i (01:32:11) roam y 13
+\i (01:32:11) roam x -13
+\i (01:32:11) roam y 12
+\i (01:32:11) roam x -11
+\i (01:32:11) roam y 18
+\i (01:32:11) roam x -4
+\i (01:32:11) roam y 8
+\i (01:32:11) roam y 6
+\i (01:32:11) roam y 8
+\i (01:32:11) roam x 3
+\i (01:32:11) roam y 4
+\i (01:32:11) roam x 5
+\i (01:32:11) roam y 6
+\i (01:32:11) roam x 7
+\i (01:32:11) roam y 5
+\i (01:32:11) roam x 6
+\i (01:32:11) roam y 2
+\i (01:32:11) roam x 6
+\i (01:32:11) roam y 2
+\i (01:32:11) roam x 3
+\i (01:32:11) roam y 1
+\i (01:32:11) roam x 4
+\i (01:32:11) roam y 3
+\i (01:32:11) roam x 1
+\i (01:32:11) roam x 2
+\i (01:32:11) roam y 2
+\i (01:32:11) roam x 2
+\i (01:32:11) roam y 1
+\i (01:32:11) roam x 4
+\i (01:32:11) roam y 2
+\i (01:32:11) roam x 1
+\i (01:32:11) roam end
+\i (01:32:12) roam start
+\i (01:32:12) roam x -1
+\i (01:32:12) roam y -6
+\i (01:32:12) roam x -1
+\i (01:32:12) roam y -2
+\i (01:32:12) roam y -1
+\i (01:32:12) roam y -3
+\i (01:32:12) roam y -9
+\i (01:32:12) roam x 7
+\i (01:32:12) roam y -12
+\i (01:32:12) roam x 28
+\i (01:32:12) roam y -26
+\i (01:32:12) roam x 18
+\i (01:32:12) roam y -13
+\i (01:32:12) roam x 18
+\i (01:32:12) roam y -12
+\i (01:32:12) roam x 20
+\i (01:32:12) roam y -10
+\i (01:32:12) roam x 11
+\i (01:32:12) roam y -6
+\i (01:32:12) roam x 9
+\i (01:32:12) roam y -6
+\i (01:32:12) roam x 4
+\i (01:32:12) roam y -1
+\i (01:32:12) roam y -1
+\i (01:32:12) roam end
+\i (01:32:14) pick grid -5.8591 5.8513
+\t (01:32:14) last pick:  -5.8591 5.8513
+\i (01:32:14) prepopup -4.2672 5.1021
+\i (01:32:15) prepopup -6.4522 2.6986
+\i (01:32:16) pick grid -6.6395 2.7610
+\t (01:32:16) last pick:  -6.6395 2.7610
+\i (01:32:16) pick grid dbl -6.6395 2.7610
+\t (01:32:16) last pick:  -6.6395 2.7610
+\i (01:32:23) pick grid -6.4834 2.0431
+\t (01:32:23) last pick:  -6.4834 2.0431
+\i (01:32:23) prepopup -6.4522 2.2928
+\i (01:32:24) pick grid dbl -6.4522 2.2928
+\t (01:32:24) last pick:  -6.4522 2.2928
+\i (01:32:25) pick grid -6.4522 2.2928
+\t (01:32:25) last pick:  -6.4522 2.2928
+\i (01:32:25) pick grid dbl -6.4522 2.2928
+\t (01:32:25) last pick:  -6.4522 2.2928
+\i (01:32:27) prepopup -5.9840 2.4801
+\i (01:32:29) pick grid -7.1077 3.7911
+\t (01:32:29) last pick:  -7.1077 3.7911
+\i (01:32:29) pick grid dbl -7.1077 3.7911
+\t (01:32:29) last pick:  -7.1077 3.7911
+\i (01:32:29) pick grid -6.1713 2.4801
+\t (01:32:29) last pick:  -6.1713 2.4801
+\i (01:32:29) pick grid dbl -6.1713 2.4801
+\t (01:32:29) last pick:  -6.1713 2.4801
+\i (01:32:30) pick grid -6.1713 2.4801
+\t (01:32:30) last pick:  -6.1713 2.4801
+\i (01:32:30) zoom in 1 
+\i (01:32:30) setwindow pcb
+\i (01:32:30) zoom in -5.9528 2.4801
+\i (01:32:30) trapsize 780
+\i (01:32:30) zoom in 1 
+\i (01:32:30) setwindow pcb
+\i (01:32:30) zoom in -5.9371 2.4801
+\i (01:32:30) trapsize 390
+\i (01:32:31) prepopup -5.7108 3.0420
+\i (01:32:32) pick grid -5.8278 2.9640
+\t (01:32:32) last pick:  -5.8278 2.9640
+\i (01:32:32) pick grid dbl -5.8278 2.9640
+\t (01:32:32) last pick:  -5.8278 2.9640
+\i (01:32:32) zoom out 1 
+\i (01:32:32) setwindow pcb
+\i (01:32:32) zoom out -5.8356 2.9718
+\i (01:32:32) trapsize 780
+\i (01:32:32) zoom out 1 
+\i (01:32:32) setwindow pcb
+\i (01:32:32) zoom out -5.8201 2.9874
+\i (01:32:32) trapsize 1561
+\i (01:32:33) pick grid -1.9808 2.6441
+\t (01:32:33) last pick:  -1.9808 2.6441
+\i (01:32:33) prepopup -0.6385 -0.1964
+\i (01:32:35) pick grid 20.0569 2.5817
+\t (01:32:35) last pick:  20.0569 2.5817
+\i (01:32:35) pick grid dbl 20.0569 2.5817
+\t (01:32:35) last pick:  20.0569 2.5817
+\i (01:32:35) pick grid 20.0569 2.5817
+\t (01:32:35) last pick:  20.0569 2.5817
+\i (01:32:35) pick grid dbl 20.0569 2.5817
+\t (01:32:35) last pick:  20.0569 2.5817
+\i (01:32:44) QtSignal VisLayerToolbarAllButton All clicked
+\i (01:32:44) updateport ReportsPane
+\i (01:32:44) updateport SearchPane
+\i (01:32:44) updateport VisibilityPane
+\i (01:32:44) updateport PropPane
+\i (01:32:44) updateport CVPane
+\i (01:32:44) updateport VisibilityPane
+\i (01:32:47) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Assembly_Top" +
+\i (01:32:47) QtSignal 1
+\i (01:32:47) updateport ReportsPane
+\i (01:32:47) updateport SearchPane
+\i (01:32:47) updateport VisibilityPane
+\i (01:32:47) updateport PropPane
+\i (01:32:49) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Pastemask_Top" +
+\i (01:32:49) QtSignal 1
+\i (01:32:49) updateport ReportsPane
+\i (01:32:49) updateport SearchPane
+\i (01:32:49) updateport VisibilityPane
+\i (01:32:49) updateport PropPane
+\i (01:32:49) updateport CVPane
+\i (01:32:49) updateport VisibilityPane
+\i (01:32:50) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Silkscreen_Top" +
+\i (01:32:50) QtSignal 1
+\i (01:32:50) updateport ReportsPane
+\i (01:32:50) updateport SearchPane
+\i (01:32:50) updateport VisibilityPane
+\i (01:32:50) updateport PropPane
+\i (01:32:50) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Soldermask_Top" +
+\i (01:32:50) QtSignal 1
+\i (01:32:50) updateport ReportsPane
+\i (01:32:50) updateport SearchPane
+\i (01:32:50) updateport VisibilityPane
+\i (01:32:50) updateport PropPane
+\i (01:32:50) updateport CVPane
+\i (01:32:51) updateport VisibilityPane
+\i (01:32:53) pick grid -6.7566 2.5817
+\t (01:32:53) last pick:  -6.7566 2.5817
+\i (01:32:53) prepopup -6.7566 2.5817
+\i (01:32:54) prepopup -6.7566 2.5817
+\i (01:32:58) pick grid -6.8190 2.9875
+\t (01:32:58) last pick:  -6.8190 2.9875
+\i (01:32:59) prepopup -6.8190 2.9875
+\i (01:33:00) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Place_Bound_Top" +
+\i (01:33:00) QtSignal 1
+\i (01:33:00) updateport ReportsPane
+\i (01:33:00) updateport SearchPane
+\i (01:33:00) updateport VisibilityPane
+\i (01:33:00) updateport PropPane
+\i (01:33:02) prepopup -1.7310 1.7701
+\i (01:33:05) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Place_Bound_Top" +
+\i (01:33:05) QtSignal 0
+\i (01:33:05) updateport ReportsPane
+\i (01:33:05) updateport SearchPane
+\i (01:33:05) updateport VisibilityPane
+\i (01:33:05) updateport PropPane
+\i (01:33:07) pick grid -6.6942 1.6765
+\t (01:33:07) last pick:  -6.6942 1.6765
+\i (01:33:08) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Place_Bound_Top" +
+\i (01:33:08) QtSignal 1
+\i (01:33:08) updateport ReportsPane
+\i (01:33:08) updateport SearchPane
+\i (01:33:08) updateport VisibilityPane
+\i (01:33:08) updateport PropPane
+\i (01:33:09) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Dfa_Bound_Top" +
+\i (01:33:09) QtSignal 1
+\i (01:33:09) updateport ReportsPane
+\i (01:33:09) updateport SearchPane
+\i (01:33:09) updateport VisibilityPane
+\i (01:33:09) updateport PropPane
+\i (01:33:11) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged Top 1
+\i (01:33:11) updateport ReportsPane
+\i (01:33:11) updateport SearchPane
+\i (01:33:11) updateport VisibilityPane
+\i (01:33:11) updateport PropPane
+\i (01:33:11) updateport CVPane
+\i (01:33:11) updateport VisibilityPane
+\i (01:33:12) prepopup -5.9762 2.4256
+\i (01:33:14) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Assembly_Top" +
+\i (01:33:14) QtSignal 0
+\i (01:33:14) updateport ReportsPane
+\i (01:33:14) updateport SearchPane
+\i (01:33:14) updateport VisibilityPane
+\i (01:33:14) updateport PropPane
+\i (01:33:14) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Pastemask_Top" +
+\i (01:33:14) QtSignal 0
+\i (01:33:14) updateport ReportsPane
+\i (01:33:14) updateport SearchPane
+\i (01:33:14) updateport VisibilityPane
+\i (01:33:15) updateport PropPane
+\i (01:33:15) updateport CVPane
+\i (01:33:15) updateport VisibilityPane
+\i (01:33:15) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Silkscreen_Top" +
+\i (01:33:15) QtSignal 0
+\i (01:33:15) updateport ReportsPane
+\i (01:33:15) updateport SearchPane
+\i (01:33:15) updateport VisibilityPane
+\i (01:33:15) updateport PropPane
+\i (01:33:16) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Soldermask_Top" +
+\i (01:33:16) QtSignal 0
+\i (01:33:16) updateport ReportsPane
+\i (01:33:16) updateport SearchPane
+\i (01:33:16) updateport VisibilityPane
+\i (01:33:16) updateport PropPane
+\i (01:33:16) updateport CVPane
+\i (01:33:16) updateport VisibilityPane
+\i (01:33:16) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Place_Bound_Top" +
+\i (01:33:16) QtSignal 0
+\i (01:33:16) updateport ReportsPane
+\i (01:33:16) updateport SearchPane
+\i (01:33:16) updateport VisibilityPane
+\i (01:33:16) updateport PropPane
+\i (01:33:17) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Dfa_Bound_Top" +
+\i (01:33:17) QtSignal 0
+\i (01:33:17) updateport ReportsPane
+\i (01:33:17) updateport SearchPane
+\i (01:33:17) updateport VisibilityPane
+\i (01:33:17) updateport PropPane
+\i (01:33:18) prepopup -5.7577 1.3643
+\i (01:33:19) prepopup -6.2884 2.6441
+\i (01:33:25) QtSignal PropertyStatusWidget  clicked
+\i (01:33:28) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged Bottom 1
+\i (01:33:28) updateport ReportsPane
+\i (01:33:28) updateport SearchPane
+\i (01:33:28) updateport VisibilityPane
+\i (01:33:28) updateport PropPane
+\i (01:33:28) updateport CVPane
+\i (01:33:28) updateport VisibilityPane
+\i (01:33:29) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged Top 0
+\i (01:33:29) updateport ReportsPane
+\i (01:33:29) updateport SearchPane
+\i (01:33:29) updateport VisibilityPane
+\i (01:33:29) updateport PropPane
+\i (01:33:29) updateport CVPane
+\i (01:33:29) updateport VisibilityPane
+\i (01:33:31) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Dfa_Bound_Bottom" +
+\i (01:33:31) QtSignal 1
+\i (01:33:31) updateport ReportsPane
+\i (01:33:31) updateport SearchPane
+\i (01:33:31) updateport VisibilityPane
+\i (01:33:31) updateport PropPane
+\i (01:33:32) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Dfa_Bound_Bottom" +
+\i (01:33:32) QtSignal 0
+\i (01:33:32) updateport ReportsPane
+\i (01:33:32) updateport SearchPane
+\i (01:33:32) updateport VisibilityPane
+\i (01:33:32) updateport PropPane
+\i (01:33:34) prepopup 5.6357 -2.2566
+\i (01:33:38) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Dfa_Bound_Bottom" +
+\i (01:33:38) QtSignal 1
+\i (01:33:38) updateport ReportsPane
+\i (01:33:38) updateport SearchPane
+\i (01:33:38) updateport VisibilityPane
+\i (01:33:38) updateport PropPane
+\i (01:33:39) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Place_Bound_Bottom" +
+\i (01:33:39) QtSignal 1
+\i (01:33:39) updateport ReportsPane
+\i (01:33:39) updateport SearchPane
+\i (01:33:39) updateport VisibilityPane
+\i (01:33:39) updateport PropPane
+\i (01:33:39) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Place_Bound_Bottom" +
+\i (01:33:39) QtSignal 0
+\i (01:33:39) updateport ReportsPane
+\i (01:33:39) updateport SearchPane
+\i (01:33:39) updateport VisibilityPane
+\i (01:33:39) updateport PropPane
+\i (01:33:40) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Soldermask_Bottom" +
+\i (01:33:40) QtSignal 1
+\i (01:33:40) updateport ReportsPane
+\i (01:33:40) updateport SearchPane
+\i (01:33:40) updateport VisibilityPane
+\i (01:33:40) updateport PropPane
+\i (01:33:40) updateport CVPane
+\i (01:33:40) updateport VisibilityPane
+\i (01:33:41) prepopup 6.7282 -3.2243
+\i (01:33:42) prepopup 6.4472 -2.9745
+\i (01:33:43) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Silkscreen_Bottom" +
+\i (01:33:43) QtSignal 1
+\i (01:33:43) updateport ReportsPane
+\i (01:33:43) updateport SearchPane
+\i (01:33:43) updateport VisibilityPane
+\i (01:33:43) updateport PropPane
+\i (01:33:44) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Pastemask_Bottom" +
+\i (01:33:44) QtSignal 1
+\i (01:33:44) updateport ReportsPane
+\i (01:33:44) updateport SearchPane
+\i (01:33:44) updateport VisibilityPane
+\i (01:33:44) updateport PropPane
+\i (01:33:44) updateport CVPane
+\i (01:33:44) updateport VisibilityPane
+\i (01:33:45) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Assembly_Bottom" +
+\i (01:33:45) QtSignal 1
+\i (01:33:45) updateport ReportsPane
+\i (01:33:45) updateport SearchPane
+\i (01:33:45) updateport VisibilityPane
+\i (01:33:45) updateport PropPane
+\i (01:33:45) prepopup 6.6657 -2.4751
+\i (01:33:50) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Place_Bound_Bottom" +
+\i (01:33:50) QtSignal 1
+\i (01:33:50) updateport ReportsPane
+\i (01:33:50) updateport SearchPane
+\i (01:33:50) updateport VisibilityPane
+\i (01:33:50) updateport PropPane
+\i (01:33:50) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Place_Bound_Bottom" +
+\i 

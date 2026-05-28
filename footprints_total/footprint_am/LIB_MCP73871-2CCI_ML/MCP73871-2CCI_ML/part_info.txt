@@ -1,0 +1,9 @@
+Manufacturer=Microchip
+PartNumber=MCP73871-2CCI/ML
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=21
+Version=4.1
+Released=2015-04-16 09:48:08
+Downloaded=2026-05-21 16:04:02
+3D=Y

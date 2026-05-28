@@ -1,0 +1,11 @@
+\t (00:00:01) padstack_editor 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Wed May 27 09:11:48 2026
+\t (00:00:01)         Host=LAPTOP-DI-ANDRE User=andre Pid=308 CPUs=8
+\t (00:00:01) CmdLine= padstack_editor -mpssession andre -file C:/Users/andre/AppData/Local/Temp/#Taaaabw07296.tmp -pname V10200200080200A -data C:/Users/andre/AppData/Local/Temp/#Taaaaca07296.tmp -unison
+\t (00:00:01) 
+\d (00:00:06) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:21) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:22) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 2 "Layer Name"
+\d (00:00:22) QtSignal GuidedDesignLayersTab LayersTable cellClicked 2 "Layer Name" 2 1
+\d (00:06:36) QtSignal MainWindow Exit triggered
+\t (00:06:36)     Journal end - Wed May 27 09:18:23 2026

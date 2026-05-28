@@ -1,0 +1,300 @@
+\t (00:33:53) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (00:33:53)     Journal start - Fri May 22 18:45:18 2026
+\t (00:33:53)         Host=LAPTOP-DI-ANDRE User=andre Pid=5856 CPUs=8
+\t (00:33:53) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\unison.exe -layout -orcadx
+\t (00:33:53) 
+\d (00:33:53) Design opened: C:/Users/andre/Downloads/GRM155R70J104KA01D/AllegroPCBFootprint/G-155_MUR-M.dra
+\i (00:33:53) updateport VisibilityPane
+\i (00:33:53) updateport PropPane
+\i (00:33:53) ucpedit 
+\i (00:33:53) updateport VisibilityPane
+\i (00:33:53) zoom out 1 
+\i (00:33:53) setwindow pcb
+\i (00:33:53) zoom out 67.886 17.152
+\i (00:33:53) trapsize 1623
+\i (00:33:56) pick grid -26.601 5.463
+\t (00:33:56) last pick:  -26.601 5.463
+\i (00:33:56) updateport ReportsPane
+\i (00:33:56) updateport SearchPane
+\i (00:33:56) updateport PropPane
+\i (00:33:58) pick grid -20.756 3.515
+\t (00:33:58) last pick:  -20.756 3.515
+\i (00:33:58) updateport ReportsPane
+\i (00:33:58) updateport SearchPane
+\i (00:33:58) updateport PropPane
+\i (00:33:59) prepopup -20.756 3.515
+\i (00:34:02) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (RX32Y22D0T) (2)' 
+\i (00:34:02) mod padstack 
+\i (00:41:31) ucpedit 
+\i (00:41:31) updateport ReportsPane
+\i (00:41:31) updateport SearchPane
+\i (00:41:31) updateport VisibilityPane
+\i (00:41:31) updateport PropPane
+\i (00:41:39) QtSignal PropertyPadstackWidget holeType editingFinished None
+\i (00:41:39) QtSignal PropertySelectionFilterWidget ObjectAll clicked on
+\i (00:41:46) ucp_user_pref 
+\i (00:41:48) QtSignal ProjectPreferenceDlg AllegroXPreferenceOptionTree selectionChanged System +
+\i (00:41:48) QtSignal Measurement
+\i (00:41:48) QtSignal ProjectPreferenceDlg AllegroXPreferenceOptionTree selectionChanged System +
+\i (00:41:48) QtSignal Measurement
+\i (00:41:48) QtSignal ProjectPreferenceDlg AllegroXPreferenceOptionTree selectionChanged System +
+\i (00:41:48) QtSignal Measurement
+\i (00:41:48) QtSignal ProjectPreferenceDlg AllegroXPreferenceOptionTree selectionChanged System +
+\i (00:41:48) QtSignal Measurement
+\i (00:41:49) QtSignal ProjectPreferenceDlg AllegroXPreferenceOptionTree selectionChanged System +
+\i (00:41:49) QtSignal Measurement
+\i (00:41:50) QtSignal TitleBlockGroupBox TitleBlockLineEdit editingFinished "$INSTDIR/tools/capture/library/capsym.olb"
+\i (00:41:51) QtSignal ProjectPreferenceDlg DialogOKButton clicked
+\i (00:41:51) ucpedit 
+\i (00:41:51) updateport ReportsPane
+\i (00:41:51) updateport SearchPane
+\i (00:41:51) updateport VisibilityPane
+\i (00:41:51) updateport PropPane
+\i (00:41:52) prepopup -20.107 -3.303
+\i (00:41:54) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (RX32Y22D0T) (2)' 
+\i (00:41:55) mod padstack 
+\i (00:43:33) ucpedit 
+\i (00:43:33) updateport ReportsPane
+\i (00:43:33) updateport SearchPane
+\i (00:43:33) updateport VisibilityPane
+\i (00:43:33) updateport PropPane
+\i (00:43:34) prepopup -20.432 -1.680
+\i (00:43:36) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (RX32Y22D0T) (2)' 
+\i (00:43:36) mod padstack 
+\i (00:45:05) ucpedit 
+\i (00:45:05) updateport ReportsPane
+\i (00:45:05) updateport SearchPane
+\i (00:45:05) updateport VisibilityPane
+\i (00:45:05) updateport PropPane
+\i (00:45:05) prepopup -24.978 1.567
+\i (00:45:07) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (RX32Y22D0T) (2)' 
+\i (00:45:07) mod padstack 
+\w (00:51:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:51:59) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:52:00) updateport ReportsPane
+\i (00:52:00) updateport SearchPane
+\i (00:52:00) updateport PropPane
+\i (00:52:00) ucpedit 
+\i (00:52:00) updateport ReportsPane
+\i (00:52:00) updateport SearchPane
+\i (00:52:00) updateport VisibilityPane
+\i (00:52:00) updateport PropPane
+\i (00:52:01) pick grid 154.579 12.931
+\t (00:52:01) last pick:  154.579 12.931
+\i (00:52:03) zoom in 1 
+\i (00:52:03) setwindow pcb
+\i (00:52:03) zoom in 76.977 41.829
+\i (00:52:03) trapsize 812
+\i (00:52:10) updateport VisibilityPane
+\i (00:52:11) QtSignal DisplayGeneral DisplayGeneralMode CurrentIndexChanged 1
+\i (00:52:12) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
+\i (00:52:12) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (00:52:12) ucpedit 
+\i (00:52:12) updateport VisibilityPane
+\i (00:52:24) QtSignal Algro3DViewCameraWidget Algro3DViewTopAction triggered
+\i (00:52:28) QtSignal Algro3DViewCameraWidget Algro3DViewTopIsoAction triggered
+\i (00:52:35) QtSignal DisplayGeneral DisplayGeneralMode CurrentIndexChanged 0
+\i (00:52:35) ucpedit 
+\i (00:52:35) updateport VisibilityPane
+\i (00:52:37) pick grid -26.600 -2.004
+\t (00:52:37) last pick:  -26.600 -2.004
+\i (00:52:37) updateport ReportsPane
+\i (00:52:37) updateport SearchPane
+\i (00:52:37) updateport PropPane
+\i (00:52:40) pick grid 26.325 0.106
+\t (00:52:40) last pick:  26.325 0.106
+\i (00:52:40) updateport ReportsPane
+\i (00:52:40) updateport SearchPane
+\i (00:52:40) updateport PropPane
+\i (00:52:49) ucp_user_pref 
+\i (00:52:51) QtSignal ProjectPreferenceDlg AllegroXPreferenceOptionTree selectionChanged System +
+\i (00:52:51) QtSignal Measurement
+\i (00:52:51) QtSignal ProjectPreferenceDlg AllegroXPreferenceOptionTree selectionChanged System +
+\i (00:52:51) QtSignal Measurement
+\i (00:52:53) QtSignal TitleBlockGroupBox TitleBlockLineEdit editingFinished "$INSTDIR/tools/capture/library/capsym.olb"
+\i (00:52:53) QtSignal ProjectPreferenceDlg DialogOKButton clicked
+\i (00:52:53) ucpedit 
+\i (00:52:53) updateport ReportsPane
+\i (00:52:53) updateport SearchPane
+\i (00:52:53) updateport VisibilityPane
+\i (00:52:53) updateport PropPane
+\i (00:53:29) prepopup -29.198 3.840
+\i (00:53:29) updateport ReportsPane
+\i (00:53:29) updateport SearchPane
+\i (00:53:29) updateport PropPane
+\i (00:53:32) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (RX32Y22D0T) (2)' 
+\i (00:53:32) mod padstack 
+\i (00:54:31) ucpedit 
+\i (00:54:31) updateport ReportsPane
+\i (00:54:31) updateport SearchPane
+\i (00:54:31) updateport VisibilityPane
+\i (00:54:31) updateport PropPane
+\i (00:54:32) pick grid -26.600 -1.355
+\t (00:54:32) last pick:  -26.600 -1.355
+\i (00:54:32) updateport ReportsPane
+\i (00:54:32) updateport SearchPane
+\i (00:54:32) updateport PropPane
+\i (00:54:35) pick grid 28.273 -0.705
+\t (00:54:35) last pick:  28.273 -0.705
+\i (00:54:35) updateport ReportsPane
+\i (00:54:35) updateport SearchPane
+\i (00:54:35) updateport PropPane
+\i (00:54:38) pick grid -23.516 -2.491
+\t (00:54:38) last pick:  -23.516 -2.491
+\i (00:54:38) updateport ReportsPane
+\i (00:54:38) updateport SearchPane
+\i (00:54:38) updateport PropPane
+\i (00:55:15) QtSignal PropertySelectionFilterWidget Groups clicked on
+\i (00:55:16) QtSignal PropertySelectionFilterWidget ObjectAll clicked on
+\i (00:55:17) pick grid 145.326 50.434
+\t (00:55:17) last pick:  145.326 50.434
+\i (00:55:19) QtSignal PropertyParameterWidget ParameterUnitOptions CurrentIndexChanged 0
+\w (00:55:19) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:55:20) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:55:20) trapsize 206
+\t (00:55:20) Performing DRC...
+\t (00:55:20) No DRC errors detected.
+\i (00:55:20) updateport ReportsPane
+\i (00:55:20) updateport SearchPane
+\i (00:55:20) updateport PropPane
+\i (00:55:20) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
+\i (00:55:20) ucpedit 
+\i (00:55:20) updateport VisibilityPane
+\i (00:55:24) pick grid 0.6110 0.0068
+\t (00:55:24) last pick:  0.6110 0.0068
+\i (00:55:24) updateport ReportsPane
+\i (00:55:24) updateport SearchPane
+\i (00:55:24) updateport PropPane
+\i (00:55:33) pick grid -0.6344 0.0811
+\t (00:55:33) last pick:  -0.6344 0.0811
+\i (00:55:33) updateport ReportsPane
+\i (00:55:33) updateport SearchPane
+\i (00:55:33) updateport PropPane
+\i (00:55:57) QtSignal PropertyLocationWidget PropertyLocationXInput editingFinished 0
+\i (00:55:57) updateport ReportsPane
+\i (00:55:57) updateport SearchPane
+\i (00:55:57) updateport PropPane
+\i (00:56:04) QtSignal PropertyLocationWidget PropertyLocationXInput editingFinished "-0.375"
+\i (00:56:04) updateport ReportsPane
+\i (00:56:04) updateport SearchPane
+\i (00:56:04) updateport PropPane
+\i (00:56:06) pick grid 0.5738 -0.1251
+\t (00:56:06) last pick:  0.5738 -0.1251
+\i (00:56:06) updateport ReportsPane
+\i (00:56:06) updateport SearchPane
+\i (00:56:06) updateport PropPane
+\i (00:56:09) QtSignal PropertyLocationWidget PropertyLocationXInput editingFinished 0
+\i (00:56:09) updateport ReportsPane
+\i (00:56:09) updateport SearchPane
+\i (00:56:09) updateport VisibilityPane
+\i (00:56:09) updateport PropPane
+\i (00:56:15) QtSignal PropertyLocationWidget PropertyLocationXInput editingFinished "0.0.375"
+\e (00:56:15) ERROR(SPMHDB-80): Internal error, illegal arguments passed to a dba routine.
+\i (00:56:15) updateport ReportsPane
+\i (00:56:15) updateport SearchPane
+\i (00:56:15) updateport PropPane
+\i (00:56:21) QtSignal PropertyLocationWidget PropertyLocationXInput editingFinished "0.3750"
+\i (00:56:21) updateport ReportsPane
+\i (00:56:21) updateport SearchPane
+\i (00:56:22) updateport PropPane
+\i (00:56:23) pick grid 3.1140 0.5388
+\t (00:56:23) last pick:  3.1140 0.5388
+\i (00:56:24) zoom in 1 
+\i (00:56:24) setwindow pcb
+\i (00:56:24) zoom in 3.1882 0.3903
+\i (00:56:24) trapsize 103
+\i (00:56:24) zoom in 1 
+\i (00:56:24) setwindow pcb
+\i (00:56:24) zoom in 3.1820 0.3429
+\i (00:56:24) trapsize 52
+\i (00:56:25) zoom out 1 
+\i (00:56:25) setwindow pcb
+\i (00:56:25) zoom out 3.1820 0.3429
+\i (00:56:25) trapsize 103
+\i (00:56:25) zoom out 1 
+\i (00:56:25) setwindow pcb
+\i (00:56:25) zoom out 3.1821 0.3429
+\i (00:56:25) trapsize 206
+\i (00:56:25) zoom out 1 
+\i (00:56:25) setwindow pcb
+\i (00:56:25) zoom out 3.1491 0.3553
+\i (00:56:25) trapsize 412
+\i (00:56:25) save 
+\i (00:56:26) fillin yes 
+\t (00:56:28) Symbol 'g-155_mur-m.psm' created.
+\i (00:56:28) updateport ReportsPane
+\i (00:56:28) updateport SearchPane
+\i (00:56:28) updateport PropPane
+\i (00:56:28) ucpedit 
+\i (00:56:28) updateport VisibilityPane
+\i (00:56:30) QtSignal DisplayGeneral DisplayGeneralMode CurrentIndexChanged 1
+\i (00:56:30) ucpedit 
+\i (00:56:30) updateport VisibilityPane
+\i (00:56:37) QtSignal Algro3DViewCameraWidget Algro3DViewTopIsoAction triggered
+\i (00:56:39) QtSignal Algro3DViewCameraWidget Algro3DViewTopAction triggered
+\i (00:56:44) QtSignal Algro3DViewCameraWidget Algro3DViewBackAction triggered
+\i (00:56:46) QtSignal Algro3DViewCameraWidget Algro3DViewFrontAction triggered
+\i (00:56:48) QtSignal Algro3DViewCameraWidget Algro3DViewBackAction triggered
+\i (00:56:50) QtSignal Algro3DViewCameraWidget Algro3DViewTopIsoAction triggered
+\i (00:59:00) QtSignal DisplayGeneral DisplayGeneralMode CurrentIndexChanged 0
+\i (00:59:00) ucpedit 
+\i (00:59:00) updateport VisibilityPane
+\i (00:59:01) prepopup -0.3808 -0.1396
+\i (00:59:01) updateport ReportsPane
+\i (00:59:01) updateport SearchPane
+\i (00:59:01) updateport PropPane
+\i (00:59:04) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (RX32Y22D0T) (2)' 
+\i (00:59:04) mod padstack 
+\i (01:03:57) ucpedit 
+\i (01:03:57) updateport ReportsPane
+\i (01:03:57) updateport SearchPane
+\i (01:03:57) updateport VisibilityPane
+\i (01:03:57) updateport PropPane
+\i (01:04:01) save 
+\i (01:04:02) fillin yes 
+\t (01:04:03) Symbol 'g-155_mur-m.psm' created.
+\i (01:04:03) updateport ReportsPane
+\i (01:04:03) updateport SearchPane
+\i (01:04:03) updateport PropPane
+\i (01:04:03) ucpedit 
+\i (01:04:03) updateport ReportsPane
+\i (01:04:03) updateport SearchPane
+\i (01:04:03) updateport VisibilityPane
+\i (01:04:03) updateport PropPane
+\i (01:04:37) prepopup -0.5622 0.0501
+\i (01:04:40) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (RX32Y22D0T) (2)' 
+\i (01:04:40) mod padstack 
+\i (01:05:11) updateport ReportsPane
+\i (01:05:11) updateport SearchPane
+\i (01:05:11) updateport PropPane
+\i (01:05:11) ucpedit 
+\i (01:05:11) updateport ReportsPane
+\i (01:05:11) updateport SearchPane
+\i (01:05:11) updateport VisibilityPane
+\i (01:05:11) updateport PropPane
+\i (01:05:13) prepopup -0.1746 0.0583
+\i (01:05:16) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (RX32Y22D0T) (2)' 
+\i (01:05:16) mod padstack 
+\i (01:05:23) ucpedit 
+\i (01:05:24) updateport ReportsPane
+\i (01:05:24) updateport SearchPane
+\i (01:05:24) updateport VisibilityPane
+\i (01:05:24) updateport PropPane
+\i (01:05:26) save_as 
+\i (01:05:30) fillin "G-155_MUR-M.dra"
+\t (01:05:31) Symbol 'g-155_mur-m.psm' created.
+\i (01:05:31) updateport ReportsPane
+\i (01:05:31) updateport SearchPane
+\i (01:05:31) updateport PropPane
+\i (01:05:31) ucpedit 
+\i (01:05:31) updateport ReportsPane
+\i (01:05:31) updateport SearchPane
+\i (01:05:31) updateport VisibilityPane
+\i (01:05:31) updateport PropPane
+\i (03:23:17) opencd_reload C:/Users/andre/Desktop/ul_CC2640F128RHBR/AllegroPCBFootprint/RHB0032E.dra 
+\t (03:23:17) Opening existing design...
+\i (03:23:18) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (03:23:18) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\w (03:23:18) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (03:23:19) trapsize 316
+\t (03:23:20)     Journal end - Fri May 22 21:34:45 2026

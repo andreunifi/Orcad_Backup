@@ -1,0 +1,140 @@
+\t (04:41:20) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (04:41:20)     Journal start - Thu May 21 17:07:54 2026
+\t (04:41:20)         Host=LAPTOP-DI-ANDRE User=andre Pid=18636 CPUs=8
+\t (04:41:20) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\unison.exe -layout -orcadx
+\t (04:41:20) 
+\d (04:41:20) Design opened: C:/Users/andre/Downloads/LIB_MCP73871-2CCI_ML/MCP73871-2CCI_ML/Allegro/QFN50P400X400X100-21N-D.dra
+\w (04:41:20) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (04:41:21) updateport VisibilityPane
+\i (04:41:21) updateport PropPane
+\i (04:41:21) ucpedit 
+\i (04:41:21) updateport VisibilityPane
+\i (04:41:23) zoom in 1 
+\i (04:41:23) setwindow pcb
+\i (04:41:23) zoom in 4.3966 -7.8565
+\i (04:41:23) trapsize 12253
+\i (04:41:23) zoom in 1 
+\i (04:41:23) setwindow pcb
+\i (04:41:23) zoom in 4.3966 -7.8565
+\i (04:41:23) trapsize 6127
+\i (04:41:23) zoom in 1 
+\i (04:41:23) setwindow pcb
+\i (04:41:23) zoom in 4.3966 -7.8564
+\i (04:41:23) trapsize 3063
+\i (04:41:23) zoom in 1 
+\i (04:41:23) setwindow pcb
+\i (04:41:23) zoom in 4.2129 -7.9789
+\i (04:41:23) trapsize 1532
+\i (04:41:25) roam start
+\i (04:41:25) roam x -10
+\i (04:41:25) roam y -2
+\i (04:41:25) roam x -28
+\i (04:41:25) roam y -6
+\i (04:41:25) roam x -36
+\i (04:41:25) roam y -3
+\i (04:41:26) roam x -38
+\i (04:41:26) roam x -28
+\i (04:41:26) roam x -27
+\i (04:41:26) roam x -17
+\i (04:41:26) roam x -55
+\i (04:41:26) roam y 1
+\i (04:41:26) roam x -35
+\i (04:41:26) roam y 13
+\i (04:41:26) roam x -14
+\i (04:41:26) roam y 9
+\i (04:41:26) roam x -8
+\i (04:41:26) roam y 3
+\i (04:41:26) roam x -40
+\i (04:41:26) roam y 18
+\i (04:41:26) roam x -15
+\i (04:41:26) roam y 3
+\i (04:41:26) roam x -52
+\i (04:41:26) roam y 11
+\i (04:41:26) roam x -16
+\i (04:41:26) roam y 2
+\i (04:41:26) roam x -1
+\i (04:41:26) roam x -3
+\i (04:41:26) roam y 2
+\i (04:41:26) roam end
+\i (04:41:26) zoom in 1 
+\i (04:41:26) setwindow pcb
+\i (04:41:26) zoom in 3.2938 4.8560
+\i (04:41:26) trapsize 766
+\i (04:41:28) zoom in 1 
+\i (04:41:28) setwindow pcb
+\i (04:41:28) zoom in 4.6569 4.7029
+\i (04:41:28) trapsize 383
+\i (04:41:28) roam start
+\i (04:41:28) roam x -56
+\i (04:41:28) roam y 7
+\i (04:41:28) roam x -144
+\i (04:41:28) roam y 34
+\i (04:41:28) roam x -22
+\i (04:41:28) roam y 7
+\i (04:41:28) roam x -16
+\i (04:41:28) roam y 7
+\i (04:41:28) roam x -1
+\i (04:41:28) roam x -1
+\i (04:41:28) roam y 1
+\i (04:41:28) roam x -4
+\i (04:41:28) roam x -16
+\i (04:41:28) roam y 2
+\i (04:41:28) roam x -19
+\i (04:41:28) roam y 6
+\i (04:41:28) roam x -75
+\i (04:41:28) roam y 27
+\i (04:41:28) roam x -19
+\i (04:41:29) roam y 7
+\i (04:41:29) roam x -28
+\i (04:41:29) roam y 18
+\i (04:41:29) roam x -17
+\i (04:41:29) roam y 15
+\i (04:41:29) roam x -14
+\i (04:41:29) roam y 14
+\i (04:41:29) roam x -12
+\i (04:41:29) roam y 10
+\i (04:41:29) roam x -11
+\i (04:41:29) roam y 10
+\i (04:41:29) roam x -10
+\i (04:41:29) roam y 14
+\i (04:41:29) roam x -10
+\i (04:41:29) roam y 12
+\i (04:41:29) roam x -6
+\i (04:41:29) roam y 7
+\i (04:41:29) roam x -4
+\i (04:41:29) roam y 4
+\i (04:41:29) roam end
+\i (04:41:35) opencd_reload C:/Users/andre/Downloads/LIB_MCP73871-2CCI_ML/MCP73871-2CCI_ML/Allegro/d80_30.dra 
+\t (04:41:35) Opening existing design...
+\e (04:41:35) ERROR(SPMHUT-186): File selected is not valid for Footprint Editor. Only package and mechanical footprints are allowed.
+\e (04:41:35) ERROR(SPMHUT-186): File selected is not valid for Footprint Editor. Only package and mechanical footprints are allowed.
+\i (04:41:37) fillin confirm
+\t (04:41:37) Starting new design...
+\i (04:41:38) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (04:41:38) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\w (04:41:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (04:41:39) trapsize 965
+\i (04:41:42) fillin "menu_cancel"
+\e (04:41:43) There is error while opening the design "C:/Users/andre/Downloads/LIB_MCP73871-2CCI_ML/MCP73871-2CCI_ML/Allegro/d80_30.dra"
+
+\i (04:41:43) ucpedit 
+\i (04:41:43) updateport VisibilityPane
+\i (04:41:48) opencd_reload C:/Users/andre/Downloads/LIB_MCP73871-2CCI_ML/MCP73871-2CCI_ML/Allegro/QFN50P400X400X100-21N-D.dra 
+\t (04:41:48) Opening existing design...
+\i (04:41:49) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (04:41:49) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\w (04:41:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (04:41:50) trapsize 24534
+\d (04:41:51) Design opened: C:/Users/andre/Downloads/LIB_MCP73871-2CCI_ML/MCP73871-2CCI_ML/Allegro/QFN50P400X400X100-21N-D.dra
+\w (04:41:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (04:41:52) updateport VisibilityPane
+\i (04:41:52) updateport PropPane
+\i (04:41:52) ucpedit 
+\i (04:41:53) updateport VisibilityPane
+\i (04:59:21) opencd_reload C:/Users/andre/Desktop/ul_CC2640F128RHBR/AllegroPCBFootprint/RHB0032E.dra 
+\t (04:59:21) Opening existing design...
+\i (04:59:22) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (04:59:22) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\w (04:59:23) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (04:59:24) trapsize 632
+\t (04:59:25)     Journal end - Thu May 21 17:25:59 2026

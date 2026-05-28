@@ -1,0 +1,33 @@
+<HTML><HEAD><STYLE TYPE="text/css">.errorMessage { color:darkred; font-weight:bold; font-style:italic; text-decoration:underline; }</STYLE></HEAD><BODY><PRE>
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : LAUNCHXL-CC2640R2.brd                         )
+(    Software Version : 16.6S019                                      )
+(    Date/Time        : Mon Aug 22 10:26:30 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+<b><i><font color="darkred">WARNING(SPMHDB-288)</i></b></font>: This database is locked for writing.
+This database has been marked as a .SAV.
+An attempt will be made to correct the problems.
+
+ERROR IN LINE <a href="xprobe:xy:347.545 282.616">(347.545 282.616)</a> - <a href="xprobe:xy:347.545 282.615">(347.545 282.615)</a>
+  class = ETCH
+  subclass = BOTTOM 
+  <b><i><font color="darkred">ERROR(SPMHA1-415)</i></b></font>: Line segments cannot overlap.
+   Error was fixed.
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    28361
+  DRC elapsed time:      00:00:23
+
+Problems were corrected, database is no longer a .SAV!
+0 warnings, 1 errors detected, 1 errors  fixed.
+
+Problems were corrected, database is no longer a .SAV!
+</PRE>
+</BODY></HTML>

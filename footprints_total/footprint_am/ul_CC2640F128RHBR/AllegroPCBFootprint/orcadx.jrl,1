@@ -1,0 +1,151 @@
+\t (13:39:28) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (13:39:28)     Journal start - Wed May 27 09:06:32 2026
+\t (13:39:28)         Host=LAPTOP-DI-ANDRE User=andre Pid=7296 CPUs=8
+\t (13:39:28) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\unison.exe -layout -orcadx
+\t (13:39:28) 
+\d (13:39:28) Design opened: C:/Users/andre/Downloads/ul_CC2640F128RHBR/AllegroPCBFootprint/RHB0032E.dra
+\w (13:39:28) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (13:39:28) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
+\i (13:39:28) updateport VisibilityPane
+\i (13:39:28) updateport PropPane
+\i (13:39:28) ucpedit 
+\i (13:39:28) updateport VisibilityPane
+\i (13:39:28) zoom out 1 
+\i (13:39:28) setwindow pcb
+\i (13:39:28) zoom out 0.3945 -0.4072
+\i (13:39:28) trapsize 631
+\i (13:39:29) zoom in 1 
+\i (13:39:29) setwindow pcb
+\i (13:39:29) zoom in -2.6981 1.7893
+\i (13:39:29) trapsize 316
+\i (13:39:29) zoom in 1 
+\i (13:39:29) setwindow pcb
+\i (13:39:29) zoom in -2.7107 1.7830
+\i (13:39:29) trapsize 158
+\i (13:39:30) pick grid -2.4393 1.7105
+\t (13:39:30) last pick:  -2.4393 1.7105
+\i (13:39:30) updateport ReportsPane
+\i (13:39:30) updateport SearchPane
+\i (13:39:30) updateport PropPane
+\i (13:39:30) prepopup -2.4393 1.7105
+\i (13:39:34) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (O10090240000200A) (32)' 
+\i (13:39:34) mod padstack 
+\i (13:43:37) ucpedit 
+\i (13:43:38) updateport ReportsPane
+\i (13:43:38) updateport SearchPane
+\i (13:43:38) updateport VisibilityPane
+\i (13:43:38) updateport PropPane
+\i (13:43:39) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged Top 1
+\i (13:43:39) updateport ReportsPane
+\i (13:43:39) updateport SearchPane
+\i (13:43:39) updateport VisibilityPane
+\i (13:43:39) updateport PropPane
+\i (13:43:39) updateport CVPane
+\i (13:43:39) updateport VisibilityPane
+\i (13:43:39) zoom out 1 
+\i (13:43:39) setwindow pcb
+\i (13:43:39) zoom out -1.2749 0.9278
+\i (13:43:39) trapsize 316
+\i (13:43:39) zoom out 1 
+\i (13:43:39) setwindow pcb
+\i (13:43:39) zoom out -1.2748 0.9216
+\i (13:43:39) trapsize 631
+\i (13:43:40) zoom in 1 
+\i (13:43:40) setwindow pcb
+\i (13:43:40) zoom in -0.7321 -0.5680
+\i (13:43:40) trapsize 316
+\i (13:43:40) zoom in 1 
+\i (13:43:40) setwindow pcb
+\i (13:43:40) zoom in -0.7636 -0.5112
+\i (13:43:40) trapsize 158
+\i (13:43:41) pick grid -1.4957 0.0505
+\t (13:43:41) last pick:  -1.4957 0.0505
+\i (13:43:41) updateport ReportsPane
+\i (13:43:41) updateport SearchPane
+\i (13:43:41) updateport PropPane
+\i (13:43:42) pick grid -1.4831 0.0726
+\t (13:43:42) last pick:  -1.4831 0.0726
+\i (13:43:42) updateport ReportsPane
+\i (13:43:42) updateport SearchPane
+\i (13:43:42) updateport PropPane
+\i (13:43:43) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Dfa_Bound_Top" +
+\i (13:43:43) QtSignal 1
+\i (13:43:43) updateport ReportsPane
+\i (13:43:43) updateport SearchPane
+\i (13:43:43) updateport VisibilityPane
+\i (13:43:43) updateport PropPane
+\i (13:43:44) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged Top 0
+\i (13:43:44) updateport ReportsPane
+\i (13:43:44) updateport SearchPane
+\i (13:43:44) updateport VisibilityPane
+\i (13:43:44) updateport PropPane
+\i (13:43:44) updateport CVPane
+\i (13:43:44) updateport VisibilityPane
+\i (13:43:45) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged Top 1
+\i (13:43:45) updateport ReportsPane
+\i (13:43:45) updateport SearchPane
+\i (13:43:45) updateport VisibilityPane
+\i (13:43:45) updateport PropPane
+\i (13:43:45) updateport CVPane
+\i (13:43:45) updateport VisibilityPane
+\i (13:43:45) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Dfa_Bound_Top" +
+\i (13:43:45) QtSignal 0
+\i (13:43:45) updateport ReportsPane
+\i (13:43:45) updateport SearchPane
+\i (13:43:46) updateport VisibilityPane
+\i (13:43:46) updateport PropPane
+\i (13:43:47) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged Bottom 1
+\i (13:43:47) updateport ReportsPane
+\i (13:43:47) updateport SearchPane
+\i (13:43:47) updateport VisibilityPane
+\i (13:43:47) updateport PropPane
+\i (13:43:47) updateport CVPane
+\i (13:43:47) updateport VisibilityPane
+\i (13:43:47) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged Top 0
+\i (13:43:47) updateport ReportsPane
+\i (13:43:47) updateport SearchPane
+\i (13:43:47) updateport VisibilityPane
+\i (13:43:47) updateport PropPane
+\i (13:43:47) updateport CVPane
+\i (13:43:48) updateport VisibilityPane
+\i (13:43:48) prepopup -1.4136 0.0852
+\i (13:43:48) updateport ReportsPane
+\i (13:43:48) updateport SearchPane
+\i (13:43:48) updateport PropPane
+\i (13:43:51) pick grid -0.0567 -0.0347
+\t (13:43:51) last pick:  -0.0567 -0.0347
+\i (13:43:51) updateport ReportsPane
+\i (13:43:51) updateport SearchPane
+\i (13:43:51) updateport PropPane
+\i (13:43:53) pick grid -1.4831 0.0474
+\t (13:43:53) last pick:  -1.4831 0.0474
+\i (13:43:54) updateport ReportsPane
+\i (13:43:54) updateport SearchPane
+\i (13:43:54) updateport PropPane
+\i (13:43:59) pick grid 0.0443 -0.0757
+\t (13:43:59) last pick:  0.0443 -0.0757
+\i (13:43:59) updateport ReportsPane
+\i (13:43:59) updateport SearchPane
+\i (13:43:59) updateport PropPane
+\i (13:44:04) zoom out 1 
+\i (13:44:04) setwindow pcb
+\i (13:44:04) zoom out -0.5774 0.2430
+\i (13:44:04) trapsize 316
+\i (13:44:40) prepopup -1.4609 0.0158
+\i (13:44:40) updateport ReportsPane
+\i (13:44:40) updateport SearchPane
+\i (13:44:40) updateport PropPane
+\i (13:44:42) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (V10200200080200A) (5)' 
+\i (13:44:42) mod padstack 
+\i (13:51:20) ucpedit 
+\i (13:51:20) updateport ReportsPane
+\i (13:51:20) updateport SearchPane
+\i (13:51:20) updateport VisibilityPane
+\i (13:51:20) updateport PropPane
+\i (13:51:23) opencd_reload C:/Users/andre/Downloads/FTSH-105-01-F-DV/SAMTEC_FTSH-105-XX-X-DV.dra 
+\t (13:51:23) Opening existing design...
+\i (13:51:24) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (13:51:24) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\w (13:51:24) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (13:51:25) trapsize 1127
+\t (13:51:26)     Journal end - Wed May 27 09:18:30 2026

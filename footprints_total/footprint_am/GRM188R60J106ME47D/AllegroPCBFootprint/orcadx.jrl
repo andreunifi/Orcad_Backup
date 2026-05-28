@@ -1,0 +1,218 @@
+\t (00:01:16) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (00:01:16)     Journal start - Sat May 23 22:05:13 2026
+\t (00:01:16)         Host=LAPTOP-DI-ANDRE User=andre Pid=19276 CPUs=8
+\t (00:01:16) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\unison.exe -layout -orcadx
+\t (00:01:16) 
+\d (00:01:16) Design opened: C:/Users/andre/Downloads/GRM188R60J106ME47D/AllegroPCBFootprint/G-188_MUR-M.dra
+\i (00:01:16) trapsize 699
+\i (00:01:18) QtSignal PropertyPadstackWidget PropertyPadstackEditMode CurrentIndexChanged 0
+\i (00:01:18) QtSignal PropertyPadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (00:01:18) QtSignal PropertyPadstackWidget copperPadType CurrentIndexChanged 0
+\i (00:01:22) trapsize 866
+\i (00:01:26) QtSignal Property_Docked_PadstackWidget PropertyPadstackEditMode CurrentIndexChanged +
+\i (00:01:26) QtSignal 0
+\i (00:01:26) QtSignal Property_Docked_PadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (00:01:26) QtSignal Property_Docked_PadstackWidget copperPadType CurrentIndexChanged 0
+\t (00:01:29) Loading consmgr.cxt 
+\t (00:01:29) Loading acns_formula.cxt 
+\i (00:01:29) trapsize 865
+\i (00:01:29) trapsize 879
+\i (00:01:32) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
+\i (00:01:32) QtSignal ucp_shape_create_dyn_dim UCPAddShape_Type CurrentIndexChanged 1
+\i (00:01:33) updateport VisibilityPane
+\i (00:01:33) updateport PropPane
+\i (00:01:33) updateport CVPane
+\i (00:01:33) ucpedit 
+\i (00:01:34) updateport VisibilityPane
+\i (00:01:45) pick grid -28.351 -8.800
+\t (00:01:45) last pick:  -28.351 -8.800
+\i (00:01:45) updateport ReportsPane
+\i (00:01:45) updateport SearchPane
+\i (00:01:45) updateport PropPane
+\i (00:01:46) pick grid -32.393 -7.043
+\t (00:01:46) last pick:  -32.393 -7.043
+\i (00:01:46) updateport ReportsPane
+\i (00:01:46) updateport SearchPane
+\i (00:01:46) updateport PropPane
+\i (00:01:47) prepopup -32.393 -7.043
+\i (00:01:49) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (RX42Y34D0T) (2)' 
+\i (00:01:49) mod padstack 
+\i (00:01:55) ucpedit 
+\i (00:01:55) updateport ReportsPane
+\i (00:01:55) updateport SearchPane
+\i (00:01:56) updateport VisibilityPane
+\i (00:01:56) updateport PropPane
+\i (00:01:56) pick grid 157.419 45.331
+\t (00:01:56) last pick:  157.419 45.331
+\i (00:01:58) QtSignal PropertyParameterWidget ParameterUnitOptions CurrentIndexChanged 0
+\w (00:01:58) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:01:59) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:02:00) trapsize 223
+\t (00:02:00) Performing DRC...
+\t (00:02:00) No DRC errors detected.
+\i (00:02:00) updateport ReportsPane
+\i (00:02:00) updateport SearchPane
+\i (00:02:00) updateport PropPane
+\i (00:02:00) ucpedit 
+\i (00:02:00) updateport VisibilityPane
+\i (00:02:04) ucp_user_pref 
+\i (00:02:08) QtSignal TitleBlockGroupBox TitleBlockLineEdit editingFinished "$INSTDIR/tools/capture/library/capsym.olb"
+\i (00:02:08) QtSignal ProjectPreferenceDlg DialogOKButton clicked
+\i (00:02:08) ucpedit 
+\i (00:02:08) updateport VisibilityPane
+\i (00:02:09) prepopup -0.9746 0.1336
+\i (00:02:09) updateport ReportsPane
+\i (00:02:09) updateport SearchPane
+\i (00:02:09) updateport PropPane
+\i (00:02:11) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (RX42Y34D0T) (2)' 
+\i (00:02:11) mod padstack 
+\i (00:03:36) ucpedit 
+\i (00:03:37) updateport ReportsPane
+\i (00:03:37) updateport SearchPane
+\i (00:03:37) updateport VisibilityPane
+\i (00:03:37) updateport PropPane
+\i (00:03:37) prepopup -0.6576 0.1202
+\i (00:03:39) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (RX42Y34D0T) (2)' 
+\i (00:03:39) mod padstack 
+\i (00:13:17) ucpedit 
+\i (00:13:17) updateport ReportsPane
+\i (00:13:17) updateport SearchPane
+\i (00:13:17) updateport VisibilityPane
+\i (00:13:17) updateport PropPane
+\i (00:13:20) pick grid -0.6219 -0.0717
+\t (00:13:20) last pick:  -0.6219 -0.0717
+\i (00:13:20) updateport ReportsPane
+\i (00:13:20) updateport SearchPane
+\i (00:13:20) updateport PropPane
+\i (00:13:24) pick grid 0.9227 -0.2860
+\t (00:13:24) last pick:  0.9227 -0.2860
+\i (00:13:24) updateport ReportsPane
+\i (00:13:24) updateport SearchPane
+\i (00:13:24) updateport PropPane
+\i (00:13:26) pick grid 0.8245 -0.0137
+\t (00:13:26) last pick:  0.8245 -0.0137
+\i (00:13:26) updateport ReportsPane
+\i (00:13:26) updateport SearchPane
+\i (00:13:26) updateport PropPane
+\i (00:14:33) QtSignal PropertyLocationWidget PropertyLocationXInput editingFinished 0
+\i (00:14:33) updateport ReportsPane
+\i (00:14:33) updateport SearchPane
+\i (00:14:34) updateport VisibilityPane
+\i (00:14:34) updateport PropPane
+\i (00:14:39) QtSignal PropertyLocationWidget PropertyLocationXInput editingFinished "0.95"
+\i (00:14:39) updateport ReportsPane
+\i (00:14:39) updateport SearchPane
+\i (00:14:39) updateport PropPane
+\i (00:14:41) pick grid -1.2379 -0.0271
+\t (00:14:41) last pick:  -1.2379 -0.0271
+\i (00:14:41) updateport ReportsPane
+\i (00:14:41) updateport SearchPane
+\i (00:14:41) updateport PropPane
+\i (00:14:42) pick grid -1.2379 -0.0271
+\t (00:14:42) last pick:  -1.2379 -0.0271
+\i (00:14:42) updateport ReportsPane
+\i (00:14:42) updateport SearchPane
+\i (00:14:42) updateport PropPane
+\i (00:14:47) QtSignal PropertyLocationWidget PropertyLocationXInput editingFinished 0
+\i (00:14:47) updateport ReportsPane
+\i (00:14:47) updateport SearchPane
+\i (00:14:47) updateport PropPane
+\i (00:14:56) QtSignal PropertyLocationWidget PropertyLocationXInput editingFinished "-0.95"
+\i (00:14:56) updateport ReportsPane
+\i (00:14:56) updateport SearchPane
+\i (00:14:56) updateport PropPane
+\i (00:14:57) pick grid 2.4449 2.1692
+\t (00:14:57) last pick:  2.4449 2.1692
+\i (00:14:58) save 
+\i (00:14:59) fillin yes 
+\t (00:15:00) Symbol 'g-188_mur-m.psm' created.
+\i (00:15:00) updateport ReportsPane
+\i (00:15:00) updateport SearchPane
+\i (00:15:00) updateport PropPane
+\i (00:15:00) ucpedit 
+\i (00:15:00) updateport VisibilityPane
+\i (00:15:01) QtSignal DisplayGeneral DisplayGeneralMode CurrentIndexChanged 1
+\i (00:15:03) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
+\i (00:15:03) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (00:15:03) ucpedit 
+\i (00:15:03) updateport VisibilityPane
+\i (00:15:19) QtSignal Algro3DViewCameraWidget Algro3DViewBottomIsoAction triggered
+\i (00:15:21) QtSignal Algro3DViewCameraWidget Algro3DViewRightAction triggered
+\i (00:15:23) QtSignal Algro3DViewCameraWidget Algro3DViewTopIsoAction triggered
+\w (00:15:35) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:15:35) updateport CMPanelPort
+\i (00:15:35) updateport PropPane
+\i (00:15:35) updateport ReportsPane
+\i (00:15:35) updateport SearchPane
+\i (00:26:15) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:26:15) QtSignal "CP_ALLEGRO_PROPERTIES_DOCK"
+\i (00:27:32) opencd_reload 'C:/Users/andre/Downloads/SRP1265A_100M (1)/IND_SRP1265A-100M.dra' 
+\e (00:27:32) Do you want to save the changes you made to C:/Users/andre/Downloads/GRM188R60J106ME47D/AllegroPCBFootprint/G-188_MUR-M.dra?
+\i (00:27:36) fillin yes 
+\t (00:27:37) Symbol 'g-188_mur-m.psm' created.
+\t (00:27:37) Opening existing design...
+\e (00:27:37) ERROR(SPMHDB-181): The current version of software is unable to open design C:/Users/andre/Downloads/SRP1265A_100M (1)/IND_SRP1265A-100M.dra.
+The design was last saved using version 16.6 and must be updated using DB Doctor. [help]
+\e (00:27:37) ERROR(SPMHDB-181): The current version of software is unable to open design C:/Users/andre/Downloads/SRP1265A_100M (1)/IND_SRP1265A-100M.dra.
+The design was last saved using version 16.6 and must be updated using DB Doctor. [help]
+\i (00:27:38) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
+\i (00:27:45) fillin confirm
+\t (00:27:45) Starting new design...
+\i (00:27:46) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:27:46) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\w (00:27:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:27:47) trapsize 965
+\i (00:28:20) fillin "menu_cancel"
+\e (00:28:20) There is error while opening the design "C:/Users/andre/Downloads/SRP1265A_100M (1)/IND_SRP1265A-100M.dra"
+
+\i (00:28:20) ucpedit 
+\i (00:28:20) updateport VisibilityPane
+\i (00:28:21) zoom out 1 
+\i (00:28:21) setwindow pcb
+\i (00:28:21) zoom out 12981.8 10586.4
+\i (00:28:21) trapsize 966
+\i (00:28:21) zoom out 1 
+\i (00:28:21) setwindow pcb
+\i (00:28:21) zoom out 12981.8 10489.8
+\i (00:28:21) trapsize 966
+\i (00:28:30) opencd_reload 'C:/Users/andre/Downloads/SRP1265A_100M (1)/IND_SRP1265A-100M.dra' 
+\t (00:28:30) Opening existing design...
+\e (00:28:30) ERROR(SPMHDB-181): The current version of software is unable to open design C:/Users/andre/Downloads/SRP1265A_100M (1)/IND_SRP1265A-100M.dra.
+The design was last saved using version 16.6 and must be updated using DB Doctor. [help]
+\e (00:28:30) ERROR(SPMHDB-181): The current version of software is unable to open design C:/Users/andre/Downloads/SRP1265A_100M (1)/IND_SRP1265A-100M.dra.
+The design was last saved using version 16.6 and must be updated using DB Doctor. [help]
+\i (00:28:33) fillin confirm
+\t (00:28:33) Starting new design...
+\i (00:28:34) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:28:34) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\w (00:28:34) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:28:35) trapsize 966
+\i (00:28:58) fillin "menu_cancel"
+\e (00:28:58) There is error while opening the design "C:/Users/andre/Downloads/SRP1265A_100M (1)/IND_SRP1265A-100M.dra"
+
+\i (00:28:58) ucpedit 
+\i (00:28:58) updateport VisibilityPane
+\i (00:29:34) drag_start grid 6684.1 15396.6
+\i (00:29:34) drag_stop 6297.7 15454.6
+\t (00:29:37) Pick point (10500.0 8500.0) changed to origin (0.0, 0.0)
+\i (00:29:37) opencd_reload C:/Users/andre/Downloads/GRM188R60J106ME47D/AllegroPCBFootprint/Untitled.dra 
+\t (00:29:37) Opening existing design...
+\i (00:29:38) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:29:38) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\w (00:29:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:29:39) trapsize 1529
+\d (00:29:40) Design opened: C:/Users/andre/Downloads/GRM188R60J106ME47D/AllegroPCBFootprint/Untitled.dra
+\w (00:29:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:29:41) trapsize 966
+\i (00:29:41) updateport VisibilityPane
+\i (00:29:41) updateport PropPane
+\i (00:29:41) ucpedit 
+\i (00:29:41) updateport VisibilityPane
+\i (00:29:41) trapsize 965
+\i (00:30:00) opencd_reload 'C:/Users/andre/Downloads/SRP1265A_100M (2)/IND_SRP1265A-100M.dra' 
+\t (00:30:00) Opening existing design...
+\i (00:30:01) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:30:01) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\w (00:30:01) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:30:02) trapsize 6470
+\t (00:30:03)     Journal end - Sat May 23 22:34:00 2026

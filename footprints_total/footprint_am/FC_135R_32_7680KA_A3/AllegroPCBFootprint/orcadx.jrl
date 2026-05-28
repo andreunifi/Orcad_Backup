@@ -1,0 +1,34 @@
+\t (00:00:46) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (00:00:46)     Journal start - Fri May 22 18:12:12 2026
+\t (00:00:46)         Host=LAPTOP-DI-ANDRE User=andre Pid=5856 CPUs=8
+\t (00:00:46) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\unison.exe -layout -orcadx
+\t (00:00:46) 
+\d (00:00:46) Design opened: C:/Users/andre/Downloads/FC_135R_32_7680KA_A3/AllegroPCBFootprint/XTAL_KA-A3_EPS-M.dra
+\i (00:00:46) trapsize 255
+\i (00:00:47) QtSignal PropertyPadstackWidget PropertyPadstackEditMode CurrentIndexChanged 0
+\i (00:00:47) QtSignal PropertyPadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (00:00:47) QtSignal PropertyPadstackWidget copperPadType CurrentIndexChanged 0
+\i (00:00:51) trapsize 316
+\i (00:00:55) QtSignal Property_Docked_PadstackWidget PropertyPadstackEditMode CurrentIndexChanged +
+\i (00:00:55) QtSignal 0
+\i (00:00:55) QtSignal Property_Docked_PadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (00:00:55) QtSignal Property_Docked_PadstackWidget copperPadType CurrentIndexChanged 0
+\t (00:00:57) Loading consmgr.cxt 
+\t (00:00:57) Loading acns_formula.cxt 
+\i (00:00:57) trapsize 315
+\i (00:00:57) trapsize 321
+\w (00:00:58) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:01:00) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
+\i (00:01:00) QtSignal ucp_shape_create_dyn_dim UCPAddShape_Type CurrentIndexChanged 1
+\i (00:01:01) updateport VisibilityPane
+\i (00:01:01) updateport PropPane
+\i (00:01:01) updateport CVPane
+\i (00:01:01) ucpedit 
+\i (00:01:01) updateport VisibilityPane
+\i (00:03:21) opencd_reload C:/Users/andre/Desktop/Ese_Group18/footprints_total/footprints_gn/DQC0010A.dra 
+\t (00:03:21) Opening existing design...
+\i (00:03:22) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:03:22) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\w (00:03:23) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:03:23) trapsize 163
+\t (00:03:24)     Journal end - Fri May 22 18:14:50 2026

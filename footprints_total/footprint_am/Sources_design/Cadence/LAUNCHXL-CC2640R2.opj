@@ -1,0 +1,160 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (SoftwareVersion "25.1 S030 (4414069)  [3/25/2026]-[10/17/16]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\launchxl-cc2640r2.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (Board_sim_option "VHDL_flow")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory"
+       "C:\KHT\WORK\LAUNCHXL-CC2640R2\DESIGN\HW\CADENCE")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" "allegro\LAUNCHXL-CC2650.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0"))
+  (Folder "Layout")
+  (Folder "Outputs"
+    (Sort User)
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\launchxl-cc2640r2_output\bom.sch.csv"
+      (Type "Report")
+      (DisplayName ".\LAUNCHXL-CC2640R2_OUTPUT\BOM.SCH.CSV")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (IC_RF_CC2640_VQFN48_V1
+      (FullPartName "IC_RF_CC2640_VQFN48_V1B.Normal")
+      (LibraryName "X:\SYMBOLS\IC_RF.OLB")
+      (DeviceIndex "1"))
+    (MECH_SHUNT_JUMPER_V1
+      (FullPartName "MECH_SHUNT_JUMPER_V1.Normal")
+      (LibraryName "X:\SYMBOLS\MECHANIC.OLB")
+      (DeviceIndex "0"))
+    (CE_LABEL
+      (FullPartName "CE_LABEL.Normal")
+      (LibraryName "X:\SYMBOLS\PCB.OLB")
+      (DeviceIndex "0"))
+    (LABEL_Pb-free_V1
+      (FullPartName "LABEL_Pb-free_V1.Normal")
+      (LibraryName "X:\SYMBOLS\PCB.OLB")
+      (DeviceIndex "0"))
+    (MECH_SHUNT_JUMPER
+      (FullPartName "MECH_SHUNT_JUMPER.Normal")
+      (LibraryName "X:\SYMBOLS\MECHANIC.OLB")
+      (DeviceIndex "0"))
+    (CONN_COAX_1_1_P_2MH_V1
+      (FullPartName "CONN_COAX_1_1_P_2MH_V1.Normal")
+      (LibraryName "X:\SYMBOLS\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (RESISTOR
+      (FullPartName "RESISTOR.Normal")
+      (LibraryName "X:\SYMBOLS\RESISTOR.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-R
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-L
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (CONN_HEADER_2X11_P_S
+      (FullPartName "CONN_HEADER_2X11_P_S.Normal")
+      (LibraryName "X:\SYMBOLS\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CONN_HEADER_3_P_S
+      (FullPartName "CONN_HEADER_3_P_S.Normal")
+      (LibraryName "X:\SYMBOLS\CONNECTOR.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "c:\users\andre\downloads\sources_design\cadence\launchxl-cc2640r2.dsn")
+      (Path "Design Resources"
+         "c:\users\andre\downloads\sources_design\cadence\launchxl-cc2640r2.dsn"
+         "CC2640R2 LaunchPad")
+      (Path "Outputs")
+      (Select "Design Resources"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 622"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 663")
+        (Scroll "0 40")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\ANDRE\DOWNLOADS\SOURCES_DESIGN\CADENCE\LAUNCHXL-CC2640R2.DSN")
+      (Schematic "CC2640R2 LaunchPad")
+      (Page "4_XDS110"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 663")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\ANDRE\DOWNLOADS\SOURCES_DESIGN\CADENCE\LAUNCHXL-CC2640R2.DSN")
+      (Schematic "CC2640R2 LaunchPad")
+      (Page "3_Debugger Interface"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 663")
+        (Scroll "-234 80")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\ANDRE\DOWNLOADS\SOURCES_DESIGN\CADENCE\LAUNCHXL-CC2640R2.DSN")
+      (Schematic "CC2640R2 LaunchPad")
+      (Page "1_RF")))
+  (MPSSessionName "andre")
+  (ISPCBBASICLICENSE "false")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs"))

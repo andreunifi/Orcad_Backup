@@ -1,0 +1,198 @@
+\t (14:49:44) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (14:49:44)     Journal start - Wed May 27 10:16:48 2026
+\t (14:49:44)         Host=LAPTOP-DI-ANDRE User=andre Pid=7296 CPUs=8
+\t (14:49:44) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\unison.exe -layout -orcadx
+\t (14:49:44) 
+\d (14:49:44) Design opened: C:/Users/andre/Downloads/LIB_TPS62177DQCR/TPS62177DQCR/Allegro/SON50P200X300X80-11N.dra
+\w (14:49:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (14:49:44) updateport VisibilityPane
+\i (14:49:44) updateport PropPane
+\i (14:49:44) ucpedit 
+\i (14:49:45) updateport VisibilityPane
+\i (14:49:45) zoom out 1 
+\i (14:49:45) setwindow pcb
+\i (14:49:45) zoom out 249.4590 171.5292
+\i (14:49:45) trapsize 24506
+\i (14:49:46) zoom out 1 
+\i (14:49:46) setwindow pcb
+\i (14:49:46) zoom out 247.4985 147.0229
+\i (14:49:46) trapsize 24506
+\i (14:49:46) zoom in 1 
+\i (14:49:46) setwindow pcb
+\i (14:49:46) zoom in -3.4454 -12.2676
+\i (14:49:46) trapsize 12253
+\i (14:49:46) zoom in 1 
+\i (14:49:46) setwindow pcb
+\i (14:49:46) zoom in -5.1608 -14.4732
+\i (14:49:46) trapsize 6127
+\i (14:49:46) zoom in 1 
+\i (14:49:46) setwindow pcb
+\i (14:49:46) zoom in -5.4058 -14.7183
+\i (14:49:46) trapsize 3063
+\i (14:49:46) zoom in 1 
+\i (14:49:46) setwindow pcb
+\i (14:49:46) zoom in -5.5283 -14.8408
+\i (14:49:46) trapsize 1532
+\i (14:49:46) zoom in 1 
+\i (14:49:46) setwindow pcb
+\i (14:49:46) zoom in -5.5283 -14.8408
+\i (14:49:46) trapsize 766
+\i (14:49:47) roam start
+\i (14:49:47) roam x 3
+\i (14:49:47) roam y -18
+\i (14:49:47) roam x 2
+\i (14:49:47) roam y -18
+\i (14:49:47) roam y -21
+\i (14:49:47) roam y -23
+\i (14:49:47) roam x -1
+\i (14:49:47) roam y -24
+\i (14:49:47) roam x -14
+\i (14:49:47) roam y -51
+\i (14:49:47) roam x -8
+\i (14:49:47) roam y -24
+\i (14:49:47) roam x -2
+\i (14:49:47) roam y -28
+\i (14:49:47) roam x -4
+\i (14:49:47) roam y -21
+\i (14:49:47) roam x -2
+\i (14:49:47) roam y -20
+\i (14:49:47) roam x -2
+\i (14:49:47) roam y -15
+\i (14:49:47) roam x -3
+\i (14:49:47) roam y -7
+\i (14:49:47) roam x -1
+\i (14:49:47) roam y -19
+\i (14:49:47) roam x -1
+\i (14:49:47) roam y -12
+\i (14:49:47) roam y -9
+\i (14:49:47) roam y -9
+\i (14:49:47) roam y -10
+\i (14:49:47) roam y -8
+\i (14:49:47) roam y -8
+\i (14:49:47) roam x 1
+\i (14:49:47) roam y -9
+\i (14:49:47) roam x 2
+\i (14:49:47) roam y -9
+\i (14:49:47) roam x 4
+\i (14:49:47) roam y -10
+\i (14:49:47) roam x 1
+\i (14:49:47) roam y -5
+\i (14:49:47) roam end
+\i (14:49:49) zoom in 1 
+\i (14:49:49) setwindow pcb
+\i (14:49:49) zoom in 1.6700 -0.5509
+\i (14:49:49) trapsize 383
+\i (14:49:50) roam start
+\i (14:49:50) roam y -8
+\i (14:49:50) roam x -1
+\i (14:49:50) roam y -13
+\i (14:49:50) roam x -43
+\i (14:49:50) roam y -49
+\i (14:49:50) roam x -19
+\i (14:49:50) roam y -31
+\i (14:49:50) zoom in 1 
+\i (14:49:50) setwindow pcb
+\i (14:49:50) zoom in 2.6894 -2.8935
+\i (14:49:50) trapsize 191
+\i (14:49:50) roam x -16
+\i (14:49:50) roam y -32
+\i (14:49:50) roam x -11
+\i (14:49:50) roam y -37
+\i (14:49:50) roam x -3
+\i (14:49:50) roam y -14
+\i (14:49:50) roam x -2
+\i (14:49:50) roam y -10
+\i (14:49:50) roam x -5
+\i (14:49:50) roam y -9
+\i (14:49:50) roam x -13
+\i (14:49:50) roam y -23
+\i (14:49:50) roam x -23
+\i (14:49:50) roam y -21
+\i (14:49:50) roam x -3
+\i (14:49:50) roam y -2
+\i (14:49:50) roam x -1
+\i (14:49:50) roam y -2
+\i (14:49:50) roam x -10
+\i (14:49:50) roam y -20
+\i (14:49:50) roam x -10
+\i (14:49:50) roam y -15
+\i (14:49:51) roam x -13
+\i (14:49:51) roam y -14
+\i (14:49:51) roam x -11
+\i (14:49:51) roam y -10
+\i (14:49:51) roam x -28
+\i (14:49:51) roam y -23
+\i (14:49:51) roam x -52
+\i (14:49:51) roam y -27
+\i (14:49:51) roam x -15
+\i (14:49:51) roam y -7
+\i (14:49:51) roam x -28
+\i (14:49:51) roam y -21
+\i (14:49:51) roam x -27
+\i (14:49:51) roam y -19
+\i (14:49:51) roam x -22
+\i (14:49:51) roam y -16
+\i (14:49:51) roam x -1
+\i (14:49:51) roam y -1
+\i (14:49:51) roam end
+\i (14:49:51) zoom out 1 
+\i (14:49:51) setwindow pcb
+\i (14:49:51) zoom out 2.6299 -2.7578
+\i (14:49:51) trapsize 383
+\i (14:49:57) QtSignal DisplayGeneral DisplayGeneralMode CurrentIndexChanged 1
+\i (14:49:58) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
+\i (14:49:58) ucpedit 
+\i (14:49:58) updateport VisibilityPane
+\i (14:50:02) updateport ReportsPane
+\i (14:50:02) updateport SearchPane
+\i (14:50:02) updateport PropPane
+\i (14:50:05) QtSignal VisLayerToolbarAllButton All clicked on
+\i (14:50:05) updateport ReportsPane
+\i (14:50:05) updateport SearchPane
+\i (14:50:05) updateport PropPane
+\i (14:50:06) QtSignal VisLayerToolbarAllButton All clicked
+\i (14:50:06) updateport ReportsPane
+\i (14:50:06) updateport SearchPane
+\i (14:50:06) updateport PropPane
+\i (14:50:09) QtSignal DisplayGeneral DisplayGeneralMode CurrentIndexChanged 0
+\i (14:50:09) ucpedit 
+\i (14:50:09) updateport ReportsPane
+\i (14:50:09) updateport SearchPane
+\i (14:50:09) updateport VisibilityPane
+\i (14:50:09) updateport PropPane
+\i (14:50:10) prepopup -0.2344 0.3056
+\i (14:50:21) pick grid -0.7398 2.5342
+\t (14:50:21) last pick:  -0.7398 2.5342
+\i (14:50:21) updateport ReportsPane
+\i (14:50:21) updateport SearchPane
+\i (14:50:21) updateport PropPane
+\i (14:50:22) pick grid -0.0889 0.5660
+\t (14:50:22) last pick:  -0.0889 0.5660
+\i (14:50:22) updateport ReportsPane
+\i (14:50:22) updateport SearchPane
+\i (14:50:22) updateport PropPane
+\i (14:50:26) prepopup -0.2650 0.4588
+\i (14:50:38) prepopup 0.2251 0.1218
+\i (14:50:44) pick grid 3.3421 0.9565
+\t (14:50:44) last pick:  3.3421 0.9565
+\i (14:50:46) prepopup -0.2420 0.5277
+\i (14:50:46) updateport ReportsPane
+\i (14:50:46) updateport SearchPane
+\i (14:50:46) updateport PropPane
+\i (14:50:48) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (R250_94) (1)' 
+\i (14:50:48) mod padstack 
+\i (14:54:47) ucpedit 
+\i (14:54:47) updateport ReportsPane
+\i (14:54:47) updateport SearchPane
+\i (14:54:47) updateport VisibilityPane
+\i (14:54:47) updateport PropPane
+\i (14:55:05) opencd_reload C:/Users/andre/Desktop/Ese_Group18/footprints_total/footprints_gn/DQC0010A.dra 
+\e (14:55:05) Do you want to save the changes you made to SON50P200X300X80-11N.dra?
+\i (14:55:08) fillin yes 
+\t (14:55:08) Symbol 'son50p200x300x80-11n.psm' created.
+\t (14:55:09) Opening existing design...
+\i (14:55:10) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (14:55:10) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\w (14:55:10) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (14:55:11) trapsize 163
+\t (14:55:12)     Journal end - Wed May 27 10:22:16 2026

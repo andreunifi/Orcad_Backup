@@ -1,0 +1,36 @@
+\t (00:00:01) padstack_editor 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Sat May 23 22:34:07 2026
+\t (00:00:01)         Host=LAPTOP-DI-ANDRE User=andre Pid=17112 CPUs=8
+\t (00:00:01) CmdLine= padstack_editor -mpssession andre -file C:/Users/andre/AppData/Local/Temp/#Taaaacz19276.tmp -pname S_R310T500M310_500P310_500 -data C:/Users/andre/AppData/Local/Temp/#Taaaadd19276.tmp -unison
+\t (00:00:01) 
+\d (00:00:44) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:46) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:47) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:57) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:59) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:01:04) QtSignal GuidedMaskLayersTab PadWidth editingFinished "3.1500"
+\d (00:01:07) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:01:09) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:01:15) QtSignal GuidedMaskLayersTab PadHeight editingFinished "5.0500"
+\d (00:01:31) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 2 "Regular Pad"
+\d (00:01:31) QtSignal GuidedMaskLayersTab LayersTable cellClicked 2 "Regular Pad" 2 1
+\d (00:01:46) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:01:46) QtSignal 1
+\d (00:01:53) QtSignal GuidedMaskLayersTab PadWidth editingFinished "2.7727"
+\d (00:02:03) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:02:03) QtSignal 1
+\d (00:02:06) QtSignal GuidedMaskLayersTab PadHeight editingFinished "4.4700"
+\d (00:02:08) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 4 "Regular Pad"
+\d (00:02:08) QtSignal GuidedMaskLayersTab LayersTable cellClicked 4 "Regular Pad" 4 1
+\d (00:02:13) QtSignal GuidedMaskLayersTab PadWidth editingFinished "3.1000"
+\d (00:02:15) QtSignal GuidedMaskLayersTab PadHeight editingFinished "5.0000"
+\d (00:02:17) QtSignal GuidedTabsParent GuidedTabs currentChanged Options
+\d (00:02:18) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:02:26) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 2 "Regular Pad"
+\d (00:02:26) QtSignal GuidedMaskLayersTab LayersTable cellClicked 2 "Regular Pad" 2 1
+\d (00:02:28) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:02:30) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:02:33) QtSignal MainWindow Save triggered
+\d (00:02:34) QtSignal MainWindow UpdateToDesign triggered
+\d (00:02:35) QtSignal MainWindow Exit triggered
+\t (00:02:36)     Journal end - Sat May 23 22:36:41 2026

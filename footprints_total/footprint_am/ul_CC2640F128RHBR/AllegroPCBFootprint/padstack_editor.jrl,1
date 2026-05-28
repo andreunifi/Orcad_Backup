@@ -1,0 +1,21 @@
+\t (00:00:01) padstack_editor 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Wed May 27 09:06:39 2026
+\t (00:00:01)         Host=LAPTOP-DI-ANDRE User=andre Pid=21488 CPUs=8
+\t (00:00:01) CmdLine= padstack_editor -mpssession andre -file C:/Users/andre/AppData/Local/Temp/#Taaaabr07296.tmp -pname O10090240000200A -data C:/Users/andre/AppData/Local/Temp/#Taaaabv07296.tmp -unison
+\t (00:00:01) 
+\d (00:00:05) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:08) QtSignal GuidedMaskLayersTab LayersTable cellClicked 1 "Layer Name" 1 0
+\d (00:00:08) QtSignal GuidedMaskLayersTab LayersTable cellClicked 1 "Layer Name" 1 0
+\d (00:00:18) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 0 "Layer Name"
+\d (00:00:18) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:20) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:21) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 2 "Regular Pad"
+\d (00:00:21) QtSignal GuidedMaskLayersTab LayersTable cellClicked 2 "Regular Pad" 2 1
+\d (00:00:24) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 4 "Regular Pad"
+\d (00:00:24) QtSignal GuidedMaskLayersTab LayersTable cellClicked 4 "Regular Pad" 4 1
+\d (00:00:25) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 2 "Regular Pad"
+\d (00:00:25) QtSignal GuidedMaskLayersTab LayersTable cellClicked 2 "Regular Pad" 2 1
+\d (00:00:26) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 4 "Regular Pad"
+\d (00:00:26) QtSignal GuidedMaskLayersTab LayersTable cellClicked 4 "Regular Pad" 4 1
+\d (00:04:02) QtSignal MainWindow Exit triggered
+\t (00:04:02)     Journal end - Wed May 27 09:10:41 2026

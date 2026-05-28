@@ -1,0 +1,19 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Cadence Artwork Import                                           )
+(                                                                     )
+(    Drawing          : rocket.dra                                    )
+(    Software Version : 16.6S019                                      )
+(    Date/Time        : Fri Aug 19 12:23:38 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Fri Aug 19 12:23:38 2016				Page     1
+
+
+Processing photoplot file C:/kht/work/CC1350_launchpad/LAUNCHXL-CC1350_1_2/PCB~
+/Gerber/LAUNCHXL-CC1350_silk_bottom.art ...
+Adding the film data on BOARD GEOMETRY/SILKSCREEN_BOTTOM.
+WARNING(SPMHAW-126): Coordinates have been rounded off.
+Load Photoplot complete.

@@ -1,0 +1,24 @@
+\t (14:27:00) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (14:27:00)     Journal start - Wed May 27 09:54:04 2026
+\t (14:27:00)         Host=LAPTOP-DI-ANDRE User=andre Pid=7296 CPUs=8
+\t (14:27:00) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\unison.exe -layout -orcadx
+\t (14:27:00) 
+\d (14:27:00) Design opened: C:/Users/andre/Downloads/ul_CC2640F128RHBR/AllegroPCBFootprint/RHB0032E.dra
+\w (14:27:00) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (14:27:01) updateport VisibilityPane
+\i (14:27:01) updateport PropPane
+\i (14:27:01) ucpedit 
+\i (14:27:01) updateport VisibilityPane
+\i (14:27:04) QtSignal DisplayGeneral DisplayGeneralMode CurrentIndexChanged 1
+\i (14:27:05) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
+\i (14:27:05) ucpedit 
+\i (14:27:05) updateport VisibilityPane
+\i (14:31:58) opencd_reload C:/Users/andre/Desktop/Ese_Group18/footprints_total/footprints_gn/RESC1608X55N.dra 
+\e (14:31:58) Do you want to save the changes you made to RHB0032E.dra?
+\i (14:32:01) fillin no 
+\t (14:32:01) Opening existing design...
+\i (14:32:02) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (14:32:02) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\w (14:32:03) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (14:32:03) trapsize 24506
+\t (14:32:04)     Journal end - Wed May 27 09:59:08 2026

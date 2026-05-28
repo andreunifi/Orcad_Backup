@@ -1,0 +1,18 @@
+.MCP73871-2CCI_ML :1 ;Li-Ion Charger USB/DC 4.2V TE LBO QFN20
+QFN50P400X400X100-21N-D
+*STM IC
+*NGS
+*PLB 1="OUT_1" 2="VPCC" 3="SEL" 4="PROG2" 5="THERM" 6="'PG'" 7="STAT2" 8="STAT1/'LBO'" 9="'TE'" 10="VSS_1" 11="VSS_2" 12="PROG3" 13="PROG1" 14="VBAT_1" 15="VBAT_2" 16="VBAT_SENSE" 17="CE" 18="IN_1" 19="IN_2" 20="OUT_2" 21="EP"
+*MXP 21
+*DFN MCP73871-2CCI_ML
+~!Manufacturer_Name (Microchip)
+~!Manufacturer_Part_Number (MCP73871-2CCI/ML)
+~!Mouser Part Number (579-MCP73871-2CCI/ML)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MCP73871-2CCI-ML?qs=qXsUupcbpXyQfJ2clznZxw%3D%3D)
+~!Arrow Part Number (MCP73871-2CCI/ML)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/mcp73871-2cciml/microchip-technology?utm_currency=USD&region=europe)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA15/728881.pdf)
+~!Height (1mm)
+~!3D_Model (MCP73871-2CCI_ML)
+MCP73871-2CCI_ML
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 21.1!U 20.1!U 19.1!U 18.1!U 17.1!U 16.1!U 

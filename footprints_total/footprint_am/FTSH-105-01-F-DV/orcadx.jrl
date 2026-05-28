@@ -1,0 +1,18 @@
+\t (13:51:26) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (13:51:26)     Journal start - Wed May 27 09:18:30 2026
+\t (13:51:26)         Host=LAPTOP-DI-ANDRE User=andre Pid=7296 CPUs=8
+\t (13:51:26) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\unison.exe -layout -orcadx
+\t (13:51:26) 
+\d (13:51:26) Design opened: C:/Users/andre/Downloads/FTSH-105-01-F-DV/SAMTEC_FTSH-105-XX-X-DV.dra
+\w (13:51:26) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (13:51:26) updateport VisibilityPane
+\i (13:51:26) updateport PropPane
+\i (13:51:27) ucpedit 
+\i (13:51:27) updateport VisibilityPane
+\i (14:26:57) opencd_reload C:/Users/andre/Downloads/ul_CC2640F128RHBR/AllegroPCBFootprint/RHB0032E.dra 
+\t (14:26:57) Opening existing design...
+\i (14:26:58) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (14:26:58) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\w (14:26:59) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (14:26:59) trapsize 316
+\t (14:27:00)     Journal end - Wed May 27 09:54:04 2026

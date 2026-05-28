@@ -1,0 +1,39 @@
+\t (00:00:00) padstack_editor 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Thu May 21 18:36:30 2026
+\t (00:00:00)         Host=LAPTOP-DI-ANDRE User=andre Pid=5688 CPUs=8
+\t (00:00:00) CmdLine= padstack_editor -mpssession andre -file C:/Users/andre/AppData/Local/Temp/#Taaaals18636.tmp -pname RX71Y63D0T -data C:/Users/andre/AppData/Local/Temp/#Taaaalw18636.tmp -unison
+\t (00:00:00) 
+\d (00:00:09) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:00:09) QtSignal 1
+\d (00:00:10) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:00:10) QtSignal 1
+\d (00:00:13) QtFillin OK
+\d (00:00:14) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:00:14) QtSignal 1
+\d (00:00:15) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:00:15) QtSignal 1
+\d (00:00:16) QtSignal GuidedDesignLayersTab PadWidth editingFinished "1.8034"
+\d (00:00:19) QtSignal GuidedDesignLayersTab PadHeight editingFinished "1.0000"
+\d (00:00:19) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777220 0 false 1 ""
+\d (00:00:24) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:27) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:00:27) QtSignal 1
+\d (00:00:30) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:00:30) QtSignal 1
+\d (00:00:31) QtSignal GuidedMaskLayersTab PadWidth editingFinished "1.8534"
+\d (00:00:35) QtSignal GuidedMaskLayersTab PadHeight editingFinished "1.0500"
+\d (00:00:35) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777220 0 false 1 ""
+\d (00:00:37) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 2 "Regular Pad"
+\d (00:00:37) QtSignal GuidedMaskLayersTab LayersTable cellClicked 2 "Regular Pad" 2 1
+\d (00:00:38) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:00:38) QtSignal 1
+\d (00:00:41) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:00:41) QtSignal 1
+\d (00:00:42) QtSignal GuidedMaskLayersTab PadWidth editingFinished "1.6130"
+\d (00:00:45) QtSignal GuidedMaskLayersTab PadHeight editingFinished "0.8900"
+\d (00:00:45) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777220 0 false 1 ""
+\d (00:00:47) QtSignal GuidedTabsParent GuidedTabs currentChanged Options
+\d (00:00:49) QtSignal MainWindow Save triggered
+\d (00:00:50) QtSignal MainWindow UpdateToDesign triggered
+\d (00:00:51) QtSignal MainWindow Exit triggered
+\t (00:00:51)     Journal end - Thu May 21 18:37:21 2026
