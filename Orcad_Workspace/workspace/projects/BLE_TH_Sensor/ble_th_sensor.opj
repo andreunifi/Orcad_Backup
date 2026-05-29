@@ -1,6 +1,6 @@
 (ExpressProject "ese_project"
   (ProjectVersion "19981106")
-  (SoftwareVersion "25.1 S020 (4396590)  [2/5/2026]-[11/27/18]")
+  (SoftwareVersion "25.1 S030 (4414069)  [3/25/2026]-[11/27/18]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
