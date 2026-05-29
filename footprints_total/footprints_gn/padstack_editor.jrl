@@ -1,9 +1,10 @@
 \t (00:00:01) padstack_editor 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Wed May 27 17:31:13 2026
-\t (00:00:01)         Host=LAPTOP-DI-ANDRE User=andre Pid=9760 CPUs=8
-\t (00:00:01) CmdLine= padstack_editor -mpssession andre -file C:/Users/andre/AppData/Local/Temp/#Taaaasy02500.tmp -pname R435_210 -data C:/Users/andre/AppData/Local/Temp/#Taaaatc02500.tmp -unison
+\t (00:00:01)     Journal start - Fri May 29 17:14:13 2026
+\t (00:00:01)         Host=LAPTOP-DI-ANDRE User=andre Pid=13920 CPUs=8
+\t (00:00:01) CmdLine= padstack_editor -mpssession andre -file C:/Users/andre/AppData/Local/Temp/#Taaaaal23996.tmp -pname R81_89 -data C:/Users/andre/AppData/Local/Temp/#Taaaaap23996.tmp -unison
 \t (00:00:01) 
-\d (00:00:10) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
-\d (00:00:12) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
-\d (00:03:22) QtSignal MainWindow Exit triggered
-\t (00:03:22)     Journal end - Wed May 27 17:34:34 2026
+\d (00:00:21) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:22) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:25) QtSignal MainWindow Open triggered
+\d (00:01:04) QtSignal MainWindow Exit triggered
+\t (00:01:04)     Journal end - Fri May 29 17:15:17 2026
