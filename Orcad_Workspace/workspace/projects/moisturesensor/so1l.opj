@@ -5,6 +5,12 @@
   (Folder "Design Resources"
     (Folder "Library"
       (File "C:\Users\andre\Desktop\Ese_Group18\olb_library\LIBRARY_SO1L.OLB"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\andre\downloads\onedrive_1_28-05-2026\symbols\symbols\1729128.olb"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\andre\downloads\onedrive_1_28-05-2026\symbols\symbols\ao3400a.olb"
         (Type "Schematic Library")))
     (Allegro Netlist Directory "allegro")
     (DOCKED "TRUE")
@@ -29,7 +35,7 @@
     (BOM_One_Part_Per_Line "FALSE")
     (Open_BOM_in_Excel "FALSE")
     (BOM_View_Output "FALSE")
-    (CrossRef_Scope "0")
+    (CrossRef_Scope "1")
     (Crossref__Mode "1")
     (CrossRef_Sorting "0")
     (CrossRef_Destination_File
@@ -38,8 +44,8 @@
     (CrossRef_XY "FALSE")
     (CrossRef_Unused "FALSE")
     (XRF_View_Output "FALSE")
-    (ANNOTATE_Scope "0")
-    (ANNOTATE_Mode "0")
+    (ANNOTATE_Scope "1")
+    (ANNOTATE_Mode "1")
     (ANNOTATE_Action "1")
     (Annotate_Page_Order "0")
     (ANNOTATE_Reset_References_to_1 "FALSE")
@@ -82,15 +88,26 @@
   (Folder "Logs")
   (MPSSessionName "andre")
   (PartMRUSelector
+    (1725669
+      (FullPartName "1725669.Normal")
+      (LibraryName
+         "C:\USERS\ANDRE\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\UL_PART_1780000383\ORCADCAPTUREXML\277-1274-ND.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-L
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
     (OFFPAGELEFT-R
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
       (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
     (CON3
       (FullPartName "CON3.Normal")
       (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
-      (DeviceIndex "0"))
-    (OFFPAGELEFT-L
-      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
     (GND
       (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
@@ -111,35 +128,32 @@
          "c:\users\andre\desktop\ese_group18\orcad_workspace\workspace\projects\moisturesensor\so1l.DSN")
       (Path "Design Resources"
          "c:\users\andre\desktop\ese_group18\orcad_workspace\workspace\projects\moisturesensor\so1l.DSN"
-         "Sensor")
+         "SENSOR")
       (Path "Design Resources"
          "c:\users\andre\desktop\ese_group18\orcad_workspace\workspace\projects\moisturesensor\so1l.DSN"
          "MCU")
       (Path "Design Resources"
          "c:\users\andre\desktop\ese_group18\orcad_workspace\workspace\projects\moisturesensor\so1l.DSN"
-         "Servo")
+         "POWER")
       (Path "Design Resources"
          "c:\users\andre\desktop\ese_group18\orcad_workspace\workspace\projects\moisturesensor\so1l.DSN"
-         "Design Cache")
-      (Path "Design Resources" "Library")
-      (Path "Design Resources" "Library"
-         "C:\Users\andre\Desktop\Ese_Group18\olb_library\LIBRARY_SO1L.OLB")
+         "RELAY")
       (Path "Outputs")
       (Select "Design Resources"
          "c:\users\andre\desktop\ese_group18\orcad_workspace\workspace\projects\moisturesensor\so1l.DSN"
-         "prj18"))
+         "MCU"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 267 0 622"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 395 0 622"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1607 24 663")
-        (Scroll "0 222")
-        (Zoom "164"))
+        (Placement "44 0 1 -1 -1 5 24 5 1198 24 663")
+        (Scroll "79 314")
+        (Zoom "174"))
       (Path
          "C:\USERS\ANDRE\DESKTOP\ESE_GROUP18\ORCAD_WORKSPACE\WORKSPACE\PROJECTS\MOISTURESENSOR\SO1L.DSN")
       (Schematic "MCU")
@@ -147,12 +161,43 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1607 24 663")
-        (Scroll "-300 0")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1198 24 663")
+        (Scroll "-95 100")
         (Zoom "100"))
       (Path
          "C:\USERS\ANDRE\DESKTOP\ESE_GROUP18\ORCAD_WORKSPACE\WORKSPACE\PROJECTS\MOISTURESENSOR\SO1L.DSN")
-      (Schematic "Servo")
+      (Schematic "RELAY")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1198 24 663")
+        (Scroll "0 545")
+        (Zoom "164"))
+      (Path
+         "C:\USERS\ANDRE\DESKTOP\ESE_GROUP18\ORCAD_WORKSPACE\WORKSPACE\PROJECTS\MOISTURESENSOR\SO1L.DSN")
+      (Schematic "MCU")
+      (Page "PAGE2"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1198 24 663")
+        (Scroll "0 0")
+        (Zoom "166"))
+      (Path
+         "C:\USERS\ANDRE\DESKTOP\ESE_GROUP18\ORCAD_WORKSPACE\WORKSPACE\PROJECTS\MOISTURESENSOR\SO1L.DSN")
+      (Schematic "POWER")
+      (Page "power_section"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1198 24 663")
+        (Scroll "278 100")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\ANDRE\DESKTOP\ESE_GROUP18\ORCAD_WORKSPACE\WORKSPACE\PROJECTS\MOISTURESENSOR\SO1L.DSN")
+      (Schematic "SENSOR")
       (Page "PAGE1")))
   (LastUsedLibraryBrowseDirectory
      "C:\Cadence\OrCADX_25.1\tools\capture\library"))
