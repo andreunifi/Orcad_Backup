@@ -1,35 +1,62 @@
-  Revised: Tuesday, May 12, 2026
-          Revision: 
+Project 18 - MCU Block  Revised: Friday, May 29, 2026
+P18_MCU          Revision: 2
+
+Politecnico di Torino
+Corso Duca degli Abruzzi, 24
+Andrea Mugnaini
 
 
 
-
-
-
-
-Bill Of Materials            May 12,2026      17:29:00	Page1
+Bill Of Materials            May 29,2026      15:03:53	Page1
 
 Item	Quantity	Reference	Part
 ______________________________________________
 
-1	9	C1,C2,C3,C5,C7,C8,C9,C11,	100nF
-		C12
-2	1	C4	10uF
-3	1	C6	10µF
-4	1	C10	1µF
-5	2	C13,C14	12pF
-6	2	FID1,FID2	FIDUCIAL1X2
-7	1	FRAME1	FRAME-LETTER
-8	1	JP1	DNP
-9	1	JP2	N_A
-10	1	LOGO1	SFE_LOGO_NAME_FLAME.1_INCH
-11	1	LOGO2	OSHW-LOGOS
-12	1	L1	1.5µH
-13	1	L2	B82422-A1103-J/EPC
-14	1	Q1	2N3904
-15	1	R1	100
-16	1	R2	10k
-17	2	STANDOFF1,STANDOFF2	STAND-OFF
-18	1	U1	CC2640RHB
-19	1	XTAL1	TSX-322516P0000MF09Z-AC3
-20	1	XTAL2	CRYSTALH
+1	1	A1	Antenna
+2	1	CON1	FTSH-105-01-F-DV
+3	2	C1,C9	DNM
+4	5	C2,C3,C5,C7,C8	100nF
+5	1	C4	10uF
+6	1	C6	10µF
+7	1	C10	1µF
+8	2	C11,C12	12pF
+9	1	C13	100 nF
+10	1	C14	12 pF
+11	2	C15,C16	1.2 pF
+12	1	C17	470 µF
+13	1	C18	1 µF
+14	2	C19,C21	4.7 µF
+15	1	C20	10 µF
+16	1	D1	SS14
+17	1	D2	M7
+18	1	J1	CONN_03P_00C_1
+19	1	J2	USB-C connector - data pins
+20	1	J3	Solar Panel
+21	1	J4	USB-C connector - power pins
+22	1	J5	Battery
+23	1	J6	1729128
+24	1	LED1	green led
+25	1	LED2	red led
+26	1	L1	1.5µH
+27	2	L2,L5	10 uH
+28	1	L3	15 nH
+29	1	L4	2 nH
+30	1	Q1	MOSFET N
+31	1	Q2	AO3400A
+32	1	RT1	10 kOhm
+33	2	R1,R11	100 Ohm
+34	1	R2	1kOhm
+35	1	R3	100 kOhm
+36	2	R4,R5	680 Ohm
+37	1	R6	270 Ohm
+38	2	R7,R8	5.1 kOhm
+39	1	R9	2 kOhm
+40	1	R10	20 kOhm
+41	1	R12	1 kOhm
+42	1	SW1	TS14-1212-60-BK-260-SCR-D
+43	1	U1	CC2640R2FRHB
+44	1	U2	Battery Charger
+45	1	U3	Voltage Regulator
+46	1	U4	RELAY
+47	1	Y1	24 MHZ
+48	1	Y2	32.768kHz
