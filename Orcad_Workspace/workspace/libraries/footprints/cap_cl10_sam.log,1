@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : CAP_CL10_SAM.dra                              )
+(    Software Version : 25.1P001                                      )
+(    Date/Time        : Wed May 20 17:29:40 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/Giorgio/Documents/Cadence/cdssetup/workspace/libraries/footprints
+    Name      = cap_cl10_sam.psm
+    User      = Giorgio
+    Machine   = W11TG-GN
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

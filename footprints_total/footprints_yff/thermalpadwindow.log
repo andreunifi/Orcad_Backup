@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : thermalpadwindow.dra                          )
+(    Software Version : 25.1P001                                      )
+(    Date/Time        : Sat May 23 01:08:34 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: SHAPE
+    Directory = C:/ESEProjectLIB/workspace/libraries/footprints
+    Name      = thermalpadwindow.ssm
+    User      = NewAdmin
+    Machine   = DESKTOP-0M0742J
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

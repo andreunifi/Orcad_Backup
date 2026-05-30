@@ -1,0 +1,1012 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
+|                                                    Sat May 30 17:21:24 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  3.3 V        pins ADDED TO this new net
+                                 D2.1           L1.2           L5.1           
+                                 U3.8           U3.10          U4.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  0            pins ADDED TO this new net
+                                 C17.2          C18.2          C19.1          
+                                 C20.1          C21.1          J2.2           
+                                 J3.A1          J3.A12         J3.B1          
+                                 J3.B12         J4.2           R7.1           
+                                 R8.1           R9.1           R10.1          
+                                 RT1.1          U2.3           U2.9           
+                                 U2.10          U2.11          U2.21          
+                                 U3.1           U3.4           U3.5           
+                                 U3.6           U3.7           U3.11          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BATT_IN      pins ADDED TO this new net
+                                 C21.2          J4.1           U2.14          
+                                 U2.15          U2.16          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BUTTON1      pins ADDED TO this new net
+                                 R6.1           U1.25          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CC1          pins ADDED TO this new net
+                                 J3.A5          R7.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CC2          pins ADDED TO this new net
+                                 J3.B5          R8.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  COM          pins ADDED TO this new net
+                                 J5.2           U4.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DCDC_SW      pins ADDED TO this new net
+                                 L2.A           U1.17          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DCOUPL       pins ADDED TO this new net
+                                 C10.2          U1.12          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DIO_5        pins ADDED TO this new net
+                                 CON1.7         U1.15          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DIO_7        pins ADDED TO this new net
+                                 CON1.8         U1.20          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DIO_9        pins ADDED TO this new net
+                                 R11.1          U1.22          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
+|                                                    Sat May 30 17:21:24 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  GND          pins ADDED TO this new net
+                                 A1.1           C1.1           C2.1           
+                                 C3.1           C4.1           C5.1           
+                                 C6.1           C7.1           C8.1           
+                                 C9.1           C10.1          C11.1          
+                                 C12.1          C13.1          C14.1          
+                                 C15.1          C16.1          CON1.1         
+                                 CON1.3         CON1.4         J1.3           
+                                 Q2.2           R2.1           R4.2           
+                                 R5.2           R12.1          R14.1          
+                                 SW1.2          U1.33          Y1.2           
+                                 Y1.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JTAG_TCKC    pins ADDED TO this new net
+                                 CON1.9         U1.14          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JTAG_TMSC    pins ADDED TO this new net
+                                 CON1.10        U1.13          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LED_GREEN    pins ADDED TO this new net
+                                 LED1.1         U1.26          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LED_RED      pins ADDED TO this new net
+                                 LED2.1         U1.24          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LOW_SIDE     pins ADDED TO this new net
+                                 D2.2           Q2.3           U4.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LP_FIL       pins ADDED TO this new net
+                                 C14.2          C16.2          L4.B           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01608       pins ADDED TO this new net
+                                 D1.2           J2.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02347       pins ADDED TO this new net
+                                 Q2.1           R11.2          R12.2          
+                                 R14.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N05326       pins ADDED TO this new net
+                                 R10.2          U2.12          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N05411       pins ADDED TO this new net
+                                 R9.2           U2.13          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N05874       pins ADDED TO this new net
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
+|                                                    Sat May 30 17:21:24 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 C19.2          U2.1           U2.20          
+                                 U3.2           U3.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N71829       pins ADDED TO this new net
+                                 LED1.2         R4.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N71891       pins ADDED TO this new net
+                                 LED2.2         R5.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N71953       pins ADDED TO this new net
+                                 R6.2           SW1.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N78130       pins ADDED TO this new net
+                                 Q1.1           R1.2           R2.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N78719       pins ADDED TO this new net
+                                 J1.1           Q1.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N833171      pins ADDED TO this new net
+                                 L5.2           U3.9           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  NLBO         pins ADDED TO this new net
+                                 U1.7           U2.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  NO           pins ADDED TO this new net
+                                 J5.1           U4.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  NPG          pins ADDED TO this new net
+                                 U1.6           U2.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  NTC_SENSE    pins ADDED TO this new net
+                                 RT1.2          U2.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RESET_N      pins ADDED TO this new net
+                                 C13.2          CON1.6         R3.1           
+                                 U1.19          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RF_N         pins ADDED TO this new net
+                                 L3.A           U1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RF_P         pins ADDED TO this new net
+                                 C15.2          L3.B           L4.A           
+                                 U1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SENSOR_IN    pins ADDED TO this new net
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
+|                                                    Sat May 30 17:21:24 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 J1.2           U1.27          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SENS_ON      pins ADDED TO this new net
+                                 R1.1           U1.21          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SOLAR_IN     pins ADDED TO this new net
+                                 C17.1          C18.1          C20.2          
+                                 D1.1           J3.A4          J3.A9          
+                                 J3.B4          J3.B9          U2.2           
+                                 U2.4           U2.17          U2.18          
+                                 U2.19          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDDR         pins ADDED TO this new net
+                                 C6.2           C7.2           C8.2           
+                                 C9.2           L2.B           U1.29          
+                                 U1.32          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDDS         pins ADDED TO this new net
+                                 C1.2           C2.2           C3.2           
+                                 C4.2           C5.2           CON1.5         
+                                 L1.1           Q1.2           R3.2           
+                                 U1.11          U1.18          U1.28          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  X24M_N       pins ADDED TO this new net
+                                 U1.31          Y1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  X24M_P       pins ADDED TO this new net
+                                 U1.30          Y1.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  X32K_Q1      pins ADDED TO this new net
+                                 C11.2          U1.5           Y2.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  X32K_Q2      pins ADDED TO this new net
+                                 C12.2          U1.4           Y2.2           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
+|                                                    Sat May 30 17:21:24 2026  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 1725669_CONN_1725669_PXC_CONN_03P_00C_1
+ 1729128_CONN_1729128_PXC_1729128
+ 1729128_CONN_1729128_PXC_SOLAR PANEL
+ 1054550101_CONN_1054550101_MOL_1054550101
+ ANTEENA_AN043_FLIP_ANTENNA
+ AO3400A_SMSOT23123_AO3400A
+ B82422-A1103-J/EPC_INDC3225X135N_2 NH
+ B82422-A1103-J/EPC_INDC3225X135N_10 UH
+ B82422-A1103-J/EPC_INDC3225X135N_15 NH
+ BLM18HE152SN1D_IND_BLM18_0603_MUR_1.5 UH
+ CAPACITOR_MF_0402_SMD_CAPACITOR_1.2 PF
+ CAPACITOR_MF_0402_SMD_CAPACITOR_12 PF
+ CAPACITOR_MF_0402_SMD_CAPACITOR_100 NF
+ CC0603KRX7R6BB105_CAPC1608X90N_1 UF
+ CC0603MRX7R5BB475_CAP_CC0603_YAG_4.7 UF
+ CC2640R2FRHBR_0_RHB0032E_CC2640R2FRHB
+ CL10B106MQ8NRNC_CAP_CL10_SAM_10 UF
+ C_CK05_1 UF
+ C_CK05_10 UF
+ C_CK05_12 PF
+ C_CK05_100 NF
+ C_CK05_DNM
+ DK1A-3V-F_0_AW3212F_RELAY
+ EEV477M010A9MAA_0_CAPAE1030X1050N_470 UF
+ FC-135R_0_C-135R_32.768KHZ
+ FTSH-105-01-F-DV_FTSH-105-01-F-DV_FTSH-105-01-F-DV
+ IFSC1515AHER100M01_0_IND_IFSC_1515AH_VIS_10 UH
+ LED_MF_0603_SMD_LED_GREEN LED
+ LED_MF_0603_SMD_LED_RED LED
+ M7_1_DIO_M7_M7
+ MCP73871-2CCIML_2_QFN20_4X4MC_MCH_BATTERY CHARGER
+ MOSFET N_SMSOT23123_MOSFET N
+ NTCLE350E4103FHB0_0_NTCLE350E4103FHB0_10 KOHM
+ RC0603FR-071KL_0_RC0603N_YAG_1 KOHM
+ RC0603FR-071KL_0_RESC1608X55N_1 KOHM
+ RC0603FR-072KL_0_RESC1608X55N_2 KOHM
+ RC0603FR-075K1L_5_RC0603N_YAG_5.1 KOHM
+ RC0603FR-0720KL_0_RESC1608X55N_20 KOHM
+ RC0603FR-07100RL_1_RC0603N_YAG_100 OHM
+ RC0603FR-07100RL_1_RESC1608X55N_100 OHM
+ RESISTOR_MF_0402_SMD_RESISTOR_270 OHM
+ RESISTOR_MF_0402_SMD_RESISTOR_680 OHM
+ R_AXRC05_1 KOHM
+ R_AXRC05_100 KOHM
+ R_AXRC05_100 OHM
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
+|                                                    Sat May 30 17:21:24 2026  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ S2B-PH-K-SLFSN_CONN_S2B-PH-K-S_JST_BATTERY
+ SS14_0_DIOM5127X261N_SS14
+ SWITCHBUTTON_KSS341GLFS_TS14-1212-60-BK-260-SCR-D
+ TPS62177DQCR_2_DQC0010A_VOLTAGE REGULATOR
+ TXS-3225_TSX-3225_24MHZ_24 MHZ
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
+|                                                    Sat May 30 17:21:24 2026  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ A1                  ANTEENA_AN043_FLIP_ANTENNA 
+ C1                  C_CK05_DNM            
+ C2                  C_CK05_100 NF         
+ C3                  C_CK05_100 NF         
+ C4                  C_CK05_10 UF          
+ C5                  C_CK05_100 NF         
+ C6                  C_CK05_10 UF          
+ C7                  C_CK05_100 NF         
+ C8                  C_CK05_100 NF         
+ C9                  C_CK05_DNM            
+ C10                 C_CK05_1 UF           
+ C11                 C_CK05_12 PF          
+ C12                 C_CK05_12 PF          
+ C13                 CAPACITOR_MF_0402_SMD_CAPACITOR_100 NF 
+ C14                 CAPACITOR_MF_0402_SMD_CAPACITOR_12 PF 
+ C15                 CAPACITOR_MF_0402_SMD_CAPACITOR_1.2 PF 
+ C16                 CAPACITOR_MF_0402_SMD_CAPACITOR_1.2 PF 
+ C17                 EEV477M010A9MAA_0_CAPAE1030X1050N_470 UF 
+ C18                 CC0603KRX7R6BB105_CAPC1608X90N_1 UF 
+ C19                 CC0603MRX7R5BB475_CAP_CC0603_YAG_4.7 UF 
+ C20                 CL10B106MQ8NRNC_CAP_CL10_SAM_10 UF 
+ C21                 CC0603MRX7R5BB475_CAP_CC0603_YAG_4.7 UF 
+ CON1                FTSH-105-01-F-DV_FTSH-105-01-F-DV_FTSH-105-01-F-DV 
+ D1                  SS14_0_DIOM5127X261N_SS14 
+ D2                  M7_1_DIO_M7_M7        
+ J1                  1725669_CONN_1725669_PXC_CONN_03P_00C_1 
+ J2                  1729128_CONN_1729128_PXC_SOLAR PANEL 
+ J3                  1054550101_CONN_1054550101_MOL_1054550101 
+ J4                  S2B-PH-K-SLFSN_CONN_S2B-PH-K-S_JST_BATTERY 
+ J5                  1729128_CONN_1729128_PXC_1729128 
+ L1                  BLM18HE152SN1D_IND_BLM18_0603_MUR_1.5 UH 
+ L2                  B82422-A1103-J/EPC_INDC3225X135N_10 UH 
+ L3                  B82422-A1103-J/EPC_INDC3225X135N_15 NH 
+ L4                  B82422-A1103-J/EPC_INDC3225X135N_2 NH 
+ L5                  IFSC1515AHER100M01_0_IND_IFSC_1515AH_VIS_10 UH 
+ LED1                LED_MF_0603_SMD_LED_GREEN LED 
+ LED2                LED_MF_0603_SMD_LED_RED LED 
+ Q1                  MOSFET N_SMSOT23123_MOSFET N 
+ Q2                  AO3400A_SMSOT23123_AO3400A 
+ R1                  R_AXRC05_100 OHM      
+ R2                  R_AXRC05_1 KOHM       
+ R3                  R_AXRC05_100 KOHM     
+ R4                  RESISTOR_MF_0402_SMD_RESISTOR_680 OHM 
+ R5                  RESISTOR_MF_0402_SMD_RESISTOR_680 OHM 
+ R6                  RESISTOR_MF_0402_SMD_RESISTOR_270 OHM 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
+|                                                    Sat May 30 17:21:24 2026  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R7                  RC0603FR-075K1L_5_RC0603N_YAG_5.1 KOHM 
+ R8                  RC0603FR-075K1L_5_RC0603N_YAG_5.1 KOHM 
+ R9                  RC0603FR-072KL_0_RESC1608X55N_2 KOHM 
+ R10                 RC0603FR-0720KL_0_RESC1608X55N_20 KOHM 
+ R11                 RC0603FR-07100RL_1_RESC1608X55N_100 OHM 
+ R12                 RC0603FR-071KL_0_RESC1608X55N_1 KOHM 
+ R13                 RC0603FR-07100RL_1_RC0603N_YAG_100 OHM 
+ R14                 RC0603FR-071KL_0_RC0603N_YAG_1 KOHM 
+ RT1                 NTCLE350E4103FHB0_0_NTCLE350E4103FHB0_10 KOHM 
+ SW1                 SWITCHBUTTON_KSS341GLFS_TS14-1212-60-BK-260-SCR-D 
+ U1                  CC2640R2FRHBR_0_RHB0032E_CC2640R2FRHB 
+ U2                  MCP73871-2CCIML_2_QFN20_4X4MC_MCH_BATTERY CHARGER 
+ U3                  TPS62177DQCR_2_DQC0010A_VOLTAGE REGULATOR 
+ U4                  DK1A-3V-F_0_AW3212F_RELAY 
+ Y1                  TXS-3225_TSX-3225_24MHZ_24 MHZ 
+ Y2                  FC-135R_0_C-135R_32.768KHZ 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   9  |
+|------------------------------------------------------------------------------|
+|  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
+|                                                    Sat May 30 17:21:24 2026  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ A1.1                           PRIM_FILE      .\pstchip.dat
+ A1.1                           SCH_BBOX       (480,170,530,230)
+ A1.1                           SCH_MIRROR     (0)
+ A1.1                           SCH_ORIENT     (0)
+ A1.1                           XY             (480,170)
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C1.2                           SCH_BBOX       (140,90,160,100)
+ C1.2                           SCH_MIRROR     (0)
+ C1.2                           SCH_ORIENT     (90)
+ C1.2                           XY             (140,90)
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           SCH_BBOX       (200,90,220,100)
+ C2.2                           SCH_MIRROR     (0)
+ C2.2                           SCH_ORIENT     (90)
+ C2.2                           XY             (200,90)
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ C3.2                           SCH_BBOX       (250,90,270,100)
+ C3.2                           SCH_MIRROR     (0)
+ C3.2                           SCH_ORIENT     (90)
+ C3.2                           XY             (250,90)
+ C4.2                           PRIM_FILE      .\pstchip.dat
+ C4.2                           SCH_BBOX       (310,90,330,100)
+ C4.2                           SCH_MIRROR     (0)
+ C4.2                           SCH_ORIENT     (90)
+ C4.2                           XY             (310,90)
+ C5.2                           PRIM_FILE      .\pstchip.dat
+ C5.2                           SCH_BBOX       (370,90,390,100)
+ C5.2                           SCH_MIRROR     (0)
+ C5.2                           SCH_ORIENT     (90)
+ C5.2                           XY             (370,90)
+ C6.2                           PRIM_FILE      .\pstchip.dat
+ C6.2                           SCH_BBOX       (660,90,680,100)
+ C6.2                           SCH_MIRROR     (0)
+ C6.2                           SCH_ORIENT     (90)
+ C6.2                           XY             (660,90)
+ C7.2                           PRIM_FILE      .\pstchip.dat
+ C7.2                           SCH_BBOX       (720,90,740,100)
+ C7.2                           SCH_MIRROR     (0)
+ C7.2                           SCH_ORIENT     (90)
+ C7.2                           XY             (720,90)
+ C8.2                           PRIM_FILE      .\pstchip.dat
+ C8.2                           SCH_BBOX       (780,90,800,100)
+ C8.2                           SCH_MIRROR     (0)
+ C8.2                           SCH_ORIENT     (90)
+ C8.2                           XY             (780,90)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  10  |
+|------------------------------------------------------------------------------|
+|  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
+|                                                    Sat May 30 17:21:24 2026  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C9.2                           PRIM_FILE      .\pstchip.dat
+ C9.2                           SCH_BBOX       (840,90,860,100)
+ C9.2                           SCH_MIRROR     (0)
+ C9.2                           SCH_ORIENT     (90)
+ C9.2                           XY             (840,90)
+ C10.2                          PRIM_FILE      .\pstchip.dat
+ C10.2                          SCH_BBOX       (690,420,710,430)
+ C10.2                          SCH_MIRROR     (0)
+ C10.2                          SCH_ORIENT     (90)
+ C10.2                          XY             (690,420)
+ C11.2                          PRIM_FILE      .\pstchip.dat
+ C11.2                          SCH_BBOX       (210,490,230,500)
+ C11.2                          SCH_MIRROR     (0)
+ C11.2                          SCH_ORIENT     (90)
+ C11.2                          XY             (210,490)
+ C12.2                          PRIM_FILE      .\pstchip.dat
+ C12.2                          SCH_BBOX       (270,490,290,500)
+ C12.2                          SCH_MIRROR     (0)
+ C12.2                          SCH_ORIENT     (90)
+ C12.2                          XY             (270,490)
+ C13.2                          PRIM_FILE      .\pstchip.dat
+ C13.2                          SCH_BBOX       (130,610,150,620)
+ C13.2                          SCH_MIRROR     (0)
+ C13.2                          SCH_ORIENT     (90)
+ C13.2                          XY             (130,610)
+ C14.2                          PRIM_FILE      .\pstchip.dat
+ C14.2                          SCH_BBOX       (440,210,450,230)
+ C14.2                          SCH_MIRROR     (0)
+ C14.2                          SCH_ORIENT     (180)
+ C14.2                          XY             (440,210)
+ C15.2                          PRIM_FILE      .\pstchip.dat
+ C15.2                          SCH_BBOX       (260,240,280,250)
+ C15.2                          SCH_MIRROR     (0)
+ C15.2                          SCH_ORIENT     (90)
+ C15.2                          XY             (260,240)
+ C16.2                          PRIM_FILE      .\pstchip.dat
+ C16.2                          SCH_BBOX       (390,240,410,250)
+ C16.2                          SCH_MIRROR     (0)
+ C16.2                          SCH_ORIENT     (90)
+ C16.2                          XY             (390,240)
+ C17.2                          PRIM_FILE      .\pstchip.dat
+ C17.2                          SCH_BBOX       (536,66,556,96)
+ C17.2                          SCH_MIRROR     (0)
+ C17.2                          SCH_ORIENT     (270)
+ C17.2                          XY             (536,66)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  11  |
+|------------------------------------------------------------------------------|
+|  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
+|                                                    Sat May 30 17:21:24 2026  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C18.2                          PRIM_FILE      .\pstchip.dat
+ C18.2                          SCH_BBOX       (626,76,646,86)
+ C18.2                          SCH_MIRROR     (0)
+ C18.2                          SCH_ORIENT     (270)
+ C18.2                          XY             (626,76)
+ C19.2                          PRIM_FILE      .\pstchip.dat
+ C19.2                          SCH_BBOX       (606,251,616,271)
+ C19.2                          SCH_MIRROR     (0)
+ C19.2                          SCH_ORIENT     (180)
+ C19.2                          XY             (606,251)
+ C20.2                          PRIM_FILE      .\pstchip.dat
+ C20.2                          SCH_BBOX       (26,287,46,297)
+ C20.2                          SCH_MIRROR     (0)
+ C20.2                          SCH_ORIENT     (90)
+ C20.2                          XY             (26,287)
+ C21.2                          PRIM_FILE      .\pstchip.dat
+ C21.2                          SCH_BBOX       (669,409,689,419)
+ C21.2                          SCH_MIRROR     (0)
+ C21.2                          SCH_ORIENT     (90)
+ C21.2                          XY             (669,409)
+ CON1.9                         PRIM_FILE      .\pstchip.dat
+ CON1.9                         SCH_BBOX       (702,373,742,472)
+ CON1.9                         SCH_MIRROR     (0)
+ CON1.9                         SCH_ORIENT     (0)
+ CON1.9                         XY             (702,373)
+ D1.1                           PRIM_FILE      .\pstchip.dat
+ D1.1                           SCH_BBOX       (721,46,761,66)
+ D1.1                           SCH_MIRROR     (0)
+ D1.1                           SCH_ORIENT     (0)
+ D1.1                           XY             (721,46)
+ D2.1                           PRIM_FILE      .\pstchip.dat
+ D2.1                           SCH_BBOX       (563,286,583,326)
+ D2.1                           SCH_MIRROR     (0)
+ D2.1                           SCH_ORIENT     (270)
+ D2.1                           XY             (563,286)
+ J1.3                           PRIM_FILE      .\pstchip.dat
+ J1.3                           SCH_BBOX       (880,330,910,370)
+ J1.3                           SCH_MIRROR     (0)
+ J1.3                           SCH_ORIENT     (0)
+ J1.3                           XY             (880,330)
+ J2.2                           PRIM_FILE      .\pstchip.dat
+ J2.2                           SCH_BBOX       (857,46,887,76)
+ J2.2                           SCH_MIRROR     (0)
+ J2.2                           SCH_ORIENT     (0)
+ J2.2                           XY             (857,46)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  12  |
+|------------------------------------------------------------------------------|
+|  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
+|                                                    Sat May 30 17:21:24 2026  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ J3.B9                          PRIM_FILE      .\pstchip.dat
+ J3.B9                          SCH_BBOX       (114,322,214,472)
+ J3.B9                          SCH_MIRROR     (0)
+ J3.B9                          SCH_ORIENT     (0)
+ J3.B9                          XY             (114,322)
+ J4.2                           PRIM_FILE      .\pstchip.dat
+ J4.2                           SCH_BBOX       (771,389,801,419)
+ J4.2                           SCH_MIRROR     (0)
+ J4.2                           SCH_ORIENT     (0)
+ J4.2                           XY             (771,389)
+ J5.2                           PRIM_FILE      .\pstchip.dat
+ J5.2                           SCH_BBOX       (853,296,893,326)
+ J5.2                           SCH_MIRROR     (0)
+ J5.2                           SCH_ORIENT     (0)
+ J5.2                           XY             (853,296)
+ L1.2                           PRIM_FILE      .\pstchip.dat
+ L1.2                           SCH_BBOX       (90,70,130,80)
+ L1.2                           SCH_MIRROR     (0)
+ L1.2                           SCH_ORIENT     (0)
+ L1.2                           XY             (90,70)
+ L2.B                           PRIM_FILE      .\pstchip.dat
+ L2.B                           SCH_BBOX       (560,70,600,80)
+ L2.B                           SCH_MIRROR     (0)
+ L2.B                           SCH_ORIENT     (0)
+ L2.B                           XY             (560,70)
+ L3.B                           PRIM_FILE      .\pstchip.dat
+ L3.B                           SCH_BBOX       (170,190,210,200)
+ L3.B                           SCH_MIRROR     (0)
+ L3.B                           SCH_ORIENT     (0)
+ L3.B                           XY             (170,190)
+ L4.B                           PRIM_FILE      .\pstchip.dat
+ L4.B                           SCH_BBOX       (320,210,360,220)
+ L4.B                           SCH_MIRROR     (0)
+ L4.B                           SCH_ORIENT     (0)
+ L4.B                           XY             (320,210)
+ L5.2                           PRIM_FILE      .\pstchip.dat
+ L5.2                           SCH_BBOX       (556,446,596,456)
+ L5.2                           SCH_MIRROR     (0)
+ L5.2                           SCH_ORIENT     (0)
+ L5.2                           XY             (556,446)
+ LED1.2                         PRIM_FILE      .\pstchip.dat
+ LED1.2                         SCH_BBOX       (330,390,360,420)
+ LED1.2                         SCH_MIRROR     (0)
+ LED1.2                         SCH_ORIENT     (0)
+ LED1.2                         XY             (330,390)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  13  |
+|------------------------------------------------------------------------------|
+|  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
+|                                                    Sat May 30 17:21:24 2026  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ LED2.2                         PRIM_FILE      .\pstchip.dat
+ LED2.2                         SCH_BBOX       (330,460,360,490)
+ LED2.2                         SCH_MIRROR     (0)
+ LED2.2                         SCH_ORIENT     (0)
+ LED2.2                         XY             (330,460)
+ Q1.3                           PRIM_FILE      .\pstchip.dat
+ Q1.3                           SCH_BBOX       (820,270,840,290)
+ Q1.3                           SCH_MIRROR     (0)
+ Q1.3                           SCH_ORIENT     (0)
+ Q1.3                           XY             (820,270)
+ Q2.2                           PRIM_FILE      .\pstchip.dat
+ Q2.2                           SCH_BBOX       (380,300,410,340)
+ Q2.2                           SCH_MIRROR     (0)
+ Q2.2                           SCH_ORIENT     (0)
+ Q2.2                           XY             (380,300)
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R1.2                           SCH_BBOX       (740,280,760,300)
+ R1.2                           SCH_MIRROR     (0)
+ R1.2                           SCH_ORIENT     (0)
+ R1.2                           XY             (740,280)
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           SCH_BBOX       (780,300,800,320)
+ R2.2                           SCH_MIRROR     (0)
+ R2.2                           SCH_ORIENT     (90)
+ R2.2                           XY             (780,300)
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           SCH_BBOX       (130,560,150,580)
+ R3.2                           SCH_MIRROR     (0)
+ R3.2                           SCH_ORIENT     (90)
+ R3.2                           XY             (130,560)
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           SCH_BBOX       (390,390,420,410)
+ R4.2                           SCH_MIRROR     (0)
+ R4.2                           SCH_ORIENT     (0)
+ R4.2                           XY             (390,390)
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           SCH_BBOX       (390,460,420,480)
+ R5.2                           SCH_MIRROR     (0)
+ R5.2                           SCH_ORIENT     (0)
+ R5.2                           XY             (390,460)
+ R6.2                           PRIM_FILE      .\pstchip.dat
+ R6.2                           SCH_BBOX       (320,540,350,560)
+ R6.2                           SCH_MIRROR     (0)
+ R6.2                           SCH_ORIENT     (0)
+ R6.2                           XY             (320,540)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  14  |
+|------------------------------------------------------------------------------|
+|  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
+|                                                    Sat May 30 17:21:24 2026  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R7.2                           PRIM_FILE      .\pstchip.dat
+ R7.2                           SCH_BBOX       (201,59,231,79)
+ R7.2                           SCH_MIRROR     (0)
+ R7.2                           SCH_ORIENT     (0)
+ R7.2                           XY             (201,59)
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ R8.2                           SCH_BBOX       (201,89,231,109)
+ R8.2                           SCH_MIRROR     (0)
+ R8.2                           SCH_ORIENT     (0)
+ R8.2                           XY             (201,89)
+ R9.2                           PRIM_FILE      .\pstchip.dat
+ R9.2                           SCH_BBOX       (696,302,726,312)
+ R9.2                           SCH_MIRROR     (0)
+ R9.2                           SCH_ORIENT     (180)
+ R9.2                           XY             (696,302)
+ R10.2                          PRIM_FILE      .\pstchip.dat
+ R10.2                          SCH_BBOX       (696,330,726,340)
+ R10.2                          SCH_MIRROR     (0)
+ R10.2                          SCH_ORIENT     (180)
+ R10.2                          XY             (696,330)
+ R11.2                          PRIM_FILE      .\pstchip.dat
+ R11.2                          SCH_BBOX       (126,325,156,335)
+ R11.2                          SCH_MIRROR     (0)
+ R11.2                          SCH_ORIENT     (0)
+ R11.2                          XY             (126,325)
+ R12.2                          PRIM_FILE      .\pstchip.dat
+ R12.2                          SCH_BBOX       (284,380,294,410)
+ R12.2                          SCH_MIRROR     (0)
+ R12.2                          SCH_ORIENT     (90)
+ R12.2                          XY             (284,380)
+ R13.2                          PRIM_FILE      .\pstchip.dat
+ R13.2                          SCH_BBOX       (126,326,156,336)
+ R13.2                          SCH_MIRROR     (0)
+ R13.2                          SCH_ORIENT     (0)
+ R13.2                          XY             (126,326)
+ R14.2                          PRIM_FILE      .\pstchip.dat
+ R14.2                          SCH_BBOX       (284,381,294,411)
+ R14.2                          SCH_MIRROR     (0)
+ R14.2                          SCH_ORIENT     (90)
+ R14.2                          XY             (284,381)
+ RT1.2                          PRIM_FILE      .\pstchip.dat
+ RT1.2                          SCH_BBOX       (184,631,214,651)
+ RT1.2                          SCH_MIRROR     (0)
+ RT1.2                          SCH_ORIENT     (0)
+ RT1.2                          XY             (184,631)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  15  |
+|------------------------------------------------------------------------------|
+|  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
+|                                                    Sat May 30 17:21:24 2026  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ SW1.2                          PRIM_FILE      .\pstchip.dat
+ SW1.2                          SCH_BBOX       (380,530,430,560)
+ SW1.2                          SCH_MIRROR     (0)
+ SW1.2                          SCH_ORIENT     (0)
+ SW1.2                          XY             (380,530)
+ U1.5                           PRIM_FILE      .\pstchip.dat
+ U1.5                           SCH_BBOX       (470,190,630,490)
+ U1.5                           SCH_MIRROR     (0)
+ U1.5                           SCH_ORIENT     (0)
+ U1.5                           XY             (470,190)
+ U2.2                           PRIM_FILE      .\pstchip.dat
+ U2.2                           SCH_BBOX       (386,226,546,396)
+ U2.2                           SCH_MIRROR     (0)
+ U2.2                           SCH_ORIENT     (0)
+ U2.2                           XY             (386,226)
+ U2.11                          PRIM_FILE      .\pstchip.dat
+ U2.11                          SCH_BBOX       (126,527,226,577)
+ U2.11                          SCH_MIRROR     (0)
+ U2.11                          SCH_ORIENT     (180)
+ U2.11                          XY             (386,226)
+ U3.10                          PRIM_FILE      .\pstchip.dat
+ U3.10                          SCH_BBOX       (426,436,526,576)
+ U3.10                          SCH_MIRROR     (0)
+ U3.10                          SCH_ORIENT     (0)
+ U3.10                          XY             (426,436)
+ U4.6                           PRIM_FILE      .\pstchip.dat
+ U4.6                           SCH_BBOX       (663,256,773,376)
+ U4.6                           SCH_MIRROR     (0)
+ U4.6                           SCH_ORIENT     (90)
+ U4.6                           XY             (663,256)
+ Y1.4                           PRIM_FILE      .\pstchip.dat
+ Y1.4                           SCH_BBOX       (110,370,150,410)
+ Y1.4                           SCH_MIRROR     (0)
+ Y1.4                           SCH_ORIENT     (0)
+ Y1.4                           XY             (110,370)
+ Y2.2                           PRIM_FILE      .\pstchip.dat
+ Y2.2                           SCH_BBOX       (230,440,270,480)
+ Y2.2                           SCH_MIRROR     (0)
+ Y2.2                           SCH_ORIENT     (0)
+ Y2.2                           XY             (230,440)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  16  |
+|------------------------------------------------------------------------------|
+|  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
+|                                                    Sat May 30 17:21:24 2026  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ A1.1                           SCH_LOC        (480,220)
+ C1.1                           SCH_LOC        (150,100)
+ C1.2                           SCH_LOC        (150,90)
+ C2.1                           SCH_LOC        (210,100)
+ C2.2                           SCH_LOC        (210,90)
+ C3.1                           SCH_LOC        (260,100)
+ C3.2                           SCH_LOC        (260,90)
+ C4.1                           SCH_LOC        (320,100)
+ C4.2                           SCH_LOC        (320,90)
+ C5.1                           SCH_LOC        (380,100)
+ C5.2                           SCH_LOC        (380,90)
+ C6.1                           SCH_LOC        (670,100)
+ C6.2                           SCH_LOC        (670,90)
+ C7.1                           SCH_LOC        (730,100)
+ C7.2                           SCH_LOC        (730,90)
+ C8.1                           SCH_LOC        (790,100)
+ C8.2                           SCH_LOC        (790,90)
+ C9.1                           SCH_LOC        (850,100)
+ C9.2                           SCH_LOC        (850,90)
+ C10.1                          SCH_LOC        (700,430)
+ C10.2                          SCH_LOC        (700,420)
+ C11.1                          SCH_LOC        (220,500)
+ C11.2                          SCH_LOC        (220,490)
+ C12.1                          SCH_LOC        (280,500)
+ C12.2                          SCH_LOC        (280,490)
+ C13.1                          SCH_LOC        (140,620)
+ C13.2                          SCH_LOC        (140,610)
+ C14.1                          SCH_LOC        (450,220)
+ C14.2                          SCH_LOC        (440,220)
+ C15.1                          SCH_LOC        (270,250)
+ C15.2                          SCH_LOC        (270,240)
+ C16.1                          SCH_LOC        (400,250)
+ C16.2                          SCH_LOC        (400,240)
+ C17.1                          SCH_LOC        (546,66)
+ C17.2                          SCH_LOC        (546,96)
+ C18.1                          SCH_LOC        (636,76)
+ C18.2                          SCH_LOC        (636,86)
+ C19.1                          SCH_LOC        (616,261)
+ C19.2                          SCH_LOC        (606,261)
+ C20.1                          SCH_LOC        (36,297)
+ C20.2                          SCH_LOC        (36,287)
+ C21.1                          SCH_LOC        (679,419)
+ C21.2                          SCH_LOC        (679,409)
+ CON1.1                         SCH_LOC        (702,383)
+ CON1.3                         SCH_LOC        (702,423)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  17  |
+|------------------------------------------------------------------------------|
+|  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
+|                                                    Sat May 30 17:21:24 2026  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ CON1.4                         SCH_LOC        (702,443)
+ CON1.5                         SCH_LOC        (702,463)
+ CON1.6                         SCH_LOC        (742,383)
+ CON1.7                         SCH_LOC        (742,403)
+ CON1.8                         SCH_LOC        (742,423)
+ CON1.9                         SCH_LOC        (742,443)
+ CON1.10                        SCH_LOC        (742,463)
+ D1.1                           SCH_LOC        (721,56)
+ D1.2                           SCH_LOC        (761,56)
+ D2.1                           SCH_LOC        (573,286)
+ D2.2                           SCH_LOC        (573,326)
+ J1.1                           SCH_LOC        (880,340)
+ J1.2                           SCH_LOC        (880,350)
+ J1.3                           SCH_LOC        (880,360)
+ J2.1                           SCH_LOC        (857,56)
+ J2.2                           SCH_LOC        (857,66)
+ J3.A1                          SCH_LOC        (114,342)
+ J3.A4                          SCH_LOC        (114,372)
+ J3.A5                          SCH_LOC        (114,382)
+ J3.A9                          SCH_LOC        (114,422)
+ J3.A12                         SCH_LOC        (114,452)
+ J3.B1                          SCH_LOC        (214,452)
+ J3.B4                          SCH_LOC        (214,422)
+ J3.B5                          SCH_LOC        (214,412)
+ J3.B9                          SCH_LOC        (214,372)
+ J3.B12                         SCH_LOC        (214,342)
+ J4.1                           SCH_LOC        (771,399)
+ J4.2                           SCH_LOC        (771,409)
+ J5.1                           SCH_LOC        (853,306)
+ J5.2                           SCH_LOC        (853,316)
+ L1.1                           SCH_LOC        (130,80)
+ L1.2                           SCH_LOC        (90,80)
+ L2.A                           SCH_LOC        (560,80)
+ L2.B                           SCH_LOC        (600,80)
+ L3.A                           SCH_LOC        (170,200)
+ L3.B                           SCH_LOC        (210,200)
+ L4.A                           SCH_LOC        (320,220)
+ L4.B                           SCH_LOC        (360,220)
+ L5.1                           SCH_LOC        (596,456)
+ L5.2                           SCH_LOC        (556,456)
+ LED1.1                         SCH_LOC        (330,400)
+ LED1.2                         SCH_LOC        (360,400)
+ LED2.1                         SCH_LOC        (330,470)
+ LED2.2                         SCH_LOC        (360,470)
+ Q1.1                           SCH_LOC        (820,290)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  18  |
+|------------------------------------------------------------------------------|
+|  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
+|                                                    Sat May 30 17:21:24 2026  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ Q1.2                           SCH_LOC        (840,270)
+ Q1.3                           SCH_LOC        (840,290)
+ Q2.1                           SCH_LOC        (380,330)
+ Q2.2                           SCH_LOC        (400,340)
+ Q2.3                           SCH_LOC        (400,300)
+ R1.1                           SCH_LOC        (740,290)
+ R1.2                           SCH_LOC        (760,290)
+ R2.1                           SCH_LOC        (790,320)
+ R2.2                           SCH_LOC        (790,300)
+ R3.1                           SCH_LOC        (140,580)
+ R3.2                           SCH_LOC        (140,560)
+ R4.1                           SCH_LOC        (390,400)
+ R4.2                           SCH_LOC        (420,400)
+ R5.1                           SCH_LOC        (390,470)
+ R5.2                           SCH_LOC        (420,470)
+ R6.1                           SCH_LOC        (320,550)
+ R6.2                           SCH_LOC        (350,550)
+ R7.1                           SCH_LOC        (231,69)
+ R7.2                           SCH_LOC        (201,69)
+ R8.1                           SCH_LOC        (231,99)
+ R8.2                           SCH_LOC        (201,99)
+ R9.1                           SCH_LOC        (726,307)
+ R9.2                           SCH_LOC        (696,307)
+ R10.1                          SCH_LOC        (726,335)
+ R10.2                          SCH_LOC        (696,335)
+ R11.1                          SCH_LOC        (126,330)
+ R11.2                          SCH_LOC        (156,330)
+ R12.1                          SCH_LOC        (289,410)
+ R12.2                          SCH_LOC        (289,380)
+ R14.1                          SCH_LOC        (289,411)
+ R14.2                          SCH_LOC        (289,381)
+ RT1.1                          SCH_LOC        (184,639)
+ RT1.2                          SCH_LOC        (214,639)
+ SW1.1                          SCH_LOC        (380,550)
+ SW1.2                          SCH_LOC        (430,550)
+ U1.1                           SCH_LOC        (630,390)
+ U1.2                           SCH_LOC        (630,380)
+ U1.4                           SCH_LOC        (470,390)
+ U1.5                           SCH_LOC        (470,380)
+ U1.6                           SCH_LOC        (630,210)
+ U1.7                           SCH_LOC        (630,220)
+ U1.11                          SCH_LOC        (470,220)
+ U1.12                          SCH_LOC        (630,410)
+ U1.13                          SCH_LOC        (470,440)
+ U1.14                          SCH_LOC        (470,430)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  19  |
+|------------------------------------------------------------------------------|
+|  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
+|                                                    Sat May 30 17:21:24 2026  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ U1.15                          SCH_LOC        (630,260)
+ U1.17                          SCH_LOC        (470,290)
+ U1.18                          SCH_LOC        (470,270)
+ U1.19                          SCH_LOC        (470,420)
+ U1.20                          SCH_LOC        (630,280)
+ U1.21                          SCH_LOC        (630,290)
+ U1.22                          SCH_LOC        (630,300)
+ U1.24                          SCH_LOC        (630,320)
+ U1.25                          SCH_LOC        (630,330)
+ U1.26                          SCH_LOC        (630,340)
+ U1.27                          SCH_LOC        (630,350)
+ U1.28                          SCH_LOC        (470,210)
+ U1.29                          SCH_LOC        (470,240)
+ U1.30                          SCH_LOC        (470,360)
+ U1.31                          SCH_LOC        (470,350)
+ U1.32                          SCH_LOC        (470,250)
+ U1.33                          SCH_LOC        (630,480)
+ U2.1                           SCH_LOC        (546,256)
+ U2.2                           SCH_LOC        (386,336)
+ U2.3                           SCH_LOC        (386,326)
+ U2.4                           SCH_LOC        (386,306)
+ U2.5                           SCH_LOC        (386,366)
+ U2.6                           SCH_LOC        (546,246)
+ U2.8                           SCH_LOC        (546,286)
+ U2.9                           SCH_LOC        (386,246)
+ U2.10                          SCH_LOC        (226,557)
+ U2.11                          SCH_LOC        (226,547)
+ U2.12                          SCH_LOC        (546,326)
+ U2.13                          SCH_LOC        (546,316)
+ U2.14                          SCH_LOC        (546,346)
+ U2.15                          SCH_LOC        (546,356)
+ U2.16                          SCH_LOC        (546,376)
+ U2.17                          SCH_LOC        (386,256)
+ U2.18                          SCH_LOC        (386,276)
+ U2.19                          SCH_LOC        (386,286)
+ U2.20                          SCH_LOC        (546,266)
+ U2.21                          SCH_LOC        (386,356)
+ U3.1                           SCH_LOC        (526,556)
+ U3.2                           SCH_LOC        (426,456)
+ U3.3                           SCH_LOC        (426,476)
+ U3.4                           SCH_LOC        (426,566)
+ U3.5                           SCH_LOC        (526,516)
+ U3.6                           SCH_LOC        (526,536)
+ U3.7                           SCH_LOC        (526,496)
+ U3.8                           SCH_LOC        (426,516)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  20  |
+|------------------------------------------------------------------------------|
+|  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
+|                                                    Sat May 30 17:21:24 2026  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ U3.9                           SCH_LOC        (526,456)
+ U3.10                          SCH_LOC        (526,476)
+ U3.11                          SCH_LOC        (526,566)
+ U4.1                           SCH_LOC        (693,256)
+ U4.3                           SCH_LOC        (743,376)
+ U4.4                           SCH_LOC        (763,256)
+ U4.6                           SCH_LOC        (693,376)
+ Y1.1                           SCH_LOC        (110,390)
+ Y1.2                           SCH_LOC        (120,410)
+ Y1.3                           SCH_LOC        (150,390)
+ Y1.4                           SCH_LOC        (140,410)
+ Y2.1                           SCH_LOC        (230,460)
+ Y2.2                           SCH_LOC        (270,460)
+|------------------------------------------------------------------------------|
+|       Nets changed          :     193                                        |
+|       Comp definitions added:      50                                        |
+|       Components added      :      61                                        |
+|       Pin property added    :     193                                        |
+|       Slot property added   :     310                                        |
+|                                                                              |
+|   Total ECO changes reported:     807                                        |
+|------------------------------------------------------------------------------|

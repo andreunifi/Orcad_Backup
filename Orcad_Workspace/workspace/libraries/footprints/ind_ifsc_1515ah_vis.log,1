@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : IND_IFSC_1515AH_VIS.dra                       )
+(    Software Version : 25.1P001                                      )
+(    Date/Time        : Wed May 20 16:47:03 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/Giorgio/Documents/Cadence/cdssetup/workspace/libraries/footprints
+    Name      = ind_ifsc_1515ah_vis.psm
+    User      = Giorgio
+    Machine   = W11TG-GN
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

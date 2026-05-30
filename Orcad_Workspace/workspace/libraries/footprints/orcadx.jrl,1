@@ -1,0 +1,1469 @@
+\t (00:00:38) orcadx 25.1 P001 (4349869) [9/14/2025] Windows SPB 64-bit Edition
+\t (00:00:38)     Journal start - Wed May 27 10:48:43 2026
+\t (00:00:38)         Host=DESKTOP-0M0742J User=NewAdmin Pid=10036 CPUs=8
+\t (00:00:38) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\unison.exe -layout -orcadx
+\t (00:00:38) 
+\d (00:00:38) Design opened: C:/ESEProjectLIB/workspace/libraries/footprints/QFN20_4x4MC_MCH.dra
+\i (00:00:38) trapsize 408
+\i (00:00:40) QtSignal PropertyPadstackWidget PropertyPadstackEditMode CurrentIndexChanged 0
+\i (00:00:40) QtSignal PropertyPadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (00:00:40) QtSignal PropertyPadstackWidget copperPadType CurrentIndexChanged 0
+\i (00:00:46) trapsize 523
+\t (00:00:51) Loading consmgr.cxt 
+\t (00:00:51) Loading acns_formula.cxt 
+\i (00:00:51) trapsize 539
+\i (00:00:51) QtSignal Property_Docked_PadstackWidget PropertyPadstackEditMode CurrentIndexChanged +
+\i (00:00:51) QtSignal 0
+\i (00:00:51) QtSignal Property_Docked_PadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (00:00:51) QtSignal Property_Docked_PadstackWidget copperPadType CurrentIndexChanged 0
+\i (00:00:56) trapsize 537
+\i (00:00:58) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:00:58) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:01:01) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
+\i (00:01:01) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:01:01) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:01:02) QtSignal ucp_shape_create_dyn_dim UCPAddShape_Type CurrentIndexChanged 1
+\i (00:01:04) updateport VisibilityPane
+\i (00:01:04) updateport CMPanelPort
+\i (00:01:04) updateport PropPane
+\i (00:01:04) updateport CVPane
+\i (00:01:04) ucpedit 
+\i (00:01:04) updateport ReportsPane
+\i (00:01:04) updateport SearchPane
+\i (00:01:04) updateport VisibilityPane
+\i (00:01:39) zoom in 1 
+\i (00:01:39) setwindow pcb
+\i (00:01:39) zoom in 0.1039 0.3778
+\i (00:01:39) trapsize 268
+\i (00:01:39) zoom in 1 
+\i (00:01:39) setwindow pcb
+\i (00:01:39) zoom in 0.0288 0.3993
+\i (00:01:39) trapsize 134
+\i (00:01:57) zoom out 1 
+\i (00:01:57) setwindow pcb
+\i (00:01:57) zoom out -0.6477 0.9658
+\i (00:01:57) trapsize 268
+\i (00:01:57) zoom out 1 
+\i (00:01:57) setwindow pcb
+\i (00:01:57) zoom out -0.6477 0.9657
+\i (00:01:57) trapsize 537
+\i (00:01:58) zoom out 1 
+\i (00:01:58) setwindow pcb
+\i (00:01:58) zoom out -0.6585 0.9550
+\i (00:01:58) trapsize 1074
+\i (00:01:58) zoom in 1 
+\i (00:01:58) setwindow pcb
+\i (00:01:58) zoom in -0.7229 0.9765
+\i (00:01:58) trapsize 537
+\i (00:01:59) QtSignal UCP_Add_Text UCPTextHeight editingFinished "2.54 MM"
+\i (00:01:59) QtSignal VisibilityLayersViewsWidget All_Off clicked
+\i (00:01:59) updateport ReportsPane
+\i (00:01:59) updateport SearchPane
+\i (00:01:59) updateport VisibilityPane
+\i (00:01:59) updateport PropPane
+\i (00:02:00) updateport CVPane
+\i (00:02:00) updateport VisibilityPane
+\i (00:02:04) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellVisibilityChanged Top All +
+\i (00:02:04) QtSignal 1
+\i (00:02:04) updateport ReportsPane
+\i (00:02:04) updateport SearchPane
+\i (00:02:04) updateport VisibilityPane
+\i (00:02:04) updateport PropPane
+\i (00:02:05) updateport CVPane
+\i (00:02:05) updateport VisibilityPane
+\i (00:02:05) zoom in 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom in -1.0665 -0.3979
+\i (00:02:05) trapsize 268
+\i (00:02:07) prepopup -0.4222 0.4128
+\i (00:02:07) updateport ReportsPane
+\i (00:02:07) updateport SearchPane
+\i (00:02:07) updateport PropPane
+\i (00:02:09) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (R279_279-1) (1)' 
+\i (00:02:09) mod padstack 
+\i (00:02:36) updateport ReportsPane
+\i (00:02:36) updateport SearchPane
+\i (00:02:37) updateport PropPane
+\i (00:02:37) ucpedit 
+\i (00:02:37) updateport ReportsPane
+\i (00:02:37) updateport SearchPane
+\i (00:02:37) updateport VisibilityPane
+\i (00:02:37) updateport PropPane
+\i (00:02:37) zoom in 1 
+\i (00:02:37) setwindow pcb
+\i (00:02:37) zoom in 0.1522 -0.0221
+\i (00:02:37) trapsize 134
+\i (00:02:38) zoom in 1 
+\i (00:02:38) setwindow pcb
+\i (00:02:38) zoom in 0.1334 -0.0301
+\i (00:02:38) trapsize 67
+\i (00:02:39) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellVisibilityChanged Bottom +
+\i (00:02:39) QtSignal All 1
+\i (00:02:39) updateport ReportsPane
+\i (00:02:39) updateport SearchPane
+\i (00:02:39) updateport VisibilityPane
+\i (00:02:39) updateport PropPane
+\i (00:02:39) updateport CVPane
+\i (00:02:39) updateport VisibilityPane
+\i (00:02:40) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellVisibilityChanged Top All +
+\i (00:02:40) QtSignal 0
+\i (00:02:40) updateport ReportsPane
+\i (00:02:40) updateport SearchPane
+\i (00:02:40) updateport VisibilityPane
+\i (00:02:40) updateport PropPane
+\i (00:02:40) updateport CVPane
+\i (00:02:40) updateport VisibilityPane
+\i (00:02:41) prepopup -0.0786 -0.0717
+\i (00:02:41) updateport ReportsPane
+\i (00:02:41) updateport SearchPane
+\i (00:02:41) updateport PropPane
+\i (00:02:43) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (VIAFORMCC) (9)' 
+\i (00:02:43) mod padstack 
+\i (00:08:08) updateport ReportsPane
+\i (00:08:08) updateport SearchPane
+\i (00:08:08) updateport PropPane
+\i (00:08:08) ucpedit 
+\i (00:08:08) updateport ReportsPane
+\i (00:08:08) updateport SearchPane
+\i (00:08:08) updateport VisibilityPane
+\i (00:08:08) updateport PropPane
+\i (00:08:11) zoom out 1 
+\i (00:08:11) setwindow pcb
+\i (00:08:11) zoom out 0.0797 -0.0999
+\i (00:08:11) trapsize 134
+\i (00:08:11) zoom out 1 
+\i (00:08:11) setwindow pcb
+\i (00:08:11) zoom out 0.0798 -0.0998
+\i (00:08:11) trapsize 268
+\i (00:08:11) zoom out 1 
+\i (00:08:11) setwindow pcb
+\i (00:08:11) zoom out 0.0799 -0.0998
+\i (00:08:11) trapsize 537
+\i (00:08:11) zoom in 1 
+\i (00:08:11) setwindow pcb
+\i (00:08:11) zoom in 0.0584 -0.0997
+\i (00:08:11) trapsize 268
+\i (00:08:12) prepopup 0.0531 -0.0943
+\i (00:08:15) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (VIAFORMCC) (9)' 
+\i (00:08:15) mod padstack 
+\i (00:08:24) ucpedit 
+\i (00:08:24) updateport ReportsPane
+\i (00:08:24) updateport SearchPane
+\i (00:08:24) updateport VisibilityPane
+\i (00:08:24) updateport PropPane
+\i (00:08:25) prepopup 0.9443 1.0063
+\i (00:08:25) updateport ReportsPane
+\i (00:08:25) updateport SearchPane
+\i (00:08:25) updateport PropPane
+\i (00:08:27) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (VIAFORMCC) (9)' 
+\i (00:08:27) mod padstack 
+\i (00:08:34) ucpedit 
+\i (00:08:34) updateport ReportsPane
+\i (00:08:34) updateport SearchPane
+\i (00:08:34) updateport VisibilityPane
+\i (00:08:34) updateport PropPane
+\i (00:08:35) zoom out 1 
+\i (00:08:35) setwindow pcb
+\i (00:08:35) zoom out -2.5079 0.3674
+\i (00:08:35) trapsize 537
+\i (00:08:35) zoom in 1 
+\i (00:08:35) setwindow pcb
+\i (00:08:35) zoom in 1.5296 0.3675
+\i (00:08:35) trapsize 268
+\i (00:08:36) roam start
+\i (00:08:36) roam x -1
+\i (00:08:36) roam x -5
+\i (00:08:36) roam y 3
+\i (00:08:36) roam x -4
+\i (00:08:36) roam y 1
+\i (00:08:36) roam x -1
+\i (00:08:36) roam x -4
+\i (00:08:36) roam y 2
+\i (00:08:36) roam x -1
+\i (00:08:36) roam y 2
+\i (00:08:36) roam x -9
+\i (00:08:36) roam y 6
+\i (00:08:36) roam x -5
+\i (00:08:36) roam y 5
+\i (00:08:36) roam x -1
+\i (00:08:36) roam y 4
+\i (00:08:37) roam end
+\i (00:08:38) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellVisibilityChanged Top All +
+\i (00:08:38) QtSignal 1
+\i (00:08:38) updateport ReportsPane
+\i (00:08:38) updateport SearchPane
+\i (00:08:38) updateport VisibilityPane
+\i (00:08:38) updateport PropPane
+\i (00:08:38) updateport CVPane
+\i (00:08:38) updateport VisibilityPane
+\i (00:22:27) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:22:27) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:22:31) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:22:31) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\w (00:30:37) Auto-Backup pending
+\i (00:30:49) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:30:49) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:30:49) zoom out 1 
+\i (00:30:49) setwindow pcb
+\i (00:30:49) zoom out 1.3881 0.3204
+\i (00:30:50) trapsize 537
+\i (00:30:50) zoom out 1 
+\i (00:30:50) setwindow pcb
+\i (00:30:50) zoom out 1.3880 0.3096
+\i (00:30:50) trapsize 1074
+\i (00:30:50) zoom in 1 
+\i (00:30:50) setwindow pcb
+\i (00:30:50) zoom in -1.4896 -0.0340
+\i (00:30:51) trapsize 537
+\i (00:30:51) zoom in 1 
+\i (00:30:51) setwindow pcb
+\i (00:30:51) zoom in -1.4896 -0.0340
+\i (00:30:51) trapsize 268
+\i (00:30:57) prepopup 0.0567 0.5136
+\i (00:30:57) updateport ReportsPane
+\i (00:30:57) updateport SearchPane
+\i (00:30:57) updateport PropPane
+\i (00:31:01) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (R279_279-1) (1)' 
+\i (00:31:01) mod padstack 
+\t (00:31:12) Performing Auto-Backup...
+\t (00:31:13) Auto-Backup successful
+\i (00:31:13) updateport ReportsPane
+\i (00:31:13) updateport PropPane
+\i (00:31:13) ucpedit 
+\i (00:31:13) updateport ReportsPane
+\i (00:31:13) updateport SearchPane
+\i (00:31:13) updateport VisibilityPane
+\i (00:31:13) updateport PropPane
+\i (00:31:15) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellVisibilityChanged Top Pins +
+\i (00:31:15) QtSignal 0
+\i (00:31:15) updateport ReportsPane
+\i (00:31:15) updateport SearchPane
+\i (00:31:15) updateport VisibilityPane
+\i (00:31:15) updateport PropPane
+\i (00:31:15) updateport CVPane
+\i (00:31:15) updateport VisibilityPane
+\i (00:32:21) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:32:21) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:32:22) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellVisibilityChanged Bottom +
+\i (00:32:22) QtSignal All 0
+\i (00:32:22) updateport ReportsPane
+\i (00:32:22) updateport SearchPane
+\i (00:32:22) updateport VisibilityPane
+\i (00:32:22) updateport PropPane
+\i (00:32:22) updateport CVPane
+\i (00:32:22) updateport VisibilityPane
+\i (00:32:23) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellVisibilityChanged Top All +
+\i (00:32:23) QtSignal 1
+\i (00:32:23) updateport ReportsPane
+\i (00:32:23) updateport SearchPane
+\i (00:32:23) updateport VisibilityPane
+\i (00:32:23) updateport PropPane
+\i (00:32:23) updateport CVPane
+\i (00:32:23) updateport VisibilityPane
+\i (00:32:24) prepopup -1.9727 -0.9413
+\i (00:32:24) updateport ReportsPane
+\i (00:32:24) updateport SearchPane
+\i (00:32:24) updateport PropPane
+\i (00:32:26) pick grid dbl -1.9727 -0.9413
+\t (00:32:26) last pick:  -1.9727 -0.9413
+\i (00:32:26) updateport ReportsPane
+\i (00:32:26) updateport SearchPane
+\i (00:32:26) updateport PropPane
+\i (00:32:27) prepopup -2.0318 -0.9897
+\i (00:32:29) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (R25_81) (20)' 
+\i (00:32:29) mod padstack 
+\i (00:33:57) updateport ReportsPane
+\i (00:33:57) updateport SearchPane
+\i (00:33:57) updateport PropPane
+\i (00:33:57) ucpedit 
+\i (00:33:57) updateport ReportsPane
+\i (00:33:57) updateport SearchPane
+\i (00:33:57) updateport VisibilityPane
+\i (00:33:57) updateport PropPane
+\i (00:34:01) prepopup -1.8707 -0.9199
+\i (00:34:02) prepopup -2.0211 -0.2166
+\i (00:34:02) pick grid -2.2197 -0.5870
+\t (00:34:02) last pick:  -2.2197 -0.5870
+\i (00:34:02) updateport ReportsPane
+\i (00:34:02) updateport SearchPane
+\i (00:34:02) updateport PropPane
+\i (00:34:03) prepopup -2.1929 -0.5387
+\i (00:34:05) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (R25_81) (20)' 
+\i (00:34:05) mod padstack 
+\i (00:34:13) ucpedit 
+\i (00:34:13) updateport ReportsPane
+\i (00:34:13) updateport SearchPane
+\i (00:34:13) updateport VisibilityPane
+\i (00:34:13) updateport PropPane
+\i (00:34:15) prepopup -0.5500 -0.4581
+\i (00:34:15) updateport ReportsPane
+\i (00:34:15) updateport SearchPane
+\i (00:34:15) updateport PropPane
+\i (00:34:17) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (R279_279-1) (1)' 
+\i (00:34:17) mod padstack 
+\i (00:34:59) ucpedit 
+\i (00:34:59) updateport ReportsPane
+\i (00:34:59) updateport SearchPane
+\i (00:34:59) updateport VisibilityPane
+\i (00:34:59) updateport PropPane
+\i (00:35:01) zoom out 1 
+\i (00:35:02) setwindow pcb
+\i (00:35:02) zoom out -0.0507 -0.0716
+\i (00:35:02) trapsize 537
+\i (00:35:02) zoom in 1 
+\i (00:35:02) setwindow pcb
+\i (00:35:02) zoom in -0.9419 0.1110
+\i (00:35:02) trapsize 268
+\i (00:35:02) zoom in 1 
+\i (00:35:02) setwindow pcb
+\i (00:35:02) zoom in -0.9473 0.1110
+\i (00:35:02) trapsize 134
+\i (00:35:04) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellVisibilityChanged Top All +
+\i (00:35:04) QtSignal 0
+\i (00:35:04) updateport ReportsPane
+\i (00:35:04) updateport SearchPane
+\i (00:35:04) updateport VisibilityPane
+\i (00:35:04) updateport PropPane
+\i (00:35:04) updateport CVPane
+\i (00:35:04) updateport VisibilityPane
+\i (00:35:04) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellVisibilityChanged Bottom +
+\i (00:35:04) QtSignal All 1
+\i (00:35:04) updateport ReportsPane
+\i (00:35:04) updateport SearchPane
+\i (00:35:04) updateport VisibilityPane
+\i (00:35:04) updateport PropPane
+\i (00:35:04) updateport CVPane
+\i (00:35:04) updateport VisibilityPane
+\i (00:35:05) prepopup -0.9473 -0.0447
+\i (00:35:05) updateport ReportsPane
+\i (00:35:05) updateport SearchPane
+\i (00:35:05) updateport PropPane
+\i (00:35:07) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (VIAFORMCC) (9)' 
+\i (00:35:07) mod padstack 
+\i (00:35:49) updateport ReportsPane
+\i (00:35:49) updateport SearchPane
+\i (00:35:49) updateport PropPane
+\i (00:35:49) ucpedit 
+\i (00:35:49) updateport ReportsPane
+\i (00:35:49) updateport SearchPane
+\i (00:35:49) updateport VisibilityPane
+\i (00:35:49) updateport PropPane
+\i (00:35:50) zoom out 1 
+\i (00:35:50) setwindow pcb
+\i (00:35:50) zoom out -0.7970 -0.0178
+\i (00:35:50) trapsize 268
+\e (00:37:44) Do you want to save the changes you made to QFN20_4x4MC_MCH.dra?
+\i (00:37:47) fillin yes 
+\t (00:37:49) Symbol 'qfn20_4x4mc_mch.psm' created.
+\i (00:37:49) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:37:49) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:42:13) opencd C:/ESEProjectLIB/workspace/libraries/footprints/DIO_M7.dra 
+\t (00:42:13) Opening existing design...
+\i (00:42:13) trapsize 32584
+\d (00:42:15) Design opened: C:/ESEProjectLIB/workspace/libraries/footprints/DIO_M7.dra
+\i (00:42:17) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:42:17) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\w (00:42:19) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:42:20) trapsize 3893
+\i (00:42:21) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:42:21) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:42:21) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:42:21) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:42:21) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:42:21) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:42:21) trapsize 3115
+\i (00:42:21) updateport VisibilityPane
+\i (00:42:21) updateport PropPane
+\i (00:42:21) updateport CVPane
+\i (00:42:22) ucpedit 
+\i (00:42:22) updateport VisibilityPane
+\i (00:42:26) zoom in 1 
+\i (00:42:26) setwindow pcb
+\i (00:42:26) zoom in 0.7904 -1.0549
+\i (00:42:26) trapsize 1558
+\i (00:42:26) zoom in 1 
+\i (00:42:26) setwindow pcb
+\i (00:42:26) zoom in 0.1985 -0.5564
+\i (00:42:26) trapsize 779
+\i (00:42:26) zoom in 1 
+\i (00:42:26) setwindow pcb
+\i (00:42:26) zoom in 0.1050 -0.4162
+\i (00:42:26) trapsize 389
+\i (00:42:27) roam start
+\i (00:42:27) roam x -1
+\i (00:42:27) roam x -6
+\i (00:42:27) roam y -3
+\i (00:42:27) roam x -10
+\i (00:42:27) roam y -2
+\i (00:42:27) zoom in 1 
+\i (00:42:27) setwindow pcb
+\i (00:42:27) zoom in -0.2142 -0.3172
+\i (00:42:27) trapsize 195
+\i (00:42:27) roam x -5
+\i (00:42:27) roam y -1
+\i (00:42:27) roam x -41
+\i (00:42:27) roam y 2
+\i (00:42:27) roam x -13
+\i (00:42:27) roam y 3
+\i (00:42:27) roam x -4
+\i (00:42:27) roam y 1
+\i (00:42:27) roam x -67
+\i (00:42:27) roam y 15
+\i (00:42:27) roam x -31
+\i (00:42:27) roam y 10
+\i (00:42:27) roam x 1
+\i (00:42:27) roam y 1
+\i (00:42:27) roam x 1
+\i (00:42:27) roam y 3
+\i (00:42:27) roam x 1
+\i (00:42:27) roam y 1
+\i (00:42:27) roam x -18
+\i (00:42:27) roam y 5
+\i (00:42:27) roam x -39
+\i (00:42:27) roam y 2
+\i (00:42:27) roam x -5
+\i (00:42:27) roam x 12
+\i (00:42:27) roam y -20
+\i (00:42:27) roam x 18
+\i (00:42:27) roam y -31
+\i (00:42:27) roam x -4
+\i (00:42:27) roam y -29
+\i (00:42:28) roam x -17
+\i (00:42:28) roam y -27
+\i (00:42:28) roam x -9
+\i (00:42:28) roam y -5
+\i (00:42:28) roam x -3
+\i (00:42:28) roam end
+\i (00:42:28) zoom out 1 
+\i (00:42:28) setwindow pcb
+\i (00:42:28) zoom out -0.4946 -0.4652
+\i (00:42:28) trapsize 389
+\i (00:42:29) zoom out 1 
+\i (00:42:29) setwindow pcb
+\i (00:42:29) zoom out -0.7439 -0.5197
+\i (00:42:29) trapsize 779
+\i (00:42:36) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellVisibilityChanged All All +
+\i (00:42:36) QtSignal 0
+\i (00:42:36) updateport ReportsPane
+\i (00:42:36) updateport SearchPane
+\i (00:42:36) updateport VisibilityPane
+\i (00:42:36) updateport PropPane
+\i (00:42:36) updateport CVPane
+\i (00:42:36) updateport VisibilityPane
+\i (00:42:37) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellVisibilityChanged Top All +
+\i (00:42:37) QtSignal 1
+\i (00:42:37) updateport ReportsPane
+\i (00:42:37) updateport SearchPane
+\i (00:42:37) updateport VisibilityPane
+\i (00:42:37) updateport PropPane
+\i (00:42:38) updateport CVPane
+\i (00:42:38) updateport VisibilityPane
+\i (00:42:38) prepopup -3.0646 0.2903
+\i (00:42:38) pop dyn_option_select '@:@All Off' 
+\i (00:42:38) ucp_turn_all_layers_off 
+\i (00:42:38) updateport ReportsPane
+\i (00:42:38) updateport SearchPane
+\i (00:42:38) updateport VisibilityPane
+\i (00:42:38) updateport PropPane
+\i (00:42:40) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellVisibilityChanged Top All +
+\i (00:42:40) QtSignal 1
+\i (00:42:40) updateport ReportsPane
+\i (00:42:40) updateport SearchPane
+\i (00:42:40) updateport VisibilityPane
+\i (00:42:40) updateport PropPane
+\i (00:42:40) updateport CVPane
+\i (00:42:40) updateport VisibilityPane
+\i (00:42:41) prepopup -2.1300 0.2280
+\i (00:42:41) updateport ReportsPane
+\i (00:42:41) updateport SearchPane
+\i (00:42:41) updateport PropPane
+\i (00:42:44) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (S_R160T170D1M160_170P160_17) (2)' 
+\i (00:42:44) mod padstack 
+\i (00:44:04) ucpedit 
+\i (00:44:04) updateport ReportsPane
+\i (00:44:04) updateport SearchPane
+\i (00:44:04) updateport VisibilityPane
+\i (00:44:04) updateport PropPane
+\i (00:44:06) zoom in 1 
+\i (00:44:06) setwindow pcb
+\i (00:44:06) zoom in -3.7032 -0.7689
+\i (00:44:06) trapsize 389
+\i (00:44:07) prepopup -1.6705 -0.0680
+\i (00:44:07) pick grid -1.7251 0.1656
+\t (00:44:07) last pick:  -1.7251 0.1656
+\i (00:44:08) updateport ReportsPane
+\i (00:44:08) updateport SearchPane
+\i (00:44:08) updateport PropPane
+\i (00:44:08) pick grid -1.7484 0.5628
+\t (00:44:08) last pick:  -1.7484 0.5628
+\i (00:44:08) updateport ReportsPane
+\i (00:44:08) updateport SearchPane
+\i (00:44:08) updateport PropPane
+\i (00:44:09) prepopup -1.8185 -0.1069
+\i (00:44:11) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (S_R160T170D1M160_170P160_17) (2)' 
+\i (00:44:11) mod padstack 
+\i (00:44:27) ucpedit 
+\i (00:44:27) updateport ReportsPane
+\i (00:44:27) updateport SearchPane
+\i (00:44:27) updateport VisibilityPane
+\i (00:44:27) updateport PropPane
+\i (00:44:29) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:44:29) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:44:53) opencd C:/ESEProjectLIB/workspace/libraries/footprints/DIO_M7.dra 
+\t (00:44:53) Opening existing design...
+\i (00:44:53) trapsize 32584
+\d (00:44:54) Design opened: C:/ESEProjectLIB/workspace/libraries/footprints/DIO_M7.dra
+\i (00:44:54) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:44:54) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\w (00:44:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:44:55) trapsize 3893
+\i (00:44:55) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:44:55) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:44:55) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:44:55) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:44:55) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:44:55) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:44:56) trapsize 3115
+\i (00:44:56) QtSignal ucp_shape_create_dyn_dim UCPAddShape_Type CurrentIndexChanged 1
+\i (00:44:56) updateport VisibilityPane
+\i (00:44:56) updateport PropPane
+\i (00:44:56) updateport CVPane
+\i (00:44:56) ucpedit 
+\i (00:44:56) updateport VisibilityPane
+\i (00:44:57) zoom in 1 
+\i (00:44:57) setwindow pcb
+\i (00:44:57) zoom in -0.1441 -3.5470
+\i (00:44:57) trapsize 1558
+\i (00:44:57) zoom in 1 
+\i (00:44:57) setwindow pcb
+\i (00:44:57) zoom in -0.1441 -2.8872
+\i (00:44:57) trapsize 779
+\i (00:44:58) prepopup -1.7640 0.0099
+\i (00:44:58) updateport ReportsPane
+\i (00:44:58) updateport SearchPane
+\i (00:44:58) updateport PropPane
+\i (00:45:01) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (S_R160T170D1M160_170P160_17) (2)' 
+\i (00:45:01) mod padstack 
+\i (00:47:34) updateport ReportsPane
+\i (00:47:34) updateport SearchPane
+\i (00:47:34) updateport PropPane
+\i (00:47:34) ucpedit 
+\i (00:47:34) updateport ReportsPane
+\i (00:47:34) updateport SearchPane
+\i (00:47:34) updateport VisibilityPane
+\i (00:47:34) updateport PropPane
+\i (00:47:35) zoom in 1 
+\i (00:47:35) setwindow pcb
+\i (00:47:35) zoom in 1.8029 -0.0524
+\i (00:47:35) trapsize 389
+\i (00:47:35) zoom out 1 
+\i (00:47:35) setwindow pcb
+\i (00:47:35) zoom out 2.1377 0.6485
+\i (00:47:35) trapsize 779
+\i (00:47:36) zoom in 1 
+\i (00:47:36) setwindow pcb
+\i (00:47:36) zoom in 2.0911 0.6174
+\i (00:47:36) trapsize 389
+\i (00:47:40) roam start
+\i (00:47:40) roam x -1
+\i (00:47:40) roam x -32
+\i (00:47:40) roam y -11
+\i (00:47:40) roam x -71
+\i (00:47:40) roam y -21
+\i (00:47:40) roam x -56
+\i (00:47:40) roam y -16
+\i (00:47:40) roam x -10
+\i (00:47:40) roam y -2
+\i (00:47:40) roam x -56
+\i (00:47:40) roam y -7
+\i (00:47:40) roam x -29
+\i (00:47:40) roam x -14
+\i (00:47:40) roam x -7
+\i (00:47:40) roam y 1
+\i (00:47:41) roam end
+\i (00:47:59) zoom in 1 
+\i (00:47:59) setwindow pcb
+\i (00:47:59) zoom in 2.9788 -0.1381
+\i (00:47:59) trapsize 195
+\i (00:47:59) zoom in 1 
+\i (00:47:59) setwindow pcb
+\i (00:47:59) zoom in 2.9788 -0.1381
+\i (00:47:59) trapsize 97
+\i (00:48:01) zoom in 1 
+\i (00:48:01) setwindow pcb
+\i (00:48:01) zoom in 2.8464 -0.0407
+\i (00:48:01) trapsize 49
+\i (00:48:01) zoom in 1 
+\i (00:48:01) setwindow pcb
+\i (00:48:01) zoom in 2.8464 -0.0407
+\i (00:48:01) trapsize 24
+\i (00:48:03) zoom out 1 
+\i (00:48:03) setwindow pcb
+\i (00:48:03) zoom out 2.8508 -0.0363
+\i (00:48:03) trapsize 49
+\i (00:48:03) zoom out 1 
+\i (00:48:03) setwindow pcb
+\i (00:48:03) zoom out 2.8498 -0.0402
+\i (00:48:03) trapsize 97
+\i (00:48:04) zoom out 1 
+\i (00:48:04) setwindow pcb
+\i (00:48:04) zoom out 2.8207 -0.0889
+\i (00:48:04) trapsize 195
+\i (00:48:04) zoom out 1 
+\i (00:48:04) setwindow pcb
+\i (00:48:04) zoom out 2.8089 -0.1084
+\i (00:48:04) trapsize 389
+\i (00:48:41) zoom in 1 
+\i (00:48:41) setwindow pcb
+\i (00:48:41) zoom in -1.6458 -0.1083
+\i (00:48:41) trapsize 195
+\i (00:48:47) roam start
+\i (00:48:47) roam y -1
+\i (00:48:47) roam x -51
+\i (00:48:47) roam y 10
+\i (00:48:47) roam x -83
+\i (00:48:47) roam y 5
+\i (00:48:47) roam x -110
+\i (00:48:47) roam x -15
+\i (00:48:47) roam y -3
+\i (00:48:47) roam y -1
+\i (00:48:47) roam y -1
+\i (00:48:47) roam x 1
+\i (00:48:47) roam end
+\i (00:48:55) QtSignal Allegro_Command_Toolbar AQCommandToolbarMoveButton leftClicked
+\i (00:48:55) ucp_move_mode 
+\i (00:48:55) updateport ReportsPane
+\i (00:48:55) updateport SearchPane
+\i (00:48:55) updateport PropPane
+\i (00:48:55) ucpedit 
+\i (00:48:55) QtSignal UCPMove XSpacingComboBox CurrentIndexChanged Default
+\i (00:48:55) QtSignal UCPMove YSpacingComboBox CurrentIndexChanged Default
+\i (00:48:55) QtSignal UCPMove UCPMoveEtchMode CurrentIndexChanged 1
+\i (00:48:55) QtSignal UCPMove UCPMoveDisplayMode CurrentIndexChanged 0
+\i (00:48:56) updateport ReportsPane
+\i (00:48:56) updateport SearchPane
+\i (00:48:56) updateport VisibilityPane
+\i (00:48:56) updateport PropPane
+\i (00:48:59) QtSignal UCP_Add_Text UCPTextHeight editingFinished "2.54 MM"
+\i (00:48:59) QtSignal VisibilityLayersViewsWidget All_Off clicked
+\i (00:48:59) updateport ReportsPane
+\i (00:48:59) updateport SearchPane
+\i (00:48:59) updateport VisibilityPane
+\i (00:48:59) updateport PropPane
+\i (00:48:59) updateport CVPane
+\i (00:48:59) updateport VisibilityPane
+\i (00:49:01) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellVisibilityChanged Top All +
+\i (00:49:01) QtSignal 1
+\i (00:49:01) updateport ReportsPane
+\i (00:49:01) updateport SearchPane
+\i (00:49:01) updateport VisibilityPane
+\i (00:49:01) updateport PropPane
+\i (00:49:01) updateport CVPane
+\i (00:49:01) updateport VisibilityPane
+\i (00:49:02) zoom in 1 
+\i (00:49:02) setwindow pcb
+\i (00:49:02) zoom in -1.9887 -0.0167
+\i (00:49:02) trapsize 97
+\i (00:49:02) zoom in 1 
+\i (00:49:03) setwindow pcb
+\i (00:49:03) zoom in -1.9887 -0.0167
+\i (00:49:03) trapsize 49
+\i (00:49:03) zoom in 1 
+\i (00:49:03) setwindow pcb
+\i (00:49:03) zoom in -1.9886 -0.0167
+\i (00:49:03) trapsize 24
+\i (00:49:04) pick grid -1.9950 0.0232
+\t (00:49:04) last pick:  -1.9950 0.0232
+\i (00:49:04) ucp_move 
+\t (00:49:04) last pick:  -1.9950 0.0232
+\t (00:49:04) Pick new location for the element(s).
+\i (00:49:04) updateport ReportsPane
+\i (00:49:04) updateport SearchPane
+\i (00:49:04) updateport PropPane
+\i (00:49:06) esc 
+\i (00:49:06) updateport ReportsPane
+\i (00:49:06) updateport SearchPane
+\i (00:49:06) updateport PropPane
+\i (00:49:06) ucpedit 
+\i (00:49:06) updateport ReportsPane
+\i (00:49:06) updateport SearchPane
+\i (00:49:06) updateport VisibilityPane
+\i (00:49:06) updateport PropPane
+\i (00:49:07) zoom out 1 
+\i (00:49:07) setwindow pcb
+\i (00:49:07) zoom out -1.9994 -0.0036
+\i (00:49:07) trapsize 49
+\i (00:49:07) zoom out 1 
+\i (00:49:07) setwindow pcb
+\i (00:49:07) zoom out -1.9993 -0.0093
+\i (00:49:07) trapsize 97
+\i (00:49:17) pick grid -1.9992 0.0023
+\t (00:49:17) last pick:  -1.9992 0.0023
+\i (00:49:17) ucp_move 
+\t (00:49:17) last pick:  -2.0000 0.0000
+\t (00:49:17) Pick new location for the element(s).
+\i (00:49:17) updateport ReportsPane
+\i (00:49:17) updateport SearchPane
+\i (00:49:17) updateport PropPane
+\i (00:49:20) zoom in 1 
+\i (00:49:20) setwindow pcb
+\i (00:49:20) zoom in -2.0304 0.0023
+\i (00:49:20) trapsize 49
+\i (00:49:22) zoom in 1 
+\i (00:49:22) setwindow pcb
+\i (00:49:22) zoom in -2.0498 -0.0035
+\i (00:49:22) trapsize 24
+\i (00:49:22) zoom in 1 
+\i (00:49:22) setwindow pcb
+\i (00:49:22) zoom in -2.0498 -0.0035
+\i (00:49:22) trapsize 12
+\i (00:49:22) zoom in 1 
+\i (00:49:22) setwindow pcb
+\i (00:49:22) zoom in -2.0498 -0.0035
+\i (00:49:22) trapsize 6
+\i (00:49:24) zoom in 1 
+\i (00:49:24) setwindow pcb
+\i (00:49:24) zoom in -2.0454 -0.0017
+\i (00:49:24) trapsize 3
+\i (00:49:26) QtSignal UCPTopQuickAccessToolbar UCPQuickAccessToolbar_Snapping mouseReleased
+\i (00:49:28) QtSignal UCPQuickAccessToolbarSnappingWidget UCPQuickAccessToolbarSnappingViasCenter clicked +
+\i (00:49:28) QtSignal true
+\i (00:49:29) QtSignal UCPQuickAccessToolbarSnappingWidget UCPQuickAccessToolbarSnappingPinsCenter clicked +
+\i (00:49:29) QtSignal true
+\i (00:49:29) QtSignal UCPQuickAccessToolbarSnappingWidget UCPQuickAccessToolbarSnappingFingersCenter clicked +
+\i (00:49:29) QtSignal true
+\i (00:49:30) QtSignal UCPTopQuickAccessToolbar UCPQuickAccessToolbar_Grids mouseReleased
+\i (00:49:30) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMils selectionChanged
+\i (00:49:30) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMils selectionChanged
+\i (00:49:30) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMils selectionChanged
+\i (00:49:30) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMils selectionChanged
+\i (00:49:30) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMils selectionChanged
+\i (00:49:31) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged
+\i (00:49:31) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged
+\i (00:49:31) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged
+\i (00:49:32) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged
+\i (00:49:32) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged
+\i (00:49:35) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged
+\i (00:49:35) QtSignal UCPQuickAccessToolbarGridsWidget UCPQuickAccessToolbarGridsMM selectionChanged +
+\i (00:49:35) QtSignal ".500 / 2.50"
+\i (00:49:37) zoom out 1 
+\i (00:49:37) setwindow pcb
+\i (00:49:37) zoom out -2.0270 -0.0053
+\i (00:49:37) trapsize 6
+\i (00:49:37) zoom out 1 
+\i (00:49:37) setwindow pcb
+\i (00:49:37) zoom out -2.0270 -0.0053
+\i (00:49:37) trapsize 12
+\i (00:49:38) zoom in 1 
+\i (00:49:38) setwindow pcb
+\i (00:49:38) zoom in -2.0269 -0.0029
+\i (00:49:38) trapsize 6
+\i (00:49:40) zoom in 1 
+\i (00:49:40) setwindow pcb
+\i (00:49:40) zoom in -2.0263 -0.0015
+\i (00:49:40) trapsize 3
+\i (00:49:40) zoom in 1 
+\i (00:49:40) setwindow pcb
+\i (00:49:40) zoom in -2.0263 -0.0013
+\i (00:49:40) trapsize 2
+\i (00:49:43) zoom out 1 
+\i (00:49:43) setwindow pcb
+\i (00:49:43) zoom out -2.0339 -0.0010
+\i (00:49:43) trapsize 3
+\i (00:49:43) zoom out 1 
+\i (00:49:43) setwindow pcb
+\i (00:49:43) zoom out -2.0339 -0.0010
+\i (00:49:43) trapsize 6
+\i (00:49:44) zoom out 1 
+\i (00:49:44) setwindow pcb
+\i (00:49:44) zoom out -2.0485 -0.0002
+\i (00:49:44) trapsize 12
+\i (00:49:44) zoom out 1 
+\i (00:49:44) setwindow pcb
+\i (00:49:44) zoom out -2.0482 -0.0017
+\i (00:49:44) trapsize 24
+\i (00:49:44) zoom out 1 
+\i (00:49:44) setwindow pcb
+\i (00:49:44) zoom out -2.0476 -0.0021
+\i (00:49:44) trapsize 49
+\i (00:49:46) roam start
+\i (00:49:46) roam x -1
+\i (00:49:46) roam x -9
+\i (00:49:46) roam y -4
+\i (00:49:46) roam x -104
+\i (00:49:46) roam y -20
+\i (00:49:46) roam x -121
+\i (00:49:46) roam y -17
+\i (00:49:46) roam x -43
+\i (00:49:46) roam y -6
+\i (00:49:46) roam x -158
+\i (00:49:46) roam y -19
+\i (00:49:46) roam x -200
+\i (00:49:46) roam y -35
+\i (00:49:46) roam x -2
+\i (00:49:46) roam x 2
+\i (00:49:46) roam x 1
+\i (00:49:46) roam x 5
+\i (00:49:47) roam x 46
+\i (00:49:47) roam y -1
+\i (00:49:47) roam x 129
+\i (00:49:47) roam y 11
+\i (00:49:47) roam x 50
+\i (00:49:47) roam y 7
+\i (00:49:47) roam x 1
+\i (00:49:47) roam x 1
+\i (00:49:47) roam x 2
+\i (00:49:47) roam x 1
+\i (00:49:47) roam y -1
+\i (00:49:47) roam x 2
+\i (00:49:47) roam y -1
+\i (00:49:47) roam end
+\i (00:49:49) zoom in 1 
+\i (00:49:49) setwindow pcb
+\i (00:49:49) zoom in -2.0937 -0.0005
+\i (00:49:49) trapsize 24
+\i (00:49:49) zoom in 1 
+\i (00:49:49) setwindow pcb
+\i (00:49:49) zoom in -2.0937 -0.0004
+\i (00:49:49) trapsize 12
+\i (00:49:49) zoom in 1 
+\i (00:49:49) setwindow pcb
+\i (00:49:49) zoom in -2.0937 -0.0004
+\i (00:49:49) trapsize 6
+\i (00:49:50) zoom in 1 
+\i (00:49:50) setwindow pcb
+\i (00:49:50) zoom in -2.0936 -0.0004
+\i (00:49:50) trapsize 3
+\i (00:49:51) zoom in 1 
+\i (00:49:51) setwindow pcb
+\i (00:49:51) zoom in -2.0932 -0.0015
+\i (00:49:51) trapsize 2
+\i (00:50:08) pick grid -2.1000 0.0000
+\t (00:50:08) last pick:  -2.1000 0.0000
+\i (00:50:08) updateport ReportsPane
+\i (00:50:08) updateport SearchPane
+\i (00:50:08) updateport PropPane
+\i (00:50:08) ucpedit 
+\i (00:50:08) updateport ReportsPane
+\i (00:50:08) updateport SearchPane
+\i (00:50:08) updateport VisibilityPane
+\i (00:50:08) updateport PropPane
+\i (00:50:09) zoom out 1 
+\i (00:50:09) setwindow pcb
+\i (00:50:09) zoom out -2.1000 -0.0001
+\i (00:50:09) trapsize 3
+\i (00:50:09) zoom out 1 
+\i (00:50:09) setwindow pcb
+\i (00:50:09) zoom out -2.0999 -0.0001
+\i (00:50:09) trapsize 6
+\i (00:50:09) zoom out 1 
+\i (00:50:09) setwindow pcb
+\i (00:50:09) zoom out -2.1001 -0.0004
+\i (00:50:09) trapsize 12
+\i (00:50:09) zoom out 1 
+\i (00:50:10) setwindow pcb
+\i (00:50:10) zoom out -2.1014 -0.0038
+\i (00:50:10) trapsize 24
+\i (00:50:10) zoom out 1 
+\i (00:50:10) setwindow pcb
+\i (00:50:10) zoom out -2.1013 -0.0037
+\i (00:50:10) trapsize 49
+\i (00:50:10) zoom out 1 
+\i (00:50:10) setwindow pcb
+\i (00:50:10) zoom out -2.1012 -0.0036
+\i (00:50:10) trapsize 97
+\i (00:50:10) zoom out 1 
+\i (00:50:10) setwindow pcb
+\i (00:50:10) zoom out -2.1012 -0.0037
+\i (00:50:10) trapsize 195
+\i (00:50:10) zoom out 1 
+\i (00:50:10) setwindow pcb
+\i (00:50:10) zoom out -2.1013 -0.0036
+\i (00:50:10) trapsize 389
+\i (00:50:10) zoom out 1 
+\i (00:50:10) setwindow pcb
+\i (00:50:10) zoom out -2.1012 -0.0036
+\i (00:50:10) trapsize 778
+\i (00:50:11) zoom in 1 
+\i (00:50:11) setwindow pcb
+\i (00:50:11) zoom in -2.2724 -1.5449
+\i (00:50:11) trapsize 389
+\i (00:50:11) zoom in 1 
+\i (00:50:11) setwindow pcb
+\i (00:50:11) zoom in -2.2724 -1.5448
+\i (00:50:11) trapsize 195
+\i (00:50:11) zoom in 1 
+\i (00:50:11) setwindow pcb
+\i (00:50:11) zoom in -2.2724 -1.5448
+\i (00:50:11) trapsize 97
+\i (00:50:12) zoom in 1 
+\i (00:50:12) setwindow pcb
+\i (00:50:12) zoom in -2.2821 -1.3794
+\i (00:50:12) trapsize 49
+\i (00:50:12) zoom out 1 
+\i (00:50:12) setwindow pcb
+\i (00:50:12) zoom out -2.2869 -1.4124
+\i (00:50:12) trapsize 97
+\i (00:50:12) zoom out 1 
+\i (00:50:12) setwindow pcb
+\i (00:50:12) zoom out -2.2870 -1.4125
+\i (00:50:12) trapsize 195
+\i (00:50:12) zoom out 1 
+\i (00:50:12) setwindow pcb
+\i (00:50:12) zoom out -2.2831 -1.4047
+\i (00:50:12) trapsize 389
+\i (00:50:12) zoom out 1 
+\i (00:50:12) setwindow pcb
+\i (00:50:12) zoom out -2.2831 -1.4046
+\i (00:50:12) trapsize 778
+\i (00:50:13) roam start
+\i (00:50:13) roam x 1
+\i (00:50:13) roam x 6
+\i (00:50:13) roam y -12
+\i (00:50:13) roam x 4
+\i (00:50:13) roam y -13
+\i (00:50:13) roam x 1
+\i (00:50:13) roam y -27
+\i (00:50:13) roam x 4
+\i (00:50:13) roam y -18
+\i (00:50:13) roam x 5
+\i (00:50:13) roam y -14
+\i (00:50:13) roam x 12
+\i (00:50:13) roam y -39
+\i (00:50:13) roam x 3
+\i (00:50:13) roam y -16
+\i (00:50:13) roam y -1
+\i (00:50:13) roam end
+\i (00:50:13) zoom in 1 
+\i (00:50:13) setwindow pcb
+\i (00:50:13) zoom in -2.0545 -1.1641
+\i (00:50:13) trapsize 389
+\i (00:50:13) zoom in 1 
+\i (00:50:13) setwindow pcb
+\i (00:50:13) zoom in -2.0467 -1.1563
+\i (00:50:13) trapsize 195
+\i (00:50:13) zoom in 1 
+\i (00:50:13) setwindow pcb
+\i (00:50:13) zoom in -2.0466 -1.1563
+\i (00:50:13) trapsize 97
+\i (00:50:14) zoom out 1 
+\i (00:50:14) setwindow pcb
+\i (00:50:14) zoom out -2.0388 -0.9811
+\i (00:50:14) trapsize 195
+\i (00:50:14) zoom out 1 
+\i (00:50:14) setwindow pcb
+\i (00:50:14) zoom out -2.0388 -0.9811
+\i (00:50:14) trapsize 389
+\i (00:50:14) zoom out 1 
+\i (00:50:14) setwindow pcb
+\i (00:50:14) zoom out -2.0387 -1.0200
+\i (00:50:14) trapsize 778
+\i (00:50:20) zoom in 1 
+\i (00:50:20) setwindow pcb
+\i (00:50:20) zoom in 3.6906 -1.0511
+\i (00:50:20) trapsize 389
+\i (00:50:20) zoom in 1 
+\i (00:50:20) setwindow pcb
+\i (00:50:20) zoom in 3.3170 0.1322
+\i (00:50:20) trapsize 195
+\i (00:50:20) zoom in 1 
+\i (00:50:20) setwindow pcb
+\i (00:50:20) zoom in 3.3365 0.1166
+\i (00:50:20) trapsize 97
+\i (00:50:21) zoom out 1 
+\i (00:50:21) setwindow pcb
+\i (00:50:21) zoom out 2.9395 -0.0041
+\i (00:50:21) trapsize 195
+\i (00:50:23) QtSignal Allegro_Command_Toolbar AQCommandToolbarTraceButton leftClicked
+\i (00:50:23) ucp_trace_slide_mode 
+\i (00:50:23) updateport ReportsPane
+\i (00:50:23) updateport SearchPane
+\w (00:50:23) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:50:23) updateport CMPanelPort
+\i (00:50:23) updateport PropPane
+\i (00:50:23) ucpedit 
+\i (00:50:23) updateport ReportsPane
+\i (00:50:23) updateport SearchPane
+\i (00:50:23) updateport VisibilityPane
+\i (00:50:23) updateport PropPane
+\i (00:50:26) pick grid 1.9937 -0.0040
+\t (00:50:26) last pick:  1.9937 -0.0040
+\i (00:50:26) ucp_trace_slide_pick 
+\t (00:50:26) Selected item not valid for current operation, ignored: Pin "S_R160t170d1m160_170P160_17, A"
+\t (00:50:26) No valid items selected for the current operation, exiting.
+\i (00:50:26) updateport ReportsPane
+\i (00:50:26) updateport SearchPane
+\i (00:50:26) updateport PropPane
+\i (00:50:26) ucpedit 
+\i (00:50:26) updateport ReportsPane
+\i (00:50:26) updateport SearchPane
+\i (00:50:26) updateport VisibilityPane
+\i (00:50:26) updateport PropPane
+\i (00:50:27) zoom in 1 
+\i (00:50:27) setwindow pcb
+\i (00:50:27) zoom in 2.0015 -0.0040
+\i (00:50:27) trapsize 97
+\i (00:50:27) zoom in 1 
+\i (00:50:27) setwindow pcb
+\i (00:50:27) zoom in 2.0015 -0.0040
+\i (00:50:27) trapsize 49
+\i (00:50:30) zoom out 1 
+\i (00:50:30) setwindow pcb
+\i (00:50:30) zoom out 1.9995 -0.0039
+\i (00:50:30) trapsize 97
+\i (00:50:36) zoom in 1 
+\i (00:50:36) setwindow pcb
+\i (00:50:36) zoom in 2.0949 0.0038
+\i (00:50:36) trapsize 49
+\i (00:50:37) zoom out 1 
+\i (00:50:37) setwindow pcb
+\i (00:50:37) zoom out 2.0939 0.0000
+\i (00:50:37) trapsize 97
+\i (00:50:37) zoom out 1 
+\i (00:50:37) setwindow pcb
+\i (00:50:37) zoom out 2.0940 -0.0001
+\i (00:50:37) trapsize 195
+\i (00:50:39) pick grid 2.0045 0.0000
+\t (00:50:39) last pick:  2.0045 0.0000
+\i (00:50:39) ucp_trace_slide_pick 
+\t (00:50:39) Selected item not valid for current operation, ignored: Pin "S_R160t170d1m160_170P160_17, A"
+\t (00:50:39) No valid items selected for the current operation, exiting.
+\i (00:50:39) updateport ReportsPane
+\i (00:50:39) updateport SearchPane
+\i (00:50:39) updateport PropPane
+\i (00:50:39) ucpedit 
+\i (00:50:39) updateport ReportsPane
+\i (00:50:39) updateport SearchPane
+\i (00:50:39) updateport VisibilityPane
+\i (00:50:39) updateport PropPane
+\i (00:50:41) QtSignal Allegro_Command_Toolbar AQCommandToolbarTraceButton leftClicked
+\i (00:50:41) ucp_trace_slide_mode 
+\i (00:50:41) updateport ReportsPane
+\i (00:50:41) updateport SearchPane
+\i (00:50:41) updateport PropPane
+\i (00:50:41) ucpedit 
+\i (00:50:41) updateport ReportsPane
+\i (00:50:41) updateport SearchPane
+\i (00:50:41) updateport VisibilityPane
+\i (00:50:41) updateport PropPane
+\i (00:50:43) pick grid 2.0045 0.0000
+\t (00:50:43) last pick:  2.0045 0.0000
+\i (00:50:43) ucp_trace_slide_pick 
+\t (00:50:43) Selected item not valid for current operation, ignored: Pin "S_R160t170d1m160_170P160_17, A"
+\t (00:50:43) No valid items selected for the current operation, exiting.
+\i (00:50:43) updateport ReportsPane
+\i (00:50:43) updateport SearchPane
+\i (00:50:43) updateport PropPane
+\i (00:50:43) ucpedit 
+\i (00:50:43) updateport ReportsPane
+\i (00:50:43) updateport SearchPane
+\i (00:50:43) updateport VisibilityPane
+\i (00:50:43) updateport PropPane
+\i (00:50:45) pick grid 2.0006 -0.0039
+\t (00:50:45) last pick:  2.0006 -0.0039
+\i (00:50:45) ucp_trace_slide_pick 
+\t (00:50:45) Selected item not valid for current operation, ignored: Pin "S_R160t170d1m160_170P160_17, A"
+\t (00:50:45) No valid items selected for the current operation, exiting.
+\i (00:50:45) updateport ReportsPane
+\i (00:50:45) updateport SearchPane
+\i (00:50:45) updateport PropPane
+\i (00:50:45) ucpedit 
+\i (00:50:45) updateport ReportsPane
+\i (00:50:45) updateport SearchPane
+\i (00:50:45) updateport VisibilityPane
+\i (00:50:45) updateport PropPane
+\i (00:50:46) pick grid 2.0123 0.0233
+\t (00:50:46) last pick:  2.0123 0.0233
+\i (00:50:46) ucp_trace_slide_pick 
+\t (00:50:46) Selected item not valid for current operation, ignored: Pin "S_R160t170d1m160_170P160_17, A"
+\t (00:50:46) No valid items selected for the current operation, exiting.
+\i (00:50:46) updateport ReportsPane
+\i (00:50:46) updateport SearchPane
+\i (00:50:46) updateport PropPane
+\i (00:50:46) ucpedit 
+\i (00:50:46) updateport ReportsPane
+\i (00:50:46) updateport SearchPane
+\i (00:50:46) updateport VisibilityPane
+\i (00:50:46) updateport PropPane
+\i (00:50:46) pick grid dbl 2.0123 0.0233
+\t (00:50:46) last pick:  2.0123 0.0233
+\i (00:50:46) ucp_trace_slide_pick 
+\t (00:50:46) Selected item not valid for current operation, ignored: Pin "S_R160t170d1m160_170P160_17, A"
+\t (00:50:46) No valid items selected for the current operation, exiting.
+\i (00:50:46) updateport ReportsPane
+\i (00:50:46) updateport SearchPane
+\i (00:50:46) updateport PropPane
+\i (00:50:46) ucpedit 
+\i (00:50:46) updateport ReportsPane
+\i (00:50:46) updateport SearchPane
+\i (00:50:46) updateport VisibilityPane
+\i (00:50:46) updateport PropPane
+\i (00:50:48) QtSignal Allegro_Command_Toolbar AQCommandToolbarAddPinSearchButton leftClicked
+\i (00:50:48) ucp_add_pin_search_mode 
+\i (00:50:48) updateport ReportsPane
+\i (00:50:48) updateport SearchPane
+\w (00:50:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:50:48) updateport CMPanelPort
+\i (00:50:48) updateport PropPane
+\i (00:50:48) ucpedit 
+\i (00:50:49) QtSignal UCP_Add_Search_Pin m_libTableView dataChanged 0 0 100R110
+\i (00:50:49) updateport ReportsPane
+\i (00:50:49) updateport SearchPane
+\i (00:50:49) updateport VisibilityPane
+\i (00:50:49) updateport PropPane
+\i (00:50:49) QtSignal Allegro_Command_Toolbar AQCommandToolbarMoveButton leftClicked
+\i (00:50:49) ucp_move_mode 
+\i (00:50:49) updateport ReportsPane
+\i (00:50:49) updateport SearchPane
+\i (00:50:49) updateport PropPane
+\i (00:50:49) ucpedit 
+\i (00:50:49) updateport ReportsPane
+\i (00:50:49) updateport SearchPane
+\i (00:50:49) updateport VisibilityPane
+\i (00:50:49) updateport PropPane
+\i (00:50:51) pick grid 2.0123 0.0039
+\t (00:50:51) last pick:  2.0123 0.0039
+\i (00:50:51) ucp_move 
+\t (00:50:51) last pick:  2.0000 0.0000
+\t (00:50:51) Pick new location for the element(s).
+\i (00:50:51) updateport ReportsPane
+\i (00:50:51) updateport SearchPane
+\i (00:50:51) updateport PropPane
+\i (00:50:53) zoom in 1 
+\i (00:50:53) setwindow pcb
+\i (00:50:53) zoom in 2.0784 -0.0039
+\i (00:50:53) trapsize 97
+\i (00:51:05) zoom in 1 
+\i (00:51:05) setwindow pcb
+\i (00:51:05) zoom in 2.1134 0.0019
+\i (00:51:05) trapsize 49
+\i (00:51:05) zoom in 1 
+\i (00:51:05) setwindow pcb
+\i (00:51:05) zoom in 2.1135 0.0019
+\i (00:51:05) trapsize 24
+\i (00:51:14) zoom in 1 
+\i (00:51:14) setwindow pcb
+\i (00:51:14) zoom in 2.1004 0.0004
+\i (00:51:14) trapsize 12
+\i (00:51:15) zoom in 1 
+\i (00:51:15) setwindow pcb
+\i (00:51:15) zoom in 2.1004 0.0004
+\i (00:51:15) trapsize 6
+\i (00:51:19) zoom in 1 
+\i (00:51:19) setwindow pcb
+\i (00:51:19) zoom in 2.1002 0.0006
+\i (00:51:19) trapsize 3
+\i (00:51:24) zoom in 1 
+\i (00:51:24) setwindow pcb
+\i (00:51:24) zoom in 2.1001 0.0004
+\i (00:51:24) trapsize 2
+\i (00:51:34) pick grid 2.1000 0.0000
+\t (00:51:34) last pick:  2.1000 0.0000
+\i (00:51:34) updateport ReportsPane
+\i (00:51:34) updateport SearchPane
+\i (00:51:34) updateport PropPane
+\i (00:51:34) ucpedit 
+\i (00:51:34) updateport ReportsPane
+\i (00:51:34) updateport SearchPane
+\i (00:51:34) updateport VisibilityPane
+\i (00:51:34) updateport PropPane
+\i (00:51:34) zoom out 1 
+\i (00:51:34) setwindow pcb
+\i (00:51:34) zoom out 2.1001 0.0000
+\i (00:51:34) trapsize 3
+\i (00:51:35) zoom out 1 
+\i (00:51:35) setwindow pcb
+\i (00:51:35) zoom out 2.1000 -0.0001
+\i (00:51:35) trapsize 6
+\i (00:51:35) zoom out 1 
+\i (00:51:35) setwindow pcb
+\i (00:51:35) zoom out 2.1000 -0.0001
+\i (00:51:35) trapsize 12
+\i (00:51:35) zoom out 1 
+\i (00:51:35) setwindow pcb
+\i (00:51:35) zoom out 2.1000 0.0000
+\i (00:51:35) trapsize 24
+\i (00:51:35) zoom out 1 
+\i (00:51:35) setwindow pcb
+\i (00:51:35) zoom out 2.1001 0.0000
+\i (00:51:35) trapsize 49
+\i (00:51:35) zoom out 1 
+\i (00:51:35) setwindow pcb
+\i (00:51:35) zoom out 2.1000 -0.0010
+\i (00:51:35) trapsize 97
+\i (00:51:35) zoom out 1 
+\i (00:51:35) setwindow pcb
+\i (00:51:35) zoom out 2.1001 -0.0010
+\i (00:51:35) trapsize 195
+\i (00:51:36) zoom out 1 
+\i (00:51:36) setwindow pcb
+\i (00:51:36) zoom out 2.1000 -0.0011
+\i (00:51:36) trapsize 389
+\i (00:51:37) zoom out 1 
+\i (00:51:37) setwindow pcb
+\i (00:51:37) zoom out 2.1001 0.0068
+\i (00:51:37) trapsize 778
+\i (00:51:38) zoom out 1 
+\i (00:51:38) setwindow pcb
+\i (00:51:38) zoom out 2.1001 -0.0088
+\i (00:51:38) trapsize 1557
+\i (00:51:40) prepopup -1.5429 -0.3824
+\i (00:51:40) updateport ReportsPane
+\i (00:51:40) updateport SearchPane
+\i (00:51:40) updateport PropPane
+\i (00:51:42) pick grid -1.8232 -3.7453
+\t (00:51:42) last pick:  -1.8232 -3.7453
+\i (00:51:46) pick grid -1.7298 -0.3513
+\t (00:51:46) last pick:  -1.7298 -0.3513
+\i (00:51:46) ucp_move 
+\t (00:51:46) last pick:  -2.1000 0.0000
+\t (00:51:46) Pick new location for the element(s).
+\i (00:51:46) updateport ReportsPane
+\i (00:51:46) updateport SearchPane
+\i (00:51:46) updateport PropPane
+\i (00:51:48) undo 
+\i (00:51:48) trapsize 1557
+\i (00:51:48) updateport ReportsPane
+\i (00:51:48) updateport SearchPane
+\i (00:51:48) updateport VisibilityPane
+\i (00:51:48) updateport PropPane
+\i (00:51:48) ucpedit 
+\i (00:51:48) updateport ReportsPane
+\i (00:51:48) updateport SearchPane
+\i (00:51:48) updateport VisibilityPane
+\i (00:51:48) updateport PropPane
+\i (00:51:50) QtSignal Allegro_Command_Toolbar AQCommandToolbarSelectButton leftClicked
+\i (00:51:50) ucp_selection_mode 
+\i (00:51:50) updateport ReportsPane
+\i (00:51:50) updateport SearchPane
+\w (00:51:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:51:50) updateport CMPanelPort
+\i (00:51:50) updateport PropPane
+\i (00:51:50) ucpedit 
+\i (00:51:50) updateport ReportsPane
+\i (00:51:50) updateport SearchPane
+\i (00:51:50) updateport VisibilityPane
+\i (00:51:50) updateport PropPane
+\i (00:51:51) pick grid -2.0100 -0.2890
+\t (00:51:51) last pick:  -2.0100 -0.2890
+\i (00:51:51) updateport ReportsPane
+\i (00:51:51) updateport SearchPane
+\i (00:51:51) updateport PropPane
+\i (00:51:53) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:51:53) QtSignal "CP_ALLEGRO_PROPERTIES_DOCK"
+\i (00:51:57) pick grid 2.5361 -0.4758
+\t (00:51:57) last pick:  2.5361 -0.4758
+\i (00:51:57) updateport ReportsPane
+\i (00:51:57) updateport SearchPane
+\i (00:51:57) updateport PropPane
+\i (00:51:58) zoom in 1 
+\i (00:51:58) setwindow pcb
+\i (00:51:58) zoom in 4.8714 -3.1848
+\i (00:51:58) trapsize 778
+\i (00:52:00) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellVisibilityChanged "Dfa_Bound_Top" +
+\i (00:52:00) QtSignal All 1
+\i (00:52:00) updateport ReportsPane
+\i (00:52:00) updateport SearchPane
+\i (00:52:00) updateport VisibilityPane
+\i (00:52:00) updateport PropPane
+\i (00:52:01) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellVisibilityChanged "Place_Bound_Top" +
+\i (00:52:01) QtSignal All 1
+\i (00:52:01) updateport ReportsPane
+\i (00:52:01) updateport SearchPane
+\i (00:52:01) updateport VisibilityPane
+\i (00:52:01) updateport PropPane
+\i (00:52:02) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellVisibilityChanged "Soldermask_Top" +
+\i (00:52:02) QtSignal All 1
+\i (00:52:02) updateport ReportsPane
+\i (00:52:02) updateport SearchPane
+\i (00:52:02) updateport VisibilityPane
+\i (00:52:02) updateport PropPane
+\i (00:52:02) updateport CVPane
+\i (00:52:02) updateport VisibilityPane
+\i (00:52:03) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellVisibilityChanged "Silkscreen_Top" +
+\i (00:52:03) QtSignal All 1
+\i (00:52:03) updateport ReportsPane
+\i (00:52:03) updateport SearchPane
+\i (00:52:03) updateport VisibilityPane
+\i (00:52:03) updateport PropPane
+\i (00:52:04) zoom out 1 
+\i (00:52:04) setwindow pcb
+\i (00:52:04) zoom out 1.5086 -1.8147
+\i (00:52:04) trapsize 1557
+\i (00:52:04) zoom out 1 
+\i (00:52:04) setwindow pcb
+\i (00:52:04) zoom out 1.5086 -0.4635
+\i (00:52:04) trapsize 3115
+\i (00:52:05) zoom in 1 
+\i (00:52:05) setwindow pcb
+\i (00:52:05) zoom in -5.0660 2.6832
+\i (00:52:05) trapsize 1558
+\i (00:52:06) zoom in 1 
+\i (00:52:06) setwindow pcb
+\i (00:52:06) zoom in -0.6426 0.6895
+\i (00:52:06) trapsize 779
+\i (00:52:06) zoom in 1 
+\i (00:52:06) setwindow pcb
+\i (00:52:06) zoom in 0.0583 0.0821
+\i (00:52:06) trapsize 389
+\i (00:52:07) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellVisibilityChanged "Pastemask_Top" +
+\i (00:52:07) QtSignal All 1
+\i (00:52:07) updateport ReportsPane
+\i (00:52:07) updateport SearchPane
+\i (00:52:07) updateport VisibilityPane
+\i (00:52:07) updateport PropPane
+\i (00:52:07) updateport CVPane
+\i (00:52:07) updateport VisibilityPane
+\i (00:52:08) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellVisibilityChanged "Assembly_Top" +
+\i (00:52:08) QtSignal All 1
+\i (00:52:08) updateport ReportsPane
+\i (00:52:08) updateport SearchPane
+\i (00:52:08) updateport VisibilityPane
+\i (00:52:08) updateport PropPane
+\i (00:52:10) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellVisibilityChanged "Assembly_Top" +
+\i (00:52:10) QtSignal All 0
+\i (00:52:10) updateport ReportsPane
+\i (00:52:10) updateport SearchPane
+\i (00:52:10) updateport VisibilityPane
+\i (00:52:10) updateport PropPane
+\i (00:52:10) QtSignal VisibilityLayersObjArWidget VisLayerTable objCellVisibilityChanged "Assembly_Top" +
+\i (00:52:10) QtSignal All 1
+\i (00:52:10) updateport ReportsPane
+\i (00:52:10) updateport SearchPane
+\i (00:52:10) updateport VisibilityPane
+\i (00:52:10) updateport PropPane
+\i (00:52:14) save 
+\i (00:52:17) fillin yes 
+\t (00:52:18) Symbol 'dio_m7.psm' created.
+\i (00:52:18) updateport ReportsPane
+\i (00:52:18) updateport SearchPane
+\i (00:52:18) updateport PropPane
+\i (00:52:18) ucpedit 
+\i (00:52:18) updateport ReportsPane
+\i (00:52:18) updateport SearchPane
+\i (00:52:18) updateport VisibilityPane
+\i (00:52:18) updateport PropPane
+\i (00:52:18) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:52:18) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:53:58) opencd C:/ESEProjectLIB/workspace/libraries/footprints/smsot23123.dra 
+\t (00:53:58) Opening existing design...
+\i (00:53:58) trapsize 6266
+\d (00:53:59) Design opened: C:/ESEProjectLIB/workspace/libraries/footprints/smsot23123.dra
+\i (00:53:59) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:53:59) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\w (00:53:59) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:54:00) trapsize 749
+\i (00:54:00) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:54:00) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:54:00) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:54:00) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:54:00) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:54:00) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:54:00) QtSignal ucp_shape_create_dyn_dim UCPAddShape_Type CurrentIndexChanged 1
+\i (00:54:00) updateport VisibilityPane
+\w (00:54:00) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:54:00) updateport CMPanelPort
+\i (00:54:00) updateport PropPane
+\i (00:54:00) updateport CVPane
+\i (00:54:00) ucpedit 
+\i (00:54:01) updateport ReportsPane
+\i (00:54:01) updateport SearchPane
+\i (00:54:01) updateport VisibilityPane
+\i (00:54:11) QtSignal DisplayGeneral DisplayGeneralMode CurrentIndexChanged 1
+\i (00:54:13) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
+\i (00:54:13) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (00:54:13) ucpedit 
+\i (00:54:13) updateport VisibilityPane
+\i (00:54:14) QtSignal DisplayGeneral DisplayGeneralMode CurrentIndexChanged 0
+\i (00:54:15) ucpedit 
+\i (00:54:15) updateport VisibilityPane
+\i (00:54:18) zoom in 1 
+\i (00:54:18) setwindow pcb
+\i (00:54:18) zoom in -1.2459 1.0676
+\i (00:54:18) trapsize 374
+\i (00:54:22) prepopup -1.8223 -0.0703
+\i (00:54:22) updateport ReportsPane
+\i (00:54:22) updateport SearchPane
+\i (00:54:22) updateport PropPane
+\i (00:54:26) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (SM_LIB_PAD80) (2)' 
+\i (00:54:26) mod padstack 
+\i (00:55:17) ucpedit 
+\i (00:55:17) updateport ReportsPane
+\i (00:55:17) updateport SearchPane
+\i (00:55:18) updateport VisibilityPane
+\i (00:55:18) updateport PropPane
+\i (00:55:22) prepopup -1.5303 0.0795
+\i (00:55:24) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (SM_LIB_PAD80) (2)' 
+\i (00:55:24) mod padstack 
+\i (00:56:27) updateport ReportsPane
+\i (00:56:27) updateport SearchPane
+\i (00:56:27) updateport PropPane
+\i (00:56:27) ucpedit 
+\i (00:56:27) updateport ReportsPane
+\i (00:56:27) updateport SearchPane
+\i (00:56:27) updateport VisibilityPane
+\i (00:56:27) updateport PropPane
+\i (00:56:28) prepopup -1.7474 0.0570
+\i (00:56:31) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (SM_LIB_PAD80) (2)' 
+\i (00:56:31) mod padstack 
+\i (00:56:42) ucpedit 
+\i (00:56:42) updateport ReportsPane
+\i (00:56:42) updateport SearchPane
+\i (00:56:42) updateport VisibilityPane
+\i (00:56:42) updateport PropPane
+\i (00:56:43) pick grid -0.9839 2.1380
+\t (00:56:43) last pick:  -0.9839 2.1380
+\i (00:56:43) updateport ReportsPane
+\i (00:56:43) updateport SearchPane
+\i (00:56:43) updateport PropPane
+\i (00:56:43) prepopup -0.9839 2.1380
+\i (00:56:45) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (SM_LIB_PAD81) (1)' 
+\i (00:56:46) mod padstack 
+\i (00:57:08) updateport ReportsPane
+\i (00:57:08) updateport SearchPane
+\i (00:57:08) updateport PropPane
+\i (00:57:08) ucpedit 
+\i (00:57:08) updateport ReportsPane
+\i (00:57:08) updateport SearchPane
+\i (00:57:08) updateport VisibilityPane
+\i (00:57:08) updateport PropPane
+\i (00:57:09) pick grid 0.2288 0.2441
+\t (00:57:09) last pick:  0.2288 0.2441
+\i (00:57:09) updateport ReportsPane
+\i (00:57:09) updateport SearchPane
+\i (00:57:09) updateport PropPane
+\i (00:57:09) prepopup 0.2288 0.2441
+\i (00:57:12) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (SM_LIB_PAD80) (2)' 
+\i (00:57:12) mod padstack 
+\i (00:57:21) updateport ReportsPane
+\i (00:57:21) updateport SearchPane
+\i (00:57:21) updateport PropPane
+\i (00:57:21) ucpedit 
+\i (00:57:21) updateport ReportsPane
+\i (00:57:21) updateport SearchPane
+\i (00:57:21) updateport VisibilityPane
+\i (00:57:21) updateport PropPane
+\i (00:58:06) roam y 96 
+\i (00:58:06) roam y 96
+\i (00:58:19) save 
+\i (00:58:21) fillin yes 
+\t (00:58:23) Symbol 'smsot23123.psm' created.
+\i (00:58:23) updateport ReportsPane
+\i (00:58:23) updateport SearchPane
+\i (00:58:23) updateport PropPane
+\i (00:58:23) ucpedit 
+\i (00:58:23) updateport ReportsPane
+\i (00:58:23) updateport SearchPane
+\i (00:58:23) updateport VisibilityPane
+\i (00:58:23) updateport PropPane
+\i (00:58:24) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:58:24) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:58:24) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:58:24) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:58:24) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:58:24) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:58:24) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:58:24) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:58:24) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:58:24) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
+\t (00:58:30)     Journal end - Wed May 27 11:46:35 2026

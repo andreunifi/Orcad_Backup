@@ -1,0 +1,65 @@
+\t (00:00:02) allegro 25.1 P001 (4349869) [9/14/2025] Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Sat May 23 00:00:44 2026
+\t (00:00:02)         Host=DESKTOP-0M0742J User=NewAdmin Pid=20808 CPUs=8
+\t (00:00:02) CmdLine= c:/cadence/orcadx_25.1/tools/bin/allegro.exe thermalpadwindow
+\t (00:00:02) 
+\t (00:00:02) Loading axlcore.cxt 
+\t (00:00:02) Starting new design...
+\i (00:00:02) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged thermalpadwindow
+\i (00:00:02) trapsize 1288
+\i (00:00:02) trapsize 1346
+\i (00:00:02) trapsize 1288
+\i (00:00:02) trapsize 1029
+\i (00:00:02) trapsize 1066
+\i (00:00:02) trapsize 1760
+\t (00:00:02) Loading NV GPU Plugin
+\i (00:00:02) trapsize 1199
+\i (00:00:05) updateport SearchPane
+\i (00:00:05) generaledit 
+\t (00:00:05) [00:00:47.479283] Periodic Lic check successful
+[00:00:47.479290] Feature usage summary:
+
+\i (00:00:46) pick grid -2611.4 3488.7
+\t (00:00:46) last pick:  -2600.0 3500.0
+\i (00:00:52) pick grid 1201.0 1522.6
+\t (00:00:52) last pick:  1200.0 1525.0
+\i (00:00:52) prepopup 1201.0 1522.6
+\i (00:01:00) pick grid 8034.5 5023.3
+\t (00:01:00) last pick:  8025.0 5025.0
+\i (00:01:03) pick grid 3694.6 347.7
+\t (00:01:03) last pick:  3700.0 350.0
+\i (00:01:08) pick grid -2995.1 -8476.0
+\t (00:01:08) last pick:  -3000.0 -8475.0
+\i (00:01:24) shape add 
+\i (00:01:24) updateport SearchPane
+\i (00:01:26) pick grid 2951.3 3560.6
+\t (00:01:26) last pick:  2950.0 3550.0
+\i (00:01:31) pick grid 5349.1 3512.7
+\t (00:01:31) last pick:  5350.0 3525.0
+\i (00:01:33) pick grid 5349.1 2193.9
+\t (00:01:33) last pick:  5350.0 2200.0
+\i (00:01:36) pick grid 2999.3 2241.9
+\t (00:01:36) last pick:  3000.0 2250.0
+\i (00:01:39) undo 
+\t (00:01:39) Loading consmgr.cxt 
+\t (00:01:39) Loading acns_formula.cxt 
+\i (00:01:39) trapsize 1199
+\i (00:01:39) updateport SearchPane
+\i (00:01:39) generaledit 
+\i (00:01:44) shape add rect 
+\i (00:02:14) setwindow form.mini
+\i (00:02:14) FORM mini one_click YES 
+\i (01:07:49) setwindow pcb
+\i (01:07:49) exit 
+\t (01:07:50) [01:08:32.093314] Periodic Lic check successful
+[01:08:32.093323] Feature usage summary:
+
+\e (01:07:50) Do you want to save the changes you made to thermalpadwindow.dra?
+\i (01:07:50) updateport SearchPane
+\i (01:07:52) fillin yes 
+\t (01:07:52) Symbol 'thermalpadwindow.ssm' created.
+\t (01:07:53) Lic Summary:
+[01:08:35.268297] Cdslmd servers:C:\Users\Youssef samy\AppData\Roaming\Cadence\VBL\SPB\license\license.txt
+[01:08:35.268818] Feature usage summary:
+
+\t (01:07:53)     Journal end - Sat May 23 01:08:35 2026

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : CONN_S2B-PH-K-S_JST.dra                       )
+(    Software Version : 25.1S030                                      )
+(    Date/Time        : Wed May 27 17:20:37 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/andre/Desktop/Ese_Group18/footprints_total/footprints_gn
+    Name      = conn_s2b-ph-k-s_jst.psm
+    User      = andre
+    Machine   = LAPTOP-DI-ANDRE
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,58 @@
+\t (00:00:02) allegro 25.1 P001 (4349869) [9/14/2025] Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Sun May 24 15:00:30 2026
+\t (00:00:02)         Host=DESKTOP-0M0742J User=NewAdmin Pid=19280 CPUs=8
+\t (00:00:02) CmdLine= c:/cadence/orcadx_25.1/tools/bin/allegro.exe thermalpadwindowed
+\t (00:00:02) 
+\t (00:00:02) Loading axlcore.cxt 
+\t (00:00:02) Starting new design...
+\i (00:00:02) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged thermalpadwindowed
+\i (00:00:03) trapsize 1288
+\i (00:00:03) trapsize 1346
+\i (00:00:03) trapsize 1288
+\i (00:00:03) trapsize 1029
+\i (00:00:03) trapsize 1066
+\i (00:00:03) trapsize 1760
+\t (00:00:03) Loading NV GPU Plugin
+\i (00:00:03) trapsize 1199
+\i (00:00:06) updateport SearchPane
+\i (00:00:06) generaledit 
+\t (00:00:06) [15:00:34.119435] Periodic Lic check successful
+[15:00:34.119441] Feature usage summary:
+
+\i (00:02:39) drag_start grid -5848.4 5502.8
+\i (00:02:39) drag_stop -501.4 1642.4
+\i (00:02:47) shape add rect 
+\i (00:02:47) updateport SearchPane
+\i (00:02:50) pick grid 1320.9 4615.6
+\t (00:02:50) last pick:  1325.0 4625.0
+\i (00:03:00) pick grid 5852.6 1378.7
+\t (00:03:00) last pick:  5850.0 1375.0
+\i (04:17:42) zoom out 1 
+\i (04:17:42) setwindow pcb
+\t (04:17:42) [19:18:10.279104] Periodic Lic check successful
+[19:18:10.279104] Feature usage summary:
+
+\i (04:17:42) zoom out 16330.7 -5982.4
+\t (04:17:42) Loading consmgr.cxt 
+\t (04:17:42) Loading acns_formula.cxt 
+\i (04:17:42) trapsize 1199
+\i (04:17:42) zoom out 1 
+\i (04:17:42) setwindow pcb
+\i (04:17:42) zoom out 16258.8 -5958.4
+\i (04:17:42) trapsize 1199
+\i (04:17:42) zoom out 1 
+\i (04:17:42) setwindow pcb
+\i (04:17:42) zoom out 16234.8 -5958.4
+\i (04:17:42) trapsize 1199
+\i (05:46:45) exit 
+\t (05:46:45) [20:47:13.015331] Periodic Lic check successful
+[20:47:13.539625] Feature usage summary:
+
+\e (05:46:45) Do you want to save the changes you made to thermalpadwindowed.dra?
+\i (05:46:45) updateport SearchPane
+\i (05:46:47) fillin no 
+\t (05:46:47) Lic Summary:
+[20:47:15.495264] Cdslmd servers:C:\Users\Youssef samy\AppData\Roaming\Cadence\VBL\SPB\license\license.txt
+[20:47:15.495705] Feature usage summary:
+
+\t (05:46:47)     Journal end - Sun May 24 20:47:15 2026

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : CAP_CC0603_YAG.dra                            )
+(    Software Version : 25.1P001                                      )
+(    Date/Time        : Wed May 20 17:05:17 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/Giorgio/Documents/Cadence/cdssetup/workspace/libraries/footprints
+    Name      = cap_cc0603_yag.psm
+    User      = Giorgio
+    Machine   = W11TG-GN
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

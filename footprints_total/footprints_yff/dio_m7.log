@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : DIO_M7.dra                                    )
+(    Software Version : 25.1P001                                      )
+(    Date/Time        : Wed May 27 11:40:23 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/ESEProjectLIB/workspace/libraries/footprints
+    Name      = dio_m7.psm
+    User      = NewAdmin
+    Machine   = DESKTOP-0M0742J
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

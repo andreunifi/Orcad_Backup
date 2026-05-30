@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : AW3212F.dra                                   )
+(    Software Version : 25.1P001                                      )
+(    Date/Time        : Tue May 26 18:28:20 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/ESEProjectLIB/workspace/libraries/footprints
+    Name      = aw3212f.psm
+    User      = NewAdmin
+    Machine   = DESKTOP-0M0742J
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

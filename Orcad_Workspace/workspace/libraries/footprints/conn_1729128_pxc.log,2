@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : CONN_1729128_PXC.dra                          )
+(    Software Version : 25.1P001                                      )
+(    Date/Time        : Wed May 20 18:50:36 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/Giorgio/Documents/Cadence/cdssetup/workspace/libraries/footprints
+    Name      = conn_1729128_pxc.psm
+    User      = Giorgio
+    Machine   = W11TG-GN
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
