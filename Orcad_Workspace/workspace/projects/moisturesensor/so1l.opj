@@ -1,6 +1,6 @@
 (ExpressProject "MoistureSensor"
   (ProjectVersion "19981106")
-  (SoftwareVersion "25.1 S030 (4414069)  [3/25/2026]-[05/29/26]")
+  (SoftwareVersion "25.1 S030 (4414069)  [3/25/2026]-[05/30/26]")
   (Folder "Design Resources"
     (Folder "Library"
       (File "C:\Users\andre\Desktop\Ese_Group18\olb_library\LIBRARY_SO1L.OLB"
@@ -26,8 +26,9 @@
     (BOM_Report_File
        "C:\USERS\ANDRE\DESKTOP\ESE_GROUP18\ORCAD_WORKSPACE\WORKSPACE\PROJECTS\MOISTURESENSOR\2\MOISTURESENSOR.BOM")
     (BOM_Merge_Include "FALSE")
-    (BOM_Property_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
-    (BOM_Header "Item\tQuantity\tReference\tPart")
+    (BOM_Property_Combine_7.0
+       "{Item}\t{Quantity}\t{Reference}\t{Value}\t{Manufacturer Part Number} ")
+    (BOM_Header "Item,\t\tQuantity,\t\tReference,\t\tPart,\t\tMPN")
     (BOM_Include_File
        "C:\USERS\ANDRE\DESKTOP\ESE_GROUP18\ORCAD_WORKSPACE\WORKSPACE\PROJECTS\MOISTURESENSOR\2\MOISTURESENSOR.INC")
     (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
@@ -59,7 +60,63 @@
     (width_pages "100")
     (width_start "80")
     (width_End "80")
-    (RootChangedForceReNetlist "x"))
+    (RootChangedForceReNetlist "x")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "TRUE")
+    (DRC_View_Output "TRUE")
+    (DRC_View_Output_Type "2")
+    (DRC_Preserved_Waived "FALSE")
+    (RUN_Online_Rules "TRUE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Check_Single_Node_Nets "TRUE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Check_Single_Node_Nets_Online "TRUE")
+    (DRC_Check_No_Driving_Source_Online "FALSE")
+    (DRC_Check_Duplicate_NetNames_Online "TRUE")
+    (DRC_Check_Off-Page_Connectors_Online "FALSE")
+    (DRC_Check_Ports_Online "FALSE")
+    (DRC_Check_Unconnected_Nets_Online "TRUE")
+    (DRC_Check_Floating_Pins_Online "TRUE")
+    (DRC_Run_Electrical_Reports "TRUE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Run_Physical_Rules "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "TRUE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility_Online "FALSE")
+    (DRC_Check_PCB_Footprint_Property_Online "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync_Online "FALSE")
+    (DRC_Check_Incorrect_PinGroup_Assignment_Online "TRUE")
+    (DRC_Check_Missing_Pin_Numbers_Online "TRUE")
+    (DRC_Check_Device_With_No_Pins_Online "FALSE")
+    (DRC_Check_Power_Ground_Short_Online "FALSE")
+    (DRC_Check_Name_Prop_For_HierBlocks_Online "FALSE")
+    (DRC_Run_Physical_Reports "TRUE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Run_Simulation_Rules "TRUE")
+    (DRC_Check_Pspice_Model_Lib_Path_Online "FALSE")
+    (DRC_Run_Custom_Rules "FALSE")
+    (DRC_Report_File
+       "C:\USERS\ANDRE\DESKTOP\ESE_GROUP18\ORCAD_WORKSPACE\WORKSPACE\PROJECTS\MOISTURESENSOR\SO1L.DRC"))
   (Folder "Layout")
   (Folder "Outputs"
     (Sort User)
@@ -68,6 +125,11 @@
     (File ".\so1l.csv"
       (Type "Report"))
     (File ".\2\moisturesensor.bom"
+      (Type "Report"))
+    (File ".\SO1L_OUTPUT\BOM.SCH.CSV"
+      (Type "Report")
+      (DisplayName ".\SO1L_OUTPUT\BOM.SCH.CSV"))
+    (File ".\so1l.drc"
       (Type "Report")))
   (Folder "PSpice Resources"
     (Folder "Simulation Profiles")
@@ -81,6 +143,11 @@
   (Folder "Logs")
   (MPSSessionName "andre")
   (PartMRUSelector
+    (1054550101
+      (FullPartName "1054550101.Normal")
+      (LibraryName
+         "C:\USERS\ANDRE\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\UL_PART_1780135892\ORCADCAPTUREXML\WM17904TR-ND.OLB")
+      (DeviceIndex "0"))
     (CC2640R2FRHBR
       (FullPartName "CC2640R2FRHBR.Normal")
       (LibraryName
@@ -136,89 +203,26 @@
       (Path "Design Resources"
          "c:\users\andre\desktop\ese_group18\orcad_workspace\workspace\projects\moisturesensor\so1l.DSN"
          "SENSOR")
+      (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Outputs"
-         "C:\USERS\ANDRE\DESKTOP\ESE_GROUP18\ORCAD_WORKSPACE\WORKSPACE\PROJECTS\MOISTURESENSOR\2\moisturesensor.bom"))
+      (Select "Design Resources"
+         "c:\users\andre\desktop\ese_group18\orcad_workspace\workspace\projects\moisturesensor\so1l.DSN"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 645"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 647"))
       (Tab 0))
     (Doc
-      (Type "TextFile")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 5 1674 24 663"))
-      (Path
-         "c:\users\andre\desktop\ese_group18\orcad_workspace\workspace\projects\moisturesensor\so1l.xrf")
-      (Scroll "0"))
-    (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1674 24 663")
-        (Scroll "-309 105")
-        (Zoom "105")
+        (Placement "44 0 1 -1 -1 5 24 5 1358 24 665")
+        (Scroll "0 20")
+        (Zoom "164")
         (Occurrence "/"))
       (Path
          "C:\USERS\ANDRE\DESKTOP\ESE_GROUP18\ORCAD_WORKSPACE\WORKSPACE\PROJECTS\MOISTURESENSOR\SO1L.DSN")
       (Schematic "SO1L")
-      (Page "RELAY"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1674 24 663")
-        (Scroll "-333 103")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\ANDRE\DESKTOP\ESE_GROUP18\ORCAD_WORKSPACE\WORKSPACE\PROJECTS\MOISTURESENSOR\SO1L.DSN")
-      (Schematic "SO1L")
-      (Page "PERIPH"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1674 24 663")
-        (Scroll "-333 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\ANDRE\DESKTOP\ESE_GROUP18\ORCAD_WORKSPACE\WORKSPACE\PROJECTS\MOISTURESENSOR\SO1L.DSN")
-      (Schematic "SO1L")
-      (Page "PWR"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1674 24 663")
-        (Scroll "-208 0")
-        (Zoom "100"))
-      (Path
-         "C:\USERS\ANDRE\DESKTOP\ESE_GROUP18\ORCAD_WORKSPACE\WORKSPACE\PROJECTS\MOISTURESENSOR\SO1L.DSN")
-      (Schematic "SENSOR")
-      (Page "PAGE1"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1674 24 663")
-        (Scroll "-13 5")
-        (Zoom "166")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\ANDRE\DESKTOP\ESE_GROUP18\ORCAD_WORKSPACE\WORKSPACE\PROJECTS\MOISTURESENSOR\SO1L.DSN")
-      (Schematic "SO1L")
-      (Page "MCU"))
-    (Doc
-      (Type "TextFile")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 5 1674 24 663"))
-      (Path
-         "c:\users\andre\desktop\ese_group18\orcad_workspace\workspace\projects\moisturesensor\2\moisturesensor.bom")
-      (Scroll "0"))
-    (Doc
-      (Type "TextFile")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 5 1674 24 663"))
-      (Path
-         "C:\USERS\ANDRE\DESKTOP\ESE_GROUP18\ORCAD_WORKSPACE\WORKSPACE\PROJECTS\MOISTURESENSOR\so1l.csv")
-      (Scroll "0")))
+      (Page "PWR")))
   (LastUsedLibraryBrowseDirectory
      "C:\Cadence\OrCADX_25.1\tools\capture\library"))

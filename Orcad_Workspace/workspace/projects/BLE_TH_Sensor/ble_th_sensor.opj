@@ -200,8 +200,7 @@
       (Path "Design Resources" ".\ble_th_sensor.dsn")
       (Path "Design Resources" ".\ble_th_sensor.dsn" "SCHEMATIC1")
       (Path "Outputs")
-      (Select "Design Resources" ".\ble_th_sensor.dsn" "SCHEMATIC1"
-         "Peripherals"))
+      (Select "Design Resources" ".\ble_th_sensor.dsn" "SCHEMATIC1" "Power"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
