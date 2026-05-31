@@ -1,168 +1,95 @@
-\t (00:11:51) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
-\t (00:11:51)     Journal start - Tue May 26 16:36:26 2026
-\t (00:11:51)         Host=LAPTOP-DI-ANDRE User=andre Pid=24228 CPUs=8
-\t (00:11:51) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\unison.exe -layout -orcadx
-\t (00:11:51) 
-\d (00:11:51) Design opened: C:/Users/andre/Downloads/BLM18HE152SN1D/AllegroPCBFootprint/IND_BLM18_0603_MUR-M.dra
-\i (00:11:51) trapsize 183
-\i (00:11:53) QtSignal PropertyPadstackWidget PropertyPadstackEditMode CurrentIndexChanged 0
-\i (00:11:53) QtSignal PropertyPadstackWidget copperPadLayer CurrentIndexChanged 0
-\i (00:11:53) QtSignal PropertyPadstackWidget copperPadType CurrentIndexChanged 0
-\i (00:11:56) trapsize 227
-\i (00:12:00) QtSignal Property_Docked_PadstackWidget PropertyPadstackEditMode CurrentIndexChanged +
-\i (00:12:00) QtSignal 0
-\i (00:12:00) QtSignal Property_Docked_PadstackWidget copperPadLayer CurrentIndexChanged 0
-\i (00:12:00) QtSignal Property_Docked_PadstackWidget copperPadType CurrentIndexChanged 0
-\t (00:12:03) Loading consmgr.cxt 
-\t (00:12:03) Loading acns_formula.cxt 
-\i (00:12:03) trapsize 230
-\w (00:12:04) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\i (00:12:05) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
-\i (00:12:05) QtSignal ucp_shape_create_dyn_dim UCPAddShape_Type CurrentIndexChanged 1
-\i (00:12:06) updateport VisibilityPane
-\i (00:12:06) updateport PropPane
-\i (00:12:06) updateport CVPane
-\i (00:12:06) ucpedit 
-\i (00:12:07) updateport VisibilityPane
-\i (00:12:09) QtSignal DisplayGeneral DisplayGeneralMode CurrentIndexChanged 1
-\i (00:12:10) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
-\i (00:12:10) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
-\i (00:12:10) ucpedit 
-\i (00:12:10) updateport VisibilityPane
-\i (00:12:26) QtSignal DisplayGeneral DisplayGeneralMode CurrentIndexChanged 0
-\i (00:12:27) ucpedit 
-\i (00:12:27) updateport VisibilityPane
-\i (00:12:37) zoom out 1 
-\i (00:12:37) setwindow pcb
-\i (00:12:37) zoom out -0.3506 0.5609
-\i (00:12:37) trapsize 461
-\i (00:12:37) zoom out 1 
-\i (00:12:37) setwindow pcb
-\i (00:12:37) zoom out -0.3506 0.5516
-\i (00:12:37) trapsize 921
-\i (00:12:38) zoom in 1 
-\i (00:12:38) setwindow pcb
-\i (00:12:38) zoom in -0.7375 0.5333
-\i (00:12:38) trapsize 461
-\i (00:12:38) zoom in 1 
-\i (00:12:38) setwindow pcb
-\i (00:12:38) zoom in -0.7467 0.5978
-\i (00:12:38) trapsize 230
-\i (00:12:39) zoom in 1 
-\i (00:12:39) setwindow pcb
-\i (00:12:39) zoom in -0.8572 1.0907
-\i (00:12:39) trapsize 115
-\i (00:12:39) roam start
-\i (00:12:39) roam x 1
-\i (00:12:39) roam y 3
-\i (00:12:39) roam x 6
-\i (00:12:39) roam y 4
-\i (00:12:39) roam x 6
-\i (00:12:39) roam y 5
-\i (00:12:39) roam x 16
-\i (00:12:39) roam y 19
-\i (00:12:39) roam x 9
-\i (00:12:39) roam y 10
-\i (00:12:39) roam x 7
-\i (00:12:39) roam y 9
-\i (00:12:39) roam x 2
-\i (00:12:39) roam y 3
-\i (00:12:39) roam x 1
-\i (00:12:39) roam y 1
-\i (00:12:39) roam x 4
-\i (00:12:39) roam y 1
-\i (00:12:39) roam x 8
-\i (00:12:39) roam y 1
-\i (00:12:39) roam x 6
-\i (00:12:39) zoom out 1 
-\i (00:12:39) setwindow pcb
-\i (00:12:39) zoom out -0.8947 1.1039
-\i (00:12:39) trapsize 230
-\i (00:12:39) roam x 16
-\i (00:12:39) roam y 6
-\i (00:12:39) roam x 4
-\i (00:12:39) roam y 2
-\i (00:12:39) roam x 4
-\i (00:12:39) roam y 2
-\i (00:12:39) roam x 7
-\i (00:12:39) roam y 5
-\i (00:12:39) roam end
-\i (00:12:39) zoom out 1 
-\i (00:12:39) setwindow pcb
-\i (00:12:39) zoom out -0.8787 1.1015
-\i (00:12:39) trapsize 461
-\i (00:12:40) roam start
-\i (00:12:40) roam x -3
-\i (00:12:40) roam y -3
-\i (00:12:40) roam x -9
-\i (00:12:40) roam y -17
-\i (00:12:40) roam x -10
-\i (00:12:40) roam y -11
-\i (00:12:40) roam x -8
-\i (00:12:40) roam y -6
-\i (00:12:40) roam x -11
-\i (00:12:40) roam y -9
-\i (00:12:40) roam x -9
-\i (00:12:40) roam y -5
-\i (00:12:40) roam x -17
-\i (00:12:40) roam y -6
-\i (00:12:40) roam x -1
-\i (00:12:40) roam y -1
-\i (00:12:40) roam x -7
-\i (00:12:40) roam y -2
-\i (00:12:40) zoom in 1 
-\i (00:12:40) setwindow pcb
-\i (00:12:40) zoom in -0.9155 1.1383
-\i (00:12:40) trapsize 230
-\i (00:12:40) roam end
-\i (00:12:41) zoom in 1 
-\i (00:12:41) setwindow pcb
-\i (00:12:41) zoom in -0.8326 1.0555
-\i (00:12:41) trapsize 115
-\i (00:12:41) roam start
-\i (00:12:41) roam x -2
-\i (00:12:41) roam x 3
-\i (00:12:41) roam x 5
-\i (00:12:41) roam y 2
-\i (00:12:41) roam x 17
-\i (00:12:41) roam y 12
-\i (00:12:41) roam x 15
-\i (00:12:41) roam y 30
-\i (00:12:41) roam x 20
-\i (00:12:41) roam y 38
-\i (00:12:41) roam x 13
-\i (00:12:41) roam y 19
-\i (00:12:41) roam x 6
-\i (00:12:41) roam y 7
-\i (00:12:41) roam x 1
-\i (00:12:41) roam y 2
-\i (00:12:41) roam y 1
-\i (00:12:41) roam x 2
-\i (00:12:41) roam y 1
-\i (00:12:41) roam x 1
-\i (00:12:41) roam y 1
-\i (00:12:41) roam x 4
-\i (00:12:41) roam x 2
-\i (00:12:41) roam y 3
-\i (00:12:41) roam x 2
-\i (00:12:41) roam y 2
-\i (00:12:41) roam x 1
-\i (00:12:41) roam y 1
-\i (00:12:41) roam end
-\i (00:12:42) zoom out 1 
-\i (00:12:42) setwindow pcb
-\i (00:12:42) zoom out -0.8464 1.0670
-\i (00:12:42) trapsize 230
-\i (01:31:07) opencd_reload 'C:/Users/andre/Downloads/TS14_1212_60_BK_260_SCR_D (1)/SW_TS14-1212-60-BK-260-SCR-D.dra' 
-\i (01:31:07) ucpedit 
-\i (01:31:10) fillin confirm
-\i (01:31:10) updateport VisibilityPane
-\i (01:31:12) fillin confirm
-\i (01:31:27) fillin "C:/Users/andre/Downloads/TS14_1212_60_BK_260_SCR_D (1)/SW_TS14-1212-60-BK-260-SCR-D.dra"
-\i (01:31:27) cd "C:/Users/andre/Downloads/TS14_1212_60_BK_260_SCR_D (1)"
-\t (01:31:27) Opening existing design...
-\i (01:31:28) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
-\i (01:31:28) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
-\w (01:31:28) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\i (01:31:29) trapsize 6243
-\t (01:31:30)     Journal end - Tue May 26 17:56:05 2026
+\t (00:00:42) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (00:00:42)     Journal start - Sun May 31 11:36:38 2026
+\t (00:00:42)         Host=LAPTOP-DI-ANDRE User=andre Pid=20112 CPUs=8
+\t (00:00:42) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\unison.exe -layout -orcadx
+\t (00:00:42) 
+\d (00:00:42) Design opened: C:/Users/andre/Desktop/Ese_Group18/footprints_total/footprint_am/BLM18HE152SN1D/AllegroPCBFootprint/IND_BLM18_0603_MUR.dra
+\i (00:00:42) trapsize 668
+\i (00:00:43) QtSignal PropertyPadstackWidget PropertyPadstackEditMode CurrentIndexChanged 0
+\i (00:00:43) QtSignal PropertyPadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (00:00:43) QtSignal PropertyPadstackWidget copperPadType CurrentIndexChanged 0
+\i (00:00:47) trapsize 827
+\i (00:00:51) QtSignal Property_Docked_PadstackWidget PropertyPadstackEditMode CurrentIndexChanged +
+\i (00:00:51) QtSignal 0
+\i (00:00:51) QtSignal Property_Docked_PadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (00:00:51) QtSignal Property_Docked_PadstackWidget copperPadType CurrentIndexChanged 0
+\t (00:00:53) Loading consmgr.cxt 
+\t (00:00:53) Loading acns_formula.cxt 
+\i (00:00:53) trapsize 826
+\i (00:00:53) trapsize 840
+\i (00:00:56) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
+\i (00:00:56) QtSignal ucp_shape_create_dyn_dim UCPAddShape_Type CurrentIndexChanged 1
+\i (00:00:57) updateport VisibilityPane
+\i (00:00:57) updateport PropPane
+\i (00:00:57) updateport CVPane
+\i (00:00:57) ucpedit 
+\i (00:00:57) updateport VisibilityPane
+\i (00:00:58) pick grid -19.956 -1.194
+\t (00:00:58) last pick:  -19.956 -1.194
+\i (00:00:58) updateport ReportsPane
+\i (00:00:58) updateport SearchPane
+\i (00:00:58) updateport PropPane
+\i (00:00:59) prepopup -19.956 -1.194
+\i (00:01:01) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (RX38Y37D0T) (2)' 
+\i (00:01:01) mod padstack 
+\w (00:03:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:03:59) updateport ReportsPane
+\i (00:03:59) updateport SearchPane
+\i (00:03:59) updateport PropPane
+\i (00:03:59) ucpedit 
+\i (00:03:59) updateport ReportsPane
+\i (00:03:59) updateport SearchPane
+\i (00:03:59) updateport VisibilityPane
+\i (00:03:59) updateport PropPane
+\i (00:04:02) pick grid 2.212 1.493
+\t (00:04:02) last pick:  2.212 1.493
+\i (00:04:03) pick grid -16.765 0.989
+\t (00:04:03) last pick:  -16.765 0.989
+\i (00:04:04) pick grid -23.818 6.363
+\t (00:04:04) last pick:  -23.818 6.363
+\i (00:04:06) pick grid -31.543 -0.018
+\t (00:04:06) last pick:  -31.543 -0.018
+\i (00:04:16) roam start
+\i (00:04:16) roam x 2
+\i (00:04:16) roam y 1
+\i (00:04:16) roam x 2
+\i (00:04:16) roam y 1
+\i (00:04:16) roam y 1
+\i (00:04:16) roam y 1
+\i (00:04:16) roam y 3
+\i (00:04:16) roam x -1
+\i (00:04:16) roam y 5
+\i (00:04:16) roam x -1
+\i (00:04:16) roam y 1
+\i (00:04:16) roam x -9
+\i (00:04:16) roam y 10
+\i (00:04:16) roam x -11
+\i (00:04:16) roam y 8
+\i (00:04:16) roam x -17
+\i (00:04:16) roam y 11
+\i (00:04:16) roam x -29
+\i (00:04:16) roam y 13
+\i (00:04:16) roam x -41
+\i (00:04:16) roam y 16
+\i (00:04:16) roam x -50
+\i (00:04:16) roam y 20
+\i (00:04:16) roam x -73
+\i (00:04:16) roam y 17
+\i (00:04:16) roam x -111
+\i (00:04:16) roam y 29
+\i (00:04:16) roam x -51
+\i (00:04:16) roam y 12
+\i (00:04:16) roam x -16
+\i (00:04:16) roam y 3
+\i (00:04:16) roam x -1
+\i (00:04:16) roam y 1
+\i (00:04:16) roam end
+\i (00:08:37) pick grid -31.168 10.756
+\t (00:08:37) last pick:  -31.168 10.756
+\i (00:08:52) save 
+\i (00:08:59) fillin no 
+\i (00:09:00) fillin "menu_cancel"
+\i (00:09:00) ucpedit 
+\i (00:09:00) updateport VisibilityPane
+\i (00:09:02) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\t (00:09:08)     Journal end - Sun May 31 11:45:04 2026

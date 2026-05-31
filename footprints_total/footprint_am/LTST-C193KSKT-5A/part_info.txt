@@ -1,0 +1,9 @@
+Manufacturer=Lite-On
+PartNumber=LTST-C193KSKT-5A
+PartCategory=LED
+PackageCategory=LEDs Chip
+PinCount=2
+Version=1.1
+Released=2021-06-12 05:33:51
+Downloaded=2026-05-31 11:47:33
+3D=Y

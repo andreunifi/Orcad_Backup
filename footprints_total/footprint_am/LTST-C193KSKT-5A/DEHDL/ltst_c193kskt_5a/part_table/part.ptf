@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LTST_C193KSKT_5A'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Lite-On", "LTST-C193KSKT-5A" (!) = "", "LEDC1608X45N", "LEDs Chip", "859-LTSTC193KSKT5A", "https://www.mouser.co.uk/ProductDetail/Lite-On/LTST-C193KSKT-5A?qs=xIkB7y1OTopS52H3QXHfig%3D%3D", "LTST-C193KSKT-5A", "https://www.arrow.com/en/products/ltst-c193kskt-5a/lite-on-technology?utm_currency=USD&region=nac", "2.3 V Yellow LED 1608 (0603)  SMD, Lite-On LTST-C193KSKT-5A", "http://uk.rs-online.com/web/p/products/6921054", "0.45 mm"
+END_PART
+
+END.

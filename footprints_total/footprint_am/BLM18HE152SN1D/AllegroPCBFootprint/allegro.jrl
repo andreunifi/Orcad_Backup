@@ -1,0 +1,43 @@
+\t (00:00:03) allegro 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Sun May 31 11:34:19 2026
+\t (00:00:03)         Host=LAPTOP-DI-ANDRE User=andre Pid=17528 CPUs=8
+\t (00:00:03) CmdLine= c:\cadence\orcadx_25.1\tools\bin\allegro.exe C:\Users\andre\Desktop\Ese_Group18\footprints_total\footprint_am\BLM18HE152SN1D\AllegroPCBFootprint\IND_BLM18_0603_MUR.dra
+\t (00:00:03) 
+\t (00:00:03) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:07) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "IND_BLM18_0603_MUR"
+\d (00:00:07) Design opened: C:/Users/andre/Desktop/Ese_Group18/footprints_total/footprint_am/BLM18HE152SN1D/AllegroPCBFootprint/IND_BLM18_0603_MUR.dra
+\i (00:00:07) trapsize 1118
+\i (00:00:08) trapsize 1153
+\i (00:00:08) trapsize 1118
+\i (00:00:08) trapsize 956
+\i (00:00:08) trapsize 956
+\i (00:00:09) generaledit 
+\t (00:00:09) [11:34:25.421577] Periodic Lic check successful
+[11:34:25.421587] Feature usage summary:
+
+\i (00:00:37) pick grid -22.389 1.175
+\t (00:00:37) last pick:  0.000 0.000
+\i (00:00:38) prepopup -22.198 1.175
+\i (00:00:48) pop dyn_option_select '@:@Show element' 
+\i (00:00:48) show element 
+\i (00:00:48) updateport SearchPane
+\i (00:00:48) generaledit 
+\i (00:00:53) prepopup -26.978 7.867
+\i (00:00:54) pick grid -26.978 7.867
+\t (00:00:54) last pick:  0.000 0.000
+\i (00:00:54) prepopup -26.978 7.867
+\i (00:00:56) pop dyn_option_select '@:@3D Canvas' 
+\i (00:00:56) 3d 
+\i (00:00:59) QtSignal 3DUniFilterDialog UniFilterCancelButton clicked
+\i (00:00:59) generaledit 
+\i (00:01:00) prepopup -27.743 -0.928
+\i (00:01:33) setwindow text
+\i (00:01:33) close
+\i (00:01:34) setwindow pcb
+\i (00:01:34) exit 
+\t (00:01:34) Lic Summary:
+[11:35:51.083080] Cdslmd servers:C:\Users\andre\AppData\Roaming\Cadence\VBL\SPB\license\license.txt
+[11:35:51.084146] Feature usage summary:
+
+\t (00:01:35)     Journal end - Sun May 31 11:35:51 2026
