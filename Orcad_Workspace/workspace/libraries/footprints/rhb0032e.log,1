@@ -1,0 +1,24 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : RHB0032E.dra                                  )
+(    Software Version : 25.1S030                                      )
+(    Date/Time        : Tue May 26 18:50:19 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/andre/Downloads/ul_CC2640F128RHBR/AllegroPCBFootprint
+    Name      = rhb0032e.psm
+    User      = andre
+    Machine   = LAPTOP-DI-ANDRE
+
+
+Create symbol started.
+ 
+ WARNING(SPMHA1-301): Create symbol DRC errors exist. 
+
+Create symbol completed.
+
