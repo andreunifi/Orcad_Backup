@@ -1,0 +1,84 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [],
+	"Pin Swap" : [],
+	"Component Property" : [],
+	"Net Property" : [],
+	"Pin Property" : [],
+	"Component" : [
+		{
+			"Name" : "C1",
+			"C_PATH" : "@so1l.so1l(sch_1):ins436@filtsub.\\c.normal\\(chips)",
+			"Logical" : "C_CAP_CC0603_YAG_DNM",
+			"Physical" : "C_CK05_DNM"
+		},
+		{
+			"Name" : "C10",
+			"C_PATH" : "@so1l.so1l(sch_1):ins2022@filtsub.\\c.normal\\(chips)",
+			"Logical" : "C_CAP_CC0603_YAG_1 UF",
+			"Physical" : "C_CK05_1 UF"
+		},
+		{
+			"Name" : "C11",
+			"C_PATH" : "@so1l.so1l(sch_1):ins3723@filtsub.\\c.normal\\(chips)",
+			"Logical" : "C_CAP_CC0603_YAG_12 PF",
+			"Physical" : "C_CK05_12 PF"
+		},
+		{
+			"Name" : "C12",
+			"C_PATH" : "@so1l.so1l(sch_1):ins3749@filtsub.\\c.normal\\(chips)",
+			"Logical" : "C_CAP_CC0603_YAG_12 PF",
+			"Physical" : "C_CK05_12 PF"
+		},
+		{
+			"Name" : "C13",
+			"C_PATH" : "@so1l.so1l(sch_1):ins70610@ese_project_lib.\\capacitor.normal\\(chips)",
+			"Logical" : "CAPACITOR_CAP_CC0603_YAG_100 NF",
+			"Physical" : "CAPACITOR_MF_0402_SMD_CAPACITOR_100 NF"
+		},
+		{
+			"Name" : "C2",
+			"C_PATH" : "@so1l.so1l(sch_1):ins452@filtsub.\\c.normal\\(chips)",
+			"Logical" : "C_CAP_CC0603_YAG_100 NF",
+			"Physical" : "C_CK05_100 NF"
+		},
+		{
+			"Name" : "C3",
+			"C_PATH" : "@so1l.so1l(sch_1):ins468@filtsub.\\c.normal\\(chips)",
+			"Logical" : "C_CAP_CC0603_YAG_100 NF",
+			"Physical" : "C_CK05_100 NF"
+		},
+		{
+			"Name" : "C4",
+			"C_PATH" : "@so1l.so1l(sch_1):ins484@filtsub.\\c.normal\\(chips)",
+			"Logical" : "C_CAP_CC0603_YAG_10 UF",
+			"Physical" : "C_CK05_10 UF"
+		},
+		{
+			"Name" : "C5",
+			"C_PATH" : "@so1l.so1l(sch_1):ins500@filtsub.\\c.normal\\(chips)",
+			"Logical" : "C_CAP_CC0603_YAG_100 NF",
+			"Physical" : "C_CK05_100 NF"
+		},
+		{
+			"Name" : "C6",
+			"C_PATH" : "@so1l.so1l(sch_1):ins951@filtsub.\\c.normal\\(chips)",
+			"Logical" : "C_CAP_CC0603_YAG_10 UF",
+			"Physical" : "C_CK05_10 UF"
+		},
+		{
+			"Name" : "C7",
+			"C_PATH" : "@so1l.so1l(sch_1):ins967@filtsub.\\c.normal\\(chips)",
+			"Logical" : "C_CAP_CC0603_YAG_100 NF",
+			"Physical" : "C_CK05_100 NF"
+		},
+		{
+			"Name" : "C8",
+			"C_PATH" : "@so1l.so1l(sch_1):ins983@filtsub.\\c.normal\\(chips)",
+			"Logical" : "C_CAP_CC0603_YAG_100 NF",
+			"Physical" : "C_CK05_100 NF"
+		}
+	],
+	"Net" : [],
+	"Connection" : []
+}

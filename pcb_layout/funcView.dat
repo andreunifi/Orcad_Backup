@@ -1,0 +1,64 @@
+A!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!REFDES!FUNC_PRIM_FILE!COMP_PARENT_PPT!COMP_PARENT_PPT_PART!COMP_PARENT_PART_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!FUNC_GROUP!FUNC_ROOM!FUNC_CDS_FSP_UID!FUNC_NO_SWAP_PIN!FUNC_HARD_LOCATION!FUNC_NO_SWAP_GATE_EXT!FUNC_CDS_FSP_MAPPED_CELL!FUNC_CDS_FSP_FPGA_SYMBOL!FUNC_CDS_FSP_TERM_TYPE!FUNC_CDS_FSP_TERM_NAME!FUNC_ROOM!FUNC_GROUP!FUNC_CDS_FSP_TERM_INDEX!FUNC_CDS_FSP_INSTANCE_ID!FUNC_NO_SWAP_GATE!FUNC_NO_XNET_CONNECTION!FUNC_CDS_FSP_IS_FPGA!
+J!c:/users/andre/desktop/ese_group18/orcad_workspace/workspace/projects/moisturesensor/allegro/so1l.brd!Sat May 30 18:53:38 2026!0.00!0.00!21000.00!17000.00!0.01!mils!SO1L!10.400000 mil!2!UP TO DATE!
+S!@so1l.so1l(sch_1):ins71065@ese_project_lib.\anteena.normal\(chips)!ANTEENA_AN043_FLIP_ANTENNA!A1!.\chipsView.dat!!!!!!F60!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins436@filtsub.\c.normal\(chips)!C_CK05_DNM!C1!.\chipsView.dat!!!!!!F59!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins1268@filtsub.\c.normal\(chips)!C_CK05_DNM!C9!.\chipsView.dat!!!!!!F58!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins2022@filtsub.\c.normal\(chips)!C_CK05_1 UF!C10!.\chipsView.dat!!!!!!F57!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins3723@filtsub.\c.normal\(chips)!C_CK05_12 PF!C11!.\chipsView.dat!!!!!!F56!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins3749@filtsub.\c.normal\(chips)!C_CK05_12 PF!C12!.\chipsView.dat!!!!!!F55!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins70610@ese_project_lib.\capacitor.normal\(chips)!CAPACITOR_MF_0402_SMD_CAPACITOR_100 NF!C13!.\chipsView.dat!!!!!!F54!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins71135@ese_project_lib.\capacitor.normal\(chips)!CAPACITOR_MF_0402_SMD_CAPACITOR_12 PF!C14!.\chipsView.dat!!!!!!F53!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins71187@ese_project_lib.\capacitor.normal\(chips)!CAPACITOR_MF_0402_SMD_CAPACITOR_1.2 PF!C15!.\chipsView.dat!!!!!!F52!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins71203@ese_project_lib.\capacitor.normal\(chips)!CAPACITOR_MF_0402_SMD_CAPACITOR_1.2 PF!C16!.\chipsView.dat!!!!!!F51!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins83451@so1l.\eev477m010a9maa_0.normal\(chips)!EEV477M010A9MAA_0_CAPAE1030X1050N_470 UF!C17!.\chipsView.dat!!!!!!F50!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins83403@cc0603krx7r6bb105.\cc0603krx7r6bb105.normal\(chips)!CC0603KRX7R6BB105_CAPC1608X90N_1 UF!C18!.\chipsView.dat!!!!!!F49!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins83719@cc0603mrx7r5bb475.\cc0603mrx7r5bb475.normal\(sch_1)!CC0603MRX7R5BB475_CAP_CC0603_YAG_4.7 UF!C19!.\chipsView.dat!!!!!!F48!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins83739@cc0603mrx7r5bb475.\cc0603mrx7r5bb475.normal\(sch_1)!CC0603MRX7R5BB475_CAP_CC0603_YAG_4.7 UF!C21!.\chipsView.dat!!!!!!F47!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins452@filtsub.\c.normal\(chips)!C_CK05_100 NF!C2!.\chipsView.dat!!!!!!F46!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins468@filtsub.\c.normal\(chips)!C_CK05_100 NF!C3!.\chipsView.dat!!!!!!F45!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins500@filtsub.\c.normal\(chips)!C_CK05_100 NF!C5!.\chipsView.dat!!!!!!F44!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins967@filtsub.\c.normal\(chips)!C_CK05_100 NF!C7!.\chipsView.dat!!!!!!F43!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins983@filtsub.\c.normal\(chips)!C_CK05_100 NF!C8!.\chipsView.dat!!!!!!F42!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins83431@cl10b106mq8nrnc.\cl10b106mq8nrnc.normal\(sch_1)!CL10B106MQ8NRNC_CAP_CL10_SAM_10 UF!C20!.\chipsView.dat!!!!!!F41!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins484@filtsub.\c.normal\(chips)!C_CK05_10 UF!C4!.\chipsView.dat!!!!!!F40!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins951@filtsub.\c.normal\(chips)!C_CK05_10 UF!C6!.\chipsView.dat!!!!!!F39!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins71679@ese_project_lib.\ftsh-105-01-f-dv.normal\(chips)!FTSH-105-01-F-DV_FTSH-105-01-F-DV_FTSH-105-01-F-DV!CON1!.\chipsView.dat!!!!!!F38!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins83375@so1l.\ss14_0.normal\(chips)!SS14_0_DIOM5127X261N_SS14!D1!.\chipsView.dat!!!!!!F37!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins84188@so1l.\m7_1.normal\(chips)!M7_1_DIO_M7_M7!D2!.\chipsView.dat!!!!!!F36!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins82851@\277-1274-nd\.\1725669.normal\(sch_1)!1725669_CONN_1725669_PXC_CONN_03P_00C_1!J1!.\chipsView.dat!!!!!!F35!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins83787@\1729128\.\1729128.normal\(sch_1)!1729128_CONN_1729128_PXC_SOLAR PANEL!J2!.\chipsView.dat!!!!!!F34!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins101061@\wm17904tr-nd\.\1054550101.normal\(sch_1)!1054550101_CONN_1054550101_MOL_1054550101!J3!.\chipsView.dat!!!!!!F33!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins83355@\s2b-ph-k-s-lf-sn\.\s2b-ph-k-slfsn.normal\(sch_1)!S2B-PH-K-SLFSN_CONN_S2B-PH-K-S_JST_BATTERY!J4!.\chipsView.dat!!!!!!F32!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins84244@\1729128\.\1729128.normal\(chips)!1729128_CONN_1729128_PXC_1729128!J5!.\chipsView.dat!!!!!!F31!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins591@\490-5216-6-nd\.\blm18he152sn1d.normal\(sch_1)!BLM18HE152SN1D_IND_BLM18_0603_MUR_1.5 UH!L1!.\chipsView.dat!!!!!!F30!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins1153@epcos.\b82422-a1103-j/epc.normal\(chips)!B82422-A1103-J/EPC_INDC3225X135N_10 UH!L2!.\chipsView.dat!!!!!!F29!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins81643@epcos.\b82422-a1103-j/epc.normal\(chips)!B82422-A1103-J/EPC_INDC3225X135N_15 NH!L3!.\chipsView.dat!!!!!!F28!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins81832@epcos.\b82422-a1103-j/epc.normal\(chips)!B82422-A1103-J/EPC_INDC3225X135N_2 NH!L4!.\chipsView.dat!!!!!!F27!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins83307@project18_pw.\ifsc1515aher100m01_0.normal\(sch_1)!IFSC1515AHER100M01_0_IND_IFSC_1515AH_VIS_10 UH!L5!.\chipsView.dat!!!!!!F26!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins71791@ese_project_lib.\led.normal\(chips)!LED_MF_0603_SMD_LED_GREEN LED!LED1!.\chipsView.dat!!!!!!F25!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins71853@ese_project_lib.\led.normal\(chips)!LED_MF_0603_SMD_LED_RED LED!LED2!.\chipsView.dat!!!!!!F24!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins5653@discrete.\mosfet n.normal\(chips)!MOSFET N_SMSOT23123_MOSFET N!Q1!.\chipsView.dat!!!!!!F23!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins84284@ao3400a.\ao3400a.normal\(chips)!AO3400A_SMSOT23123_AO3400A!Q2!.\chipsView.dat!!!!!!F22!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins77959@analog.\r.normal\(chips)!R_AXRC05_100 OHM!R1!.\chipsView.dat!!!!!!F21!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins83479@project18_pw.\rc0603fr-0720kl_0.normal\(chips)!RC0603FR-0720KL_0_RESC1608X55N_20 KOHM!R10!.\chipsView.dat!!!!!!F20!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins84216@project18.\rc0603fr-07100rl_1.normal\(chips)!RC0603FR-07100RL_1_RESC1608X55N_100 OHM!R11!.\chipsView.dat!!!!!!F19!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins84264@project18.\rc0603fr-071kl_0.normal\(chips)!RC0603FR-071KL_0_RESC1608X55N_1 KOHM!R12!.\chipsView.dat!!!!!!F18!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins112682@project18.\rc0603fr-07100rl_1.normal\(chips)!RC0603FR-07100RL_1_RC0603N_YAG_100 OHM!R13!.\chipsView.dat!!!!!!TF-19!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins112706@project18.\rc0603fr-071kl_0.normal\(chips)!RC0603FR-071KL_0_RC0603N_YAG_1 KOHM!R14!.\chipsView.dat!!!!!!F17!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins78031@analog.\r.normal\(chips)!R_AXRC05_1 KOHM!R2!.\chipsView.dat!!!!!!F16!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins79492@analog.\r.normal\(chips)!R_AXRC05_100 KOHM!R3!.\chipsView.dat!!!!!!F15!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins71807@ese_project_lib.\resistor.normal\(chips)!RESISTOR_MF_0402_SMD_RESISTOR_680 OHM!R4!.\chipsView.dat!!!!!!F14!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins71869@ese_project_lib.\resistor.normal\(chips)!RESISTOR_MF_0402_SMD_RESISTOR_680 OHM!R5!.\chipsView.dat!!!!!!F13!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins71931@ese_project_lib.\resistor.normal\(chips)!RESISTOR_MF_0402_SMD_RESISTOR_270 OHM!R6!.\chipsView.dat!!!!!!F12!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins83863@project18_pw.\rc0603fr-075k1l_5.normal\(sch_1)!RC0603FR-075K1L_5_RC0603N_YAG_5.1 KOHM!R7!.\chipsView.dat!!!!!!F11!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins83759@project18_pw.\rc0603fr-075k1l_5.normal\(sch_1)!RC0603FR-075K1L_5_RC0603N_YAG_5.1 KOHM!R8!.\chipsView.dat!!!!!!F10!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins83327@project18_pw.\rc0603fr-072kl_0.normal\(chips)!RC0603FR-072KL_0_RESC1608X55N_2 KOHM!R9!.\chipsView.dat!!!!!!F9!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins83691@project18_pw.\ntcle350e4103fhb0_0.normal\(chips)!NTCLE350E4103FHB0_0_NTCLE350E4103FHB0_10 KOHM!RT1!.\chipsView.dat!!!!!!F8!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins71909@ese_project_lib.\switchbutton.normal\(chips)!SWITCHBUTTON_KSS341GLFS_TS14-1212-60-BK-260-SCR-D!SW1!.\chipsView.dat!!!!!!F7!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_0.normal\(sch_1)!CC2640R2FRHBR_0_RHB0032E_CC2640R2FRHB!U1!.\chipsView.dat!!!!!!F6!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_2a.normal\(sch_1)!MCP73871-2CCIML_2_QFN20_4X4MC_MCH_BATTERY CHARGER!U2!.\chipsView.dat!!!!!!F5!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins83671@so1l.\mcp73871-2cciml_2b.normal\(sch_1)!MCP73871-2CCIML_2_QFN20_4X4MC_MCH_BATTERY CHARGER!U2!.\chipsView.dat!!!!!!F4!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins83807@so1l.\tps62177dqcr_2.normal\(sch_1)!TPS62177DQCR_2_DQC0010A_VOLTAGE REGULATOR!U3!.\chipsView.dat!!!!!!F3!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins84320@so1l.\dk1a-3v-f_0.normal\(sch_1)!DK1A-3V-F_0_AW3212F_RELAY!U4!.\chipsView.dat!!!!!!F2!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins74201@ese_project_lib.\txs-3225.normal\(chips)!TXS-3225_TSX-3225_24MHZ_24 MHZ!Y1!.\chipsView.dat!!!!!!F1!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins74486@so1l.\fc-135r_0.normal\(chips)!FC-135R_0_C-135R_32.768KHZ!Y2!.\chipsView.dat!!!!!!F0!!!!!!!!!!!!!!!!!!

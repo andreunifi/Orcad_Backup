@@ -3,7 +3,7 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sat May 30 17:21:24 2026  |
+|                                                    Sat May 30 18:54:49 2026  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -59,7 +59,7 @@
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sat May 30 17:21:24 2026  |
+|                                                    Sat May 30 18:54:49 2026  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -115,7 +115,7 @@
 |                                                                    Page   3  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sat May 30 17:21:24 2026  |
+|                                                    Sat May 30 18:54:49 2026  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -171,7 +171,7 @@
 |                                                                    Page   4  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sat May 30 17:21:24 2026  |
+|                                                    Sat May 30 18:54:49 2026  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -216,7 +216,7 @@
 |                                                                    Page   5  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sat May 30 17:21:24 2026  |
+|                                                    Sat May 30 18:54:49 2026  |
 |------------------------------------------------------------------------------|
 | COMPONENT DEFINITION added to design                                         |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -232,17 +232,18 @@
  B82422-A1103-J/EPC_INDC3225X135N_10 UH
  B82422-A1103-J/EPC_INDC3225X135N_15 NH
  BLM18HE152SN1D_IND_BLM18_0603_MUR_1.5 UH
+ CAPACITOR_CAP_CC0603_YAG_100 NF
  CAPACITOR_MF_0402_SMD_CAPACITOR_1.2 PF
  CAPACITOR_MF_0402_SMD_CAPACITOR_12 PF
- CAPACITOR_MF_0402_SMD_CAPACITOR_100 NF
  CC0603KRX7R6BB105_CAPC1608X90N_1 UF
  CC0603MRX7R5BB475_CAP_CC0603_YAG_4.7 UF
  CC2640R2FRHBR_0_RHB0032E_CC2640R2FRHB
  CL10B106MQ8NRNC_CAP_CL10_SAM_10 UF
- C_CK05_1 UF
- C_CK05_10 UF
- C_CK05_12 PF
- C_CK05_100 NF
+ C_CAP_CC0603_YAG_1 UF
+ C_CAP_CC0603_YAG_10 UF
+ C_CAP_CC0603_YAG_12 PF
+ C_CAP_CC0603_YAG_100 NF
+ C_CAP_CC0603_YAG_DNM
  C_CK05_DNM
  DK1A-3V-F_0_AW3212F_RELAY
  EEV477M010A9MAA_0_CAPAE1030X1050N_470 UF
@@ -266,18 +267,18 @@
  RESISTOR_MF_0402_SMD_RESISTOR_680 OHM
  R_AXRC05_1 KOHM
  R_AXRC05_100 KOHM
- R_AXRC05_100 OHM
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   6  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sat May 30 17:21:24 2026  |
+|                                                    Sat May 30 18:54:49 2026  |
 |------------------------------------------------------------------------------|
 | COMPONENT DEFINITION added to design                                         |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    device type                                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R_AXRC05_100 OHM
  S2B-PH-K-SLFSN_CONN_S2B-PH-K-S_JST_BATTERY
  SS14_0_DIOM5127X261N_SS14
  SWITCHBUTTON_KSS341GLFS_TS14-1212-60-BK-260-SCR-D
@@ -288,26 +289,26 @@
 |                                                                    Page   7  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sat May 30 17:21:24 2026  |
+|                                                    Sat May 30 18:54:49 2026  |
 |------------------------------------------------------------------------------|
 | COMPONENTS ADDED to design                                                   |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    ref des        |    device type                                           |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
  A1                  ANTEENA_AN043_FLIP_ANTENNA 
- C1                  C_CK05_DNM            
- C2                  C_CK05_100 NF         
- C3                  C_CK05_100 NF         
- C4                  C_CK05_10 UF          
- C5                  C_CK05_100 NF         
- C6                  C_CK05_10 UF          
- C7                  C_CK05_100 NF         
- C8                  C_CK05_100 NF         
+ C1                  C_CAP_CC0603_YAG_DNM  
+ C2                  C_CAP_CC0603_YAG_100 NF 
+ C3                  C_CAP_CC0603_YAG_100 NF 
+ C4                  C_CAP_CC0603_YAG_10 UF 
+ C5                  C_CAP_CC0603_YAG_100 NF 
+ C6                  C_CAP_CC0603_YAG_10 UF 
+ C7                  C_CAP_CC0603_YAG_100 NF 
+ C8                  C_CAP_CC0603_YAG_100 NF 
  C9                  C_CK05_DNM            
- C10                 C_CK05_1 UF           
- C11                 C_CK05_12 PF          
- C12                 C_CK05_12 PF          
- C13                 CAPACITOR_MF_0402_SMD_CAPACITOR_100 NF 
+ C10                 C_CAP_CC0603_YAG_1 UF 
+ C11                 C_CAP_CC0603_YAG_12 PF 
+ C12                 C_CAP_CC0603_YAG_12 PF 
+ C13                 CAPACITOR_CAP_CC0603_YAG_100 NF 
  C14                 CAPACITOR_MF_0402_SMD_CAPACITOR_12 PF 
  C15                 CAPACITOR_MF_0402_SMD_CAPACITOR_1.2 PF 
  C16                 CAPACITOR_MF_0402_SMD_CAPACITOR_1.2 PF 
@@ -344,7 +345,7 @@
 |                                                                    Page   8  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sat May 30 17:21:24 2026  |
+|                                                    Sat May 30 18:54:49 2026  |
 |------------------------------------------------------------------------------|
 | COMPONENTS ADDED to design                                                   |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -371,7 +372,7 @@
 |                                                                    Page   9  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sat May 30 17:21:24 2026  |
+|                                                    Sat May 30 18:54:49 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -427,7 +428,7 @@
 |                                                                    Page  10  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sat May 30 17:21:24 2026  |
+|                                                    Sat May 30 18:54:49 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -483,7 +484,7 @@
 |                                                                    Page  11  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sat May 30 17:21:24 2026  |
+|                                                    Sat May 30 18:54:49 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -539,7 +540,7 @@
 |                                                                    Page  12  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sat May 30 17:21:24 2026  |
+|                                                    Sat May 30 18:54:49 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -595,7 +596,7 @@
 |                                                                    Page  13  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sat May 30 17:21:24 2026  |
+|                                                    Sat May 30 18:54:49 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -651,7 +652,7 @@
 |                                                                    Page  14  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sat May 30 17:21:24 2026  |
+|                                                    Sat May 30 18:54:49 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -707,7 +708,7 @@
 |                                                                    Page  15  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sat May 30 17:21:24 2026  |
+|                                                    Sat May 30 18:54:49 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -758,7 +759,7 @@
 |                                                                    Page  16  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sat May 30 17:21:24 2026  |
+|                                                    Sat May 30 18:54:49 2026  |
 |------------------------------------------------------------------------------|
 | PIN PROPERTIES added to design                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -814,7 +815,7 @@
 |                                                                    Page  17  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sat May 30 17:21:24 2026  |
+|                                                    Sat May 30 18:54:49 2026  |
 |------------------------------------------------------------------------------|
 | PIN PROPERTIES added to design                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -870,7 +871,7 @@
 |                                                                    Page  18  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sat May 30 17:21:24 2026  |
+|                                                    Sat May 30 18:54:49 2026  |
 |------------------------------------------------------------------------------|
 | PIN PROPERTIES added to design                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -926,7 +927,7 @@
 |                                                                    Page  19  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sat May 30 17:21:24 2026  |
+|                                                    Sat May 30 18:54:49 2026  |
 |------------------------------------------------------------------------------|
 | PIN PROPERTIES added to design                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -982,7 +983,7 @@
 |                                                                    Page  20  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sat May 30 17:21:24 2026  |
+|                                                    Sat May 30 18:54:49 2026  |
 |------------------------------------------------------------------------------|
 | PIN PROPERTIES added to design                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -1003,10 +1004,10 @@
  Y2.2                           SCH_LOC        (270,460)
 |------------------------------------------------------------------------------|
 |       Nets changed          :     193                                        |
-|       Comp definitions added:      50                                        |
+|       Comp definitions added:      51                                        |
 |       Components added      :      61                                        |
 |       Pin property added    :     193                                        |
 |       Slot property added   :     310                                        |
 |                                                                              |
-|   Total ECO changes reported:     807                                        |
+|   Total ECO changes reported:     808                                        |
 |------------------------------------------------------------------------------|

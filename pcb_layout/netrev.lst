@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : SO1L.brd                                      )
 (    Software Version : 25.1S030                                      )
-(    Date/Time        : Sat May 30 17:21:24 2026                      )
+(    Date/Time        : Sat May 30 18:54:49 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -45,144 +45,109 @@ Set the correct library path if not set or use dbdoctor to migrate old symbols
 
 #2   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
 
-WARNING(SPMHNI-194): Symbol 'CK05' used by RefDes C1 for device 'C_CK05_DNM' not found. 
-The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
-
-Set the correct library path if not set or use dbdoctor to migrate old symbols.
-
-#3   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'CK05' used by RefDes C10 for device 'C_CK05_1 UF' not found. 
-The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
-
-Set the correct library path if not set or use dbdoctor to migrate old symbols.
-
-#4   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'CK05' used by RefDes C11 for device 'C_CK05_12 PF' not found. 
-The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
-
-Set the correct library path if not set or use dbdoctor to migrate old symbols.
-
-#5   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'MF_0402_SMD_CAPACITOR' used by RefDes C13 for device 'CAPACITOR_MF_0402_SMD_CAPACITOR_100 NF' not found. 
-The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
-
-Set the correct library path if not set or use dbdocto
-
-#6   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
 WARNING(SPMHNI-194): Symbol 'MF_0402_SMD_CAPACITOR' used by RefDes C14 for device 'CAPACITOR_MF_0402_SMD_CAPACITOR_12 PF' not found. 
 The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
 
 Set the correct library path if not set or use dbdoctor
 
-#7   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+#3   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
 
 WARNING(SPMHNI-194): Symbol 'MF_0402_SMD_CAPACITOR' used by RefDes C15 for device 'CAPACITOR_MF_0402_SMD_CAPACITOR_1.2 PF' not found. 
 The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
 
 Set the correct library path if not set or use dbdocto
 
-#8   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+#4   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
 
-WARNING(SPMHNI-194): Symbol 'CK05' used by RefDes C2 for device 'C_CK05_100 NF' not found. 
+WARNING(SPMHNI-194): Symbol 'CK05' used by RefDes C9 for device 'C_CK05_DNM' not found. 
 The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
 
 Set the correct library path if not set or use dbdoctor to migrate old symbols.
 
-#9   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'CK05' used by RefDes C4 for device 'C_CK05_10 UF' not found. 
-The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
-
-Set the correct library path if not set or use dbdoctor to migrate old symbols.
-
-#10  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+#5   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
 
 WARNING(SPMHNI-194): Symbol 'FTSH-105-01-F-DV' used by RefDes CON1 for device 'FTSH-105-01-F-DV_FTSH-105-01-F-DV_FTSH-105-01-F-DV' not found. 
 The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
 
 Set the correct library path if not set or use
 
-#11  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-ERROR(SPMHNI-196): Symbol 'DIO_M7' for device 'M7_1_DIO_M7_M7' has extra pin 'A'.
+#6   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
 
 ERROR(SPMHNI-196): Symbol 'DIO_M7' for device 'M7_1_DIO_M7_M7' has extra pin 'C'.
+
+ERROR(SPMHNI-196): Symbol 'DIO_M7' for device 'M7_1_DIO_M7_M7' has extra pin 'A'.
 
 ERROR(SPMHNI-195): Symbol 'DIO_M7' for device 'M7_1_DIO_M7_M7' is missing pin '2'.
 
 ERROR(SPMHNI-195): Symbol 'DIO_M7' for device 'M7_1_DIO_M7_M7' is missing pin '1'.
 
-#12  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+#7   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
 
 ERROR(SPMHNI-196): Symbol 'CONN_1054550101_MOL' for device '1054550101_CONN_1054550101_MOL_1054550101' has extra pin '26'.
 
 ERROR(SPMHNI-196): Symbol 'CONN_1054550101_MOL' for device '1054550101_CONN_1054550101_MOL_1054550101' has extra pin '27'.
 
-ERROR(SPMHNI-196): Symbol 'CONN_1054550101_MOL' for device '1054550101_CONN_1054550101_MOL_1054550101' has extra pin '25'.
-
 ERROR(SPMHNI-196): Symbol 'CONN_1054550101_MOL' for device '1054550101_CONN_1054550101_MOL_1054550101' has extra pin '28'.
 
-#13  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+ERROR(SPMHNI-196): Symbol 'CONN_1054550101_MOL' for device '1054550101_CONN_1054550101_MOL_1054550101' has extra pin '25'.
+
+#8   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
 
 WARNING(SPMHNI-194): Symbol 'INDC3225X135N' used by RefDes L2 for device 'B82422-A1103-J/EPC_INDC3225X135N_10 UH' not found. 
 The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
 
 Set the correct library path if not set or use dbdoctor to migr
 
-#14  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+#9   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
 
 WARNING(SPMHNI-194): Symbol 'INDC3225X135N' used by RefDes L3 for device 'B82422-A1103-J/EPC_INDC3225X135N_15 NH' not found. 
 The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
 
 Set the correct library path if not set or use dbdoctor to migr
 
-#15  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+#10  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
 
 WARNING(SPMHNI-194): Symbol 'INDC3225X135N' used by RefDes L4 for device 'B82422-A1103-J/EPC_INDC3225X135N_2 NH' not found. 
 The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
 
 Set the correct library path if not set or use dbdoctor to migra
 
-#16  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+#11  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
 
 WARNING(SPMHNI-194): Symbol 'MF_0603_SMD_LED' used by RefDes LED1 for device 'LED_MF_0603_SMD_LED_GREEN LED' not found. 
 The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
 
 Set the correct library path if not set or use dbdoctor to migrate o
 
-#17  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+#12  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
 
 WARNING(SPMHNI-194): Symbol 'MF_0603_SMD_LED' used by RefDes LED2 for device 'LED_MF_0603_SMD_LED_RED LED' not found. 
 The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
 
 Set the correct library path if not set or use dbdoctor to migrate old
 
-#18  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+#13  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
 
 WARNING(SPMHNI-194): Symbol 'MF_0402_SMD_RESISTOR' used by RefDes R4 for device 'RESISTOR_MF_0402_SMD_RESISTOR_680 OHM' not found. 
 The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
 
 Set the correct library path if not set or use dbdoctor t
 
-#19  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+#14  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
 
 WARNING(SPMHNI-194): Symbol 'MF_0402_SMD_RESISTOR' used by RefDes R6 for device 'RESISTOR_MF_0402_SMD_RESISTOR_270 OHM' not found. 
 The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
 
 Set the correct library path if not set or use dbdoctor t
 
-#20  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+#15  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
 
 WARNING(SPMHNI-194): Symbol 'KSS341GLFS' used by RefDes SW1 for device 'SWITCHBUTTON_KSS341GLFS_TS14-1212-60-BK-260-SCR-D' not found. 
 The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
 
 Set the correct library path if not set or use dbdocto
 
-#21  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+#16  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
 
 ERROR(SPMHNI-196): Symbol 'RHB0032E' for device 'CC2640R2FRHBR_0_RHB0032E_CC2640R2FRHB' has extra pin '37'.
 
@@ -194,11 +159,11 @@ ERROR(SPMHNI-196): Symbol 'RHB0032E' for device 'CC2640R2FRHBR_0_RHB0032E_CC2640
 
 ERROR(SPMHNI-196): Symbol 'RHB0032E' for device 'CC2640R2FRHBR_0_RHB0032E_CC2640R2FRHB' has extra pin '34'.
 
-#22  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+#17  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
 
 WARNING(SPMHNI-337): Unable to load symbol 'QFN20_4X4MC_MCH' used by RefDes U2 for device 'MCP73871-2CCIML_2_QFN20_4X4MC_MCH_BATTERY CHARGER': WARNING(SPMHUT-127): Could not find padstack R279_279-1. [help]
 
-#23  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+#18  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
 
 ERROR(SPMHNI-196): Symbol 'DQC0010A' for device 'TPS62177DQCR_2_DQC0010A_VOLTAGE REGULATOR' has extra pin '12'.
 
@@ -210,14 +175,14 @@ ERROR(SPMHNI-196): Symbol 'DQC0010A' for device 'TPS62177DQCR_2_DQC0010A_VOLTAGE
 
 ERROR(SPMHNI-195): Symbol 'DQC0010A' for device 'TPS62177DQCR_2_DQC0010A_VOLTAGE REGULATOR' is missing pin '11'.
 
-#24  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+#19  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
 
 WARNING(SPMHNI-194): Symbol 'TSX-3225_24MHZ' used by RefDes Y1 for device 'TXS-3225_TSX-3225_24MHZ_24 MHZ' not found. 
 The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
 
 Set the correct library path if not set or use dbdoctor to migrate old
 
-#25  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+#20  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
 
 WARNING(SPMHNI-194): Symbol 'C-135R' used by RefDes Y2 for device 'FC-135R_0_C-135R_32.768KHZ' not found. 
 The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
@@ -253,7 +218,7 @@ PADPATH =  C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/librarie
 ------ Summary Statistics ------
 
 
-netrev run on May 30 17:21:24 2026
+netrev run on May 30 18:54:49 2026
    DESIGN NAME : 'SO1L'
    PACKAGING ON Mar 25 2026 22:25:38
 
@@ -276,7 +241,7 @@ netrev run on May 30 17:21:24 2026
 
  No error detected
  No oversight detected
- 25 warnings detected
+ 20 warnings detected
 
 cpu time      0:02:00
 elapsed time  0:00:01

@@ -7,7 +7,7 @@ Andrea Mugnaini
 
 
 
-Bill Of Materials            May 30,2026      16:24:20	Page1
+Bill Of Materials            May 30,2026      18:17:36	Page1
 
 Item,		Quantity,		Reference,		Part,		MPN
 ______________________________________________
@@ -39,8 +39,8 @@ ______________________________________________
 25	1	Q1	MOSFET N	AO3400A 
 26	1	Q2	AO3400A	AO3400A 
 27	1	RT1	10 kOhm	NTCLE350E4103FHB0 
-28	2	R1,R11	100 Ohm	RC0603FR-07100RL 
-29	2	R2,R12	1 kOhm	RC0603FR-071KL 
+28	3	R1,R11,R13	100 Ohm	RC0603FR-07100RL 
+29	3	R2,R12,R14	1 kOhm	RC0603FR-071KL 
 30	1	R3	100 kOhm	RC0603FR-13100KL 
 31	2	R4,R5	680 Ohm	RC0603JR-07680RL 
 32	1	R6	270 Ohm	RC0603FR-07270RL 

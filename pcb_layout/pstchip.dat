@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 25.1.0 d001May-30-2026 at 17:21:23}
+{ Using PSTWRITER 25.1.0 d001May-30-2026 at 18:54:48}
 primitive 'ANTEENA_AN043_FLIP_ANTENNA';
   pin
     'FEED':
@@ -14,7 +14,7 @@ primitive 'ANTEENA_AN043_FLIP_ANTENNA';
     VALUE='Antenna';
   end_body;
 end_primitive;
-primitive 'C_CK05_DNM';
+primitive 'C_CAP_CC0603_YAG_DNM';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -25,11 +25,11 @@ primitive 'C_CK05_DNM';
   end_pin;
   body
     PART_NAME='C';
-    JEDEC_TYPE='CK05';
+    JEDEC_TYPE='CAP_CC0603_YAG';
     VALUE='DNM';
   end_body;
 end_primitive;
-primitive 'C_CK05_1 UF';
+primitive 'C_CAP_CC0603_YAG_1 UF';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -40,11 +40,11 @@ primitive 'C_CK05_1 UF';
   end_pin;
   body
     PART_NAME='C';
-    JEDEC_TYPE='CK05';
+    JEDEC_TYPE='CAP_CC0603_YAG';
     VALUE='1 uF';
   end_body;
 end_primitive;
-primitive 'C_CK05_12 PF';
+primitive 'C_CAP_CC0603_YAG_12 PF';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -55,11 +55,11 @@ primitive 'C_CK05_12 PF';
   end_pin;
   body
     PART_NAME='C';
-    JEDEC_TYPE='CK05';
+    JEDEC_TYPE='CAP_CC0603_YAG';
     VALUE='12 pF';
   end_body;
 end_primitive;
-primitive 'CAPACITOR_MF_0402_SMD_CAPACITOR_100 NF';
+primitive 'CAPACITOR_CAP_CC0603_YAG_100 NF';
   pin
     'A':
       PIN_NUMBER='(1)';
@@ -70,7 +70,7 @@ primitive 'CAPACITOR_MF_0402_SMD_CAPACITOR_100 NF';
   end_pin;
   body
     PART_NAME='Capacitor';
-    JEDEC_TYPE='mf_0402_smd_capacitor';
+    JEDEC_TYPE='CAP_CC0603_YAG';
     VALUE='100 nF';
   end_body;
 end_primitive;
@@ -149,7 +149,7 @@ primitive 'CC0603MRX7R5BB475_CAP_CC0603_YAG_4.7 UF';
     VALUE='4.7 uF';
   end_body;
 end_primitive;
-primitive 'C_CK05_100 NF';
+primitive 'C_CAP_CC0603_YAG_100 NF';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -160,7 +160,7 @@ primitive 'C_CK05_100 NF';
   end_pin;
   body
     PART_NAME='C';
-    JEDEC_TYPE='CK05';
+    JEDEC_TYPE='CAP_CC0603_YAG';
     VALUE='100 nF';
   end_body;
 end_primitive;
@@ -179,7 +179,22 @@ primitive 'CL10B106MQ8NRNC_CAP_CL10_SAM_10 UF';
     VALUE='10 uF';
   end_body;
 end_primitive;
-primitive 'C_CK05_10 UF';
+primitive 'C_CAP_CC0603_YAG_10 UF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='C';
+    JEDEC_TYPE='CAP_CC0603_YAG';
+    VALUE='10 uF';
+  end_body;
+end_primitive;
+primitive 'C_CK05_DNM';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -191,7 +206,7 @@ primitive 'C_CK05_10 UF';
   body
     PART_NAME='C';
     JEDEC_TYPE='CK05';
-    VALUE='10 uF';
+    VALUE='DNM';
   end_body;
 end_primitive;
 primitive 'FTSH-105-01-F-DV_FTSH-105-01-F-DV_FTSH-105-01-F-DV';
