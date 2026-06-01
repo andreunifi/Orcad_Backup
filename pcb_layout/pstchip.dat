@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 25.1.0 d001May-30-2026 at 18:54:48}
+{ Using PSTWRITER 25.1.0 d001Jun-01-2026 at 09:18:17}
 primitive 'ANTEENA_AN043_FLIP_ANTENNA';
   pin
     'FEED':
@@ -74,7 +74,7 @@ primitive 'CAPACITOR_CAP_CC0603_YAG_100 NF';
     VALUE='100 nF';
   end_body;
 end_primitive;
-primitive 'CAPACITOR_MF_0402_SMD_CAPACITOR_12 PF';
+primitive 'CAPACITOR_CAP_CC0603_YAG_12 PF';
   pin
     'A':
       PIN_NUMBER='(1)';
@@ -85,11 +85,11 @@ primitive 'CAPACITOR_MF_0402_SMD_CAPACITOR_12 PF';
   end_pin;
   body
     PART_NAME='Capacitor';
-    JEDEC_TYPE='mf_0402_smd_capacitor';
+    JEDEC_TYPE='CAP_CC0603_YAG';
     VALUE='12 pF';
   end_body;
 end_primitive;
-primitive 'CAPACITOR_MF_0402_SMD_CAPACITOR_1.2 PF';
+primitive 'CAPACITOR_CAP_CC0603_YAG_1.2 PF';
   pin
     'A':
       PIN_NUMBER='(1)';
@@ -100,7 +100,7 @@ primitive 'CAPACITOR_MF_0402_SMD_CAPACITOR_1.2 PF';
   end_pin;
   body
     PART_NAME='Capacitor';
-    JEDEC_TYPE='mf_0402_smd_capacitor';
+    JEDEC_TYPE='CAP_CC0603_YAG';
     VALUE='1.2 pF';
   end_body;
 end_primitive;
@@ -209,45 +209,6 @@ primitive 'C_CK05_DNM';
     VALUE='DNM';
   end_body;
 end_primitive;
-primitive 'FTSH-105-01-F-DV_FTSH-105-01-F-DV_FTSH-105-01-F-DV';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-    '3':
-      PIN_NUMBER='(3)';
-      PINUSE='UNSPEC';
-    '4':
-      PIN_NUMBER='(4)';
-      PINUSE='UNSPEC';
-    '5':
-      PIN_NUMBER='(5)';
-      PINUSE='UNSPEC';
-    '6':
-      PIN_NUMBER='(6)';
-      PINUSE='UNSPEC';
-    '7':
-      PIN_NUMBER='(7)';
-      PINUSE='UNSPEC';
-    '8':
-      PIN_NUMBER='(8)';
-      PINUSE='UNSPEC';
-    '9':
-      PIN_NUMBER='(9)';
-      PINUSE='UNSPEC';
-    '10':
-      PIN_NUMBER='(10)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='FTSH-105-01-F-DV';
-    JEDEC_TYPE='FTSH-105-01-F-DV';
-    VALUE='FTSH-105-01-F-DV';
-  end_body;
-end_primitive;
 primitive 'SS14_0_DIOM5127X261N_SS14';
   pin
     'K':
@@ -263,7 +224,7 @@ primitive 'SS14_0_DIOM5127X261N_SS14';
     VALUE='SS14';
   end_body;
 end_primitive;
-primitive 'M7_1_DIO_M7_M7';
+primitive 'M7_DIOM5327X240N_M7';
   pin
     'K':
       PIN_NUMBER='(1)';
@@ -273,9 +234,51 @@ primitive 'M7_1_DIO_M7_M7';
       PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='M7_1';
-    JEDEC_TYPE='DIO_M7';
+    PART_NAME='M7';
+    JEDEC_TYPE='DIOM5327X240N';
     VALUE='M7';
+  end_body;
+end_primitive;
+primitive 'TPS62177DQCR_SON50P200X300X80-11N_TPS62177DQCR';
+  pin
+    'PGND':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'VIN':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'EN':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'NC':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    'FB':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    'EP':
+      PIN_NUMBER='(11)';
+      PINUSE='UNSPEC';
+    'VOS':
+      PIN_NUMBER='(10)';
+      PINUSE='UNSPEC';
+    'SW':
+      PIN_NUMBER='(9)';
+      PINUSE='UNSPEC';
+    'SLEEP':
+      PIN_NUMBER='(8)';
+      PINUSE='UNSPEC';
+    'PG':
+      PIN_NUMBER='(7)';
+      PINUSE='UNSPEC';
+    'AGND':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='TPS62177DQCR';
+    JEDEC_TYPE='SON50P200X300X80-11N';
+    VALUE='TPS62177DQCR';
   end_body;
 end_primitive;
 primitive '1725669_CONN_1725669_PXC_CONN_03P_00C_1';
@@ -296,6 +299,45 @@ primitive '1725669_CONN_1725669_PXC_CONN_03P_00C_1';
     VALUE='CONN_03P_00C_1';
   end_body;
 end_primitive;
+primitive 'FTSH-105-XX-X-DV_SAMTEC_FTSH-105-XX-X-DV_FTSH-105-XX-X-DV';
+  pin
+    '01':
+      PIN_NUMBER='(01)';
+      PINUSE='UNSPEC';
+    '02':
+      PIN_NUMBER='(02)';
+      PINUSE='UNSPEC';
+    '03':
+      PIN_NUMBER='(03)';
+      PINUSE='UNSPEC';
+    '04':
+      PIN_NUMBER='(04)';
+      PINUSE='UNSPEC';
+    '05':
+      PIN_NUMBER='(05)';
+      PINUSE='UNSPEC';
+    '06':
+      PIN_NUMBER='(06)';
+      PINUSE='UNSPEC';
+    '07':
+      PIN_NUMBER='(07)';
+      PINUSE='UNSPEC';
+    '08':
+      PIN_NUMBER='(08)';
+      PINUSE='UNSPEC';
+    '09':
+      PIN_NUMBER='(09)';
+      PINUSE='UNSPEC';
+    '10':
+      PIN_NUMBER='(10)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='FTSH-105-XX-X-DV';
+    JEDEC_TYPE='SAMTEC_FTSH-105-XX-X-DV';
+    VALUE='FTSH-105-XX-X-DV';
+  end_body;
+end_primitive;
 primitive '1729128_CONN_1729128_PXC_SOLAR PANEL';
   pin
     '1':
@@ -311,7 +353,7 @@ primitive '1729128_CONN_1729128_PXC_SOLAR PANEL';
     VALUE='Solar Panel';
   end_body;
 end_primitive;
-primitive '1054550101_CONN_1054550101_MOL_1054550101';
+primitive '1054550101_14_CONN_1054550101_MOL_1054550101';
   pin
     'GND':
       PIN_NUMBER='(A1)';
@@ -385,9 +427,21 @@ primitive '1054550101_CONN_1054550101_MOL_1054550101';
     'GND_4':
       PIN_NUMBER='(B12)';
       PINUSE='POWER';
+    'THERM1':
+      PIN_NUMBER='(25)';
+      PINUSE='UNSPEC';
+    'THERM2':
+      PIN_NUMBER='(26)';
+      PINUSE='UNSPEC';
+    'THERM3':
+      PIN_NUMBER='(27)';
+      PINUSE='UNSPEC';
+    'THERM4':
+      PIN_NUMBER='(28)';
+      PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='1054550101';
+    PART_NAME='1054550101_14';
     JEDEC_TYPE='CONN_1054550101_MOL';
     VALUE='1054550101';
   end_body;
@@ -422,7 +476,7 @@ primitive '1729128_CONN_1729128_PXC_1729128';
     VALUE='1729128';
   end_body;
 end_primitive;
-primitive 'BLM18HE152SN1D_IND_BLM18_0603_MUR_1.5 UH';
+primitive 'BLM18HE152SN1D_IND_BLM18_0603_MUR-M_1.5 UH';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -433,52 +487,52 @@ primitive 'BLM18HE152SN1D_IND_BLM18_0603_MUR_1.5 UH';
   end_pin;
   body
     PART_NAME='BLM18HE152SN1D';
-    JEDEC_TYPE='IND_BLM18_0603_MUR';
+    JEDEC_TYPE='IND_BLM18_0603_MUR-M';
     VALUE='1.5 uH';
   end_body;
 end_primitive;
-primitive 'B82422-A1103-J/EPC_INDC3225X135N_10 UH';
+primitive 'IFSC1515AHER100M01_INDPM4040X190N_10 UH';
   pin
-    'A':
-      PIN_NUMBER='(A)';
+    '1':
+      PIN_NUMBER='(1)';
       PINUSE='UNSPEC';
-    'B':
-      PIN_NUMBER='(B)';
+    '2':
+      PIN_NUMBER='(2)';
       PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='B82422-A1103-J/EPC';
-    JEDEC_TYPE='INDC3225X135N';
+    PART_NAME='IFSC1515AHER100M01';
+    JEDEC_TYPE='INDPM4040X190N';
     VALUE='10 uH';
   end_body;
 end_primitive;
-primitive 'B82422-A1103-J/EPC_INDC3225X135N_15 NH';
+primitive 'B82422-A1103-J/EPC_3_INDC1006X60N_15 NH';
   pin
-    'A':
-      PIN_NUMBER='(A)';
+    '1':
+      PIN_NUMBER='(1)';
       PINUSE='UNSPEC';
-    'B':
-      PIN_NUMBER='(B)';
+    '2':
+      PIN_NUMBER='(2)';
       PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='B82422-A1103-J/EPC';
-    JEDEC_TYPE='INDC3225X135N';
+    PART_NAME='B82422-A1103-J/EPC_3';
+    JEDEC_TYPE='INDC1006X60N';
     VALUE='15 nH';
   end_body;
 end_primitive;
-primitive 'B82422-A1103-J/EPC_INDC3225X135N_2 NH';
+primitive 'B82422-A1103-J/EPC_3_IND_LQG15_MUR-M_2 NH';
   pin
-    'A':
-      PIN_NUMBER='(A)';
+    '1':
+      PIN_NUMBER='(1)';
       PINUSE='UNSPEC';
-    'B':
-      PIN_NUMBER='(B)';
+    '2':
+      PIN_NUMBER='(2)';
       PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='B82422-A1103-J/EPC';
-    JEDEC_TYPE='INDC3225X135N';
+    PART_NAME='B82422-A1103-J/EPC_3';
+    JEDEC_TYPE='IND_LQG15_MUR-M';
     VALUE='2 nH';
   end_body;
 end_primitive;
@@ -497,7 +551,7 @@ primitive 'IFSC1515AHER100M01_0_IND_IFSC_1515AH_VIS_10 UH';
     VALUE='10 uH';
   end_body;
 end_primitive;
-primitive 'LED_MF_0603_SMD_LED_GREEN LED';
+primitive 'LED_LEDC1608X45N_GREEN LED';
   pin
     'A':
       PIN_NUMBER='(1)';
@@ -508,11 +562,11 @@ primitive 'LED_MF_0603_SMD_LED_GREEN LED';
   end_pin;
   body
     PART_NAME='led';
-    JEDEC_TYPE='mf_0603_smd_led';
+    JEDEC_TYPE='LEDC1608X45N';
     VALUE='green led';
   end_body;
 end_primitive;
-primitive 'LED_MF_0603_SMD_LED_RED LED';
+primitive 'LED_LEDC1608X45N_RED LED';
   pin
     'A':
       PIN_NUMBER='(1)';
@@ -523,7 +577,7 @@ primitive 'LED_MF_0603_SMD_LED_RED LED';
   end_pin;
   body
     PART_NAME='led';
-    JEDEC_TYPE='mf_0603_smd_led';
+    JEDEC_TYPE='LEDC1608X45N';
     VALUE='red led';
   end_body;
 end_primitive;
@@ -563,7 +617,7 @@ primitive 'AO3400A_SMSOT23123_AO3400A';
     VALUE='AO3400A';
   end_body;
 end_primitive;
-primitive 'R_AXRC05_100 OHM';
+primitive 'R_RC0603N_YAG_100 OHM';
   pin
     '2':
       PIN_NUMBER='(2)';
@@ -574,11 +628,11 @@ primitive 'R_AXRC05_100 OHM';
   end_pin;
   body
     PART_NAME='R';
-    JEDEC_TYPE='AXRC05';
+    JEDEC_TYPE='RC0603N_YAG';
     VALUE='100 Ohm';
   end_body;
 end_primitive;
-primitive 'RC0603FR-0720KL_0_RESC1608X55N_20 KOHM';
+primitive 'RC0603FR-0720KL_0_RC0603N_YAG_20 KOHM';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -589,38 +643,8 @@ primitive 'RC0603FR-0720KL_0_RESC1608X55N_20 KOHM';
   end_pin;
   body
     PART_NAME='RC0603FR-0720KL_0';
-    JEDEC_TYPE='RESC1608X55N';
+    JEDEC_TYPE='RC0603N_YAG';
     VALUE='20 kOhm';
-  end_body;
-end_primitive;
-primitive 'RC0603FR-07100RL_1_RESC1608X55N_100 OHM';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='RC0603FR-07100RL_1';
-    JEDEC_TYPE='RESC1608X55N';
-    VALUE='100 Ohm';
-  end_body;
-end_primitive;
-primitive 'RC0603FR-071KL_0_RESC1608X55N_1 KOHM';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='RC0603FR-071KL_0';
-    JEDEC_TYPE='RESC1608X55N';
-    VALUE='1 kOhm';
   end_body;
 end_primitive;
 primitive 'RC0603FR-07100RL_1_RC0603N_YAG_100 OHM';
@@ -653,7 +677,7 @@ primitive 'RC0603FR-071KL_0_RC0603N_YAG_1 KOHM';
     VALUE='1 kOhm';
   end_body;
 end_primitive;
-primitive 'R_AXRC05_1 KOHM';
+primitive 'R_RC0603N_YAG_1 KOHM';
   pin
     '2':
       PIN_NUMBER='(2)';
@@ -664,11 +688,11 @@ primitive 'R_AXRC05_1 KOHM';
   end_pin;
   body
     PART_NAME='R';
-    JEDEC_TYPE='AXRC05';
+    JEDEC_TYPE='RC0603N_YAG';
     VALUE='1 kOhm';
   end_body;
 end_primitive;
-primitive 'R_AXRC05_100 KOHM';
+primitive 'R_RC0603N_YAG_100 KOHM';
   pin
     '2':
       PIN_NUMBER='(2)';
@@ -679,11 +703,11 @@ primitive 'R_AXRC05_100 KOHM';
   end_pin;
   body
     PART_NAME='R';
-    JEDEC_TYPE='AXRC05';
+    JEDEC_TYPE='RC0603N_YAG';
     VALUE='100 kOhm';
   end_body;
 end_primitive;
-primitive 'RESISTOR_MF_0402_SMD_RESISTOR_680 OHM';
+primitive 'RESISTOR_RC0603N_YAG_680 OHM';
   pin
     'B':
       PIN_NUMBER='(2)';
@@ -694,11 +718,11 @@ primitive 'RESISTOR_MF_0402_SMD_RESISTOR_680 OHM';
   end_pin;
   body
     PART_NAME='Resistor';
-    JEDEC_TYPE='mf_0402_smd_resistor';
+    JEDEC_TYPE='RC0603N_YAG';
     VALUE='680 Ohm';
   end_body;
 end_primitive;
-primitive 'RESISTOR_MF_0402_SMD_RESISTOR_270 OHM';
+primitive 'RESISTOR_RC0603N_YAG_270 OHM';
   pin
     'B':
       PIN_NUMBER='(2)';
@@ -709,7 +733,7 @@ primitive 'RESISTOR_MF_0402_SMD_RESISTOR_270 OHM';
   end_pin;
   body
     PART_NAME='Resistor';
-    JEDEC_TYPE='mf_0402_smd_resistor';
+    JEDEC_TYPE='RC0603N_YAG';
     VALUE='270 Ohm';
   end_body;
 end_primitive;
@@ -728,7 +752,7 @@ primitive 'RC0603FR-075K1L_5_RC0603N_YAG_5.1 KOHM';
     VALUE='5.1 kOhm';
   end_body;
 end_primitive;
-primitive 'RC0603FR-072KL_0_RESC1608X55N_2 KOHM';
+primitive 'RC0603FR-072KL_0_RC0603N_YAG_2 KOHM';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -739,7 +763,7 @@ primitive 'RC0603FR-072KL_0_RESC1608X55N_2 KOHM';
   end_pin;
   body
     PART_NAME='RC0603FR-072KL_0';
-    JEDEC_TYPE='RESC1608X55N';
+    JEDEC_TYPE='RC0603N_YAG';
     VALUE='2 kOhm';
   end_body;
 end_primitive;
@@ -758,26 +782,28 @@ primitive 'NTCLE350E4103FHB0_0_NTCLE350E4103FHB0_10 KOHM';
     VALUE='10 kOhm';
   end_body;
 end_primitive;
-primitive 'SWITCHBUTTON_KSS341GLFS_TS14-1212-60-BK-260-SCR-D';
+primitive '1825910-6_18259106_1825910-6';
   pin
-    'A':
+    'COM_1':
       PIN_NUMBER='(1)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
-    'B':
+      PINUSE='UNSPEC';
+    'COM_2':
       PIN_NUMBER='(2)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
+      PINUSE='UNSPEC';
+    'NO_1':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'NO_2':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='SwitchButton';
-    JEDEC_TYPE='KSS341GLFS';
-    VALUE='TS14-1212-60-BK-260-SCR-D';
+    PART_NAME='1825910-6';
+    JEDEC_TYPE='18259106';
+    VALUE='1825910-6';
   end_body;
 end_primitive;
-primitive 'CC2640R2FRHBR_0_RHB0032E_CC2640R2FRHB';
+primitive 'CC2640R2FRHBR_4_RHB0032E_CC2640R2FRHB';
   pin
     'RF_P':
       PIN_NUMBER='(1)';
@@ -926,14 +952,29 @@ primitive 'CC2640R2FRHBR_0_RHB0032E_CC2640R2FRHB';
     'VSS':
       PIN_NUMBER='(33)';
       PINUSE='POWER';
+    'THERM1':
+      PIN_NUMBER='(34)';
+      PINUSE='UNSPEC';
+    'THERM2':
+      PIN_NUMBER='(35)';
+      PINUSE='UNSPEC';
+    'THERM3':
+      PIN_NUMBER='(36)';
+      PINUSE='UNSPEC';
+    'THERM4':
+      PIN_NUMBER='(37)';
+      PINUSE='UNSPEC';
+    'THERM5':
+      PIN_NUMBER='(38)';
+      PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='CC2640R2FRHBR_0';
+    PART_NAME='CC2640R2FRHBR_4';
     JEDEC_TYPE='RHB0032E';
     VALUE='CC2640R2FRHB';
   end_body;
 end_primitive;
-primitive 'MCP73871-2CCIML_2_QFN20_4X4MC_MCH_BATTERY CHARGER';
+primitive 'MCP73871-2CCIML_3_QFN20_4X4MC_MCH_BATTERY CHARGER';
   pin
     '*TE':
       PIN_NUMBER='(9,0)';
@@ -1014,53 +1055,18 @@ primitive 'MCP73871-2CCIML_2_QFN20_4X4MC_MCH_BATTERY CHARGER';
       PINUSE='POWER';
   end_pin;
   body
-    PART_NAME='MCP73871-2CCIML_2';
+    POWER_PINS='(THERM1:22)';
+    POWER_PINS='(THERM2:25)';
+    POWER_PINS='(THERM3:26)';
+    POWER_PINS='(THERM5:28)';
+    POWER_PINS='(THERM6:29)';
+    POWER_PINS='(THERM7:30)';
+    POWER_PINS='(THERM8:31)';
+    POWER_PINS='(THERM9:32)';
+    POWER_PINS='(THERM10:33)';
+    PART_NAME='MCP73871-2CCIML_3';
     JEDEC_TYPE='QFN20_4x4MC_MCH';
     VALUE='Battery Charger';
-  end_body;
-end_primitive;
-primitive 'TPS62177DQCR_2_DQC0010A_VOLTAGE REGULATOR';
-  pin
-    'PGND':
-      PIN_NUMBER='(1)';
-      PINUSE='POWER';
-    'VIN':
-      PIN_NUMBER='(2)';
-      INPUT_LOAD='(*)';
-    'EN':
-      PIN_NUMBER='(3)';
-      INPUT_LOAD='(*)';
-    'NC':
-      PIN_NUMBER='(4)';
-      PINUSE='UNSPEC';
-    'FB':
-      PIN_NUMBER='(5)';
-      INPUT_LOAD='(*)';
-    'AGND':
-      PIN_NUMBER='(6)';
-      PINUSE='POWER';
-    'PG':
-      PIN_NUMBER='(7)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
-    'SLEEP':
-      PIN_NUMBER='(8)';
-      INPUT_LOAD='(*)';
-    'SW':
-      PIN_NUMBER='(9)';
-      OUTPUT_LOAD='(*)';
-    'VOS':
-      PIN_NUMBER='(10)';
-      INPUT_LOAD='(*)';
-    'DAP':
-      PIN_NUMBER='(11)';
-      PINUSE='POWER';
-  end_pin;
-  body
-    PART_NAME='TPS62177DQCR_2';
-    JEDEC_TYPE='DQC0010A';
-    VALUE='Voltage Regulator';
   end_body;
 end_primitive;
 primitive 'DK1A-3V-F_0_AW3212F_RELAY';
@@ -1084,7 +1090,7 @@ primitive 'DK1A-3V-F_0_AW3212F_RELAY';
     VALUE='RELAY';
   end_body;
 end_primitive;
-primitive 'TXS-3225_TSX-3225_24MHZ_24 MHZ';
+primitive 'TXS-3225_CX3225FB48000F0FZZH1_24 MHZ';
   pin
     'B':
       PIN_NUMBER='(2)';
@@ -1109,11 +1115,11 @@ primitive 'TXS-3225_TSX-3225_24MHZ_24 MHZ';
   end_pin;
   body
     PART_NAME='TXS-3225';
-    JEDEC_TYPE='TSX-3225_24MHZ';
+    JEDEC_TYPE='CX3225FB48000F0FZZH1';
     VALUE='24 MHZ';
   end_body;
 end_primitive;
-primitive 'FC-135R_0_C-135R_32.768KHZ';
+primitive 'FC-135R_0_XTAL_KA-A3_EPS-M_32.768KHZ';
   pin
     'A':
       PIN_NUMBER='(1)';
@@ -1128,7 +1134,7 @@ primitive 'FC-135R_0_C-135R_32.768KHZ';
   end_pin;
   body
     PART_NAME='FC-135R_0';
-    JEDEC_TYPE='C-135R';
+    JEDEC_TYPE='XTAL_KA-A3_EPS-M';
     VALUE='32.768kHz';
   end_body;
 end_primitive;

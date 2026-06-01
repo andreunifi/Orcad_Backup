@@ -1,199 +1,78 @@
-\t (00:02:35) orcadx 25.1 P001 (4349869) [9/14/2025] Windows SPB 64-bit Edition
-\t (00:02:35)     Journal start - Wed May 27 11:49:09 2026
-\t (00:02:35)         Host=DESKTOP-0M0742J User=NewAdmin Pid=8768 CPUs=8
-\t (00:02:35) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\unison.exe -layout -orcadx
-\t (00:02:35) 
-\d (00:02:35) Design opened: C:/ESEProjectLIB/workspace/libraries/footprints/AW3212F.dra
-\i (00:02:36) trapsize 1356
-\i (00:02:36) QtSignal PropertyPadstackWidget PropertyPadstackEditMode CurrentIndexChanged 0
-\i (00:02:36) QtSignal PropertyPadstackWidget copperPadLayer CurrentIndexChanged 0
-\i (00:02:36) QtSignal PropertyPadstackWidget copperPadType CurrentIndexChanged 0
-\i (00:02:39) trapsize 1740
-\t (00:02:41) Loading consmgr.cxt 
-\t (00:02:41) Loading acns_formula.cxt 
-\i (00:02:41) trapsize 1791
-\i (00:02:41) QtSignal Property_Docked_PadstackWidget PropertyPadstackEditMode CurrentIndexChanged +
-\i (00:02:41) QtSignal 0
-\i (00:02:41) QtSignal Property_Docked_PadstackWidget copperPadLayer CurrentIndexChanged 0
-\i (00:02:41) QtSignal Property_Docked_PadstackWidget copperPadType CurrentIndexChanged 0
-\i (00:02:43) trapsize 2500
-\i (00:02:44) trapsize 2488
-\i (00:02:45) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
-\i (00:02:45) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
-\w (00:02:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\i (00:02:46) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
-\i (00:02:46) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
-\i (00:02:46) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
-\i (00:02:46) QtSignal ucp_shape_create_dyn_dim UCPAddShape_Type CurrentIndexChanged 1
-\i (00:02:46) updateport VisibilityPane
-\w (00:02:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\i (00:02:47) updateport CMPanelPort
-\i (00:02:47) updateport PropPane
-\i (00:02:47) updateport CVPane
-\i (00:02:47) ucpedit 
-\i (00:02:47) updateport ReportsPane
-\i (00:02:47) updateport SearchPane
-\i (00:02:47) updateport VisibilityPane
-\i (00:05:35) zoom in 1 
-\i (00:05:35) setwindow pcb
-\i (00:05:35) zoom in -12.0806 -3.4967
-\i (00:05:35) trapsize 1244
-\i (00:05:36) roam start
-\i (00:05:36) roam x 2
-\i (00:05:36) roam x 1
-\i (00:05:36) roam x 59
-\i (00:05:36) roam y 10
-\i (00:05:36) roam x 110
-\i (00:05:36) roam y 34
-\i (00:05:36) roam x 76
-\i (00:05:36) roam y 21
-\i (00:05:36) roam x 54
-\i (00:05:36) roam y 7
-\i (00:05:37) roam x 66
-\i (00:05:37) roam y 15
-\i (00:05:37) roam x 45
-\i (00:05:37) roam y 12
-\i (00:05:37) roam x 24
-\i (00:05:37) roam y 7
-\i (00:05:37) roam x 6
-\i (00:05:37) roam y 3
-\i (00:05:37) roam end
-\i (00:05:37) zoom out 1 
-\i (00:05:37) setwindow pcb
-\i (00:05:37) zoom out 7.0372 2.3347
-\i (00:05:37) trapsize 2488
-\i (00:06:17) zoom in 1 
-\i (00:06:17) setwindow pcb
-\i (00:06:17) zoom in 3.0064 10.2965
-\i (00:06:17) trapsize 1244
-\i (00:06:17) zoom in 1 
-\i (00:06:17) setwindow pcb
-\i (00:06:17) zoom in 2.5835 10.2965
-\i (00:06:17) trapsize 622
-\i (00:06:18) zoom out 1 
-\i (00:06:18) setwindow pcb
-\i (00:06:18) zoom out 2.4964 9.8611
-\i (00:06:18) trapsize 1244
-\i (00:06:22) prepopup 2.6458 10.2094
-\i (00:06:22) updateport ReportsPane
-\i (00:06:22) updateport SearchPane
-\i (00:06:22) updateport PropPane
-\i (00:06:26) pop dyn_option_select @:@Delete 
-\i (00:06:26) ucp_delete 
-\i (00:06:26) updateport ReportsPane
-\i (00:06:26) updateport SearchPane
-\i (00:06:26) updateport PropPane
-\i (00:06:26) ucpedit 
-\i (00:06:26) updateport VisibilityPane
-\i (00:10:32) prepopup 0.0333 9.9855
-\i (00:10:32) updateport ReportsPane
-\i (00:10:32) updateport SearchPane
-\i (00:10:32) updateport PropPane
-\i (00:10:37) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (C140_H90) (1)' 
-\i (00:10:37) mod padstack 
-\i (00:11:05) ucpedit 
-\i (00:11:05) updateport ReportsPane
-\i (00:11:05) updateport SearchPane
-\i (00:11:05) updateport VisibilityPane
-\i (00:11:05) updateport PropPane
-\i (00:11:11) prepopup 0.2821 -0.0912
-\i (00:11:11) updateport ReportsPane
-\i (00:11:11) updateport SearchPane
-\i (00:11:11) updateport PropPane
-\i (00:11:13) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (S140_H90) (1)' 
-\i (00:11:13) mod padstack 
-\i (00:11:22) ucpedit 
-\i (00:11:22) updateport ReportsPane
-\i (00:11:22) updateport SearchPane
-\i (00:11:22) updateport VisibilityPane
-\i (00:11:22) updateport PropPane
-\i (00:11:24) prepopup 10.4583 0.1327
-\i (00:11:24) updateport ReportsPane
-\i (00:11:24) updateport SearchPane
-\i (00:11:24) updateport PropPane
-\i (00:11:26) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (C165_H110) (2)' 
-\i (00:11:26) mod padstack 
-\i (00:11:48) ucpedit 
-\i (00:11:48) updateport ReportsPane
-\i (00:11:48) updateport SearchPane
-\i (00:11:48) updateport VisibilityPane
-\i (00:11:48) updateport PropPane
-\i (00:11:49) prepopup -0.4643 9.7118
-\i (00:11:49) updateport ReportsPane
-\i (00:11:49) updateport SearchPane
-\i (00:11:49) updateport PropPane
-\i (00:11:51) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (C140_H90) (1)' 
-\i (00:11:52) mod padstack 
-\i (00:12:46) updateport ReportsPane
-\i (00:12:46) updateport SearchPane
-\i (00:12:47) updateport PropPane
-\i (00:12:47) ucpedit 
-\i (00:12:47) updateport ReportsPane
-\i (00:12:47) updateport SearchPane
-\i (00:12:47) updateport VisibilityPane
-\i (00:12:47) updateport PropPane
-\i (00:12:47) prepopup 0.0333 0.0829
-\i (00:12:47) updateport ReportsPane
-\i (00:12:47) updateport SearchPane
-\i (00:12:47) updateport PropPane
-\i (00:12:56) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (S140_H90) (1)' 
-\i (00:12:56) mod padstack 
-\i (00:14:57) updateport ReportsPane
-\i (00:14:57) updateport SearchPane
-\i (00:14:57) updateport PropPane
-\i (00:14:57) ucpedit 
-\i (00:14:57) updateport ReportsPane
-\i (00:14:57) updateport SearchPane
-\i (00:14:57) updateport VisibilityPane
-\i (00:14:57) updateport PropPane
-\i (00:14:58) drag_start grid 0.2821 9.4879
-\i (00:14:58) drag_stop 0.2821 9.5128
-\i (00:14:58) updateport ReportsPane
-\i (00:14:58) updateport SearchPane
-\i (00:14:58) updateport PropPane
-\i (00:14:59) pick grid 0.2821 9.8611
-\t (00:14:59) last pick:  0.2821 9.8611
-\i (00:14:59) updateport ReportsPane
-\i (00:14:59) updateport SearchPane
-\i (00:14:59) updateport PropPane
-\i (00:14:59) prepopup 0.2821 9.8611
-\i (00:15:01) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (C140_H90) (1)' 
-\i (00:15:02) mod padstack 
-\i (00:15:23) updateport ReportsPane
-\i (00:15:23) updateport SearchPane
-\i (00:15:23) updateport PropPane
-\i (00:15:23) ucpedit 
-\i (00:15:23) updateport ReportsPane
-\i (00:15:23) updateport SearchPane
-\i (00:15:23) updateport VisibilityPane
-\i (00:15:23) updateport PropPane
-\i (00:15:24) prepopup 10.6076 0.1576
-\i (00:15:24) updateport ReportsPane
-\i (00:15:24) updateport SearchPane
-\i (00:15:24) updateport PropPane
-\i (00:15:27) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (C165_H110) (2)' 
-\i (00:15:27) mod padstack 
-\i (00:16:11) updateport ReportsPane
-\i (00:16:11) updateport SearchPane
-\i (00:16:11) updateport PropPane
-\i (00:16:11) ucpedit 
-\i (00:16:11) updateport ReportsPane
-\i (00:16:11) updateport SearchPane
-\i (00:16:11) updateport VisibilityPane
-\i (00:16:11) updateport PropPane
-\i (00:17:31) save 
-\i (00:17:33) fillin yes 
-\t (00:17:34) Symbol 'aw3212f.psm' created.
-\i (00:17:34) updateport ReportsPane
-\i (00:17:34) updateport SearchPane
-\i (00:17:35) updateport PropPane
-\i (00:17:35) ucpedit 
-\i (00:17:35) updateport ReportsPane
-\i (00:17:35) updateport SearchPane
-\i (00:17:35) updateport VisibilityPane
-\i (00:17:35) updateport PropPane
-\i (00:17:35) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
-\i (00:17:35) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
-\i (00:17:41) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (00:17:41) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\t (00:17:47)     Journal end - Wed May 27 12:04:21 2026
+\t (09:50:04) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (09:50:04)     Journal start - Mon Jun  1 09:07:31 2026
+\t (09:50:04)         Host=LAPTOP-DI-ANDRE User=andre Pid=13564 CPUs=8
+\t (09:50:04) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\unison.exe -layout -orcadx
+\t (09:50:04) 
+\d (09:50:04) Design opened: C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/QFN20_4x4MC_MCH.dra
+\i (09:50:04) trapsize 374
+\i (09:50:04) trapsize 463
+\i (09:50:04) trapsize 470
+\i (09:50:04) updateport VisibilityPane
+\i (09:50:04) updateport PropPane
+\i (09:50:05) ucpedit 
+\i (09:50:05) updateport VisibilityPane
+\i (09:50:07) roam start
+\i (09:50:07) roam x -1
+\i (09:50:07) roam y -5
+\i (09:50:07) roam x -2
+\i (09:50:07) roam y -12
+\i (09:50:07) roam x -13
+\i (09:50:07) roam y -26
+\i (09:50:07) roam x -7
+\i (09:50:07) roam y -16
+\i (09:50:07) roam x -13
+\i (09:50:07) roam y -29
+\i (09:50:07) roam x -14
+\i (09:50:07) roam y -34
+\i (09:50:07) roam x -10
+\i (09:50:07) roam y -22
+\i (09:50:07) roam x -4
+\i (09:50:07) roam y -8
+\i (09:50:07) roam x -20
+\i (09:50:07) roam y -38
+\i (09:50:07) roam x -2
+\i (09:50:07) roam y -6
+\i (09:50:07) roam x -2
+\i (09:50:07) roam y -5
+\i (09:50:07) roam x -1
+\i (09:50:07) roam y -2
+\i (09:50:07) roam x -1
+\i (09:50:07) roam y -1
+\i (09:50:07) roam end
+\i (09:52:28) xname_flush '!' 
+\i (09:52:29) xname_flush 
+\i (09:52:31) xname_flush '!' 
+\i (09:52:31) xname_flush 
+\i (09:52:34) xname_flush '!' 
+\i (09:52:37) xname_flush 
+\i (09:52:41) xname_flush '!' 
+\i (09:52:43) xname_flush 
+\i (09:52:48) xname_flush '!' 
+\i (09:52:49) xname_flush 
+\i (09:52:54) xname_flush '!' 
+\i (09:52:54) xname_flush 
+\i (09:52:57) xname_flush '!' 
+\i (09:53:01) xname_flush 
+\i (09:53:04) xname_flush '!' 
+\i (09:53:05) xname_flush 
+\i (09:53:06) xname_flush '!' 
+\i (09:53:06) xname_flush 
+\i (09:53:09) xname_flush '!' 
+\i (09:53:12) xname_flush 
+\i (09:54:58) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (09:54:58) QtSignal "CP_ALLEGRO_PROPERTIES_DOCK"
+\i (09:55:03) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (09:55:03) QtSignal "CP_ALLEGRO_PROPERTIES_DOCK"
+\i (09:55:05) updateport CMPanelPort
+\i (09:55:05) updateport PropPane
+\i (09:55:05) updateport ReportsPane
+\i (09:55:05) updateport SearchPane
+\i (10:00:29) opencd_reload C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd 
+\t (10:00:29) Opening existing design...
+\i (10:00:30) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (10:00:30) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\w (10:00:31) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (10:00:31) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (10:00:31) trapsize 9648
+\t (10:00:32) > Sending response DoneOpenBoard
+\t (10:00:32)     Journal end - Mon Jun  1 09:18:00 2026

@@ -1,35 +1,7 @@
-\t (00:00:01) padstack_editor 25.1 P001 (4349869) [9/14/2025] Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Wed May 27 12:02:02 2026
-\t (00:00:01)         Host=DESKTOP-0M0742J User=NewAdmin Pid=1712 CPUs=8
-\t (00:00:01) CmdLine= padstack_editor -mpssession NewAdmin -file C:/Users/YOUSSE~1/AppData/Local/Temp/#Taaaacb08768.tmp -pname C165_H110 -data C:/Users/YOUSSE~1/AppData/Local/Temp/#Taaaacf08768.tmp -unison
+\t (00:00:01) padstack_editor 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Mon Jun  1 08:20:55 2026
+\t (00:00:01)         Host=LAPTOP-DI-ANDRE User=andre Pid=5148 CPUs=8
+\t (00:00:01) CmdLine= padstack_editor -mpssession andre -symbol
 \t (00:00:01) 
-\d (00:00:02) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
-\d (00:00:04) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Offset"
-\d (00:00:04) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Symbol"
-\d (00:00:05) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Offset"
-\d (00:00:05) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Symbol"
-\d (00:00:07) QtSignal GuidedTabsParent GuidedDrillSymbol keyPressEvent 16777248 33554432 false +
-\d (00:00:07) QtSignal 1
-\d (00:00:11) QtSignal GuidedDrillSymbol DrillCharacters editingFinished H
-\d (00:00:11) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Offset"
-\d (00:00:11) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Symbol"
-\d (00:00:15) QtSignal GuidedDrillSymbol FigureType CurrentIndexChanged Triangle
-\d (00:00:16) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Offset"
-\d (00:00:17) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
-\d (00:00:25) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
-\d (00:00:28) QtSignal GuidedMaskLayersTab LayersTable cellClicked 0 "Regular Pad" 0 1
-\d (00:00:31) QtSignal GuidedMaskLayersTab PadDiameter editingFinished "1.7000"
-\d (00:00:31) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777220 0 false 1 ""
-\d (00:00:33) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 1 "Regular Pad"
-\d (00:00:33) QtSignal GuidedMaskLayersTab LayersTable cellClicked 1 "Regular Pad" 1 1
-\d (00:00:35) QtSignal GuidedMaskLayersTab PadDiameter editingFinished "1.7000"
-\d (00:00:35) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777220 0 false 1 ""
-\d (00:00:37) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 4 "Regular Pad"
-\d (00:00:37) QtSignal GuidedMaskLayersTab LayersTable cellClicked 4 "Regular Pad" 4 1
-\d (00:00:39) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged
-\d (00:00:40) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777249 67108864 false +
-\d (00:00:40) QtSignal 1
-\d (00:00:40) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 83 67108864 false 1 ""
-\d (00:00:42) QtSignal MainWindow UpdateToDesign triggered
-\d (00:00:43) QtSignal MainWindow Exit triggered
-\t (00:00:43)     Journal end - Wed May 27 12:02:44 2026
+\d (00:00:11) QtSignal MainWindow Exit triggered
+\t (00:00:11)     Journal end - Mon Jun  1 08:21:05 2026

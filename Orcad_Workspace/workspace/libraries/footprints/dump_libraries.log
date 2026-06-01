@@ -1,0 +1,48 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 25.1S030                                      )
+(    Date/Time        : Mon Jun  1 08:35:13 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/QFN20_4x4MC_MCH.dra ***
+
+
+
+  *** Creating padstacks. ***
+
+  R279_279 being dumped.
+
+  R279_279-1 being dumped.
+
+  VIA being dumped.
+
+  VIAFORMCC being dumped.
+
+  R25_81 being dumped.
+
+
+  *** Creating shape symbols (.dra and .ssm) ***
+
+  sha_sot89msk being dumped.
+
+
+  *** Creating flash symbols (.dra and .fsm) ***
+
+  ab00 being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:                5
+Number of shape symbols dumped:            1
+Number of flash symbols dumped:            1
+
+Total number of symbols dumped:            2
+*****************************************************
+

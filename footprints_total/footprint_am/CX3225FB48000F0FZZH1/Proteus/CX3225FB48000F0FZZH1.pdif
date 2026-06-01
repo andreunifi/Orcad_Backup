@@ -1,0 +1,108 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "CX3225FB48000F0FZZH1"
+   (description "Crystal, 48 MHz, SMD, 3.2mm x 2.5mm, 20 ppm, 10 pF, 10 ppm, CX3225FB Series")
+   (family "OSC")
+   (package "CX3225FB48000F0FZZH1")
+   (attribute "Datasheet Link" "https://ele.kyocera.com/assets/products/crystal-device/specification/CX3225FB_10pF.pdf")
+   (attribute "Geometry.Height" "0.8mm")
+   (attribute "Manufacturer_Name" "Kyocera AVX")
+   (attribute "Manufacturer_Part_Number" "CX3225FB48000F0FZZH1")
+   (attribute "Mouser Part Number" "")
+   (attribute "Mouser Price/Stock" "")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "CX3225FB48000F0FZZH1")
+    (pin "X'TAL_TERMINAL_(INPUT/OUTPUT)_1" 1 PS)
+    (pin "GND_TERMINAL_1" 2 PS)
+    (pin "X'TAL_TERMINAL_(INPUT/OUTPUT)_2" 3 PS)
+    (pin "GND_TERMINAL_2" 4 PS)
+   )
+  )
+  (symbol "CX3225FB48000F0FZZH1"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 3600 100) (pt 3600 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 3800 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 3800 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "CX3225FB48000F0FZZH1"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.6 1.25)
+      (pt 1.6 1.25)
+      (pt 1.6 -1.25)
+      (pt -1.6 -1.25)
+      (pt -1.6 1.25))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.8 2.45)
+      (pt 2.8 2.45)
+      (pt 2.8 -2.45)
+      (pt -2.8 -2.45)
+      (pt -2.8 2.45))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.1 -1.9)
+      (arc (pt -1.100 -1.900) (pt -1.150 -2.000) (pt -1.050 -1.900) (start 180.0) (sweep 90.0))
+      (pt -1.1 -2)
+      (arc (pt -1.100 -2.000) (pt -1.150 -2.000) (pt -1.050 -1.900) (start 180.0) (sweep -90.0))
+      (pt -1.1 -1.9))))
+   (leg 1 (pt -1.100 -0.850) (padstack 0))
+   (leg 2 (pt 1.100 -0.850) (padstack 0))
+   (leg 3 (pt 1.100 0.850) (padstack 0))
+   (leg 4 (pt -1.100 0.850) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.200 1.400 0 0 0.000))
+   )
+   (model "CX3225FB48000F0FZZH1.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

@@ -1,34 +1,265 @@
-\t (00:00:46) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
-\t (00:00:46)     Journal start - Fri May 22 18:12:12 2026
-\t (00:00:46)         Host=LAPTOP-DI-ANDRE User=andre Pid=5856 CPUs=8
-\t (00:00:46) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\unison.exe -layout -orcadx
-\t (00:00:46) 
-\d (00:00:46) Design opened: C:/Users/andre/Downloads/FC_135R_32_7680KA_A3/AllegroPCBFootprint/XTAL_KA-A3_EPS-M.dra
-\i (00:00:46) trapsize 255
-\i (00:00:47) QtSignal PropertyPadstackWidget PropertyPadstackEditMode CurrentIndexChanged 0
-\i (00:00:47) QtSignal PropertyPadstackWidget copperPadLayer CurrentIndexChanged 0
-\i (00:00:47) QtSignal PropertyPadstackWidget copperPadType CurrentIndexChanged 0
-\i (00:00:51) trapsize 316
-\i (00:00:55) QtSignal Property_Docked_PadstackWidget PropertyPadstackEditMode CurrentIndexChanged +
-\i (00:00:55) QtSignal 0
-\i (00:00:55) QtSignal Property_Docked_PadstackWidget copperPadLayer CurrentIndexChanged 0
-\i (00:00:55) QtSignal Property_Docked_PadstackWidget copperPadType CurrentIndexChanged 0
-\t (00:00:57) Loading consmgr.cxt 
-\t (00:00:57) Loading acns_formula.cxt 
-\i (00:00:57) trapsize 315
-\i (00:00:57) trapsize 321
-\w (00:00:58) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\i (00:01:00) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
-\i (00:01:00) QtSignal ucp_shape_create_dyn_dim UCPAddShape_Type CurrentIndexChanged 1
-\i (00:01:01) updateport VisibilityPane
-\i (00:01:01) updateport PropPane
-\i (00:01:01) updateport CVPane
-\i (00:01:01) ucpedit 
-\i (00:01:01) updateport VisibilityPane
-\i (00:03:21) opencd_reload C:/Users/andre/Desktop/Ese_Group18/footprints_total/footprints_gn/DQC0010A.dra 
-\t (00:03:21) Opening existing design...
-\i (00:03:22) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
-\i (00:03:22) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
-\w (00:03:23) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\i (00:03:23) trapsize 163
-\t (00:03:24)     Journal end - Fri May 22 18:14:50 2026
+\t (00:00:50) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (00:00:50)     Journal start - Sun May 31 15:45:20 2026
+\t (00:00:50)         Host=LAPTOP-DI-ANDRE User=andre Pid=18708 CPUs=8
+\t (00:00:50) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\unison.exe -layout -orcadx
+\t (00:00:50) 
+\d (00:00:50) Design opened: C:/Users/andre/Desktop/Ese_Group18/footprints_total/footprint_am/FC_135R_32_7680KA_A3/AllegroPCBFootprint/XTAL_KA-A3_EPS-M.dra
+\i (00:00:50) trapsize 255
+\i (00:00:52) QtSignal PropertyPadstackWidget PropertyPadstackEditMode CurrentIndexChanged 0
+\i (00:00:52) QtSignal PropertyPadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (00:00:52) QtSignal PropertyPadstackWidget copperPadType CurrentIndexChanged 0
+\i (00:00:56) trapsize 316
+\i (00:01:00) QtSignal Property_Docked_PadstackWidget PropertyPadstackEditMode CurrentIndexChanged +
+\i (00:01:00) QtSignal 0
+\i (00:01:00) QtSignal Property_Docked_PadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (00:01:00) QtSignal Property_Docked_PadstackWidget copperPadType CurrentIndexChanged 0
+\t (00:01:03) Loading consmgr.cxt 
+\t (00:01:03) Loading acns_formula.cxt 
+\i (00:01:03) trapsize 315
+\i (00:01:03) trapsize 321
+\w (00:01:05) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:01:07) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
+\i (00:01:07) QtSignal ucp_shape_create_dyn_dim UCPAddShape_Type CurrentIndexChanged 1
+\i (00:01:08) updateport VisibilityPane
+\i (00:01:08) updateport PropPane
+\i (00:01:08) updateport CVPane
+\i (00:01:08) ucpedit 
+\i (00:01:08) updateport VisibilityPane
+\i (00:03:10) pick grid -0.9129 -0.3604
+\t (00:03:10) last pick:  -0.9129 -0.3604
+\i (00:03:10) updateport ReportsPane
+\i (00:03:10) updateport SearchPane
+\i (00:03:10) updateport PropPane
+\i (00:03:10) prepopup -0.9129 -0.3604
+\i (00:03:12) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (RX71Y63D0T) (2)' 
+\i (00:03:12) mod padstack 
+\i (00:04:07) ucpedit 
+\i (00:04:07) updateport ReportsPane
+\i (00:04:07) updateport SearchPane
+\i (00:04:07) updateport VisibilityPane
+\i (00:04:07) updateport PropPane
+\i (00:04:17) opencd_reload C:/Users/andre/Desktop/Ese_Group18/footprints_total/footprint_am/FC_135R_32_7680KA_A3/AllegroPCBFootprint/XTAL_KA-A3_EPS.dra 
+\t (00:04:17) Opening existing design...
+\i (00:04:18) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:04:18) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:04:19) trapsize 1262
+\d (00:04:20) Design opened: C:/Users/andre/Desktop/Ese_Group18/footprints_total/footprint_am/FC_135R_32_7680KA_A3/AllegroPCBFootprint/XTAL_KA-A3_EPS.dra
+\i (00:04:21) updateport VisibilityPane
+\i (00:04:21) updateport PropPane
+\i (00:04:21) ucpedit 
+\i (00:04:21) updateport VisibilityPane
+\i (00:04:22) pick grid -21.583 8.458
+\t (00:04:22) last pick:  -21.583 8.458
+\i (00:04:22) updateport ReportsPane
+\i (00:04:22) updateport SearchPane
+\i (00:04:22) updateport PropPane
+\i (00:04:23) prepopup -21.583 8.458
+\i (00:04:24) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (RX56Y63D0T) (2)' 
+\i (00:04:24) mod padstack 
+\i (00:05:04) ucpedit 
+\i (00:05:05) updateport ReportsPane
+\i (00:05:05) updateport SearchPane
+\i (00:05:05) updateport VisibilityPane
+\i (00:05:05) updateport PropPane
+\i (00:05:08) opencd_reload C:/Users/andre/Desktop/Ese_Group18/footprints_total/footprint_am/FC_135R_32_7680KA_A3/AllegroPCBFootprint/XTAL_KA-A3_EPS-M.dra 
+\t (00:05:08) Opening existing design...
+\i (00:05:09) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:05:09) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\w (00:05:09) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:05:10) trapsize 321
+\d (00:05:11) Design opened: C:/Users/andre/Desktop/Ese_Group18/footprints_total/footprint_am/FC_135R_32_7680KA_A3/AllegroPCBFootprint/XTAL_KA-A3_EPS-M.dra
+\w (00:05:11) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:05:12) updateport VisibilityPane
+\i (00:05:12) updateport PropPane
+\i (00:05:12) ucpedit 
+\i (00:05:12) updateport VisibilityPane
+\i (00:05:15) pick grid -1.2785 -0.0270
+\t (00:05:15) last pick:  -1.2785 -0.0270
+\i (00:05:15) updateport ReportsPane
+\i (00:05:15) updateport SearchPane
+\i (00:05:15) updateport PropPane
+\i (00:05:16) prepopup -1.0861 0.5630
+\i (00:05:19) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (RX71Y63D0T) (2)' 
+\i (00:05:19) mod padstack 
+\i (00:05:57) ucpedit 
+\i (00:05:57) updateport ReportsPane
+\i (00:05:57) updateport SearchPane
+\i (00:05:57) updateport VisibilityPane
+\i (00:05:57) updateport PropPane
+\i (00:05:58) zoom in 1 
+\i (00:05:58) setwindow pcb
+\i (00:05:58) zoom in -0.7527 -0.6105
+\i (00:05:58) trapsize 160
+\i (00:06:01) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Place_Bound_Top" +
+\i (00:06:01) QtSignal 1
+\i (00:06:01) updateport ReportsPane
+\i (00:06:01) updateport SearchPane
+\i (00:06:01) updateport VisibilityPane
+\i (00:06:01) updateport PropPane
+\i (00:06:02) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Silkscreen_Top" +
+\i (00:06:02) QtSignal 1
+\i (00:06:02) updateport ReportsPane
+\i (00:06:02) updateport SearchPane
+\i (00:06:02) updateport VisibilityPane
+\i (00:06:02) updateport PropPane
+\i (00:06:03) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Dfa_Bound_Top" +
+\i (00:06:03) QtSignal 1
+\i (00:06:03) updateport ReportsPane
+\i (00:06:03) updateport SearchPane
+\i (00:06:03) updateport VisibilityPane
+\i (00:06:03) updateport PropPane
+\i (00:06:03) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Dfa_Bound_Top" +
+\i (00:06:03) QtSignal 0
+\i (00:06:03) updateport ReportsPane
+\i (00:06:03) updateport SearchPane
+\i (00:06:03) updateport VisibilityPane
+\i (00:06:03) updateport PropPane
+\i (00:06:04) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Dfa_Bound_Top" +
+\i (00:06:04) QtSignal 1
+\i (00:06:04) updateport ReportsPane
+\i (00:06:04) updateport SearchPane
+\i (00:06:04) updateport VisibilityPane
+\i (00:06:04) updateport PropPane
+\i (00:06:05) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged Top 1
+\i (00:06:05) updateport ReportsPane
+\i (00:06:05) updateport SearchPane
+\i (00:06:05) updateport VisibilityPane
+\i (00:06:05) updateport PropPane
+\i (00:06:05) updateport CVPane
+\i (00:06:05) updateport VisibilityPane
+\i (00:06:05) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged Bottom 1
+\i (00:06:05) updateport ReportsPane
+\i (00:06:05) updateport SearchPane
+\i (00:06:05) updateport VisibilityPane
+\i (00:06:05) updateport PropPane
+\i (00:06:05) updateport CVPane
+\i (00:06:05) updateport VisibilityPane
+\i (00:06:07) drag_start grid -0.0088 -0.5239
+\i (00:06:07) ucp_move 
+\t (00:06:07) last pick:  -0.0088 -0.5239
+\t (00:06:07) Pick new location for the element(s).
+\i (00:06:07) drag_stop grid -0.0056 -0.5239
+\i (00:06:07) updateport ReportsPane
+\i (00:06:07) updateport SearchPane
+\i (00:06:07) updateport PropPane
+\i (00:06:07) ucpedit 
+\i (00:06:07) updateport VisibilityPane
+\i (00:06:08) pick grid 0.0553 -0.7387
+\t (00:06:08) last pick:  0.0553 -0.7387
+\i (00:06:09) pick grid 0.0393 -0.3283
+\t (00:06:09) last pick:  0.0393 -0.3283
+\i (00:06:09) zoom out 1 
+\i (00:06:09) setwindow pcb
+\i (00:06:09) zoom out 0.0297 -0.3091
+\i (00:06:09) trapsize 321
+\i (00:06:11) pick grid 0.0233 0.7362
+\t (00:06:11) last pick:  0.0233 0.7362
+\i (00:06:11) ucp_shape_edit_mode 
+\i (00:06:11) updateport ReportsPane
+\i (00:06:11) updateport SearchPane
+\i (00:06:11) updateport VisibilityPane
+\i (00:06:11) updateport PropPane
+\i (00:06:11) ucpedit 
+\i (00:06:14) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Dfa_Bound_Bottom" +
+\i (00:06:14) QtSignal 1
+\i (00:06:14) updateport ReportsPane
+\i (00:06:14) updateport SearchPane
+\i (00:06:14) updateport VisibilityPane
+\i (00:06:14) updateport PropPane
+\i (00:06:14) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Place_Bound_Bottom" +
+\i (00:06:14) QtSignal 1
+\i (00:06:14) updateport ReportsPane
+\i (00:06:14) updateport SearchPane
+\i (00:06:14) updateport VisibilityPane
+\i (00:06:14) updateport PropPane
+\i (00:06:15) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Place_Bound_Bottom" +
+\i (00:06:15) QtSignal 0
+\i (00:06:15) updateport ReportsPane
+\i (00:06:15) updateport SearchPane
+\i (00:06:15) updateport VisibilityPane
+\i (00:06:15) updateport PropPane
+\i (00:06:16) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Soldermask_Bottom" +
+\i (00:06:16) QtSignal 1
+\i (00:06:16) updateport ReportsPane
+\i (00:06:16) updateport SearchPane
+\i (00:06:16) updateport VisibilityPane
+\i (00:06:16) updateport PropPane
+\i (00:06:16) updateport CVPane
+\i (00:06:16) updateport VisibilityPane
+\i (00:06:17) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Place_Bound_Bottom" +
+\i (00:06:17) QtSignal 1
+\i (00:06:17) updateport ReportsPane
+\i (00:06:17) updateport SearchPane
+\i (00:06:17) updateport VisibilityPane
+\i (00:06:17) updateport PropPane
+\i (00:06:19) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Silkscreen_Bottom" +
+\i (00:06:19) QtSignal 1
+\i (00:06:19) updateport ReportsPane
+\i (00:06:19) updateport SearchPane
+\i (00:06:19) updateport VisibilityPane
+\i (00:06:19) updateport PropPane
+\i (00:06:22) pick grid -1.5286 -0.0910
+\t (00:06:22) last pick:  -1.5286 -0.0910
+\i (00:06:22) updateport ReportsPane
+\i (00:06:22) updateport SearchPane
+\i (00:06:22) updateport VisibilityPane
+\i (00:06:22) updateport PropPane
+\i (00:06:22) prepopup -1.5286 -0.0910
+\i (00:06:26) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (RX71Y63D0T) (2)' 
+\i (00:06:26) mod padstack 
+\i (00:06:53) updateport ReportsPane
+\i (00:06:53) updateport SearchPane
+\i (00:06:53) updateport PropPane
+\i (00:06:53) ucpedit 
+\i (00:06:53) updateport ReportsPane
+\i (00:06:53) updateport SearchPane
+\i (00:06:53) updateport VisibilityPane
+\i (00:06:53) updateport PropPane
+\i (00:07:29) save 
+\i (00:07:31) fillin yes 
+\t (00:07:32) Symbol 'xtal_ka-a3_eps-m.psm' created.
+\i (00:07:32) updateport ReportsPane
+\i (00:07:32) updateport SearchPane
+\i (00:07:32) updateport PropPane
+\i (00:07:32) ucpedit 
+\i (00:07:33) updateport ReportsPane
+\i (00:07:33) updateport SearchPane
+\i (00:07:33) updateport VisibilityPane
+\i (00:07:33) updateport PropPane
+\i (00:09:35) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:09:35) QtSignal "CP_ALLEGRO_PROPERTIES_DOCK"
+\i (00:09:42) xname_flush 
+\i (00:09:43) updateport ReportsPane
+\i (00:09:43) updateport SearchPane
+\i (00:09:43) updateport PropPane
+\i (00:12:30) xname_flush '!' 
+\i (00:12:31) xname_flush 
+\i (00:12:31) updateport ReportsPane
+\i (00:12:31) updateport SearchPane
+\i (00:12:31) updateport PropPane
+\i (00:12:34) xname_flush '!' 
+\i (00:12:34) updateport ReportsPane
+\i (00:12:34) updateport SearchPane
+\i (00:12:34) updateport PropPane
+\i (00:12:45) xname_flush 
+\i (00:12:45) updateport ReportsPane
+\i (00:12:45) updateport SearchPane
+\i (00:12:45) updateport PropPane
+\i (00:12:46) xname_flush '!' 
+\i (00:12:46) updateport ReportsPane
+\i (00:12:46) updateport SearchPane
+\i (00:12:46) updateport PropPane
+\i (00:13:18) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:13:18) QtSignal "CP_ALLEGRO_PROPERTIES_DOCK"
+\i (00:18:55) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:18:55) QtSignal "CP_ALLEGRO_PROPERTIES_DOCK"
+\i (00:30:27) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:30:27) QtSignal "CP_ALLEGRO_PROPERTIES_DOCK"
+\i (00:31:05) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:31:05) QtSignal "CP_ALLEGRO_PROPERTIES_DOCK"
+\i (00:31:07) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:31:07) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:31:07) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:31:07) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:31:07) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\t (00:31:12)     Journal end - Sun May 31 16:15:42 2026

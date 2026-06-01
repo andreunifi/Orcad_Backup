@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CX3225FB48000F0FZZH1'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Kyocera AVX", "CX3225FB48000F0FZZH1" (!) = "", "CX3225FB48000F0FZZH1", "Other", "", "", "", "", "Crystal, 48 MHz, SMD, 3.2mm x 2.5mm, 20 ppm, 10 pF, 10 ppm, CX3225FB Series", "https://ele.kyocera.com/assets/products/crystal-device/specification/CX3225FB_10pF.pdf", "0.8 mm"
+END_PART
+
+END.

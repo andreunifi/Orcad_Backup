@@ -3,7 +3,7 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sat May 30 17:21:24 2026  |
+|                                                    Sun May 31 18:31:11 2026  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -53,13 +53,13 @@
                                  CON1.8         U1.20          
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
   DIO_9        pins ADDED TO this new net
-                                 R11.1          U1.22          
+                                 R13.1          U1.22          
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sat May 30 17:21:24 2026  |
+|                                                    Sun May 31 18:31:11 2026  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -74,9 +74,8 @@
                                  C15.1          C16.1          CON1.1         
                                  CON1.3         CON1.4         J1.3           
                                  Q2.2           R2.1           R4.2           
-                                 R5.2           R12.1          R14.1          
-                                 SW1.2          U1.33          Y1.2           
-                                 Y1.4           
+                                 R5.2           R12.1          SW1.2          
+                                 U1.33          Y1.2           Y1.4           
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
   JTAG_TCKC    pins ADDED TO this new net
                                  CON1.9         U1.14          
@@ -100,8 +99,7 @@
                                  D1.2           J2.1           
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
   N02347       pins ADDED TO this new net
-                                 Q2.1           R11.2          R12.2          
-                                 R14.2          
+                                 Q2.1           R12.2          R13.2          
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
   N05326       pins ADDED TO this new net
                                  R10.2          U2.12          
@@ -110,20 +108,19 @@
                                  R9.2           U2.13          
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
   N05874       pins ADDED TO this new net
+                                 C19.2          U2.1           U2.20          
+                                 U3.2           U3.3           
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   3  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sat May 30 17:21:24 2026  |
+|                                                    Sun May 31 18:31:11 2026  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |                net     pins                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-                                 C19.2          U2.1           U2.20          
-                                 U3.2           U3.3           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
   N71829       pins ADDED TO this new net
                                  LED1.2         R4.1           
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
@@ -166,20 +163,20 @@
                                  U1.1           
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
   SENSOR_IN    pins ADDED TO this new net
+                                 J1.2           U1.27          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SENS_ON      pins ADDED TO this new net
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   4  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sat May 30 17:21:24 2026  |
+|                                                    Sun May 31 18:31:11 2026  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |                net     pins                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-                                 J1.2           U1.27          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  SENS_ON      pins ADDED TO this new net
                                  R1.1           U1.21          
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
   SOLAR_IN     pins ADDED TO this new net
@@ -216,7 +213,7 @@
 |                                                                    Page   5  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sat May 30 17:21:24 2026  |
+|                                                    Sun May 31 18:31:11 2026  |
 |------------------------------------------------------------------------------|
 | COMPONENT DEFINITION added to design                                         |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -228,95 +225,94 @@
  1054550101_CONN_1054550101_MOL_1054550101
  ANTEENA_AN043_FLIP_ANTENNA
  AO3400A_SMSOT23123_AO3400A
- B82422-A1103-J/EPC_INDC3225X135N_2 NH
- B82422-A1103-J/EPC_INDC3225X135N_10 UH
- B82422-A1103-J/EPC_INDC3225X135N_15 NH
- BLM18HE152SN1D_IND_BLM18_0603_MUR_1.5 UH
- CAPACITOR_MF_0402_SMD_CAPACITOR_1.2 PF
- CAPACITOR_MF_0402_SMD_CAPACITOR_12 PF
- CAPACITOR_MF_0402_SMD_CAPACITOR_100 NF
+ B82422-A1103-J/EPC_INDC1006X60N_15 NH
+ B82422-A1103-J/EPC_IND_LQG15_MUR-M_2 NH
+ B82422-A1103-J/EPC_IND_SRP1265A-100M_10 UH
+ BLM18HE152SN1D_IND_BLM18_0603_MUR-M_1.5 UH
+ CAPACITOR_CAP_CC0603_YAG_1.2 PF
+ CAPACITOR_CAP_CC0603_YAG_12 PF
+ CAPACITOR_CAP_CC0603_YAG_100 NF
  CC0603KRX7R6BB105_CAPC1608X90N_1 UF
  CC0603MRX7R5BB475_CAP_CC0603_YAG_4.7 UF
  CC2640R2FRHBR_0_RHB0032E_CC2640R2FRHB
  CL10B106MQ8NRNC_CAP_CL10_SAM_10 UF
- C_CK05_1 UF
- C_CK05_10 UF
- C_CK05_12 PF
- C_CK05_100 NF
+ C_CAP_CC0603_YAG_1 UF
+ C_CAP_CC0603_YAG_10 UF
+ C_CAP_CC0603_YAG_12 PF
+ C_CAP_CC0603_YAG_100 NF
+ C_CAP_CC0603_YAG_DNM
  C_CK05_DNM
  DK1A-3V-F_0_AW3212F_RELAY
  EEV477M010A9MAA_0_CAPAE1030X1050N_470 UF
- FC-135R_0_C-135R_32.768KHZ
- FTSH-105-01-F-DV_FTSH-105-01-F-DV_FTSH-105-01-F-DV
+ FC-135R_0_XTAL_KA-A3_EPS-M_32.768KHZ
+ FTSH-105-01-F-DV_SAMTEC_FTSH-105-XX-X-DV_FTSH-105-01-F-DV
  IFSC1515AHER100M01_0_IND_IFSC_1515AH_VIS_10 UH
- LED_MF_0603_SMD_LED_GREEN LED
- LED_MF_0603_SMD_LED_RED LED
+ LED_LEDC1608X45N_GREEN LED
+ LED_LEDC1608X45N_RED LED
  M7_1_DIO_M7_M7
  MCP73871-2CCIML_2_QFN20_4X4MC_MCH_BATTERY CHARGER
  MOSFET N_SMSOT23123_MOSFET N
  NTCLE350E4103FHB0_0_NTCLE350E4103FHB0_10 KOHM
  RC0603FR-071KL_0_RC0603N_YAG_1 KOHM
- RC0603FR-071KL_0_RESC1608X55N_1 KOHM
- RC0603FR-072KL_0_RESC1608X55N_2 KOHM
+ RC0603FR-072KL_0_RC0603N_YAG_2 KOHM
  RC0603FR-075K1L_5_RC0603N_YAG_5.1 KOHM
- RC0603FR-0720KL_0_RESC1608X55N_20 KOHM
+ RC0603FR-0720KL_0_RC0603N_YAG_20 KOHM
  RC0603FR-07100RL_1_RC0603N_YAG_100 OHM
- RC0603FR-07100RL_1_RESC1608X55N_100 OHM
- RESISTOR_MF_0402_SMD_RESISTOR_270 OHM
- RESISTOR_MF_0402_SMD_RESISTOR_680 OHM
- R_AXRC05_1 KOHM
- R_AXRC05_100 KOHM
- R_AXRC05_100 OHM
+ RESISTOR_RC0603N_YAG_270 OHM
+ RESISTOR_RC0603N_YAG_680 OHM
+ R_RC0603N_YAG_1 KOHM
+ R_RC0603N_YAG_100 KOHM
+ R_RC0603N_YAG_100 OHM
+ S2B-PH-K-SLFSN_CONN_S2B-PH-K-S_JST_BATTERY
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   6  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sat May 30 17:21:24 2026  |
+|                                                    Sun May 31 18:31:11 2026  |
 |------------------------------------------------------------------------------|
 | COMPONENT DEFINITION added to design                                         |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    device type                                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- S2B-PH-K-SLFSN_CONN_S2B-PH-K-S_JST_BATTERY
  SS14_0_DIOM5127X261N_SS14
- SWITCHBUTTON_KSS341GLFS_TS14-1212-60-BK-260-SCR-D
+ SWITCHBUTTON_SW4_1825910-B_TEC_TS14-1212-60-BK-260-SCR-D
  TPS62177DQCR_2_DQC0010A_VOLTAGE REGULATOR
- TXS-3225_TSX-3225_24MHZ_24 MHZ
+ TXS-3225_CX3225FB48000F0FZZH1_24 MHZ
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   7  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sat May 30 17:21:24 2026  |
+|                                                    Sun May 31 18:31:11 2026  |
 |------------------------------------------------------------------------------|
 | COMPONENTS ADDED to design                                                   |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    ref des        |    device type                                           |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
  A1                  ANTEENA_AN043_FLIP_ANTENNA 
- C1                  C_CK05_DNM            
- C2                  C_CK05_100 NF         
- C3                  C_CK05_100 NF         
- C4                  C_CK05_10 UF          
- C5                  C_CK05_100 NF         
- C6                  C_CK05_10 UF          
- C7                  C_CK05_100 NF         
- C8                  C_CK05_100 NF         
+ C1                  C_CAP_CC0603_YAG_DNM  
+ C2                  C_CAP_CC0603_YAG_100 NF 
+ C3                  C_CAP_CC0603_YAG_100 NF 
+ C4                  C_CAP_CC0603_YAG_10 UF 
+ C5                  C_CAP_CC0603_YAG_100 NF 
+ C6                  C_CAP_CC0603_YAG_10 UF 
+ C7                  C_CAP_CC0603_YAG_100 NF 
+ C8                  C_CAP_CC0603_YAG_100 NF 
  C9                  C_CK05_DNM            
- C10                 C_CK05_1 UF           
- C11                 C_CK05_12 PF          
- C12                 C_CK05_12 PF          
- C13                 CAPACITOR_MF_0402_SMD_CAPACITOR_100 NF 
- C14                 CAPACITOR_MF_0402_SMD_CAPACITOR_12 PF 
- C15                 CAPACITOR_MF_0402_SMD_CAPACITOR_1.2 PF 
- C16                 CAPACITOR_MF_0402_SMD_CAPACITOR_1.2 PF 
+ C10                 C_CAP_CC0603_YAG_1 UF 
+ C11                 C_CAP_CC0603_YAG_12 PF 
+ C12                 C_CAP_CC0603_YAG_12 PF 
+ C13                 CAPACITOR_CAP_CC0603_YAG_100 NF 
+ C14                 CAPACITOR_CAP_CC0603_YAG_12 PF 
+ C15                 CAPACITOR_CAP_CC0603_YAG_1.2 PF 
+ C16                 CAPACITOR_CAP_CC0603_YAG_1.2 PF 
  C17                 EEV477M010A9MAA_0_CAPAE1030X1050N_470 UF 
  C18                 CC0603KRX7R6BB105_CAPC1608X90N_1 UF 
  C19                 CC0603MRX7R5BB475_CAP_CC0603_YAG_4.7 UF 
  C20                 CL10B106MQ8NRNC_CAP_CL10_SAM_10 UF 
  C21                 CC0603MRX7R5BB475_CAP_CC0603_YAG_4.7 UF 
- CON1                FTSH-105-01-F-DV_FTSH-105-01-F-DV_FTSH-105-01-F-DV 
+ CON1                FTSH-105-01-F-DV_SAMTEC_FTSH-105-XX-X-DV_FTSH-105-01-F-DV 
  D1                  SS14_0_DIOM5127X261N_SS14 
  D2                  M7_1_DIO_M7_M7        
  J1                  1725669_CONN_1725669_PXC_CONN_03P_00C_1 
@@ -324,27 +320,27 @@
  J3                  1054550101_CONN_1054550101_MOL_1054550101 
  J4                  S2B-PH-K-SLFSN_CONN_S2B-PH-K-S_JST_BATTERY 
  J5                  1729128_CONN_1729128_PXC_1729128 
- L1                  BLM18HE152SN1D_IND_BLM18_0603_MUR_1.5 UH 
- L2                  B82422-A1103-J/EPC_INDC3225X135N_10 UH 
- L3                  B82422-A1103-J/EPC_INDC3225X135N_15 NH 
- L4                  B82422-A1103-J/EPC_INDC3225X135N_2 NH 
+ L1                  BLM18HE152SN1D_IND_BLM18_0603_MUR-M_1.5 UH 
+ L2                  B82422-A1103-J/EPC_IND_SRP1265A-100M_10 UH 
+ L3                  B82422-A1103-J/EPC_INDC1006X60N_15 NH 
+ L4                  B82422-A1103-J/EPC_IND_LQG15_MUR-M_2 NH 
  L5                  IFSC1515AHER100M01_0_IND_IFSC_1515AH_VIS_10 UH 
- LED1                LED_MF_0603_SMD_LED_GREEN LED 
- LED2                LED_MF_0603_SMD_LED_RED LED 
+ LED1                LED_LEDC1608X45N_GREEN LED 
+ LED2                LED_LEDC1608X45N_RED LED 
  Q1                  MOSFET N_SMSOT23123_MOSFET N 
  Q2                  AO3400A_SMSOT23123_AO3400A 
- R1                  R_AXRC05_100 OHM      
- R2                  R_AXRC05_1 KOHM       
- R3                  R_AXRC05_100 KOHM     
- R4                  RESISTOR_MF_0402_SMD_RESISTOR_680 OHM 
- R5                  RESISTOR_MF_0402_SMD_RESISTOR_680 OHM 
- R6                  RESISTOR_MF_0402_SMD_RESISTOR_270 OHM 
+ R1                  R_RC0603N_YAG_100 OHM 
+ R2                  R_RC0603N_YAG_1 KOHM  
+ R3                  R_RC0603N_YAG_100 KOHM 
+ R4                  RESISTOR_RC0603N_YAG_680 OHM 
+ R5                  RESISTOR_RC0603N_YAG_680 OHM 
+ R6                  RESISTOR_RC0603N_YAG_270 OHM 
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   8  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sat May 30 17:21:24 2026  |
+|                                                    Sun May 31 18:31:11 2026  |
 |------------------------------------------------------------------------------|
 | COMPONENTS ADDED to design                                                   |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -352,26 +348,24 @@
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
  R7                  RC0603FR-075K1L_5_RC0603N_YAG_5.1 KOHM 
  R8                  RC0603FR-075K1L_5_RC0603N_YAG_5.1 KOHM 
- R9                  RC0603FR-072KL_0_RESC1608X55N_2 KOHM 
- R10                 RC0603FR-0720KL_0_RESC1608X55N_20 KOHM 
- R11                 RC0603FR-07100RL_1_RESC1608X55N_100 OHM 
- R12                 RC0603FR-071KL_0_RESC1608X55N_1 KOHM 
+ R9                  RC0603FR-072KL_0_RC0603N_YAG_2 KOHM 
+ R10                 RC0603FR-0720KL_0_RC0603N_YAG_20 KOHM 
+ R12                 RC0603FR-071KL_0_RC0603N_YAG_1 KOHM 
  R13                 RC0603FR-07100RL_1_RC0603N_YAG_100 OHM 
- R14                 RC0603FR-071KL_0_RC0603N_YAG_1 KOHM 
  RT1                 NTCLE350E4103FHB0_0_NTCLE350E4103FHB0_10 KOHM 
- SW1                 SWITCHBUTTON_KSS341GLFS_TS14-1212-60-BK-260-SCR-D 
+ SW1                 SWITCHBUTTON_SW4_1825910-B_TEC_TS14-1212-60-BK-260-SCR-D 
  U1                  CC2640R2FRHBR_0_RHB0032E_CC2640R2FRHB 
  U2                  MCP73871-2CCIML_2_QFN20_4X4MC_MCH_BATTERY CHARGER 
  U3                  TPS62177DQCR_2_DQC0010A_VOLTAGE REGULATOR 
  U4                  DK1A-3V-F_0_AW3212F_RELAY 
- Y1                  TXS-3225_TSX-3225_24MHZ_24 MHZ 
- Y2                  FC-135R_0_C-135R_32.768KHZ 
+ Y1                  TXS-3225_CX3225FB48000F0FZZH1_24 MHZ 
+ Y2                  FC-135R_0_XTAL_KA-A3_EPS-M_32.768KHZ 
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   9  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sat May 30 17:21:24 2026  |
+|                                                    Sun May 31 18:31:11 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -403,10 +397,10 @@
  C4.2                           SCH_ORIENT     (90)
  C4.2                           XY             (310,90)
  C5.2                           PRIM_FILE      .\pstchip.dat
- C5.2                           SCH_BBOX       (370,90,390,100)
+ C5.2                           SCH_BBOX       (369,90,389,100)
  C5.2                           SCH_MIRROR     (0)
  C5.2                           SCH_ORIENT     (90)
- C5.2                           XY             (370,90)
+ C5.2                           XY             (369,90)
  C6.2                           PRIM_FILE      .\pstchip.dat
  C6.2                           SCH_BBOX       (660,90,680,100)
  C6.2                           SCH_MIRROR     (0)
@@ -427,7 +421,7 @@
 |                                                                    Page  10  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sat May 30 17:21:24 2026  |
+|                                                    Sun May 31 18:31:11 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -469,10 +463,10 @@
  C15.2                          SCH_ORIENT     (90)
  C15.2                          XY             (260,240)
  C16.2                          PRIM_FILE      .\pstchip.dat
- C16.2                          SCH_BBOX       (390,240,410,250)
+ C16.2                          SCH_BBOX       (391,241,411,251)
  C16.2                          SCH_MIRROR     (0)
  C16.2                          SCH_ORIENT     (90)
- C16.2                          XY             (390,240)
+ C16.2                          XY             (391,241)
  C17.2                          PRIM_FILE      .\pstchip.dat
  C17.2                          SCH_BBOX       (536,66,556,96)
  C17.2                          SCH_MIRROR     (0)
@@ -483,17 +477,17 @@
 |                                                                    Page  11  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sat May 30 17:21:24 2026  |
+|                                                    Sun May 31 18:31:11 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
  C18.2                          PRIM_FILE      .\pstchip.dat
- C18.2                          SCH_BBOX       (626,76,646,86)
+ C18.2                          SCH_BBOX       (624,76,644,86)
  C18.2                          SCH_MIRROR     (0)
  C18.2                          SCH_ORIENT     (270)
- C18.2                          XY             (626,76)
+ C18.2                          XY             (624,76)
  C19.2                          PRIM_FILE      .\pstchip.dat
  C19.2                          SCH_BBOX       (606,251,616,271)
  C19.2                          SCH_MIRROR     (0)
@@ -539,7 +533,7 @@
 |                                                                    Page  12  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sat May 30 17:21:24 2026  |
+|                                                    Sun May 31 18:31:11 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -595,7 +589,7 @@
 |                                                                    Page  13  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sat May 30 17:21:24 2026  |
+|                                                    Sun May 31 18:31:11 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -651,7 +645,7 @@
 |                                                                    Page  14  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sat May 30 17:21:24 2026  |
+|                                                    Sun May 31 18:31:11 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -677,42 +671,21 @@
  R10.2                          SCH_MIRROR     (0)
  R10.2                          SCH_ORIENT     (180)
  R10.2                          XY             (696,330)
- R11.2                          PRIM_FILE      .\pstchip.dat
- R11.2                          SCH_BBOX       (126,325,156,335)
- R11.2                          SCH_MIRROR     (0)
- R11.2                          SCH_ORIENT     (0)
- R11.2                          XY             (126,325)
  R12.2                          PRIM_FILE      .\pstchip.dat
  R12.2                          SCH_BBOX       (284,380,294,410)
  R12.2                          SCH_MIRROR     (0)
  R12.2                          SCH_ORIENT     (90)
  R12.2                          XY             (284,380)
  R13.2                          PRIM_FILE      .\pstchip.dat
- R13.2                          SCH_BBOX       (126,326,156,336)
+ R13.2                          SCH_BBOX       (127,324,157,334)
  R13.2                          SCH_MIRROR     (0)
  R13.2                          SCH_ORIENT     (0)
- R13.2                          XY             (126,326)
- R14.2                          PRIM_FILE      .\pstchip.dat
- R14.2                          SCH_BBOX       (284,381,294,411)
- R14.2                          SCH_MIRROR     (0)
- R14.2                          SCH_ORIENT     (90)
- R14.2                          XY             (284,381)
+ R13.2                          XY             (127,324)
  RT1.2                          PRIM_FILE      .\pstchip.dat
  RT1.2                          SCH_BBOX       (184,631,214,651)
  RT1.2                          SCH_MIRROR     (0)
  RT1.2                          SCH_ORIENT     (0)
  RT1.2                          XY             (184,631)
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page  15  |
-|------------------------------------------------------------------------------|
-|  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sat May 30 17:21:24 2026  |
-|------------------------------------------------------------------------------|
-| SLOT PROPERTIES added to design                                              |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   slot_id    |   x   |   y   |   property   |             value              |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
  SW1.2                          PRIM_FILE      .\pstchip.dat
  SW1.2                          SCH_BBOX       (380,530,430,560)
  SW1.2                          SCH_MIRROR     (0)
@@ -723,6 +696,17 @@
  U1.5                           SCH_MIRROR     (0)
  U1.5                           SCH_ORIENT     (0)
  U1.5                           XY             (470,190)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  15  |
+|------------------------------------------------------------------------------|
+|  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
+|                                                    Sun May 31 18:31:11 2026  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
  U2.2                           PRIM_FILE      .\pstchip.dat
  U2.2                           SCH_BBOX       (386,226,546,396)
  U2.2                           SCH_MIRROR     (0)
@@ -758,7 +742,7 @@
 |                                                                    Page  16  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sat May 30 17:21:24 2026  |
+|                                                    Sun May 31 18:31:11 2026  |
 |------------------------------------------------------------------------------|
 | PIN PROPERTIES added to design                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -773,8 +757,8 @@
  C3.2                           SCH_LOC        (260,90)
  C4.1                           SCH_LOC        (320,100)
  C4.2                           SCH_LOC        (320,90)
- C5.1                           SCH_LOC        (380,100)
- C5.2                           SCH_LOC        (380,90)
+ C5.1                           SCH_LOC        (379,100)
+ C5.2                           SCH_LOC        (379,90)
  C6.1                           SCH_LOC        (670,100)
  C6.2                           SCH_LOC        (670,90)
  C7.1                           SCH_LOC        (730,100)
@@ -795,12 +779,12 @@
  C14.2                          SCH_LOC        (440,220)
  C15.1                          SCH_LOC        (270,250)
  C15.2                          SCH_LOC        (270,240)
- C16.1                          SCH_LOC        (400,250)
- C16.2                          SCH_LOC        (400,240)
+ C16.1                          SCH_LOC        (401,251)
+ C16.2                          SCH_LOC        (401,241)
  C17.1                          SCH_LOC        (546,66)
  C17.2                          SCH_LOC        (546,96)
- C18.1                          SCH_LOC        (636,76)
- C18.2                          SCH_LOC        (636,86)
+ C18.1                          SCH_LOC        (634,76)
+ C18.2                          SCH_LOC        (634,86)
  C19.1                          SCH_LOC        (616,261)
  C19.2                          SCH_LOC        (606,261)
  C20.1                          SCH_LOC        (36,297)
@@ -814,7 +798,7 @@
 |                                                                    Page  17  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sat May 30 17:21:24 2026  |
+|                                                    Sun May 31 18:31:11 2026  |
 |------------------------------------------------------------------------------|
 | PIN PROPERTIES added to design                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -870,7 +854,7 @@
 |                                                                    Page  18  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sat May 30 17:21:24 2026  |
+|                                                    Sun May 31 18:31:11 2026  |
 |------------------------------------------------------------------------------|
 | PIN PROPERTIES added to design                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -901,12 +885,10 @@
  R9.2                           SCH_LOC        (696,307)
  R10.1                          SCH_LOC        (726,335)
  R10.2                          SCH_LOC        (696,335)
- R11.1                          SCH_LOC        (126,330)
- R11.2                          SCH_LOC        (156,330)
  R12.1                          SCH_LOC        (289,410)
  R12.2                          SCH_LOC        (289,380)
- R14.1                          SCH_LOC        (289,411)
- R14.2                          SCH_LOC        (289,381)
+ R13.1                          SCH_LOC        (127,329)
+ R13.2                          SCH_LOC        (157,329)
  RT1.1                          SCH_LOC        (184,639)
  RT1.2                          SCH_LOC        (214,639)
  SW1.1                          SCH_LOC        (380,550)
@@ -921,19 +903,19 @@
  U1.12                          SCH_LOC        (630,410)
  U1.13                          SCH_LOC        (470,440)
  U1.14                          SCH_LOC        (470,430)
+ U1.15                          SCH_LOC        (630,260)
+ U1.17                          SCH_LOC        (470,290)
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  19  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sat May 30 17:21:24 2026  |
+|                                                    Sun May 31 18:31:11 2026  |
 |------------------------------------------------------------------------------|
 | PIN PROPERTIES added to design                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    pin_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- U1.15                          SCH_LOC        (630,260)
- U1.17                          SCH_LOC        (470,290)
  U1.18                          SCH_LOC        (470,270)
  U1.19                          SCH_LOC        (470,420)
  U1.20                          SCH_LOC        (630,280)
@@ -977,19 +959,19 @@
  U3.6                           SCH_LOC        (526,536)
  U3.7                           SCH_LOC        (526,496)
  U3.8                           SCH_LOC        (426,516)
+ U3.9                           SCH_LOC        (526,456)
+ U3.10                          SCH_LOC        (526,476)
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page  20  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sat May 30 17:21:24 2026  |
+|                                                    Sun May 31 18:31:11 2026  |
 |------------------------------------------------------------------------------|
 | PIN PROPERTIES added to design                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    pin_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- U3.9                           SCH_LOC        (526,456)
- U3.10                          SCH_LOC        (526,476)
  U3.11                          SCH_LOC        (526,566)
  U4.1                           SCH_LOC        (693,256)
  U4.3                           SCH_LOC        (743,376)
@@ -1002,11 +984,11 @@
  Y2.1                           SCH_LOC        (230,460)
  Y2.2                           SCH_LOC        (270,460)
 |------------------------------------------------------------------------------|
-|       Nets changed          :     193                                        |
-|       Comp definitions added:      50                                        |
-|       Components added      :      61                                        |
-|       Pin property added    :     193                                        |
-|       Slot property added   :     310                                        |
+|       Nets changed          :     191                                        |
+|       Comp definitions added:      49                                        |
+|       Components added      :      59                                        |
+|       Pin property added    :     191                                        |
+|       Slot property added   :     300                                        |
 |                                                                              |
-|   Total ECO changes reported:     807                                        |
+|   Total ECO changes reported:     790                                        |
 |------------------------------------------------------------------------------|

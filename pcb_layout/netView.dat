@@ -1,5 +1,15 @@
 A!NET_NAME!NET_LOGICAL_PATH!NET_CDS_FSP_UID!NET_SHIELD_NET!NET_RELATIVE_PROPAGATION_DELAY!NET_NO_PIN_ESCAPE!NET_NET_SHORT!NET_VOLTAGE_LAYER!NET_VOLTAGE!NET_RATSNEST_SCHEDULE!NET_CLOCK_NET!NET_NET_PHYSICAL_TYPE!NET_MAX_FINAL_SETTLE!NET_NO_TEST!NET_MAX_EXPOSED_LENGTH!NET_ELECTRICAL_CONSTRAINT_SET!NET_CDS_FSP_BUS_INDEX!NET_STUB_LENGTH!NET_SHIELD_TYPE!NET_NO_RAT!NET_PROPAGATION_DELAY!NET_NO_RIPUP!NET_MIN_HOLD!NET_DIFFERENTIAL_PAIR!NET_MIN_SETUP!NET_MIN_NECK_WIDTH!NET_BUS_NAME!NET_MIN_NOISE_MARGIN!NET_MATCHED_DELAY!NET_ECL!NET_DIFFP_LENGTH_TOL!NET_DIFFP_2ND_LENGTH!NET_NET_GROUP_GRP_NAME!NET_SUBNET_NAME!NET_MIN_BOND_LENGTH!NET_MAX_OVERSHOOT!NET_TS_ALLOWED!NET_MAX_VIA_COUNT!NET_EMC_CRITICAL_NET!NET_CDS_FSP_NET!NET_PROBE_NUMBER!NET_NO_ROUTE!NET_MIN_LINE_WIDTH!NET_ECL_TEMP!NET_NO_GLOSS!NET_ROUTE_PRIORITY!NET_NET_SPACING_TYPE!NET_IMPEDANCE_RULE!
-J!c:/users/andre/desktop/ese_group18/orcad_workspace/workspace/projects/moisturesensor/allegro/so1l.brd!Sat May 30 18:53:38 2026!0.00!0.00!21000.00!17000.00!0.01!mils!SO1L!10.400000 mil!2!UP TO DATE!
+J!C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd!Mon Jun  1 09:18:15 2026!0.00!0.00!21000.00!17000.00!0.01!mils!SO1L!10.400000 mil!2!OUT OF DATE!
+S!THERM10!!!!!!!!!!!!!!!!!!!YES!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!THERM9!!!!!!!!!!!!!!!!!!!YES!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!THERM8!!!!!!!!!!!!!!!!!!!YES!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!THERM7!!!!!!!!!!!!!!!!!!!YES!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!THERM6!!!!!!!!!!!!!!!!!!!YES!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!THERM5!!!!!!!!!!!!!!!!!!!YES!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!THERM3!!!!!!!!!!!!!!!!!!!YES!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!THERM2!!!!!!!!!!!!!!!!!!!YES!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!THERM1!!!!!!!!!!!!!!!!!!!YES!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N135324!@so1l.so1l(sch_1):n135324!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!X24M_P!@so1l.so1l(sch_1):x24m_p!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!X24M_N!@so1l.so1l(sch_1):x24m_n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!X32K_Q2!@so1l.so1l(sch_1):x32k_q2!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -7,7 +17,6 @@ S!X32K_Q1!@so1l.so1l(sch_1):x32k_q1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!3.3 V!@so1l.so1l(sch_1):\3.3 v\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N01608!@so1l.so1l(sch_1):n01608!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N05326!@so1l.so1l(sch_1):n05326!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-S!N833171!@so1l.so1l(sch_1):n833171!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N05874!@so1l.so1l(sch_1):n05874!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!0!@so1l.so1l(sch_1):\0\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N05411!@so1l.so1l(sch_1):n05411!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!

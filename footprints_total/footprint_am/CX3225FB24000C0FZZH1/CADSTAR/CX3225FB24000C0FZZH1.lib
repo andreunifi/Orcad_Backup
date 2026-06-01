@@ -1,0 +1,18 @@
+.CX3225FB24000C0FZZH1 :1 ;Crystals 3.2x2.5mm 24MHz 7pF
+CX3225FB24000C0FZZH1
+*STM Y
+*NGS
+*PLB 1="X_TAL TERMINAL (INPUT/OUTPUT)_1" 2="GND TERMINAL_1" 3="X_TAL TERMINAL (INPUT/OUTPUT)_2" 4="GND TERMINAL_2"
+*MXP 4
+*DFN CX3225FB24000C0FZZH1
+~!Manufacturer_Name (Kyocera AVX)
+~!Manufacturer_Part_Number (CX3225FB24000C0FZZH1)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://ele.kyocera.com/assets/products/crystal-device/specification/CX3225FB_7pF.pdf)
+~!Height (0.8mm)
+~!3D_Model (CX3225FB24000C0FZZH1)
+CX3225FB24000C0FZZH1
+1.1!U 2.1!U 3.1!U 4.1!U 

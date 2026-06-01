@@ -1,0 +1,9 @@
+Manufacturer=Kyocera AVX
+PartNumber=CX3225FB48000F0FZZH1
+PartCategory=Crystal or Oscillator
+PackageCategory=Other
+PinCount=4
+Version=1.4
+Released=2025-05-27 15:25:46
+Downloaded=2026-05-31 15:55:44
+3D=Y

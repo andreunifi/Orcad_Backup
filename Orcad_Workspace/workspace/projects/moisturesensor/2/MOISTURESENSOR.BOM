@@ -1,4 +1,4 @@
-Project 18 - MCU Block  Revised: Saturday, May 30, 2026
+Project 18 - MCU Block  Revised: Sunday, May 31, 2026
 P18_MCU          Revision: 2
 
 Politecnico di Torino
@@ -7,7 +7,7 @@ Andrea Mugnaini
 
 
 
-Bill Of Materials            May 30,2026      18:17:36	Page1
+Bill Of Materials            May 31,2026      18:27:58	Page1
 
 Item,		Quantity,		Reference,		Part,		MPN
 ______________________________________________
@@ -39,18 +39,18 @@ ______________________________________________
 25	1	Q1	MOSFET N	AO3400A 
 26	1	Q2	AO3400A	AO3400A 
 27	1	RT1	10 kOhm	NTCLE350E4103FHB0 
-28	3	R1,R11,R13	100 Ohm	RC0603FR-07100RL 
-29	3	R2,R12,R14	1 kOhm	RC0603FR-071KL 
+28	2	R1,R13	100 Ohm	RC0603FR-07100RL 
+29	2	R2,R12	1 kOhm	RC0603FR-071KL 
 30	1	R3	100 kOhm	RC0603FR-13100KL 
 31	2	R4,R5	680 Ohm	RC0603JR-07680RL 
 32	1	R6	270 Ohm	RC0603FR-07270RL 
 33	2	R7,R8	5.1 kOhm	RC0603FR-075K1L 
 34	1	R9	2 kOhm	RC0603FR-072KL 
 35	1	R10	20 kOhm	RC0603FR-0720KL 
-36	1	SW1	TS14-1212-60-BK-260-SCR-D	TS14-1212-60-BK-260-SCR-D 
+36	1	SW1	TS14-1212-60-BK-260-SCR-D	1825910-6 
 37	1	U1	CC2640R2FRHB	CC2640R2FRHBR 
 38	1	U2	Battery Charger	MCP73871-2CCI/ML 
 39	1	U3	Voltage Regulator	TPS62177DQCR 
 40	1	U4	RELAY	DK1A-3V-F 
-41	1	Y1	24 MHZ	 
+41	1	Y1	24 MHZ	CX3225FB24000C0FZZH1 
 42	1	Y2	32.768kHz	FC-135R32.7680KA-AX 
