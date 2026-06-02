@@ -1,0 +1,204 @@
+\t (00:00:09) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (00:00:09)     Journal start - Tue Jun  2 22:33:51 2026
+\t (00:00:09)         Host=LAPTOP-DI-ANDRE User=andre Pid=10552 CPUs=8
+\t (00:00:09) CmdLine= unison -layout -orcadx -productToken 00016EFCB9D4A2E1B3AC6DE6F488F4BCB6E222ABEF98F3A9B7FD3AACBD82F2B0E4FA35D6A8F1B2C7BA8038F3EF8383C6DF9F2CF1C1A6B3F7E6AA3AC5D48690E8EC9063FEFCC4A4B6E1FE39B5EFD5F2E7B5AC38FBED9BC09A80CF39898CEBC084E5CF27FF8C80EDC0CF9F468A9BA8FF84BFF038FBED85C08480CF38FBED85C08480CF52E4D3A0FEA1EAD00000411B C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/cap_cl10_sam.dra
+\t (00:00:09) 
+\d (00:00:09) Design opened: C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/cap_cl10_sam.dra
+\i (00:00:09) trapsize 164
+\i (00:00:11) QtSignal PropertyPadstackWidget PropertyPadstackEditMode CurrentIndexChanged 0
+\i (00:00:11) QtSignal PropertyPadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (00:00:11) QtSignal PropertyPadstackWidget copperPadType CurrentIndexChanged 0
+\i (00:00:17) trapsize 202
+\i (00:00:23) QtSignal Property_Docked_PadstackWidget PropertyPadstackEditMode CurrentIndexChanged +
+\i (00:00:23) QtSignal 0
+\i (00:00:23) QtSignal Property_Docked_PadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (00:00:23) QtSignal Property_Docked_PadstackWidget copperPadType CurrentIndexChanged 0
+\t (00:00:27) Loading consmgr.cxt 
+\t (00:00:27) Loading acns_formula.cxt 
+\i (00:00:27) trapsize 205
+\i (00:00:30) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
+\i (00:00:31) QtSignal ucp_shape_create_dyn_dim UCPAddShape_Type CurrentIndexChanged 1
+\i (00:00:32) updateport VisibilityPane
+\i (00:00:32) updateport PropPane
+\i (00:00:32) updateport CVPane
+\i (00:00:33) ucpedit 
+\i (00:00:33) updateport VisibilityPane
+\i (00:00:35) pick grid -1.6391 0.0208
+\t (00:00:35) last pick:  -1.6391 0.0208
+\i (00:00:36) pick grid tgl -1.6186 0.1770
+\t (00:00:36) last pick:  -1.6186 0.1770
+\i (00:00:37) pick grid tgl -1.6350 0.2140
+\t (00:00:37) last pick:  -1.6350 0.2140
+\i (00:00:37) prepopup -1.6350 0.2140
+\i (00:00:38) pop dyn_option_select @:@Delete 
+\i (00:00:38) ucp_delete 
+\i (00:00:38) updateport ReportsPane
+\i (00:00:38) updateport SearchPane
+\i (00:00:38) updateport PropPane
+\i (00:00:38) ucpedit 
+\i (00:00:38) updateport VisibilityPane
+\i (00:00:39) pick grid -1.6597 0.2140
+\t (00:00:39) last pick:  -1.6597 0.2140
+\i (00:00:39) prepopup -1.6597 0.2140
+\i (00:00:39) pop dyn_option_select @:@Delete 
+\i (00:00:39) ucp_delete 
+\i (00:00:39) updateport ReportsPane
+\i (00:00:39) updateport SearchPane
+\i (00:00:39) updateport PropPane
+\i (00:00:39) ucpedit 
+\i (00:00:40) updateport VisibilityPane
+\i (00:00:40) pick grid -1.6227 0.2510
+\t (00:00:40) last pick:  -1.6227 0.2510
+\i (00:00:40) prepopup -1.6103 0.2510
+\i (00:00:41) pop dyn_option_select @:@Delete 
+\i (00:00:41) ucp_delete 
+\i (00:00:41) updateport ReportsPane
+\i (00:00:41) updateport SearchPane
+\i (00:00:41) updateport PropPane
+\i (00:00:41) ucpedit 
+\i (00:00:41) updateport VisibilityPane
+\i (00:00:42) pick grid -1.4912 0.6166
+\t (00:00:42) last pick:  -1.4912 0.6166
+\i (00:00:42) prepopup -1.4912 0.6166
+\i (00:00:43) pop dyn_option_select @:@Delete 
+\i (00:00:43) ucp_delete 
+\i (00:00:43) updateport ReportsPane
+\i (00:00:43) updateport SearchPane
+\i (00:00:43) updateport PropPane
+\i (00:00:43) ucpedit 
+\i (00:00:43) updateport VisibilityPane
+\i (00:00:44) pick grid -0.9776 0.5632
+\t (00:00:44) last pick:  -0.9776 0.5632
+\i (00:00:44) prepopup -0.9776 0.5632
+\i (00:00:45) pop dyn_option_select @:@Delete 
+\i (00:00:45) ucp_delete 
+\i (00:00:45) updateport ReportsPane
+\i (00:00:45) updateport SearchPane
+\i (00:00:45) updateport PropPane
+\i (00:00:45) ucpedit 
+\i (00:00:45) updateport VisibilityPane
+\i (00:00:47) QtSignal Allegro_Command_Toolbar AQCommandToolbarAddRefdesButton leftClicked
+\i (00:00:47) ucp_add_refdes_mode 
+\i (00:00:47) ucpedit 
+\i (00:00:48) QtSignal UCP_Refdes_add cb_textBlock CurrentIndexChanged " 1 (0.4064, 0.6350)"
+\i (00:00:48) QtSignal UCP_Refdes_add cb_style CurrentIndexChanged "No Style"
+\i (00:00:48) QtSignal UCP_Refdes_add cb_font CurrentIndexChanged "Agency FB"
+\i (00:00:48) updateport ReportsPane
+\i (00:00:48) updateport SearchPane
+\i (00:00:48) updateport VisibilityPane
+\i (00:00:48) updateport PropPane
+\i (00:00:48) QtSignal Allegro_Command_Toolbar AQCommandToolbarAddRefdesButton rightClicked
+\i (00:00:55) QtSignal UCP_Refdes_add refDes editingFinished "C?"
+\i (00:00:55) QtSignal UCP_Refdes_add addRefdesButton clicked
+\i (00:00:55) ucp_add_refdes 
+\i (00:00:55) pick 0.0000 1.9240
+\i (00:00:55) setwindow pcb
+\i (00:00:55) setwindow pcb
+\i (00:00:55) ucp_selection_mode 
+\i (00:00:55) updateport ReportsPane
+\i (00:00:55) updateport SearchPane
+\i (00:00:55) updateport VisibilityPane
+\i (00:00:55) updateport PropPane
+\i (00:00:55) ucpedit 
+\i (00:00:55) updateport VisibilityPane
+\i (00:00:56) pick grid -0.7434 1.0070
+\t (00:00:56) last pick:  -0.7434 1.0070
+\i (00:00:56) zoom out 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom out -0.7146 0.9125
+\i (00:00:56) trapsize 411
+\i (00:00:57) roam start
+\i (00:00:57) roam x 1
+\i (00:00:57) roam y -1
+\i (00:00:57) roam y -1
+\i (00:00:57) roam y -7
+\i (00:00:57) roam y -7
+\i (00:00:57) roam x -2
+\i (00:00:57) roam y -11
+\i (00:00:57) roam x -8
+\i (00:00:57) roam y -23
+\i (00:00:57) roam x -7
+\i (00:00:57) roam y -26
+\i (00:00:57) roam x -4
+\i (00:00:57) roam y -6
+\i (00:00:57) roam x -19
+\i (00:00:57) roam y -52
+\i (00:00:57) roam x -6
+\i (00:00:57) roam y -19
+\i (00:00:57) roam x -4
+\i (00:00:57) roam y -18
+\i (00:00:57) roam x -6
+\i (00:00:57) roam y -23
+\i (00:00:57) roam x -7
+\i (00:00:57) roam y -19
+\i (00:00:57) roam x -3
+\i (00:00:57) roam y -12
+\i (00:00:57) roam x -2
+\i (00:00:57) roam y -2
+\i (00:00:57) roam end
+\i (00:00:58) prepopup -0.8346 1.1755
+\i (00:01:00) pop dyn_option_select @:@Move 
+\i (00:01:00) ucp_move 
+\t (00:01:00) last pick:  -0.8346 1.1755
+\t (00:01:00) Pick new location for the element(s).
+\i (00:01:01) pick grid -2.1495 2.5972
+\t (00:01:01) last pick:  -2.1495 2.5972
+\i (00:01:01) updateport ReportsPane
+\i (00:01:01) updateport SearchPane
+\i (00:01:01) updateport PropPane
+\i (00:01:01) ucpedit 
+\i (00:01:01) updateport VisibilityPane
+\i (00:01:02) prepopup 0.2090 2.7944
+\i (00:01:03) pop dyn_option_select @:@Move 
+\i (00:01:03) ucp_move 
+\t (00:01:03) last pick:  0.2090 2.7944
+\t (00:01:03) Pick new location for the element(s).
+\i (00:01:05) pick grid -2.1988 1.6521
+\t (00:01:05) last pick:  -2.1988 1.6521
+\i (00:01:06) updateport ReportsPane
+\i (00:01:06) updateport SearchPane
+\i (00:01:06) updateport PropPane
+\i (00:01:06) ucpedit 
+\i (00:01:06) updateport VisibilityPane
+\i (00:01:08) zoom in 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom in -0.4073 -0.0490
+\i (00:01:08) trapsize 205
+\i (00:03:41) dbdoctor 
+\i (00:03:43) setwindow form.dbdoctor_allegro
+\i (00:03:43) FORM dbdoctor_allegro drc YES 
+\i (00:03:44) FORM dbdoctor_allegro shapes YES 
+\i (00:03:45) FORM dbdoctor_allegro execute  
+\t (00:03:45) Dbdoctor in progress - wait...
+\t (00:03:45) Checking db records
+\t (00:03:45)     checking for orphans...
+\t (00:03:46)     Checked 100 percent
+\t (00:03:46) Regenerating DRC
+\t (00:03:46)   Original DRC errors: 0
+\t (00:03:46) Performing DRC...
+\t (00:03:46) No DRC errors detected.
+\t (00:03:46)   Updated DRC errors:  0
+\i (00:03:47) setwindow pcb
+\i (00:03:47) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:03:47) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\t (00:03:48) Done dbdoctor.
+\t (00:03:48) Dbdoctor completed.
+\i (00:03:48) updateport ReportsPane
+\i (00:03:48) updateport SearchPane
+\i (00:03:48) updateport PropPane
+\i (00:03:55) setwindow form.dbdoctor_allegro
+\i (00:03:55) FORM dbdoctor_allegro close  
+\i (00:03:55) setwindow pcb
+\i (00:03:55) ucpedit 
+\i (00:03:55) updateport VisibilityPane
+\i (00:03:58) save 
+\i (00:04:00) fillin yes 
+\t (00:04:02) Symbol 'cap_cl10_sam.psm' created.
+\i (00:04:02) updateport ReportsPane
+\i (00:04:02) updateport SearchPane
+\i (00:04:02) updateport PropPane
+\i (00:04:02) ucpedit 
+\i (00:04:02) updateport VisibilityPane
+\i (00:04:06) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:04:06) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\t (00:04:14)     Journal end - Tue Jun  2 22:37:56 2026

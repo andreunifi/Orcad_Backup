@@ -3,71 +3,59 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Mon Jun  1 14:46:41 2026  |
-|------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  THERM1       pins ADDED TO this existing net (pins not previously on any net)
-                                 U1.34                          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  THERM2       pins ADDED TO this existing net (pins not previously on any net)
-                                 U1.35                          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  THERM3       pins ADDED TO this existing net (pins not previously on any net)
-                                 U1.36                          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  THERM4       pins ADDED TO this new net
-                                 U1.37                          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  THERM5       pins ADDED TO this existing net (pins not previously on any net)
-                                 U1.38                          
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   2  |
-|------------------------------------------------------------------------------|
-|  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Mon Jun  1 14:46:41 2026  |
+|                                                    Tue Jun  2 17:46:20 2026  |
 |------------------------------------------------------------------------------|
 | COMPONENT DEFINITION added to design                                         |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    device type                                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB
+ CC0603KRX7R6BB105_CAP_CC0603_YAG_1 UF
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
-|                                                                    Page   3  |
+|                                                                    Page   2  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Mon Jun  1 14:46:41 2026  |
+|                                                    Tue Jun  2 17:46:20 2026  |
 |------------------------------------------------------------------------------|
 | COMPONENTS CHANGED from one device type to another in design                 |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    ref des        | new device type     |   x   |   y   |  old  device type  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- U1                  CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB                 CC2640R2FRHBR_4_RHB0032E_CC2640R2FRHB
+ C18                 CC0603KRX7R6BB105_CAP_CC0603_YAG_1 UF 215.900 160.020 CC0603KRX7R6BB105_CAPC1608X90N_1 UF
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
-|                                                                    Page   4  |
+|                                                                    Page   3  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Mon Jun  1 14:46:41 2026  |
+|                                                    Tue Jun  2 17:46:20 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- U1.5                           PRIM_FILE      .\pstchip.dat
- U1.5                           SCH_BBOX       (470,190,630,490)
- U1.5                           SCH_MIRROR     (0)
- U1.5                           SCH_ORIENT     (0)
- U1.5                           XY             (470,190)
+ C18.2          215.900 160.020 PRIM_FILE      .\pstchip.dat
+ C18.2          215.900 160.020 SCH_BBOX       (624,76,644,86)
+ C18.2          215.900 160.020 SCH_MIRROR     (0)
+ C18.2          215.900 160.020 SCH_ORIENT     (270)
+ C18.2          215.900 160.020 XY             (624,76)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
 |------------------------------------------------------------------------------|
-|       Nets changed          :       5                                        |
+|  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
+|                                                    Tue Jun  2 17:46:20 2026  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C18.1          215.900 160.666 SCH_LOC        (634,76)
+ C18.2          215.900 159.373 SCH_LOC        (634,86)
+|------------------------------------------------------------------------------|
 |       Comp definitions added:       1                                        |
 |       Components changed    :       1                                        |
+|       Pin property added    :       2                                        |
 |       Slot property added   :       5                                        |
 |                                                                              |
-|   Total ECO changes reported:      12                                        |
+|   Total ECO changes reported:       9                                        |
 |------------------------------------------------------------------------------|

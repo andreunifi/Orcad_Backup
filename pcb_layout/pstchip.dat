@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 25.1.0 d001Jun-02-2026 at 15:44:13}
+{ Using PSTWRITER 25.1.0 d001Jun-02-2026 at 17:46:18}
 primitive 'ANTEENA_AN043_FLIP_ANTENNA';
   pin
     'FEED':
@@ -119,7 +119,7 @@ primitive 'EEV477M010A9MAA_0_CAPAE1030X1050N_470 UF';
     VALUE='470 uF';
   end_body;
 end_primitive;
-primitive 'CC0603KRX7R6BB105_CAPC1608X90N_1 UF';
+primitive 'CC0603KRX7R6BB105_CAP_CC0603_YAG_1 UF';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -130,7 +130,7 @@ primitive 'CC0603KRX7R6BB105_CAPC1608X90N_1 UF';
   end_pin;
   body
     PART_NAME='CC0603KRX7R6BB105';
-    JEDEC_TYPE='CAPC1608X90N';
+    JEDEC_TYPE='CAP_CC0603_YAG';
     VALUE='1 uF';
   end_body;
 end_primitive;

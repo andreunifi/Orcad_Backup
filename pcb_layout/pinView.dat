@@ -1,5 +1,5 @@
 A!NET_NAME!REFDES!PIN_NUMBER!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!PIN_NET_SHORT!PIN_NO_SWAP_PIN!PIN_NO_PIN_ESCAPE!PIN_CDS_PINID!PIN_XNET_PINS!PIN_PIN_ESCAPE!PIN_PIN_SIGNAL_MODEL!PIN_NO_DRC!PIN_NO_SHAPE_CONNECT!
-J!c:/users/andre/desktop/ese_group18/orcad_workspace/workspace/projects/moisturesensor/allegro/so1l.brd!Tue Jun  2 15:44:14 2026!0.0000!0.0000!533.4000!431.8000!0.0001!millimeters!SO1L!10.400000 mil!2!UP TO DATE!
+J!C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd!Tue Jun  2 17:46:18 2026!0.0000!0.0000!533.4000!431.8000!0.0001!millimeters!SO1L!10.400000 mil!2!OUT OF DATE!
 S!DCDC_SW!U1!17!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_5.normal\(sch_1)!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
 S!DCOUPL!U1!12!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_5.normal\(sch_1)!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
 S!NPG!U1!6!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_5.normal\(sch_1)!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!

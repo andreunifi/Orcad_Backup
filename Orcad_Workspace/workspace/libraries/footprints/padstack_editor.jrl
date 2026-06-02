@@ -1,7 +1,10 @@
-\t (00:00:01) padstack_editor 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Mon Jun  1 08:20:55 2026
-\t (00:00:01)         Host=LAPTOP-DI-ANDRE User=andre Pid=5148 CPUs=8
-\t (00:00:01) CmdLine= padstack_editor -mpssession andre -symbol
-\t (00:00:01) 
-\d (00:00:11) QtSignal MainWindow Exit triggered
-\t (00:00:11)     Journal end - Mon Jun  1 08:21:05 2026
+\t (00:00:02) padstack_editor 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Tue Jun  2 22:06:44 2026
+\t (00:00:02)         Host=LAPTOP-DI-ANDRE User=andre Pid=736 CPUs=8
+\t (00:00:02) CmdLine= padstack_editor -mpssession andre -file C:/Users/andre/AppData/Local/Temp/#Taaaaat23344.tmp -pname SM_LIB_PAD80 -data C:/Users/andre/AppData/Local/Temp/#Taaaaax23344.tmp -unison
+\t (00:00:02) 
+\d (00:00:05) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:26) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:31) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:32) QtSignal MainWindow Exit triggered
+\t (00:00:32)     Journal end - Tue Jun  2 22:07:15 2026
