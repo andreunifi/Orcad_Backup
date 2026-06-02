@@ -1,5 +1,7 @@
 A!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!REFDES!FUNC_PRIM_FILE!COMP_PARENT_PPT!COMP_PARENT_PPT_PART!COMP_PARENT_PART_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!FUNC_GROUP!FUNC_ROOM!FUNC_CDS_FSP_UID!FUNC_NO_SWAP_PIN!FUNC_HARD_LOCATION!FUNC_NO_SWAP_GATE_EXT!FUNC_CDS_FSP_MAPPED_CELL!FUNC_CDS_FSP_FPGA_SYMBOL!FUNC_CDS_FSP_TERM_TYPE!FUNC_CDS_FSP_TERM_NAME!FUNC_ROOM!FUNC_GROUP!FUNC_CDS_FSP_TERM_INDEX!FUNC_CDS_FSP_INSTANCE_ID!FUNC_NO_SWAP_GATE!FUNC_NO_XNET_CONNECTION!FUNC_CDS_FSP_IS_FPGA!
-J!c:/users/andre/desktop/ese_group18/orcad_workspace/workspace/projects/moisturesensor/allegro/so1l.brd!Mon Jun  1 09:17:41 2026!0.00!0.00!21000.00!17000.00!0.01!mils!SO1L!10.400000 mil!2!UP TO DATE!
+J!C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd!Mon Jun  1 11:21:45 2026!0.00!0.00!21000.00!17000.00!0.01!mils!SO1L!10.400000 mil!2!OUT OF DATE!
+S!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_3a.normal\(sch_1)!MCP73871-2CCIML_3_QFN20_4X4MC_MCH_BATTERY CHARGER!U2!.\chipsView.dat!!!!!!F4!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins83671@so1l.\mcp73871-2cciml_3b.normal\(sch_1)!MCP73871-2CCIML_3_QFN20_4X4MC_MCH_BATTERY CHARGER!U2!.\chipsView.dat!!!!!!F3!!!!!!!!!!!!!!!!!!
 S!@so1l.so1l(sch_1):ins71065@ese_project_lib.\anteena.normal\(chips)!ANTEENA_AN043_FLIP_ANTENNA!A1!.\chipsView.dat!!!!!!F59!!!!!!!!!!!!!!!!!!
 S!@so1l.so1l(sch_1):ins436@filtsub.\c.normal\(chips)!C_CAP_CC0603_YAG_DNM!C1!.\chipsView.dat!!!!!!F58!!!!!!!!!!!!!!!!!!
 S!@so1l.so1l(sch_1):ins2022@filtsub.\c.normal\(chips)!C_CAP_CC0603_YAG_1 UF!C10!.\chipsView.dat!!!!!!F57!!!!!!!!!!!!!!!!!!
@@ -55,8 +57,6 @@ S!@so1l.so1l(sch_1):ins83327@project18_pw.\rc0603fr-072kl_0.normal\(chips)!RC060
 S!@so1l.so1l(sch_1):ins83691@project18_pw.\ntcle350e4103fhb0_0.normal\(chips)!NTCLE350E4103FHB0_0_NTCLE350E4103FHB0_10 KOHM!RT1!.\chipsView.dat!!!!!!F7!!!!!!!!!!!!!!!!!!
 S!@so1l.so1l(sch_1):ins131369@\1825910-6\.\1825910-6.normal\(chips)!1825910-6_18259106_1825910-6!S1!.\chipsView.dat!!!!!!F6!!!!!!!!!!!!!!!!!!
 S!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_4.normal\(sch_1)!CC2640R2FRHBR_4_RHB0032E_CC2640R2FRHB!U1!.\chipsView.dat!!!!!!F5!!!!!!!!!!!!!!!!!!
-S!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_2a.normal\(sch_1)!MCP73871-2CCIML_2_QFN20_4X4MC_MCH_BATTERY CHARGER!U2!.\chipsView.dat!!!!!!F4!!!!!!!!!!!!!!!!!!
-S!@so1l.so1l(sch_1):ins83671@so1l.\mcp73871-2cciml_2b.normal\(sch_1)!MCP73871-2CCIML_2_QFN20_4X4MC_MCH_BATTERY CHARGER!U2!.\chipsView.dat!!!!!!F3!!!!!!!!!!!!!!!!!!
 S!@so1l.so1l(sch_1):ins84320@so1l.\dk1a-3v-f_0.normal\(sch_1)!DK1A-3V-F_0_AW3212F_RELAY!U3!.\chipsView.dat!!!!!!F2!!!!!!!!!!!!!!!!!!
 S!@so1l.so1l(sch_1):ins74201@ese_project_lib.\txs-3225.normal\(chips)!TXS-3225_CX3225FB48000F0FZZH1_24 MHZ!Y1!.\chipsView.dat!!!!!!F1!!!!!!!!!!!!!!!!!!
 S!@so1l.so1l(sch_1):ins74486@so1l.\fc-135r_0.normal\(chips)!FC-135R_0_XTAL_KA-A3_EPS-M_32.768KHZ!Y2!.\chipsView.dat!!!!!!F0!!!!!!!!!!!!!!!!!!

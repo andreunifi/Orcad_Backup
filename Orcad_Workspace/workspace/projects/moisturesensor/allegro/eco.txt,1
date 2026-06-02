@@ -3,82 +3,9 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Mon Jun  1 09:18:02 2026  |
+|                                                    Mon Jun  1 11:21:49 2026  |
 |------------------------------------------------------------------------------|
-| COMPONENT DEFINITION added to design                                         |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    device type                                                               |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- MCP73871-2CCIML_3_QFN20_4X4MC_MCH_BATTERY CHARGER
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   2  |
 |------------------------------------------------------------------------------|
-|  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Mon Jun  1 09:18:02 2026  |
-|------------------------------------------------------------------------------|
-| COMPONENTS CHANGED from one device type to another in design                 |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        | new device type     |   x   |   y   |  old  device type  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- U2                  MCP73871-2CCIML_3_QFN20_4X4MC_MCH_BATTERY CHARGER                 MCP73871-2CCIML_2_QFN20_4X4MC_MCH_BATTERY CHARGER
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   3  |
-|------------------------------------------------------------------------------|
-|  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Mon Jun  1 09:18:02 2026  |
-|------------------------------------------------------------------------------|
-| SLOT PROPERTIES added to design                                              |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   slot_id    |   x   |   y   |   property   |             value              |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- U2.2                           PRIM_FILE      .\pstchip.dat
- U2.2                           SCH_BBOX       (386,226,546,396)
- U2.2                           SCH_MIRROR     (0)
- U2.2                           SCH_ORIENT     (0)
- U2.2                           XY             (386,226)
- U2.11                          PRIM_FILE      .\pstchip.dat
- U2.11                          SCH_BBOX       (126,527,226,577)
- U2.11                          SCH_MIRROR     (0)
- U2.11                          SCH_ORIENT     (180)
- U2.11                          XY             (386,226)
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   4  |
-|------------------------------------------------------------------------------|
-|  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Mon Jun  1 09:18:02 2026  |
-|------------------------------------------------------------------------------|
-| PIN PROPERTIES added to design                                               |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    pin_id    |   x   |   y   |   property   |             value              |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- U2.1                           SCH_LOC        (546,256)
- U2.2                           SCH_LOC        (386,336)
- U2.3                           SCH_LOC        (386,326)
- U2.4                           SCH_LOC        (386,306)
- U2.5                           SCH_LOC        (386,366)
- U2.6                           SCH_LOC        (546,246)
- U2.8                           SCH_LOC        (546,286)
- U2.9                           SCH_LOC        (386,246)
- U2.10                          SCH_LOC        (226,557)
- U2.11                          SCH_LOC        (226,547)
- U2.12                          SCH_LOC        (546,326)
- U2.13                          SCH_LOC        (546,316)
- U2.14                          SCH_LOC        (546,346)
- U2.15                          SCH_LOC        (546,356)
- U2.16                          SCH_LOC        (546,376)
- U2.17                          SCH_LOC        (386,256)
- U2.18                          SCH_LOC        (386,276)
- U2.19                          SCH_LOC        (386,286)
- U2.20                          SCH_LOC        (546,266)
- U2.21                          SCH_LOC        (386,356)
-|------------------------------------------------------------------------------|
-|       Comp definitions added:       1                                        |
-|       Components changed    :       1                                        |
-|       Pin property added    :      20                                        |
-|       Slot property added   :      10                                        |
 |                                                                              |
-|   Total ECO changes reported:      32                                        |
+|   Total ECO changes reported:       0                                        |
 |------------------------------------------------------------------------------|

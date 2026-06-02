@@ -5,7 +5,183 @@
 	"Component Property" : [],
 	"Net Property" : [],
 	"Pin Property" : [],
-	"Component" : [],
+	"Component" : [
+		{
+			"Name" : "U1",
+			"C_PATH" : "@so1l.so1l(sch_1):ins86467@so1l.\\cc2640r2frhbr_4.normal\\(sch_1)",
+			"Logical" : null,
+			"Physical" : "U1"
+		},
+		{
+			"Name" : "U1",
+			"C_PATH" : "@so1l.so1l(sch_1):ins86467@so1l.\\cc2640r2frhbr_5.normal\\(sch_1)",
+			"Logical" : "U1",
+			"Physical" : null
+		}
+	],
 	"Net" : [],
-	"Connection" : []
+	"Connection" : [
+		{
+			"Name" : "U1.12",
+			"C_PATH" : "@so1l.so1l(sch_1):ins86467@so1l.\\cc2640r2frhbr_5.normal\\(sch_1):DCOUPL",
+			"Logical" : "DCOUPL",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1.27",
+			"C_PATH" : "@so1l.so1l(sch_1):ins86467@so1l.\\cc2640r2frhbr_5.normal\\(sch_1):DIO_14",
+			"Logical" : "SENSOR_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1.21",
+			"C_PATH" : "@so1l.so1l(sch_1):ins86467@so1l.\\cc2640r2frhbr_5.normal\\(sch_1):DIO_8",
+			"Logical" : "SENS_ON",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1.26",
+			"C_PATH" : "@so1l.so1l(sch_1):ins86467@so1l.\\cc2640r2frhbr_5.normal\\(sch_1):DIO_13",
+			"Logical" : "LED_GREEN",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1.14",
+			"C_PATH" : "@so1l.so1l(sch_1):ins86467@so1l.\\cc2640r2frhbr_5.normal\\(sch_1):JTAG_TCKC",
+			"Logical" : "JTAG_TCKC",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1.25",
+			"C_PATH" : "@so1l.so1l(sch_1):ins86467@so1l.\\cc2640r2frhbr_5.normal\\(sch_1):DIO_12",
+			"Logical" : "BUTTON1",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1.19",
+			"C_PATH" : "@so1l.so1l(sch_1):ins86467@so1l.\\cc2640r2frhbr_5.normal\\(sch_1):RESET_N",
+			"Logical" : "RESET_N",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1.1",
+			"C_PATH" : "@so1l.so1l(sch_1):ins86467@so1l.\\cc2640r2frhbr_5.normal\\(sch_1):RF_P",
+			"Logical" : "RF_P",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1.33",
+			"C_PATH" : "@so1l.so1l(sch_1):ins86467@so1l.\\cc2640r2frhbr_5.normal\\(sch_1):VSS",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1.13",
+			"C_PATH" : "@so1l.so1l(sch_1):ins86467@so1l.\\cc2640r2frhbr_5.normal\\(sch_1):JTAG_TMSC",
+			"Logical" : "JTAG_TMSC",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1.18",
+			"C_PATH" : "@so1l.so1l(sch_1):ins86467@so1l.\\cc2640r2frhbr_5.normal\\(sch_1):VDDS_DCDC",
+			"Logical" : "VDDS",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1.11",
+			"C_PATH" : "@so1l.so1l(sch_1):ins86467@so1l.\\cc2640r2frhbr_5.normal\\(sch_1):VDDS2",
+			"Logical" : "VDDS",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1.28",
+			"C_PATH" : "@so1l.so1l(sch_1):ins86467@so1l.\\cc2640r2frhbr_5.normal\\(sch_1):VDDS",
+			"Logical" : "VDDS",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1.20",
+			"C_PATH" : "@so1l.so1l(sch_1):ins86467@so1l.\\cc2640r2frhbr_5.normal\\(sch_1):DIO_7",
+			"Logical" : "DIO_7",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1.2",
+			"C_PATH" : "@so1l.so1l(sch_1):ins86467@so1l.\\cc2640r2frhbr_5.normal\\(sch_1):RF_N",
+			"Logical" : "RF_N",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1.24",
+			"C_PATH" : "@so1l.so1l(sch_1):ins86467@so1l.\\cc2640r2frhbr_5.normal\\(sch_1):DIO_11",
+			"Logical" : "LED_RED",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1.15",
+			"C_PATH" : "@so1l.so1l(sch_1):ins86467@so1l.\\cc2640r2frhbr_5.normal\\(sch_1):DIO_5",
+			"Logical" : "DIO_5",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1.17",
+			"C_PATH" : "@so1l.so1l(sch_1):ins86467@so1l.\\cc2640r2frhbr_5.normal\\(sch_1):DCDC_SW",
+			"Logical" : "DCDC_SW",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1.32",
+			"C_PATH" : "@so1l.so1l(sch_1):ins86467@so1l.\\cc2640r2frhbr_5.normal\\(sch_1):VDDR_RF",
+			"Logical" : "VDDR",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1.29",
+			"C_PATH" : "@so1l.so1l(sch_1):ins86467@so1l.\\cc2640r2frhbr_5.normal\\(sch_1):VDDR",
+			"Logical" : "VDDR",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1.6",
+			"C_PATH" : "@so1l.so1l(sch_1):ins86467@so1l.\\cc2640r2frhbr_5.normal\\(sch_1):DIO_0",
+			"Logical" : "NPG",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1.7",
+			"C_PATH" : "@so1l.so1l(sch_1):ins86467@so1l.\\cc2640r2frhbr_5.normal\\(sch_1):DIO_1",
+			"Logical" : "NLBO",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1.22",
+			"C_PATH" : "@so1l.so1l(sch_1):ins86467@so1l.\\cc2640r2frhbr_5.normal\\(sch_1):DIO_9",
+			"Logical" : "DIO_9",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1.5",
+			"C_PATH" : "@so1l.so1l(sch_1):ins86467@so1l.\\cc2640r2frhbr_5.normal\\(sch_1):X32K_Q2",
+			"Logical" : "X32K_Q1",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1.4",
+			"C_PATH" : "@so1l.so1l(sch_1):ins86467@so1l.\\cc2640r2frhbr_5.normal\\(sch_1):X32K_Q1",
+			"Logical" : "X32K_Q2",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1.31",
+			"C_PATH" : "@so1l.so1l(sch_1):ins86467@so1l.\\cc2640r2frhbr_5.normal\\(sch_1):X24M_P",
+			"Logical" : "X24M_N",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1.30",
+			"C_PATH" : "@so1l.so1l(sch_1):ins86467@so1l.\\cc2640r2frhbr_5.normal\\(sch_1):X24M_N",
+			"Logical" : "X24M_P",
+			"Physical" : null
+		}
+	]
 }

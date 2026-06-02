@@ -1,54 +1,12 @@
-\t (10:00:32) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
-\t (10:00:32)     Journal start - Mon Jun  1 09:18:00 2026
-\t (10:00:32)         Host=LAPTOP-DI-ANDRE User=andre Pid=13564 CPUs=8
-\t (10:00:33) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\unison.exe -layout -orcadx
-\t (10:00:33) 
-\d (10:00:33) Design opened: C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd
-\i (10:00:33) trapsize 7678
-\i (10:00:33) trapsize 9648
-\w (10:00:33) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (10:00:33) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\t (10:00:34) > DoPullSchematic message received
-\t (10:00:34) > Pulling schematic...
-\t (10:00:34) Starting Cadence Logic Import...
-\w (10:00:36) WARNING(SPMHGE-795): netrev had warnings.
-\t (10:00:36) Opening existing design...
-\i (10:00:37) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
-\i (10:00:37) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
-\w (10:00:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (10:00:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\i (10:00:38) trapsize 9648
-\t (10:00:40) > Sending response DonePullSchematic
-\t (10:00:40) > Schematic pulled successfully
-\i (10:00:40) trapsize 9659
-\i (10:00:41) updateport ReportsPane
-\i (10:00:41) updateport SearchPane
-\i (10:00:41) updateport VisibilityPane
-\w (10:00:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (10:00:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\i (10:00:41) updateport CMPanelPort
-\i (10:00:41) updateport PropPane
-\i (10:00:41) ucpedit 
-\i (10:00:41) updateport ReportsPane
-\i (10:00:41) updateport SearchPane
-\i (10:00:41) updateport VisibilityPane
-\t (10:00:47) > DoPhysicalNetlistGenerate message received
-\t (10:00:47) > Generating physical netlist...
-\t (10:00:47) Starting genfeedformat...
-\t (10:00:48) > Sending response DonePhysicalNetlistGeneration
-\t (10:00:48) > Physical Netlist Generated
-\i (10:00:48) updateport ReportsPane
-\i (10:00:48) updateport SearchPane
-\i (10:00:48) updateport PropPane
-\t (10:00:50) > DoPullSchematic message received
-\t (10:00:50) > Pulling schematic...
-\t (10:00:50) Starting Cadence Logic Import...
-\w (10:00:52) WARNING(SPMHGE-795): netrev had warnings.
-\t (10:00:53) Opening existing design...
-\i (10:00:54) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
-\i (10:00:54) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
-\w (10:00:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (10:00:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\i (10:00:55) trapsize 9659
-\t (10:00:56) > Sending response DonePullSchematic
-\t (10:00:56) > Schematic pulled successfully
+\t (00:00:06) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (00:00:06)     Journal start - Mon Jun  1 16:19:29 2026
+\t (00:00:06)         Host=LAPTOP-DI-ANDRE User=andre Pid=3560 CPUs=8
+\t (00:00:06) CmdLine= unison -layout -orcadx -productToken 00016CF8E6D2F8E7E3FC3EEFF4D6F4B5E2E225FCEA9AF1A9B0A93DF9B189A4BCB6A930D6FBF6B2C7BA8038F3EF8383C6DF9F2CF1C1A6B3F7E6AA3AC5D48690E8EC9060A9A8C2F0B0E2FE32E2EDD4A6E7B3FB38FBED9BC09A80CF39898CEBC084E5CF27FF8C80EDC0CF9F468A9BA8FF84BFF038FBED85C08480CF38FBED85C08480CF52E6796C546DEAD2000040DD C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/conn_1729128_pxc.dra
+\t (00:00:06) 
+\t (00:00:06) Loading axlcore.cxt 
+\t (00:00:06) Starting new design...
+\i (00:00:07) trapsize 10500
+\i (00:00:08) opencd_reload C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/conn_1729128_pxc.dra 
+\t (00:00:08) Opening existing design...
+\i (00:00:08) trapsize 13888
+\t (00:00:09)     Journal end - Mon Jun  1 16:19:31 2026

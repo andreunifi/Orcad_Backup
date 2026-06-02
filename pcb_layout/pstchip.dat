@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 25.1.0 d001Jun-01-2026 at 09:18:17}
+{ Using PSTWRITER 25.1.0 d001Jun-01-2026 at 14:46:39}
 primitive 'ANTEENA_AN043_FLIP_ANTENNA';
   pin
     'FEED':
@@ -803,7 +803,7 @@ primitive '1825910-6_18259106_1825910-6';
     VALUE='1825910-6';
   end_body;
 end_primitive;
-primitive 'CC2640R2FRHBR_4_RHB0032E_CC2640R2FRHB';
+primitive 'CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB';
   pin
     'RF_P':
       PIN_NUMBER='(1)';
@@ -952,24 +952,14 @@ primitive 'CC2640R2FRHBR_4_RHB0032E_CC2640R2FRHB';
     'VSS':
       PIN_NUMBER='(33)';
       PINUSE='POWER';
-    'THERM1':
-      PIN_NUMBER='(34)';
-      PINUSE='UNSPEC';
-    'THERM2':
-      PIN_NUMBER='(35)';
-      PINUSE='UNSPEC';
-    'THERM3':
-      PIN_NUMBER='(36)';
-      PINUSE='UNSPEC';
-    'THERM4':
-      PIN_NUMBER='(37)';
-      PINUSE='UNSPEC';
-    'THERM5':
-      PIN_NUMBER='(38)';
-      PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='CC2640R2FRHBR_4';
+    POWER_PINS='(THERM1:34)';
+    POWER_PINS='(THERM2:35)';
+    POWER_PINS='(THERM3:36)';
+    POWER_PINS='(THERM4:37)';
+    POWER_PINS='(THERM5:38)';
+    PART_NAME='CC2640R2FRHBR_5';
     JEDEC_TYPE='RHB0032E';
     VALUE='CC2640R2FRHB';
   end_body;

@@ -1,73 +1,117 @@
-\t (09:17:24) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
-\t (09:17:24)     Journal start - Mon Jun  1 08:34:51 2026
-\t (09:17:24)         Host=LAPTOP-DI-ANDRE User=andre Pid=13564 CPUs=8
-\t (09:17:24) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\unison.exe -layout -orcadx
-\t (09:17:24) 
-\d (09:17:24) Design opened: C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/QFN20_4x4MC_MCH.dra
-\i (09:17:24) trapsize 374
-\i (09:17:24) trapsize 463
-\i (09:17:24) trapsize 470
-\i (09:17:24) updateport VisibilityPane
-\i (09:17:24) updateport PropPane
-\i (09:17:25) ucpedit 
-\i (09:17:25) updateport VisibilityPane
-\i (09:17:28) dlib 
-\i (09:17:36) setwindow form.dlib
-\i (09:17:36) FORM dlib browse_export  
-\i (09:17:44) fillin "C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints"
-\i (09:17:45) FORM dlib execute  
-\t (09:17:45) Starting Cadence export libraries...
-\i (09:17:46) setwindow pcb
-\i (09:17:46) updateport ReportsPane
-\i (09:17:46) updateport SearchPane
-\i (09:17:46) updateport PropPane
-\t (09:17:47) SpawnProcessExit background process completed status = 0
-
-\i (09:17:52) setwindow form.dlib
-\i (09:17:52) FORM dlib cancel  
-\i (09:17:52) setwindow pcb
-\i (09:17:52) ucpedit 
-\i (09:17:52) updateport VisibilityPane
-\i (09:17:53) roam start
-\i (09:17:53) roam x -2
-\i (09:17:53) roam y -1
-\i (09:17:53) roam x -1
-\i (09:17:53) roam y -1
-\i (09:17:53) roam x -1
-\i (09:17:53) roam y -1
-\i (09:17:53) roam x -24
-\i (09:17:53) roam y -7
-\i (09:17:53) roam x -5
-\i (09:17:53) roam x -17
-\i (09:17:53) roam y -9
-\i (09:17:53) roam x -4
-\i (09:17:53) roam y -5
-\i (09:17:53) roam x -6
-\i (09:17:53) roam y -4
-\i (09:17:53) roam x -8
-\i (09:17:53) roam y -10
-\i (09:17:53) roam x -13
-\i (09:17:53) roam y -18
-\i (09:17:53) roam x -3
-\i (09:17:53) roam y -4
-\i (09:17:53) roam x -15
-\i (09:17:53) roam y -26
-\i (09:17:53) roam x -7
-\i (09:17:53) roam y -18
-\i (09:17:53) roam x -6
-\i (09:17:53) roam y -18
-\i (09:17:53) roam x -2
-\i (09:17:53) roam y -8
-\i (09:17:53) roam x -1
-\i (09:17:53) roam y -2
-\i (09:17:53) roam y -1
-\i (09:17:53) roam end
-\i (09:18:19) opencd_reload C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd 
-\t (09:18:19) Opening existing design...
-\i (09:18:21) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
-\i (09:18:21) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
-\w (09:18:21) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (09:18:21) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\i (09:18:22) trapsize 9648
-\t (09:18:23) > Sending response DoneOpenBoard
-\t (09:18:23)     Journal end - Mon Jun  1 08:35:50 2026
+\t (00:00:11) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (00:00:11)     Journal start - Mon Jun  1 14:47:42 2026
+\t (00:00:11)         Host=LAPTOP-DI-ANDRE User=andre Pid=20112 CPUs=8
+\t (00:00:11) CmdLine= unison -layout -orcadx -productToken 00016FA9EE8AF5BDB2A96EE7F483F4B5B2E270A7E5CBF0A9E5AB6DACBAD5A6B6B7FB678CA9F0B2C7BA8038F3EF8383C6DF9F2CF1C1A6B3F7E6AA3AC5D48690E8EC9060A9A8C2F0B0E2FE32E2EDD4A6E7B3FB38FBED9BC09A80CF39898CEBC084E5CF27FF8C80EDC0CF9F468A9BA8FF84BFF038FBED85C08480CF38FBED85C08480CF52E692E7BFE6EAD2000040FB C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/qfn20_4x4mc_mch.dra
+\t (00:00:11) 
+\d (00:00:11) Design opened: C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/qfn20_4x4mc_mch.dra
+\i (00:00:11) trapsize 374
+\i (00:00:12) QtSignal PropertyPadstackWidget PropertyPadstackEditMode CurrentIndexChanged 0
+\i (00:00:12) QtSignal PropertyPadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (00:00:12) QtSignal PropertyPadstackWidget copperPadType CurrentIndexChanged 0
+\i (00:00:21) QtSignal Property_Docked_PadstackWidget PropertyPadstackEditMode CurrentIndexChanged +
+\i (00:00:21) QtSignal 0
+\i (00:00:21) QtSignal Property_Docked_PadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (00:00:21) QtSignal Property_Docked_PadstackWidget copperPadType CurrentIndexChanged 0
+\t (00:00:24) Loading consmgr.cxt 
+\t (00:00:24) Loading acns_formula.cxt 
+\i (00:00:24) trapsize 379
+\i (00:00:27) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
+\i (00:00:27) QtSignal ucp_shape_create_dyn_dim UCPAddShape_Type CurrentIndexChanged 1
+\i (00:00:28) updateport VisibilityPane
+\i (00:00:28) updateport CMPanelPort
+\i (00:00:28) updateport PropPane
+\i (00:00:28) updateport CVPane
+\i (00:00:28) ucpedit 
+\i (00:00:29) updateport ReportsPane
+\i (00:00:29) updateport SearchPane
+\i (00:00:29) updateport VisibilityPane
+\i (00:00:30) roam start
+\i (00:00:30) roam x 1
+\i (00:00:30) roam y -1
+\i (00:00:30) roam x 5
+\i (00:00:30) roam y -8
+\i (00:00:30) roam x 14
+\i (00:00:30) roam y -26
+\i (00:00:30) roam x 20
+\i (00:00:30) roam y -29
+\i (00:00:30) roam x 26
+\i (00:00:30) roam y -35
+\i (00:00:30) roam x 27
+\i (00:00:30) roam y -38
+\i (00:00:30) roam x 24
+\i (00:00:30) roam y -38
+\i (00:00:30) roam x 13
+\i (00:00:30) roam y -30
+\i (00:00:30) roam x 10
+\i (00:00:30) roam y -26
+\i (00:00:30) roam x 10
+\i (00:00:30) roam y -12
+\i (00:00:30) roam x 20
+\i (00:00:30) roam y -29
+\i (00:00:30) roam x 15
+\i (00:00:30) roam y -16
+\i (00:00:30) roam x 13
+\i (00:00:30) roam y -15
+\i (00:00:30) roam x 7
+\i (00:00:30) roam y -9
+\i (00:00:30) roam x 2
+\i (00:00:30) roam y -3
+\i (00:00:30) roam y -1
+\i (00:00:30) roam end
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out -1.2261 3.1726
+\i (00:00:31) trapsize 758
+\i (00:00:32) zoom in 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom in -1.2261 3.1423
+\i (00:00:32) trapsize 379
+\i (00:00:32) roam start
+\i (00:00:32) roam y -2
+\i (00:00:32) roam x 3
+\i (00:00:32) roam y -2
+\i (00:00:32) roam x 27
+\i (00:00:32) roam y -8
+\i (00:00:32) roam x 23
+\i (00:00:32) roam y -8
+\i (00:00:32) roam x 26
+\i (00:00:32) roam y -8
+\i (00:00:32) roam x 11
+\i (00:00:32) roam y -3
+\i (00:00:32) roam x 2
+\i (00:00:32) roam y -1
+\i (00:00:33) roam end
+\i (00:00:33) zoom out 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom out -1.2261 3.1423
+\i (00:00:33) trapsize 758
+\i (00:00:38) zoom in 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in 3.0468 2.8090
+\i (00:00:38) trapsize 379
+\i (00:00:38) roam start
+\i (00:00:38) roam y -1
+\i (00:00:38) roam x -12
+\i (00:00:38) roam x -16
+\i (00:00:38) roam y 2
+\i (00:00:38) roam x -15
+\i (00:00:38) roam y 6
+\i (00:00:39) roam x -6
+\i (00:00:39) roam y 2
+\i (00:00:39) roam x -23
+\i (00:00:39) roam y 16
+\i (00:00:39) roam x -8
+\i (00:00:39) roam y 5
+\i (00:00:39) roam x -16
+\i (00:00:39) roam y 10
+\i (00:00:39) roam x -2
+\i (00:00:39) roam x -11
+\i (00:00:39) roam y 3
+\i (00:00:39) roam x -3
+\i (00:00:39) roam y 2
+\i (00:00:39) roam x -4
+\i (00:00:39) roam x -1
+\i (00:00:39) roam end
+\i (00:01:20) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:01:20) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\t (00:01:27)     Journal end - Mon Jun  1 14:48:58 2026
