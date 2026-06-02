@@ -2,18 +2,18 @@
 (                                                                     )
 (    CREATE SYMBOL                                                    )
 (                                                                     )
-(    Drawing          : CONN_S2B-PH-K-S_JST.dra                       )
-(    Software Version : 25.1P001                                      )
-(    Date/Time        : Wed May 20 19:01:10 2026                      )
+(    Drawing          : conn_s2b-ph-k-s_jst.dra                       )
+(    Software Version : 25.1S030                                      )
+(    Date/Time        : Tue Jun  2 16:40:50 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 Create Symbol of type: PACKAGE
-    Directory = C:/Users/Giorgio/Documents/Cadence/cdssetup/workspace/libraries/footprints
+    Directory = C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints
     Name      = conn_s2b-ph-k-s_jst.psm
-    User      = Giorgio
-    Machine   = W11TG-GN
+    User      = andre
+    Machine   = LAPTOP-DI-ANDRE
 
 
 Create symbol started.

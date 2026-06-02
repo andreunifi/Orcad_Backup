@@ -2,9 +2,9 @@
 (                                                                     )
 (    DRC Update                                                       )
 (                                                                     )
-(    Drawing          : QFN20_4x4MC_MCH.dra                           )
+(    Drawing          : smsot23123.dra                                )
 (    Software Version : 25.1P001                                      )
-(    Date/Time        : Fri May 22 19:18:17 2026                      )
+(    Date/Time        : Sun May 24 23:13:08 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -20,7 +20,7 @@
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
 
- ..... Total number of DRC errors  20
+ ..... Total number of DRC errors  0
 
  ..... DRC update completed, total CPU time   0:00:00
  *************************************************************************

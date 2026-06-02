@@ -1,6 +1,6 @@
 (ExpressProject "MoistureSensor"
   (ProjectVersion "19981106")
-  (SoftwareVersion "25.1 S030 (4414069)  [3/25/2026]-[06/01/26]")
+  (SoftwareVersion "25.1 S030 (4414069)  [3/25/2026]-[06/02/26]")
   (Folder "Design Resources"
     (Folder "Library"
       (File "C:\Users\andre\Desktop\Ese_Group18\olb_library\LIBRARY_SO1L.OLB"
@@ -285,7 +285,7 @@
       (Path "Logs")
       (Select "Design Resources"
          "c:\users\andre\desktop\ese_group18\orcad_workspace\workspace\projects\moisturesensor\so1l.DSN"
-         "SO1L" "PWR"))
+         "SO1L" "RELAY"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -296,7 +296,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 5 24 5 1639 24 678")
-        (Scroll "0 101")
+        (Scroll "0 676")
         (Zoom "210")
         (Occurrence "/"))
       (Path
@@ -307,8 +307,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 5 24 5 1639 24 678")
-        (Scroll "-369 19")
-        (Zoom "89")
+        (Scroll "115 650")
+        (Zoom "178")
         (Occurrence "/"))
       (Path
          "C:\USERS\ANDRE\DESKTOP\ESE_GROUP18\ORCAD_WORKSPACE\WORKSPACE\PROJECTS\MOISTURESENSOR\SO1L.DSN")
@@ -318,7 +318,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 5 24 5 1639 24 678")
-        (Scroll "140 374")
+        (Scroll "0 416")
         (Zoom "210")
         (Occurrence "/"))
       (Path
@@ -329,8 +329,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 5 24 5 1639 24 678")
-        (Scroll "2041 1609")
-        (Zoom "420")
+        (Scroll "0 58")
+        (Zoom "170")
         (Occurrence "/"))
       (Path
          "C:\USERS\ANDRE\DESKTOP\ESE_GROUP18\ORCAD_WORKSPACE\WORKSPACE\PROJECTS\MOISTURESENSOR\SO1L.DSN")
