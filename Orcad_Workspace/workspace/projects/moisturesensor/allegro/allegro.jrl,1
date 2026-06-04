@@ -1,37 +1,66 @@
-\t (00:00:05) allegro 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
-\t (00:00:05)     Journal start - Sun May 31 23:15:20 2026
-\t (00:00:05)         Host=LAPTOP-DI-ANDRE User=andre Pid=3176 CPUs=8
-\t (00:00:05) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\allegro.exe -mpssession andre -proj c:\users\andre\desktop\ese_group18\orcad_workspace\workspace\projects\moisturesensor\so1l.opj c:/users/andre/desktop/ese_group18/orcad_workspace/workspace/projects/moisturesensor/allegro/so1l.brd
-\t (00:00:05) 
-\t (00:00:05) Loading axlcore.cxt 
-\t (00:00:08) Opening existing design...
-\i (00:00:08) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged so1l
-\d (00:00:08) Design opened: c:/users/andre/desktop/ese_group18/orcad_workspace/workspace/projects/moisturesensor/allegro/so1l.brd
-\i (00:00:09) trapsize 13754
-\i (00:00:09) trapsize 14580
-\i (00:00:09) trapsize 15511
-\i (00:00:10) trapsize 14580
-\i (00:00:10) trapsize 12472
-\i (00:00:10) trapsize 13754
-\t (00:00:10) > Sending response DoneOpenBoard
-\i (00:00:11) updateport SearchPane
-\i (00:00:11) generaledit 
-\t (00:00:11) > DoPullSchematic message received
-\t (00:00:11) > Pulling schematic...
-\t (00:00:11) Starting Cadence Logic Import...
-\w (00:00:13) WARNING(SPMHGE-269): netrev had warnings, use Viewlog to review the log file.
-\t (00:00:17) Opening existing design...
-\i (00:00:17) trapsize 13754
-\t (00:00:17) > Sending response DonePullSchematic
-\t (00:00:17) > Schematic pulled successfully
-\i (00:00:18) updateport SearchPane
-\i (00:00:18) generaledit 
-\i (00:00:56) exit 
-\e (00:00:56) Do you want to save the changes you made to c:/users/andre/desktop/ese_group18/orcad_workspace/workspace/projects/moisturesensor/allegro/so1l.brd?
-\i (00:00:58) fillin no 
-\t (00:00:58) Lic Summary:
-[23:16:14.118394] Cdslmd servers:C:\Users\andre\AppData\Roaming\Cadence\VBL\SPB\license\license.txt
-[23:16:14.119899] Feature usage summary:
-[23:16:14.119905] OrCAD_X_PCB_Professional_Plus  
-[23:16:14.119907] OrCAD_X_Professional_Plus  
-\t (00:00:58)     Journal end - Sun May 31 23:16:14 2026
+\t (00:00:04) allegro 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Sun May 31 23:16:30 2026
+\t (00:00:04)         Host=LAPTOP-DI-ANDRE User=andre Pid=13760 CPUs=8
+\t (00:00:04) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\allegro.exe -mpssession andre -proj c:\users\andre\desktop\ese_group18\orcad_workspace\workspace\projects\moisturesensor\so1l.opj C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd
+\t (00:00:04) 
+\t (00:00:04) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:07) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged SO1L
+\d (00:00:07) Design opened: C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd
+\i (00:00:07) trapsize 9146
+\i (00:00:08) trapsize 9434
+\i (00:00:08) trapsize 9146
+\i (00:00:08) trapsize 7824
+\i (00:00:08) trapsize 13754
+\t (00:00:08) > Sending response DoneOpenBoard
+\i (00:00:09) updateport SearchPane
+\i (00:00:09) generaledit 
+\i (00:00:14) prmed 
+\i (00:00:16) setwindow form.prmedit
+\i (00:00:16) FORM prmedit text  
+\i (00:00:18) setwindow pcb
+\i (00:00:18) QtSignal UCPTextParametersWidget UCPTextParametersTabWidget currentChanged "Font Styles"
+\i (00:00:18) QtSignal UCPTextParametersWidget UCPTextParametersView selectionChanged
+\i (00:00:19) QtSignal UCPTextParametersWidget UCPTextParametersTabWidget currentChanged "Text Blocks"
+\i (00:00:20) setwindow form.prmedit
+\i (00:00:20) FORM prmedit text_setup_button  
+\i (00:00:25) setwindow form.textblock
+\i (00:00:25) FORM textblock 1 photoplot_width 0.10 
+\i (00:00:27) FORM textblock 2 photoplot_width 0.10 
+\i (00:00:27) FORM textblock 3 photoplot_width 0.10 
+\i (00:00:28) FORM textblock 4 photoplot_width 0.10 
+\i (00:00:28) FORM textblock 5 photoplot_width 0.10 
+\i (00:00:29) FORM textblock 6 photoplot_width 0.10 
+\i (00:00:30) FORM textblock 7 photoplot_width 0.10 
+\i (00:00:30) FORM textblock 8 photoplot_width 0.10 
+\i (00:00:31) FORM textblock 9 photoplot_width 0.10 
+\i (00:00:32) FORM textblock 10 photoplot_width 0.10 
+\i (00:00:33) FORM textblock 11 photoplot_width 0.10 
+\i (00:00:33) FORM textblock 12 photoplot_width 0.10 
+\i (00:00:34) FORM textblock 13 photoplot_width 0.10 
+\i (00:00:35) FORM textblock 14 photoplot_width 0.10 
+\i (00:00:35) FORM textblock 15 photoplot_width 0.10 
+\i (00:00:37) FORM textblock 16 photoplot_width 0.10 
+\i (00:00:37) FORM textblock done  
+\i (00:00:42) setwindow form.prmedit
+\i (00:00:42) FORM prmedit text_marker_size 1.27 
+\i (00:00:44) FORM prmedit apply  
+\i (00:00:44) setwindow pcb
+\i (00:00:44) updateport SearchPane
+\i (00:00:45) setwindow form.prmedit
+\i (00:00:45) FORM prmedit done  
+\i (00:00:45) setwindow pcb
+\i (00:00:45) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:45) generaledit 
+\i (00:00:45) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:46) save 
+\i (00:00:48) fillin yes 
+\t (00:00:48) > Sending response DoneOpenBoard
+\i (00:00:48) generaledit 
+\i (00:00:52) exit 
+\t (00:00:53) Lic Summary:
+[23:17:19.437712] Cdslmd servers:C:\Users\andre\AppData\Roaming\Cadence\VBL\SPB\license\license.txt
+[23:17:19.963290] Feature usage summary:
+[23:17:19.963290] OrCAD_X_PCB_Professional_Plus  
+[23:17:19.963290] OrCAD_X_Professional_Plus  
+\t (00:00:53)     Journal end - Sun May 31 23:17:20 2026

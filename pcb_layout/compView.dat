@@ -1,5 +1,6 @@
 A!REFDES!COMP_VOLTAGE!COMP_ROOM!COMP_GROUP!COMP_SIGNAL_MODEL!COMP_NO_XNET_CONNECTION!COMP_PARENT_PPT!COMP_PARENT_PPT_PART!COMP_REUSE_ID!COMP_REUSE_NAME!COMP_REUSE_INSTANCE!
-J!C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd!Tue Jun  2 17:46:18 2026!0.0000!0.0000!533.4000!431.8000!0.0001!millimeters!SO1L!10.400000 mil!2!OUT OF DATE!
+J!c:/users/andre/desktop/ese_group18/orcad_workspace/workspace/projects/moisturesensor/allegro/so1l.brd!Thu Jun  4 10:08:50 2026!0.0000!0.0000!533.4000!431.8000!0.0001!millimeters!SO1L!10.400000 mil!2!OUT OF DATE!
+S!C18!!!!!!!!!!!
 S!U1!!!!!!!!!!!
 S!U2!!!!!!!!!!!
 S!A1!!!!!!!!!!!
@@ -12,7 +13,6 @@ S!C14!!!!!!!!!!!
 S!C15!!!!!!!!!!!
 S!C16!!!!!!!!!!!
 S!C17!!!!!!!!!!!
-S!C18!!!!!!!!!!!
 S!C19!!!!!!!!!!!
 S!C21!!!!!!!!!!!
 S!C2!!!!!!!!!!!

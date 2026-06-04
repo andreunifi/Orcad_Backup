@@ -4,12 +4,12 @@
 (                                                                     )
 (    Drawing          : SO1L.brd                                      )
 (    Software Version : 25.1S030                                      )
-(    Date/Time        : Tue Jun  2 22:51:10 2026                      )
+(    Date/Time        : Thu Jun  4 11:14:22 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Tue Jun  2 22:51:10 2026				Page     1
+Thu Jun  4 11:14:22 2026				Page     1
 
 
 ------ Symbol Refresh Directives ------
@@ -27,7 +27,7 @@ Reset symbol text and size locations   = 'YES'
 Reset Pin Escapes (fanouts)            = 'NO'
 Ripup Etch                             = 'NO'
 Reset custom drill data                = 'NO'
-Symbol list file                       = 'C:/Users/andre/AppData/Local/Temp/#Taaaagr23596.tmp'
+Symbol list file                       = 'C:/Users/andre/AppData/Local/Temp/#Taaaabk10364.tmp'
 
 
 ------ Library Paths ------
@@ -55,12 +55,7 @@ PADPATH =  C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/librarie
 
 ------ Symbol Refresh Messages ------
 
-
-'XTAL_KA-A3_EPS-M'  symbol starting to refresh:
-     ERROR(SPMHDB-243): Cannot modify element; the object or a parent has the FIXED property. [help]
-     ERROR(SPMHNI-254): Unable to load symbol, 'XTAL_KA-A3_EPS-M': 'Cannot modify element; the object or a parent has the FIXED pr~
-     operty. [help]'.
-     
+'LEDC1608X45N'  symbol refreshed successfully.
 
 
 ------ Updating padstacks referring to the refreshed shapes and flash symbols.  ------
@@ -69,11 +64,11 @@ PADPATH =  C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/librarie
 
 ------ Pad Stack Refresh Messages ------
 
-'RX71Y63D0T'  pad stack refreshed successfully.
+'R95_80'  pad stack refreshed successfully.
 
 
 ----- Symbol Update Summary ----
 
-Refresh symbol errors; due to these errors this design is NOT updated.
-       1  errors detected.
-       0  warnings detected.
+Updated symbols: 1 out 1
+    Design updated.
+

@@ -2,60 +2,10 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
-|  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Tue Jun  2 17:46:20 2026  |
+|  c:.../orcad_workspace/workspace/projects/moisturesensor/allegro/so1l.brd    |
+|                                                    Thu Jun  4 10:09:04 2026  |
 |------------------------------------------------------------------------------|
-| COMPONENT DEFINITION added to design                                         |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    device type                                                               |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- CC0603KRX7R6BB105_CAP_CC0603_YAG_1 UF
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   2  |
 |------------------------------------------------------------------------------|
-|  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Tue Jun  2 17:46:20 2026  |
-|------------------------------------------------------------------------------|
-| COMPONENTS CHANGED from one device type to another in design                 |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        | new device type     |   x   |   y   |  old  device type  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- C18                 CC0603KRX7R6BB105_CAP_CC0603_YAG_1 UF 215.900 160.020 CC0603KRX7R6BB105_CAPC1608X90N_1 UF
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   3  |
-|------------------------------------------------------------------------------|
-|  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Tue Jun  2 17:46:20 2026  |
-|------------------------------------------------------------------------------|
-| SLOT PROPERTIES added to design                                              |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   slot_id    |   x   |   y   |   property   |             value              |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- C18.2          215.900 160.020 PRIM_FILE      .\pstchip.dat
- C18.2          215.900 160.020 SCH_BBOX       (624,76,644,86)
- C18.2          215.900 160.020 SCH_MIRROR     (0)
- C18.2          215.900 160.020 SCH_ORIENT     (270)
- C18.2          215.900 160.020 XY             (624,76)
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   4  |
-|------------------------------------------------------------------------------|
-|  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Tue Jun  2 17:46:20 2026  |
-|------------------------------------------------------------------------------|
-| PIN PROPERTIES added to design                                               |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    pin_id    |   x   |   y   |   property   |             value              |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- C18.1          215.900 160.666 SCH_LOC        (634,76)
- C18.2          215.900 159.373 SCH_LOC        (634,86)
-|------------------------------------------------------------------------------|
-|       Comp definitions added:       1                                        |
-|       Components changed    :       1                                        |
-|       Pin property added    :       2                                        |
-|       Slot property added   :       5                                        |
 |                                                                              |
-|   Total ECO changes reported:       9                                        |
+|   Total ECO changes reported:       0                                        |
 |------------------------------------------------------------------------------|

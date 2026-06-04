@@ -1,28 +1,288 @@
-\t (00:00:15) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
-\t (00:00:15)     Journal start - Tue Jun  2 22:51:42 2026
-\t (00:00:15)         Host=LAPTOP-DI-ANDRE User=andre Pid=24076 CPUs=8
-\t (00:00:15) CmdLine= unison -layout -orcadx -productToken 00016AF9EDD5F6E6E3F86CEFF48AF4BCB2E277FFE399F8A9E2A963ACB9D5F6B5B8FB3A8DAAFFB2C7BA8038F3EF8383C6DF9F2CF1C1A6B3F7E6AA3AC5D48690E8EC9063FEFCC4A4B6E1FE39B5EFD5F2E7B5AC38FBED9BC09A80CF39898CEBC084E5CF27FF8C80EDC0CF9F468A9BA8FF84BFF038FBED85C08480CF38FBED85C08480CF52E4AFC882C9EAD000004162 C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/xtal_ka-a3_eps-m.dra
-\t (00:00:15) 
-\d (00:00:15) Design opened: C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/xtal_ka-a3_eps-m.dra
-\i (00:00:16) trapsize 510
-\i (00:00:18) QtSignal PropertyPadstackWidget PropertyPadstackEditMode CurrentIndexChanged 0
-\i (00:00:18) QtSignal PropertyPadstackWidget copperPadLayer CurrentIndexChanged 0
-\i (00:00:18) QtSignal PropertyPadstackWidget copperPadType CurrentIndexChanged 0
-\i (00:00:26) trapsize 632
-\i (00:00:35) QtSignal Property_Docked_PadstackWidget PropertyPadstackEditMode CurrentIndexChanged +
-\i (00:00:35) QtSignal 0
-\i (00:00:35) QtSignal Property_Docked_PadstackWidget copperPadLayer CurrentIndexChanged 0
-\i (00:00:35) QtSignal Property_Docked_PadstackWidget copperPadType CurrentIndexChanged 0
-\t (00:00:39) Loading consmgr.cxt 
-\t (00:00:39) Loading acns_formula.cxt 
-\i (00:00:39) trapsize 631
-\i (00:00:39) trapsize 641
-\i (00:00:43) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
-\i (00:00:43) QtSignal ucp_shape_create_dyn_dim UCPAddShape_Type CurrentIndexChanged 1
-\i (00:00:45) updateport VisibilityPane
-\i (00:00:45) updateport PropPane
-\i (00:00:45) updateport CVPane
-\i (00:00:45) ucpedit 
-\i (00:00:45) updateport VisibilityPane
-\i (00:02:51) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\t (00:02:59)     Journal end - Tue Jun  2 22:54:25 2026
+\t (00:00:09) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (00:00:09)     Journal start - Thu Jun  4 10:16:42 2026
+\t (00:00:09)         Host=LAPTOP-DI-ANDRE User=andre Pid=18316 CPUs=8
+\t (00:00:09) CmdLine= unison -layout -orcadx -productToken 000137ABEA87F1B5B6FB6FE0F485F4E2B6E222A8BAC9A6A9B7FD6AF8BD87A4B6E5FD638DA6FEB2C7BA8038F3EF8383C6DF9F2CF1C1A6B3F7E6AA3AC5D48690E8EC9064A9FE92A6E0E6F86EEEE284F7E7B2F738FBED9BC09A80CF39898CEBC084E5CF27FF8C80EDC0CF9F468A9BA8FF84BFF038FBED85C08480CF38FBED85C08480CF52DAD9E5F4E4EAEE00004112 C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/ledc1608x45n.dra
+\t (00:00:09) 
+\d (00:00:09) Design opened: C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/ledc1608x45n.dra
+\i (00:00:09) trapsize 13891
+\i (00:00:11) QtSignal PropertyPadstackWidget PropertyPadstackEditMode CurrentIndexChanged 0
+\i (00:00:11) QtSignal PropertyPadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (00:00:11) QtSignal PropertyPadstackWidget copperPadType CurrentIndexChanged 0
+\i (00:00:17) trapsize 17195
+\i (00:00:21) QtSignal Property_Docked_PadstackWidget PropertyPadstackEditMode CurrentIndexChanged +
+\i (00:00:21) QtSignal 0
+\i (00:00:21) QtSignal Property_Docked_PadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (00:00:21) QtSignal Property_Docked_PadstackWidget copperPadType CurrentIndexChanged 0
+\t (00:00:25) Loading consmgr.cxt 
+\t (00:00:25) Loading acns_formula.cxt 
+\i (00:00:25) trapsize 17173
+\i (00:00:25) trapsize 17454
+\i (00:00:28) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
+\i (00:00:28) QtSignal ucp_shape_create_dyn_dim UCPAddShape_Type CurrentIndexChanged 1
+\i (00:00:30) updateport VisibilityPane
+\i (00:00:30) updateport PropPane
+\i (00:00:30) updateport CVPane
+\i (00:00:30) ucpedit 
+\i (00:00:30) updateport VisibilityPane
+\i (00:05:09) zoom out 1 
+\i (00:05:09) setwindow pcb
+\i (00:05:09) zoom out 145.7550 91.2979
+\i (00:05:09) trapsize 24506
+\i (00:05:09) zoom out 1 
+\i (00:05:09) setwindow pcb
+\i (00:05:09) zoom out 245.0479 168.5884
+\i (00:05:09) trapsize 24506
+\i (00:05:10) zoom out 1 
+\i (00:05:10) setwindow pcb
+\i (00:05:10) zoom out 244.5578 168.5884
+\i (00:05:10) trapsize 24506
+\i (00:05:10) zoom out 1 
+\i (00:05:10) setwindow pcb
+\i (00:05:10) zoom out 244.5578 168.5884
+\i (00:05:10) trapsize 24506
+\i (00:05:10) zoom out 1 
+\i (00:05:10) setwindow pcb
+\i (00:05:10) zoom out 244.5578 168.5884
+\i (00:05:10) trapsize 24506
+\i (00:05:10) zoom out 1 
+\i (00:05:10) setwindow pcb
+\i (00:05:10) zoom out 244.5578 168.5884
+\i (00:05:10) trapsize 24506
+\i (00:05:10) zoom out 1 
+\i (00:05:10) setwindow pcb
+\i (00:05:10) zoom out 244.5578 168.5884
+\i (00:05:10) trapsize 24506
+\i (00:05:10) zoom out 1 
+\i (00:05:10) setwindow pcb
+\i (00:05:10) zoom out 244.5578 168.5884
+\i (00:05:10) trapsize 24506
+\i (00:05:10) zoom out 1 
+\i (00:05:10) setwindow pcb
+\i (00:05:10) zoom out 244.5578 168.5884
+\i (00:05:10) trapsize 24506
+\i (00:05:10) zoom in 1 
+\i (00:05:10) setwindow pcb
+\i (00:05:10) zoom in 244.5578 168.5884
+\i (00:05:10) trapsize 12253
+\i (00:05:10) zoom in 1 
+\i (00:05:10) setwindow pcb
+\i (00:05:10) zoom in 231.2235 168.5884
+\i (00:05:10) trapsize 6127
+\i (00:05:10) zoom in 1 
+\i (00:05:10) setwindow pcb
+\i (00:05:10) zoom in 231.2235 168.5884
+\i (00:05:10) trapsize 3063
+\i (00:05:10) zoom in 1 
+\i (00:05:10) setwindow pcb
+\i (00:05:10) zoom in 231.2235 168.5884
+\i (00:05:10) trapsize 1532
+\i (00:05:10) zoom in 1 
+\i (00:05:10) setwindow pcb
+\i (00:05:10) zoom in 231.2235 168.5885
+\i (00:05:10) trapsize 766
+\i (00:05:10) zoom in 1 
+\i (00:05:10) setwindow pcb
+\i (00:05:10) zoom in 231.2235 168.5885
+\i (00:05:10) trapsize 383
+\i (00:05:11) zoom in 1 
+\i (00:05:11) setwindow pcb
+\i (00:05:11) zoom in 231.2234 168.5885
+\i (00:05:11) trapsize 191
+\i (00:05:11) zoom out 1 
+\i (00:05:11) setwindow pcb
+\i (00:05:11) zoom out 231.1545 168.4584
+\i (00:05:11) trapsize 383
+\i (00:05:11) zoom out 1 
+\i (00:05:11) setwindow pcb
+\i (00:05:11) zoom out 231.1545 168.4584
+\i (00:05:11) trapsize 766
+\i (00:05:11) zoom out 1 
+\i (00:05:11) setwindow pcb
+\i (00:05:11) zoom out 231.1544 168.4584
+\i (00:05:11) trapsize 1532
+\i (00:05:11) zoom out 1 
+\i (00:05:11) setwindow pcb
+\i (00:05:11) zoom out 231.1544 168.4585
+\i (00:05:11) trapsize 3063
+\i (00:05:11) zoom out 1 
+\i (00:05:11) setwindow pcb
+\i (00:05:11) zoom out 231.0320 167.9683
+\i (00:05:11) trapsize 6127
+\i (00:05:11) zoom out 1 
+\i (00:05:11) setwindow pcb
+\i (00:05:11) zoom out 231.0319 167.9684
+\i (00:05:11) trapsize 12253
+\i (00:05:11) zoom out 1 
+\i (00:05:11) setwindow pcb
+\i (00:05:11) zoom out 225.5813 162.5769
+\i (00:05:11) trapsize 24506
+\i (00:05:11) zoom out 1 
+\i (00:05:11) setwindow pcb
+\i (00:05:11) zoom out 233.7750 98.9907
+\i (00:05:11) trapsize 24506
+\i (00:05:12) QtSignal UCP_Add_Text UCPTextHeight editingFinished "2.54 MM"
+\i (00:05:12) QtSignal VisLayerToolbarAllButton All clicked
+\i (00:05:12) updateport ReportsPane
+\i (00:05:12) updateport SearchPane
+\i (00:05:12) updateport VisibilityPane
+\i (00:05:12) updateport PropPane
+\i (00:05:12) updateport CVPane
+\i (00:05:13) updateport VisibilityPane
+\i (00:05:15) QtSignal PropertyStatusWidget 3d_model_import clicked
+\i (00:05:17) ucpedit 
+\i (00:05:18) updateport VisibilityPane
+\i (00:05:22) QtFillin filesystem "LTST-C193KSKT-5A.step" "STEP/LTST-C193KSKT-5A.step"
+\i (00:05:23) updateport ReportsPane
+\i (00:05:23) updateport SearchPane
+\i (00:05:23) updateport PropPane
+\i (00:05:27) QtSignal PropertyLocation3DWidget PropertyRotateAroundX3D clicked
+\i (00:05:28) updateport ReportsPane
+\i (00:05:28) updateport SearchPane
+\i (00:05:28) updateport PropPane
+\i (00:05:31) QtSignal PropertyAlign3DWidget MAN clicked on
+\i (00:05:35) updateport ReportsPane
+\i (00:05:35) updateport SearchPane
+\i (00:05:35) updateport PropPane
+\i (00:05:37) QtSignal PropertyLocation3DWidget PropertyRotateAroundY3D clicked
+\i (00:05:37) updateport ReportsPane
+\i (00:05:37) updateport SearchPane
+\i (00:05:37) updateport PropPane
+\i (00:05:38) QtSignal PropertyLocation3DWidget PropertyRotateAroundY3D clicked
+\i (00:05:38) updateport ReportsPane
+\i (00:05:38) updateport SearchPane
+\i (00:05:38) updateport PropPane
+\i (00:05:38) QtSignal PropertyLocation3DWidget PropertyRotateAroundY3D clicked
+\i (00:05:38) updateport ReportsPane
+\i (00:05:38) updateport SearchPane
+\i (00:05:38) updateport PropPane
+\i (00:05:39) QtSignal PropertyLocation3DWidget PropertyRotateAroundY3D clicked
+\i (00:05:39) updateport ReportsPane
+\i (00:05:39) updateport SearchPane
+\i (00:05:39) updateport PropPane
+\i (00:05:40) QtSignal PropertyLocation3DWidget PropertyRotateAroundZ3D clicked
+\i (00:05:41) updateport ReportsPane
+\i (00:05:41) updateport SearchPane
+\i (00:05:41) updateport PropPane
+\i (00:05:43) updateport ReportsPane
+\i (00:05:43) updateport SearchPane
+\i (00:05:43) updateport PropPane
+\i (00:05:48) updateport ReportsPane
+\i (00:05:48) updateport SearchPane
+\i (00:05:48) updateport PropPane
+\i (00:05:57) QtSignal DisplayGeneral DisplayGeneralMode CurrentIndexChanged 0
+\i (00:05:58) ucpedit 
+\i (00:05:58) updateport VisibilityPane
+\i (00:05:59) zoom in 1 
+\i (00:05:59) setwindow pcb
+\i (00:05:59) zoom in 245.0479 139.6711
+\i (00:05:59) trapsize 12253
+\i (00:05:59) zoom in 1 
+\i (00:05:59) setwindow pcb
+\i (00:05:59) zoom in 231.4686 139.6711
+\i (00:05:59) trapsize 6127
+\i (00:05:59) zoom in 1 
+\i (00:05:59) setwindow pcb
+\i (00:05:59) zoom in 231.4686 139.6712
+\i (00:05:59) trapsize 3063
+\i (00:05:59) zoom out 1 
+\i (00:05:59) setwindow pcb
+\i (00:05:59) zoom out 231.4686 139.6712
+\i (00:05:59) trapsize 6127
+\i (00:05:59) zoom out 1 
+\i (00:05:59) setwindow pcb
+\i (00:05:59) zoom out 231.4686 139.6712
+\i (00:05:59) trapsize 12253
+\i (00:05:59) zoom out 1 
+\i (00:05:59) setwindow pcb
+\i (00:05:59) zoom out 231.2235 139.6711
+\i (00:05:59) trapsize 24506
+\i (00:05:59) zoom out 1 
+\i (00:05:59) setwindow pcb
+\i (00:05:59) zoom out 244.5578 139.6711
+\i (00:05:59) trapsize 24506
+\i (00:06:00) zoom out 1 
+\i (00:06:00) setwindow pcb
+\i (00:06:00) zoom out 223.4824 129.3784
+\i (00:06:00) trapsize 24506
+\i (00:06:00) zoom out 1 
+\i (00:06:00) setwindow pcb
+\i (00:06:00) zoom out 218.0910 82.8166
+\i (00:06:00) trapsize 24506
+\i (00:06:01) QtSignal VisLayerToolbarAllButton All clicked on
+\i (00:06:01) updateport ReportsPane
+\i (00:06:01) updateport SearchPane
+\i (00:06:01) updateport VisibilityPane
+\i (00:06:01) updateport PropPane
+\i (00:06:01) updateport CVPane
+\i (00:06:01) updateport VisibilityPane
+\i (00:06:02) zoom in 1 
+\i (00:06:02) setwindow pcb
+\i (00:06:02) zoom in -16.6788 -8.3466
+\i (00:06:02) trapsize 12253
+\i (00:06:02) zoom in 1 
+\i (00:06:02) setwindow pcb
+\i (00:06:02) zoom in -17.6590 -8.3466
+\i (00:06:02) trapsize 6127
+\i (00:06:03) zoom in 1 
+\i (00:06:03) setwindow pcb
+\i (00:06:03) zoom in -14.2281 -7.6114
+\i (00:06:03) trapsize 3063
+\i (00:06:03) zoom in 1 
+\i (00:06:03) setwindow pcb
+\i (00:06:03) zoom in -13.5542 -7.5501
+\i (00:06:03) trapsize 1532
+\i (00:06:03) zoom in 1 
+\i (00:06:03) setwindow pcb
+\i (00:06:03) zoom in -13.2479 -7.3662
+\i (00:06:03) trapsize 766
+\i (00:06:03) roam start
+\i (00:06:03) roam x 3
+\i (00:06:03) roam y 1
+\i (00:06:03) roam x 8
+\i (00:06:03) roam y -8
+\i (00:06:04) roam x 18
+\i (00:06:04) roam y -26
+\i (00:06:04) roam x 95
+\i (00:06:04) roam y -94
+\i (00:06:04) roam x 26
+\i (00:06:04) roam y -21
+\i (00:06:04) roam x 25
+\i (00:06:04) roam y -19
+\i (00:06:04) roam x 48
+\i (00:06:04) roam y -38
+\i (00:06:04) roam x 38
+\i (00:06:04) roam y -28
+\i (00:06:04) roam x 32
+\i (00:06:04) roam y -21
+\i (00:06:04) roam x 26
+\i (00:06:04) roam y -19
+\i (00:06:04) roam x 16
+\i (00:06:04) roam y -16
+\i (00:06:04) roam x 11
+\i (00:06:04) roam y -12
+\i (00:06:04) roam x 1
+\i (00:06:04) roam y -2
+\i (00:06:04) roam end
+\i (00:06:04) zoom in 1 
+\i (00:06:04) setwindow pcb
+\i (00:06:04) zoom in -0.7500 -0.2905
+\i (00:06:04) trapsize 383
+\i (00:06:05) prepopup -0.9798 0.1231
+\i (00:06:05) updateport ReportsPane
+\i (00:06:05) updateport SearchPane
+\i (00:06:05) updateport PropPane
+\i (00:06:07) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (R95_80) (2)' 
+\i (00:06:07) mod padstack 
+\w (00:30:08) Auto-Backup pending
+\t (00:57:28) Performing Auto-Backup...
+\t (00:57:28) Auto-Backup successful
+\i (00:57:28) updateport ReportsPane
+\i (00:57:28) updateport PropPane
+\i (00:57:29) ucpedit 
+\i (00:57:29) updateport ReportsPane
+\i (00:57:29) updateport SearchPane
+\i (00:57:29) updateport VisibilityPane
+\i (00:57:29) updateport PropPane
+\t (00:57:36) Symbol 'ledc1608x45n.psm' created.
+\i (00:57:37) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\t (00:57:43)     Journal end - Thu Jun  4 11:14:16 2026

@@ -1,15 +1,10 @@
-\t (00:00:01) padstack_editor 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Tue Jun  2 22:50:02 2026
-\t (00:00:01)         Host=LAPTOP-DI-ANDRE User=andre Pid=3732 CPUs=8
-\t (00:00:01) CmdLine= padstack_editor -mpssession andre -file C:/Users/andre/AppData/Local/Temp/#Taaaabi25048.tmp -pname RX71Y63D0T -data C:/Users/andre/AppData/Local/Temp/#Taaaabm25048.tmp -unison
-\t (00:00:01) 
-\d (00:00:14) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
-\d (00:00:19) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
-\d (00:00:20) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
-\d (00:00:21) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 2 "Regular Pad"
-\d (00:00:21) QtSignal GuidedMaskLayersTab LayersTable cellClicked 2 "Regular Pad" 2 1
-\d (00:00:23) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 4 "Regular Pad"
-\d (00:00:23) QtSignal GuidedMaskLayersTab LayersTable cellClicked 4 "Regular Pad" 4 1
-\d (00:00:29) QtSignal MainWindow UpdateToDesign triggered
-\d (00:00:30) QtSignal MainWindow Exit triggered
-\t (00:00:30)     Journal end - Tue Jun  2 22:50:31 2026
+\t (00:00:02) padstack_editor 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Thu Jun  4 10:22:43 2026
+\t (00:00:02)         Host=LAPTOP-DI-ANDRE User=andre Pid=7256 CPUs=8
+\t (00:00:02) CmdLine= padstack_editor -mpssession andre -file C:/Users/andre/AppData/Local/Temp/#Taaaaaf18316.tmp -pname R95_80 -data C:/Users/andre/AppData/Local/Temp/#Taaaaaj18316.tmp -unison
+\t (00:00:02) 
+\d (00:00:03) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:04) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:30:43) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:51:19) QtSignal MainWindow Exit triggered
+\t (00:51:19)     Journal end - Thu Jun  4 11:14:01 2026
