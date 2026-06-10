@@ -4,12 +4,12 @@
 (                                                                     )
 (    Drawing          : SO1L.brd                                      )
 (    Software Version : 25.1S030                                      )
-(    Date/Time        : Wed Jun  3 11:24:04 2026                      )
+(    Date/Time        : Wed Jun  3 16:16:49 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Wed Jun  3 11:24:04 2026				Page     1
+Wed Jun  3 16:16:49 2026				Page     1
 
 
 ------ Symbol Refresh Directives ------
@@ -27,7 +27,7 @@ Reset symbol text and size locations   = 'YES'
 Reset Pin Escapes (fanouts)            = 'NO'
 Ripup Etch                             = 'NO'
 Reset custom drill data                = 'NO'
-Symbol list file                       = 'C:/Users/andre/AppData/Local/Temp/#Taaaaec07528.tmp'
+Symbol list file                       = 'C:/Users/andre/AppData/Local/Temp/#Taaaadz17128.tmp'
 
 
 ------ Library Paths ------
@@ -55,7 +55,16 @@ PADPATH =  C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/librarie
 
 ------ Symbol Refresh Messages ------
 
-'SON50P200X300X80-11N'  symbol refreshed successfully.
+
+'CONN_1054550101_MOL'  symbol starting to refresh:
+     ERROR(SPMHA1-161): Cannot open the design because of database problems. Run dbdoctor on the design from the command prompt to~
+      diagnose and fix the problems. If the problems persist, contact Cadence Customer Support with the design file and details of~
+      the steps performed before this message appeared.
+     ERROR(SPMHNI-254): Unable to load symbol, 'CONN_1054550101_MOL': 'Cannot open the design because of database problems. Run db~
+     doctor on the design from the command prompt to diagnose and fix the problems. If the problems persist, contact Cadence Custo~
+     mer Support with the design file and details of the steps performed before this message appeared.'.
+     
+         due to WARNING(SPMHUT-127): Could not find padstack OX87Y47D1P0_D65X26_DBFIX2.
 
 
 ------ Updating padstacks referring to the refreshed shapes and flash symbols.  ------
@@ -64,12 +73,14 @@ PADPATH =  C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/librarie
 
 ------ Pad Stack Refresh Messages ------
 
-'R250_94'  pad stack refreshed successfully.
-'R70_30'  pad stack refreshed successfully.
+'OX87Y47D1P0_D65X26'  pad stack refreshed successfully.
+'OX107Y47D1P0_D85X26'  pad stack refreshed successfully.
+'RX13Y30D0T0'  pad stack refreshed successfully.
+'RX41Y30D0T0'  pad stack refreshed successfully.
 
 
 ----- Symbol Update Summary ----
 
-Updated symbols: 1 out 1
-    Design updated.
-
+Refresh symbol errors; due to these errors this design is NOT updated.
+       1  errors detected.
+       0  warnings detected.

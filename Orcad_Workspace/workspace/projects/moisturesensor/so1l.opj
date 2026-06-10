@@ -1,6 +1,6 @@
 (ExpressProject "MoistureSensor"
   (ProjectVersion "19981106")
-  (SoftwareVersion "25.1 S030 (4414069)  [3/25/2026]-[06/02/26]")
+  (SoftwareVersion "25.1 S030 (4414069)  [3/25/2026]-[06/04/26]")
   (Folder "Design Resources"
     (Folder "Library"
       (File "C:\Users\andre\Desktop\Ese_Group18\olb_library\LIBRARY_SO1L.OLB"
@@ -285,7 +285,7 @@
       (Path "Logs")
       (Select "Design Resources"
          "c:\users\andre\desktop\ese_group18\orcad_workspace\workspace\projects\moisturesensor\so1l.DSN"
-         "SO1L" "MCU"))
+         "SO1L" "PWR"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -295,9 +295,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 833 24 678")
-        (Scroll "0 676")
-        (Zoom "210")
+        (Placement "44 0 1 -1 -1 5 24 5 802 24 678")
+        (Scroll "0 187")
+        (Zoom "124")
         (Occurrence "/"))
       (Path
          "C:\USERS\ANDRE\DESKTOP\ESE_GROUP18\ORCAD_WORKSPACE\WORKSPACE\PROJECTS\MOISTURESENSOR\SO1L.DSN")
@@ -306,9 +306,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 833 24 678")
-        (Scroll "0 110")
-        (Zoom "105")
+        (Placement "44 0 1 -1 -1 5 24 5 802 24 678")
+        (Scroll "185 1044")
+        (Zoom "356")
         (Occurrence "/"))
       (Path
          "C:\USERS\ANDRE\DESKTOP\ESE_GROUP18\ORCAD_WORKSPACE\WORKSPACE\PROJECTS\MOISTURESENSOR\SO1L.DSN")
@@ -317,9 +317,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 833 24 678")
-        (Scroll "426 505")
-        (Zoom "210")
+        (Placement "44 0 1 -1 -1 5 24 5 802 24 678")
+        (Scroll "0 2")
+        (Zoom "105")
         (Occurrence "/"))
       (Path
          "C:\USERS\ANDRE\DESKTOP\ESE_GROUP18\ORCAD_WORKSPACE\WORKSPACE\PROJECTS\MOISTURESENSOR\SO1L.DSN")
@@ -328,9 +328,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 833 24 678")
-        (Scroll "38 279")
-        (Zoom "170")
+        (Placement "44 0 1 -1 -1 5 24 5 802 24 678")
+        (Scroll "0 -5")
+        (Zoom "85")
         (Occurrence "/"))
       (Path
          "C:\USERS\ANDRE\DESKTOP\ESE_GROUP18\ORCAD_WORKSPACE\WORKSPACE\PROJECTS\MOISTURESENSOR\SO1L.DSN")

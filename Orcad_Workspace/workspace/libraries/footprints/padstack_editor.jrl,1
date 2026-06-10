@@ -1,25 +1,12 @@
-\t (00:00:01) padstack_editor 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Wed Jun  3 16:06:17 2026
-\t (00:00:01)         Host=LAPTOP-DI-ANDRE User=andre Pid=21100 CPUs=8
-\t (00:00:01) CmdLine= padstack_editor -mpssession andre -file C:/Users/andre/AppData/Local/Temp/#Taaaadj03020.tmp -pname OX87Y47D1P0_D65X26 -data C:/Users/andre/AppData/Local/Temp/#Taaaadn03020.tmp -unison
-\t (00:00:01) 
-\d (00:00:03) QtSignal GuidedTabsParent GuidedTabs currentChanged Start
-\d (00:00:31) QtSignal GuidedTabsParent PadstackTypes currentRowChanged 7
-\d (00:00:31) QtSignal GuidedTabsParent PadstackTypes itemSelectionChanged "Mechanical Hole"
-\d (00:00:32) QtSignal GuidedTabsParent PadstackTypes itemClicked "Mechanical Hole"
-\d (00:00:35) QtSignal GuidedTabsParent PadstackTypes itemClicked "Mechanical Hole"
-\d (00:00:36) QtSignal GuidedTabsParent PadstackTypes currentRowChanged 5
-\d (00:00:36) QtSignal GuidedTabsParent PadstackTypes itemSelectionChanged Slot
-\d (00:00:37) QtSignal GuidedTabsParent PadstackTypes itemClicked Slot
-\d (00:00:39) QtSignal GuidedTabsParent GuidedTabs currentChanged Options
-\d (00:00:40) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
-\d (00:00:43) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Symbol"
-\d (00:00:44) QtSignal GuidedDrillSymbol DrillCharacters editingFinished Z
-\d (00:00:44) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
-\d (00:00:44) QtSignal GuidedTabsParent GuidedTabs currentChanged Start
-\d (00:00:46) QtSignal GuidedTabsParent PadstackTypes currentRowChanged 0
-\d (00:00:46) QtSignal GuidedTabsParent PadstackTypes itemSelectionChanged "Thru Pin"
-\d (00:00:46) QtSignal GuidedTabsParent PadstackTypes itemClicked "Thru Pin"
-\d (00:00:52) QtSignal MainWindow Exit triggered
-\d (00:00:54) QtFillin No
-\t (00:00:55)     Journal end - Wed Jun  3 16:07:11 2026
+\t (00:00:02) padstack_editor 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Thu Jun  4 15:40:36 2026
+\t (00:00:02)         Host=LAPTOP-DI-ANDRE User=andre Pid=11532 CPUs=8
+\t (00:00:02) CmdLine= padstack_editor -mpssession andre -file C:/Users/andre/AppData/Local/Temp/#Taaaabs23468.tmp -pname OX87Y47D1P0_D65X26 -data C:/Users/andre/AppData/Local/Temp/#Taaaabw23468.tmp -unison
+\t (00:00:02) 
+\d (00:00:08) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:34) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Symbol"
+\d (00:00:35) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Offset"
+\d (00:00:36) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:13:07) QtSignal MainWindow UpdateToDesign triggered
+\d (00:13:09) QtSignal MainWindow Exit triggered
+\t (00:13:09)     Journal end - Thu Jun  4 15:53:43 2026
