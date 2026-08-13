@@ -2,8 +2,8 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
-|  c:.../orcad_workspace/workspace/projects/moisturesensor/allegro/so1l.brd    |
-|                                                    Thu Jun  4 10:09:04 2026  |
+|  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
+|                                                    Thu Aug 13 17:19:09 2026  |
 |------------------------------------------------------------------------------|
 |------------------------------------------------------------------------------|
 |                                                                              |

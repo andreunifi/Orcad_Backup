@@ -4,12 +4,12 @@
 (                                                                     )
 (    Drawing          : SO1L.brd                                      )
 (    Software Version : 25.1S030                                      )
-(    Date/Time        : Wed Jun  3 16:22:56 2026                      )
+(    Date/Time        : Thu Aug 13 16:03:19 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Wed Jun  3 16:22:56 2026				Page     1
+Thu Aug 13 16:03:19 2026				Page     1
 
 
 ------ Symbol Refresh Directives ------
@@ -27,7 +27,7 @@ Reset symbol text and size locations   = 'YES'
 Reset Pin Escapes (fanouts)            = 'NO'
 Ripup Etch                             = 'NO'
 Reset custom drill data                = 'NO'
-Symbol list file                       = 'C:/Users/andre/AppData/Local/Temp/#Taaaaen17128.tmp'
+Symbol list file                       = 'C:/Users/andre/AppData/Local/Temp/#Taaaacv00544.tmp'
 
 
 ------ Library Paths ------
@@ -55,7 +55,11 @@ PADPATH =  C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/librarie
 
 ------ Symbol Refresh Messages ------
 
-'SON50P200X300X80-11N'  symbol refreshed successfully.
+
+'QFN20_4X4MC_MCH'  symbol starting to refresh:
+     ERROR(SPMHNI-270): 9 pins found in the symbol in the physical design, but missing from library symbol. They are:
+            33,32,31,30,29,28,26,25,22
+
 
 
 ------ Updating padstacks referring to the refreshed shapes and flash symbols.  ------
@@ -64,12 +68,13 @@ PADPATH =  C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/librarie
 
 ------ Pad Stack Refresh Messages ------
 
-'R250_94'  pad stack refreshed successfully.
-'R70_30'  pad stack refreshed successfully.
+'R279_279-1'  pad stack refreshed successfully.
+'VIAFORMCC'  pad stack refreshed successfully.
+'R25_81'  pad stack refreshed successfully.
 
 
 ----- Symbol Update Summary ----
 
-Updated symbols: 1 out 1
-    Design updated.
-
+Refresh symbol errors; due to these errors this design is NOT updated.
+       1  errors detected.
+       0  warnings detected.

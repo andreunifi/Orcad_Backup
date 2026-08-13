@@ -32,24 +32,6 @@
 	"Pin Property" : [],
 	"Component" : [
 		{
-			"Name" : "U1",
-			"C_PATH" : "@so1l.so1l(sch_1):ins86467@so1l.\\cc2640r2frhbr_5.normal\\(sch_1)",
-			"Logical" : null,
-			"Physical" : "U1"
-		},
-		{
-			"Name" : "U2",
-			"C_PATH" : "@so1l.so1l(sch_1):ins83583@so1l.\\mcp73871-2cciml_3a.normal\\(sch_1)",
-			"Logical" : null,
-			"Physical" : "U2"
-		},
-		{
-			"Name" : "U2",
-			"C_PATH" : "@so1l.so1l(sch_1):ins83671@so1l.\\mcp73871-2cciml_3b.normal\\(sch_1)",
-			"Logical" : null,
-			"Physical" : "U2"
-		},
-		{
 			"Name" : "D2",
 			"C_PATH" : "@so1l.so1l(sch_1):ins131282@m7.\\m7.normal\\(chips)",
 			"Logical" : null,
@@ -108,6 +90,24 @@
 			"C_PATH" : "@so1l.so1l(sch_1):ins131369@\\1825910-6\\.\\1825910-6.normal\\(chips)",
 			"Logical" : null,
 			"Physical" : "S1"
+		},
+		{
+			"Name" : "U1",
+			"C_PATH" : "@so1l.so1l(sch_1):ins86467@so1l.\\cc2640r2frhbr_6.normal\\(sch_1)",
+			"Logical" : null,
+			"Physical" : "U1"
+		},
+		{
+			"Name" : "U2",
+			"C_PATH" : "@so1l.so1l(sch_1):ins83583@so1l.\\mcp73871-2cciml_4a.normal\\(sch_1)",
+			"Logical" : null,
+			"Physical" : "U2"
+		},
+		{
+			"Name" : "U2",
+			"C_PATH" : "@so1l.so1l(sch_1):ins83671@so1l.\\mcp73871-2cciml_4b.normal\\(sch_1)",
+			"Logical" : null,
+			"Physical" : "U2"
 		},
 		{
 			"Name" : "CON1",

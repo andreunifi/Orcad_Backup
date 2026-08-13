@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : SO1L.brd                                      )
 (    Software Version : 25.1S030                                      )
-(    Date/Time        : Wed Jun  3 11:44:10 2026                      )
+(    Date/Time        : Wed Jun  3 16:29:33 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -50,20 +50,20 @@ Placing page "2"
 	ERROR:   Could not find symbol:  A1 / ANTEENA_AN043_FLIP_ANTENNA / AN043_FLIP
 
 Placing page "3"
-	Placed symbol:  C18 / CC0603KRX7R6BB105_CAPC1608X90N_1 UF / CAPC1608X90N at (317.1887 269.5990)
-	ERROR:   Cannot place symbol:  J3 / 1054550101_CONN_1054550101_MOL_1054550101 / CONN_1054550101_MOL
-		 due to ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
-	Placed symbol:  R10 / RC0603FR-0720KL_0_RESC1608X55N_20 KOHM / RESC1608X55N at (329.8887 237.9286)
-	Placed symbol:  R9 / RC0603FR-072KL_0_RESC1608X55N_2 KOHM / RESC1608X55N at (329.8887 242.0298)
+	Placed symbol:  C18 / CC0603KRX7R6BB105_CAPC1608X90N_1 UF / CAPC1608X90N at (294.1869 273.6883)
+	ERROR:   Could not find symbol:  J3 / 1054550101_CONN_1054550101_MOL_1054550101 / CONN_1054550101_MOL
+	Placed symbol:  R10 / RC0603FR-0720KL_0_RESC1608X55N_20 KOHM / RESC1608X55N at (306.8869 235.6975)
+	Placed symbol:  R9 / RC0603FR-072KL_0_RESC1608X55N_2 KOHM / RESC1608X55N at (306.8869 247.1975)
 	ERROR:   Cannot place symbol:  U2 / MCP73871-2CCIML_2_QFN20_4X4MC_MCH_BATTERY CHARGER / QFN20_4X4MC_MCH
 		 due to ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
 	ERROR:   Cannot place symbol:  U3 / TPS62177DQCR_2_DQC0010A_VOLTAGE REGULATOR / DQC0010A
 		 due to ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
 
 Placing page "4"
+	Placed symbol:  D2 / M7_1_DIOM5327X240N_M7 / DIOM5327X240N at (214.1725 280.4246)
 	ERROR:   Could not find symbol:  J5 / 1729128_1729128_1729128 / 1729128
-	Placed symbol:  R11 / RC0603FR-07100RL_1_RESC1608X55N_100 OHM / RESC1608X55N at (186.2225 279.4631)
-	Placed symbol:  R12 / RC0603FR-071KL_0_RESC1608X55N_1 KOHM / RESC1608X55N at (199.1225 278.1149)
+	Placed symbol:  R11 / RC0603FR-07100RL_1_RESC1608X55N_100 OHM / RESC1608X55N at (186.2225 279.4685)
+	Placed symbol:  R12 / RC0603FR-071KL_0_RESC1608X55N_1 KOHM / RESC1608X55N at (199.1225 278.1203)
 	ERROR:   Could not find symbol:  U4 / DK1A-3V-F_0_RELAY_DK1A_PAN_RELAY / RELAY_DK1A_PAN
 
-Placed 9 of 44 symbols.
+Placed 10 of 45 symbols.

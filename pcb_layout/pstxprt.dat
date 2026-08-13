@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 25.1.0 d001Jun-04-2026 at 11:20:57 }
+{ Using PSTWRITER 25.1.0 d001Aug-13-2026 at 17:19:07 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='SO1L';
@@ -764,12 +764,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- U1 'CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB':;
+ U1 'CC2640R2FRHBR_6_RHB0032E_CC2640R2FRHB':;
 
 SECTION_NUMBER 1
- '@SO1L.SO1L(SCH_1):INS86467@SO1L.CC2640R2FRHBR_5.NORMAL(SCH_1)':
- C_PATH='@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_5.normal\(sch_1)',
- P_PATH='@so1l.so1l(sch_1):page1_ins86467@so1l.\cc2640r2frhbr_5.normal\(sch_1)',
+ '@SO1L.SO1L(SCH_1):INS86467@SO1L.CC2640R2FRHBR_6.NORMAL(SCH_1)':
+ C_PATH='@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_6.normal\(sch_1)',
+ P_PATH='@so1l.so1l(sch_1):page1_ins86467@so1l.\cc2640r2frhbr_6.normal\(sch_1)',
  PRIM_FILE='.\pstchip.dat',
  XY='(470,190)',
  SCH_ORIENT='(0)',
@@ -778,12 +778,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- U2 'MCP73871-2CCIML_3_QFN20_4X4MC_MCH_BATTERY CHARGER':;
+ U2 'MCP73871-2CCIML_4_QFN20_4X4MC_MCH_BATTERY CHARGER':;
 
 SECTION_NUMBER 1
- '@SO1L.SO1L(SCH_1):INS83583@SO1L.MCP73871-2CCIML_3A.NORMAL(SCH_1)':
- C_PATH='@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_3a.normal\(sch_1)',
- P_PATH='@so1l.so1l(sch_1):page3_ins83583@so1l.\mcp73871-2cciml_3a.normal\(sch_1)',
+ '@SO1L.SO1L(SCH_1):INS83583@SO1L.MCP73871-2CCIML_4A.NORMAL(SCH_1)':
+ C_PATH='@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_4a.normal\(sch_1)',
+ P_PATH='@so1l.so1l(sch_1):page3_ins83583@so1l.\mcp73871-2cciml_4a.normal\(sch_1)',
  PRIM_FILE='.\pstchip.dat',
  XY='(386,226)',
  SCH_ORIENT='(0)',
@@ -792,9 +792,9 @@ SECTION_NUMBER 1
  SECTION='A';
 
 SECTION_NUMBER 2
- '@SO1L.SO1L(SCH_1):INS83671@SO1L.MCP73871-2CCIML_3B.NORMAL(SCH_1)':
- C_PATH='@so1l.so1l(sch_1):ins83671@so1l.\mcp73871-2cciml_3b.normal\(sch_1)',
- P_PATH='@so1l.so1l(sch_1):page3_ins83671@so1l.\mcp73871-2cciml_3b.normal\(sch_1)',
+ '@SO1L.SO1L(SCH_1):INS83671@SO1L.MCP73871-2CCIML_4B.NORMAL(SCH_1)':
+ C_PATH='@so1l.so1l(sch_1):ins83671@so1l.\mcp73871-2cciml_4b.normal\(sch_1)',
+ P_PATH='@so1l.so1l(sch_1):page3_ins83671@so1l.\mcp73871-2cciml_4b.normal\(sch_1)',
  PRIM_FILE='.\pstchip.dat',
  XY='(386,226)',
  SCH_ORIENT='(180)',

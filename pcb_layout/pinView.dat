@@ -1,75 +1,61 @@
 A!NET_NAME!REFDES!PIN_NUMBER!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!PIN_NET_SHORT!PIN_NO_SWAP_PIN!PIN_NO_PIN_ESCAPE!PIN_CDS_PINID!PIN_XNET_PINS!PIN_PIN_ESCAPE!PIN_PIN_SIGNAL_MODEL!PIN_NO_DRC!PIN_NO_SHAPE_CONNECT!
-J!c:/users/andre/desktop/ese_group18/orcad_workspace/workspace/projects/moisturesensor/allegro/so1l.brd!Thu Jun  4 10:08:50 2026!0.0000!0.0000!533.4000!431.8000!0.0001!millimeters!SO1L!10.400000 mil!2!OUT OF DATE!
+J!C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd!Thu Aug 13 17:19:04 2026!0.0000!0.0000!533.4000!431.8000!0.0001!millimeters!SO1L!10.400000 mil!2!UP TO DATE!
+S!DCDC_SW!U1!17!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_6.normal\(sch_1)!CC2640R2FRHBR_6_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
+S!DCOUPL!U1!12!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_6.normal\(sch_1)!CC2640R2FRHBR_6_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
+S!NPG!U1!6!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_6.normal\(sch_1)!CC2640R2FRHBR_6_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
+S!NLBO!U1!7!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_6.normal\(sch_1)!CC2640R2FRHBR_6_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
+S!!U1!23!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_6.normal\(sch_1)!CC2640R2FRHBR_6_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
+S!LED_RED!U1!24!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_6.normal\(sch_1)!CC2640R2FRHBR_6_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
+S!BUTTON1!U1!25!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_6.normal\(sch_1)!CC2640R2FRHBR_6_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
+S!LED_GREEN!U1!26!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_6.normal\(sch_1)!CC2640R2FRHBR_6_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
+S!SENSOR_IN!U1!27!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_6.normal\(sch_1)!CC2640R2FRHBR_6_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
+S!!U1!8!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_6.normal\(sch_1)!CC2640R2FRHBR_6_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
+S!!U1!9!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_6.normal\(sch_1)!CC2640R2FRHBR_6_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
+S!!U1!10!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_6.normal\(sch_1)!CC2640R2FRHBR_6_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
+S!DIO_5!U1!15!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_6.normal\(sch_1)!CC2640R2FRHBR_6_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
+S!!U1!16!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_6.normal\(sch_1)!CC2640R2FRHBR_6_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
+S!DIO_7!U1!20!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_6.normal\(sch_1)!CC2640R2FRHBR_6_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
+S!SENS_ON!U1!21!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_6.normal\(sch_1)!CC2640R2FRHBR_6_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
+S!DIO_9!U1!22!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_6.normal\(sch_1)!CC2640R2FRHBR_6_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
+S!JTAG_TCKC!U1!14!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_6.normal\(sch_1)!CC2640R2FRHBR_6_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
+S!JTAG_TMSC!U1!13!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_6.normal\(sch_1)!CC2640R2FRHBR_6_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
+S!RESET_N!U1!19!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_6.normal\(sch_1)!CC2640R2FRHBR_6_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
+S!RF_N!U1!2!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_6.normal\(sch_1)!CC2640R2FRHBR_6_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
+S!RF_P!U1!1!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_6.normal\(sch_1)!CC2640R2FRHBR_6_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
+S!!U1!3!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_6.normal\(sch_1)!CC2640R2FRHBR_6_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
+S!VDDR!U1!29!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_6.normal\(sch_1)!CC2640R2FRHBR_6_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
+S!VDDR!U1!32!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_6.normal\(sch_1)!CC2640R2FRHBR_6_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
+S!VDDS!U1!28!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_6.normal\(sch_1)!CC2640R2FRHBR_6_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
+S!VDDS!U1!11!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_6.normal\(sch_1)!CC2640R2FRHBR_6_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
+S!VDDS!U1!18!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_6.normal\(sch_1)!CC2640R2FRHBR_6_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
+S!GND!U1!33!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_6.normal\(sch_1)!CC2640R2FRHBR_6_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
+S!X24M_P!U1!30!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_6.normal\(sch_1)!CC2640R2FRHBR_6_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
+S!X24M_N!U1!31!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_6.normal\(sch_1)!CC2640R2FRHBR_6_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
+S!X32K_Q2!U1!4!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_6.normal\(sch_1)!CC2640R2FRHBR_6_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
+S!X32K_Q1!U1!5!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_6.normal\(sch_1)!CC2640R2FRHBR_6_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
+S!NPG!U2!6!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_4a.normal\(sch_1)!MCP73871-2CCIML_4_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F4!!!!!!!!!!
+S!0!U2!9!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_4a.normal\(sch_1)!MCP73871-2CCIML_4_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F4!!!!!!!!!!
+S!SOLAR_IN!U2!17!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_4a.normal\(sch_1)!MCP73871-2CCIML_4_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F4!!!!!!!!!!
+S!0!U2!21!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_4a.normal\(sch_1)!MCP73871-2CCIML_4_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F4!!!!!!!!!!
+S!SOLAR_IN!U2!18!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_4a.normal\(sch_1)!MCP73871-2CCIML_4_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F4!!!!!!!!!!
+S!SOLAR_IN!U2!19!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_4a.normal\(sch_1)!MCP73871-2CCIML_4_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F4!!!!!!!!!!
+S!N05874!U2!1!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_4a.normal\(sch_1)!MCP73871-2CCIML_4_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F4!!!!!!!!!!
+S!N05874!U2!20!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_4a.normal\(sch_1)!MCP73871-2CCIML_4_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F4!!!!!!!!!!
+S!N05411!U2!13!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_4a.normal\(sch_1)!MCP73871-2CCIML_4_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F4!!!!!!!!!!
+S!SOLAR_IN!U2!4!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_4a.normal\(sch_1)!MCP73871-2CCIML_4_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F4!!!!!!!!!!
+S!N05326!U2!12!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_4a.normal\(sch_1)!MCP73871-2CCIML_4_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F4!!!!!!!!!!
+S!0!U2!3!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_4a.normal\(sch_1)!MCP73871-2CCIML_4_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F4!!!!!!!!!!
+S!NLBO!U2!8!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_4a.normal\(sch_1)!MCP73871-2CCIML_4_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F4!!!!!!!!!!
+S!!U2!7!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_4a.normal\(sch_1)!MCP73871-2CCIML_4_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F4!!!!!!!!!!
+S!NTC_SENSE!U2!5!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_4a.normal\(sch_1)!MCP73871-2CCIML_4_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F4!!!!!!!!!!
+S!BATT_IN!U2!14!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_4a.normal\(sch_1)!MCP73871-2CCIML_4_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F4!!!!!!!!!!
+S!BATT_IN!U2!15!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_4a.normal\(sch_1)!MCP73871-2CCIML_4_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F4!!!!!!!!!!
+S!BATT_IN!U2!16!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_4a.normal\(sch_1)!MCP73871-2CCIML_4_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F4!!!!!!!!!!
+S!SOLAR_IN!U2!2!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_4a.normal\(sch_1)!MCP73871-2CCIML_4_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F4!!!!!!!!!!
+S!0!U2!10!@so1l.so1l(sch_1):ins83671@so1l.\mcp73871-2cciml_4b.normal\(sch_1)!MCP73871-2CCIML_4_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F3!!!!!!!!!!
+S!0!U2!11!@so1l.so1l(sch_1):ins83671@so1l.\mcp73871-2cciml_4b.normal\(sch_1)!MCP73871-2CCIML_4_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F3!!!!!!!!!!
 S!SOLAR_IN!C18!1!@so1l.so1l(sch_1):ins83403@cc0603krx7r6bb105.\cc0603krx7r6bb105.normal\(chips)!CC0603KRX7R6BB105_CAP_CC0603_YAG_1 UF!!!F49!!!!!!!!!!
 S!0!C18!2!@so1l.so1l(sch_1):ins83403@cc0603krx7r6bb105.\cc0603krx7r6bb105.normal\(chips)!CC0603KRX7R6BB105_CAP_CC0603_YAG_1 UF!!!F49!!!!!!!!!!
-S!DCDC_SW!U1!17!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_5.normal\(sch_1)!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
-S!DCOUPL!U1!12!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_5.normal\(sch_1)!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
-S!NPG!U1!6!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_5.normal\(sch_1)!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
-S!NLBO!U1!7!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_5.normal\(sch_1)!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
-S!!U1!23!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_5.normal\(sch_1)!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
-S!LED_RED!U1!24!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_5.normal\(sch_1)!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
-S!BUTTON1!U1!25!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_5.normal\(sch_1)!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
-S!LED_GREEN!U1!26!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_5.normal\(sch_1)!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
-S!SENSOR_IN!U1!27!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_5.normal\(sch_1)!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
-S!!U1!8!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_5.normal\(sch_1)!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
-S!!U1!9!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_5.normal\(sch_1)!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
-S!!U1!10!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_5.normal\(sch_1)!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
-S!DIO_5!U1!15!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_5.normal\(sch_1)!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
-S!!U1!16!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_5.normal\(sch_1)!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
-S!DIO_7!U1!20!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_5.normal\(sch_1)!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
-S!SENS_ON!U1!21!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_5.normal\(sch_1)!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
-S!DIO_9!U1!22!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_5.normal\(sch_1)!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
-S!JTAG_TCKC!U1!14!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_5.normal\(sch_1)!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
-S!JTAG_TMSC!U1!13!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_5.normal\(sch_1)!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
-S!RESET_N!U1!19!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_5.normal\(sch_1)!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
-S!RF_N!U1!2!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_5.normal\(sch_1)!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
-S!RF_P!U1!1!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_5.normal\(sch_1)!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
-S!!U1!3!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_5.normal\(sch_1)!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
-S!THERM1!U1!34!!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!!!!!!!!!!!!!
-S!THERM2!U1!35!!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!!!!!!!!!!!!!
-S!THERM3!U1!36!!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!!!!!!!!!!!!!
-S!THERM4!U1!37!!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!!!!!!!!!!!!!
-S!THERM5!U1!38!!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!!!!!!!!!!!!!
-S!VDDR!U1!29!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_5.normal\(sch_1)!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
-S!VDDR!U1!32!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_5.normal\(sch_1)!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
-S!VDDS!U1!28!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_5.normal\(sch_1)!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
-S!VDDS!U1!11!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_5.normal\(sch_1)!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
-S!VDDS!U1!18!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_5.normal\(sch_1)!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
-S!GND!U1!33!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_5.normal\(sch_1)!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
-S!X24M_P!U1!30!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_5.normal\(sch_1)!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
-S!X24M_N!U1!31!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_5.normal\(sch_1)!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
-S!X32K_Q2!U1!4!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_5.normal\(sch_1)!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
-S!X32K_Q1!U1!5!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_5.normal\(sch_1)!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!!!F5!!!!!!!!!!
-S!THERM10!U2!33!!MCP73871-2CCIML_3_QFN20_4X4MC_MCH_BATTERY CHARGER!!!!!!!!!!!!!
-S!THERM9!U2!32!!MCP73871-2CCIML_3_QFN20_4X4MC_MCH_BATTERY CHARGER!!!!!!!!!!!!!
-S!THERM8!U2!31!!MCP73871-2CCIML_3_QFN20_4X4MC_MCH_BATTERY CHARGER!!!!!!!!!!!!!
-S!THERM7!U2!30!!MCP73871-2CCIML_3_QFN20_4X4MC_MCH_BATTERY CHARGER!!!!!!!!!!!!!
-S!THERM6!U2!29!!MCP73871-2CCIML_3_QFN20_4X4MC_MCH_BATTERY CHARGER!!!!!!!!!!!!!
-S!THERM5!U2!28!!MCP73871-2CCIML_3_QFN20_4X4MC_MCH_BATTERY CHARGER!!!!!!!!!!!!!
-S!THERM3!U2!26!!MCP73871-2CCIML_3_QFN20_4X4MC_MCH_BATTERY CHARGER!!!!!!!!!!!!!
-S!THERM2!U2!25!!MCP73871-2CCIML_3_QFN20_4X4MC_MCH_BATTERY CHARGER!!!!!!!!!!!!!
-S!THERM1!U2!22!!MCP73871-2CCIML_3_QFN20_4X4MC_MCH_BATTERY CHARGER!!!!!!!!!!!!!
-S!NPG!U2!6!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_3a.normal\(sch_1)!MCP73871-2CCIML_3_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F4!!!!!!!!!!
-S!0!U2!9!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_3a.normal\(sch_1)!MCP73871-2CCIML_3_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F4!!!!!!!!!!
-S!SOLAR_IN!U2!17!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_3a.normal\(sch_1)!MCP73871-2CCIML_3_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F4!!!!!!!!!!
-S!0!U2!21!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_3a.normal\(sch_1)!MCP73871-2CCIML_3_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F4!!!!!!!!!!
-S!SOLAR_IN!U2!18!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_3a.normal\(sch_1)!MCP73871-2CCIML_3_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F4!!!!!!!!!!
-S!SOLAR_IN!U2!19!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_3a.normal\(sch_1)!MCP73871-2CCIML_3_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F4!!!!!!!!!!
-S!N05874!U2!1!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_3a.normal\(sch_1)!MCP73871-2CCIML_3_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F4!!!!!!!!!!
-S!N05874!U2!20!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_3a.normal\(sch_1)!MCP73871-2CCIML_3_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F4!!!!!!!!!!
-S!N05411!U2!13!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_3a.normal\(sch_1)!MCP73871-2CCIML_3_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F4!!!!!!!!!!
-S!SOLAR_IN!U2!4!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_3a.normal\(sch_1)!MCP73871-2CCIML_3_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F4!!!!!!!!!!
-S!N05326!U2!12!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_3a.normal\(sch_1)!MCP73871-2CCIML_3_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F4!!!!!!!!!!
-S!0!U2!3!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_3a.normal\(sch_1)!MCP73871-2CCIML_3_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F4!!!!!!!!!!
-S!NLBO!U2!8!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_3a.normal\(sch_1)!MCP73871-2CCIML_3_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F4!!!!!!!!!!
-S!!U2!7!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_3a.normal\(sch_1)!MCP73871-2CCIML_3_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F4!!!!!!!!!!
-S!NTC_SENSE!U2!5!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_3a.normal\(sch_1)!MCP73871-2CCIML_3_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F4!!!!!!!!!!
-S!BATT_IN!U2!14!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_3a.normal\(sch_1)!MCP73871-2CCIML_3_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F4!!!!!!!!!!
-S!BATT_IN!U2!15!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_3a.normal\(sch_1)!MCP73871-2CCIML_3_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F4!!!!!!!!!!
-S!BATT_IN!U2!16!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_3a.normal\(sch_1)!MCP73871-2CCIML_3_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F4!!!!!!!!!!
-S!SOLAR_IN!U2!2!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_3a.normal\(sch_1)!MCP73871-2CCIML_3_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F4!!!!!!!!!!
-S!0!U2!10!@so1l.so1l(sch_1):ins83671@so1l.\mcp73871-2cciml_3b.normal\(sch_1)!MCP73871-2CCIML_3_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F3!!!!!!!!!!
-S!0!U2!11!@so1l.so1l(sch_1):ins83671@so1l.\mcp73871-2cciml_3b.normal\(sch_1)!MCP73871-2CCIML_3_QFN20_4X4MC_MCH_BATTERY CHARGER!!!F3!!!!!!!!!!
 S!GND!A1!1!@so1l.so1l(sch_1):ins71065@ese_project_lib.\anteena.normal\(chips)!ANTEENA_AN043_FLIP_ANTENNA!!!F59!!!!!!!!!!
 S!GND!C1!1!@so1l.so1l(sch_1):ins436@filtsub.\c.normal\(chips)!C_CAP_CC0603_YAG_DNM!!!F58!!!!!!!!!!
 S!VDDS!C1!2!@so1l.so1l(sch_1):ins436@filtsub.\c.normal\(chips)!C_CAP_CC0603_YAG_DNM!!!F58!!!!!!!!!!

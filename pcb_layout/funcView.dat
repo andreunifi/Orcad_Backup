@@ -1,9 +1,9 @@
 A!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!REFDES!FUNC_PRIM_FILE!COMP_PARENT_PPT!COMP_PARENT_PPT_PART!COMP_PARENT_PART_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!FUNC_GROUP!FUNC_ROOM!FUNC_CDS_FSP_UID!FUNC_NO_SWAP_PIN!FUNC_HARD_LOCATION!FUNC_NO_SWAP_GATE_EXT!FUNC_CDS_FSP_MAPPED_CELL!FUNC_CDS_FSP_FPGA_SYMBOL!FUNC_CDS_FSP_TERM_TYPE!FUNC_CDS_FSP_TERM_NAME!FUNC_ROOM!FUNC_GROUP!FUNC_CDS_FSP_TERM_INDEX!FUNC_CDS_FSP_INSTANCE_ID!FUNC_NO_SWAP_GATE!FUNC_NO_XNET_CONNECTION!FUNC_CDS_FSP_IS_FPGA!
-J!c:/users/andre/desktop/ese_group18/orcad_workspace/workspace/projects/moisturesensor/allegro/so1l.brd!Thu Jun  4 10:08:50 2026!0.0000!0.0000!533.4000!431.8000!0.0001!millimeters!SO1L!10.400000 mil!2!OUT OF DATE!
+J!C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd!Thu Aug 13 17:19:04 2026!0.0000!0.0000!533.4000!431.8000!0.0001!millimeters!SO1L!10.400000 mil!2!UP TO DATE!
+S!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_6.normal\(sch_1)!CC2640R2FRHBR_6_RHB0032E_CC2640R2FRHB!U1!.\chipsView.dat!!!!!!F5!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_4a.normal\(sch_1)!MCP73871-2CCIML_4_QFN20_4X4MC_MCH_BATTERY CHARGER!U2!.\chipsView.dat!!!!!!F4!!!!!!!!!!!!!!!!!!
+S!@so1l.so1l(sch_1):ins83671@so1l.\mcp73871-2cciml_4b.normal\(sch_1)!MCP73871-2CCIML_4_QFN20_4X4MC_MCH_BATTERY CHARGER!U2!.\chipsView.dat!!!!!!F3!!!!!!!!!!!!!!!!!!
 S!@so1l.so1l(sch_1):ins83403@cc0603krx7r6bb105.\cc0603krx7r6bb105.normal\(chips)!CC0603KRX7R6BB105_CAP_CC0603_YAG_1 UF!C18!.\chipsView.dat!!!!!!F49!!!!!!!!!!!!!!!!!!
-S!@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_5.normal\(sch_1)!CC2640R2FRHBR_5_RHB0032E_CC2640R2FRHB!U1!.\chipsView.dat!!!!!!F5!!!!!!!!!!!!!!!!!!
-S!@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_3a.normal\(sch_1)!MCP73871-2CCIML_3_QFN20_4X4MC_MCH_BATTERY CHARGER!U2!.\chipsView.dat!!!!!!F4!!!!!!!!!!!!!!!!!!
-S!@so1l.so1l(sch_1):ins83671@so1l.\mcp73871-2cciml_3b.normal\(sch_1)!MCP73871-2CCIML_3_QFN20_4X4MC_MCH_BATTERY CHARGER!U2!.\chipsView.dat!!!!!!F3!!!!!!!!!!!!!!!!!!
 S!@so1l.so1l(sch_1):ins71065@ese_project_lib.\anteena.normal\(chips)!ANTEENA_AN043_FLIP_ANTENNA!A1!.\chipsView.dat!!!!!!F59!!!!!!!!!!!!!!!!!!
 S!@so1l.so1l(sch_1):ins436@filtsub.\c.normal\(chips)!C_CAP_CC0603_YAG_DNM!C1!.\chipsView.dat!!!!!!F58!!!!!!!!!!!!!!!!!!
 S!@so1l.so1l(sch_1):ins2022@filtsub.\c.normal\(chips)!C_CAP_CC0603_YAG_1 UF!C10!.\chipsView.dat!!!!!!F57!!!!!!!!!!!!!!!!!!

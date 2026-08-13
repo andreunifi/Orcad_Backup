@@ -1,32 +1,40 @@
-\t (00:00:09) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
-\t (00:00:09)     Journal start - Thu Aug 13 14:58:33 2026
-\t (00:00:09)         Host=LAPTOP-DI-ANDRE User=andre Pid=12192 CPUs=8
-\t (00:00:09) CmdLine= unison -layout -orcadx -productToken 00013EA1BF82F7E0B1F73CE0F4D3F4E0E6E222F5EB9FA5A9B7F838FABBDFF5BCE6F93782ACA5B2C7BA8038F3EF8383C6DF9F2CF1C1A6B3F7E6AA3AC5D48690E8EC9033F8A894F0E6B1FC6FE4ECBDF084B2FD38FBED9BC09A80CF39898CEBC084E5CF27FF8C80EDC0CF9F468A9BA8FF84BFF038FBED85C08480CF38FBED85C08480CF528652EA7FEBEAB2000040EA C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/aw3212f.dra
-\t (00:00:09) 
-\d (00:00:09) Design opened: C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/aw3212f.dra
-\i (00:00:09) trapsize 847
-\i (00:00:10) QtSignal PropertyPadstackWidget PropertyPadstackEditMode CurrentIndexChanged 0
-\i (00:00:10) QtSignal PropertyPadstackWidget copperPadLayer CurrentIndexChanged 0
-\i (00:00:10) QtSignal PropertyPadstackWidget copperPadType CurrentIndexChanged 0
-\i (00:00:16) trapsize 1116
-\i (00:00:21) QtSignal Property_Docked_PadstackWidget PropertyPadstackEditMode CurrentIndexChanged +
-\i (00:00:21) QtSignal 0
-\i (00:00:21) QtSignal Property_Docked_PadstackWidget copperPadLayer CurrentIndexChanged 0
-\i (00:00:21) QtSignal Property_Docked_PadstackWidget copperPadType CurrentIndexChanged 0
-\t (00:00:25) Loading consmgr.cxt 
-\t (00:00:25) Loading acns_formula.cxt 
-\i (00:00:25) trapsize 1114
-\i (00:00:25) trapsize 1138
-\i (00:00:29) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
-\i (00:00:29) QtSignal ucp_shape_create_dyn_dim UCPAddShape_Type CurrentIndexChanged 1
-\i (00:00:30) updateport VisibilityPane
-\i (00:00:30) updateport PropPane
-\i (00:00:30) updateport CVPane
-\i (00:00:30) ucpedit 
-\i (00:00:30) updateport VisibilityPane
-\i (00:01:45) save_as 
-\i (00:02:16) fillin "menu_cancel"
-\i (00:02:16) ucpedit 
-\i (00:02:16) updateport VisibilityPane
-\i (00:02:28) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\t (00:02:34)     Journal end - Thu Aug 13 15:00:58 2026
+\t (00:03:40) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (00:03:40)     Journal start - Thu Aug 13 17:01:29 2026
+\t (00:03:40)         Host=LAPTOP-DI-ANDRE User=andre Pid=8484 CPUs=8
+\t (00:03:40) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\unison.exe -layout -orcadx
+\t (00:03:40) 
+\d (00:03:40) Design opened: C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/RHB0032E.dra
+\i (00:03:41) QtSignal ucp_shape_create_dyn_dim UCPAddShape_Type CurrentIndexChanged 1
+\i (00:03:41) updateport VisibilityPane
+\i (00:03:41) updateport PropPane
+\i (00:03:41) ucpedit 
+\i (00:03:41) updateport VisibilityPane
+\i (00:03:47) QtSignal VisLayerToolbarAllButton All clicked on
+\i (00:03:47) updateport ReportsPane
+\i (00:03:47) updateport SearchPane
+\i (00:03:47) updateport VisibilityPane
+\i (00:03:47) updateport PropPane
+\i (00:03:47) updateport CVPane
+\i (00:03:47) updateport VisibilityPane
+\i (00:03:51) zoom out 1 
+\i (00:03:51) setwindow pcb
+\i (00:03:51) zoom out 0.6007 0.8434
+\i (00:03:51) trapsize 756
+\i (00:03:51) zoom in 1 
+\i (00:03:51) setwindow pcb
+\i (00:03:51) zoom in 0.6008 0.8284
+\i (00:03:51) trapsize 378
+\i (00:03:55) pick grid 4.0701 1.5691
+\t (00:03:55) last pick:  4.0701 1.5691
+\i (00:03:55) zoom out 1 
+\i (00:03:55) setwindow pcb
+\i (00:03:55) zoom out 4.0701 1.5540
+\i (00:03:55) trapsize 756
+\i (00:04:03) opencd_reload C:/Users/andre/AppData/Roaming/SPB_Data/cdssetup/OrCAD_Capture/25.1.0/downloaded_parts/allegropcb/RHB0032E.dra 
+\t (00:04:03) Opening existing design...
+\i (00:04:04) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:04:04) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\w (00:04:04) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:04:04) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:04:05) trapsize 1242
+\t (00:04:06)     Journal end - Thu Aug 13 17:01:55 2026
