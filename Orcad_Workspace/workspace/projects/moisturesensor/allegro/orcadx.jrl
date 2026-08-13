@@ -1,114 +1,12 @@
-\t (00:00:09) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
-\t (00:00:09)     Journal start - Thu Jun  4 11:45:36 2026
-\t (00:00:09)         Host=LAPTOP-DI-ANDRE User=andre Pid=23468 CPUs=8
-\t (00:00:09) CmdLine= unison -layout -orcadx -productToken 00016FFABA84A6E1B5AA6CE1F48FF4B7B2E224F4E199F4A9B1F934FBB8D4A5B6B9F76783FCF3B2C7BA8038F3EF8383C6DF9F2CF1C1A6B3F7E6AA3AC5D48690E8EC9064A9FE92A6E0E6F86EEEE284F7E7B2F738FBED9BC09A80CF39898CEBC084E5CF27FF8C80EDC0CF9F468A9BA8FF84BFF038FBED85C08480CF38FBED85C08480CF52DAA4B389B2EAEE000040C9 C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/conn_1054550101_mol.dra
-\t (00:00:09) 
-\t (00:00:09) Loading axlcore.cxt 
-\t (00:00:09) Starting new design...
-\i (00:00:09) trapsize 10500
-\i (00:00:10) opencd_reload C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/conn_1054550101_mol.dra 
-\t (00:00:10) Opening existing design...
-\i (00:00:11) trapsize 31655
-\t (00:00:11)     Journal end - Thu Jun  4 11:45:39 2026
-roam x 5
-\i (01:13:09) roam y 1
-\i (01:13:09) roam x 1
-\i (01:13:09) roam end
-\i (01:13:09) zoom in 1 
-\i (01:13:09) setwindow pcb
-\i (01:13:09) zoom in 230.8224 167.7391
-\i (01:13:09) trapsize 2786
-\i (01:13:10) zoom out 1 
-\i (01:13:10) setwindow pcb
-\i (01:13:10) zoom out 226.5315 174.3707
-\i (01:13:10) trapsize 5573
-\i (01:13:10) roam start
-\i (01:13:10) roam x 1
-\i (01:13:10) roam x -1
-\i (01:13:10) roam x -8
-\i (01:13:10) roam y 1
-\i (01:13:10) roam x -27
-\i (01:13:10) roam x -21
-\i (01:13:10) roam x -120
-\i (01:13:10) roam x -28
-\i (01:13:10) roam y -12
-\i (01:13:10) roam end
-\i (01:13:55) QtSignal ADTableContainerWidget DRCTable selectionChanged
-\i (01:13:55) QtSignal ADTableContainerWidget DRCTable selectionChanged
-\i (01:13:55) QtSignal ADTableContainerWidget DRCTable selectionChanged
-\i (01:19:50) zoom in 1 
-\i (01:19:50) setwindow pcb
-\i (01:19:50) zoom in 269.7200 178.5502
-\i (01:19:50) trapsize 2786
-\i (01:19:50) zoom in 1 
-\i (01:19:50) setwindow pcb
-\i (01:19:50) zoom in 269.7200 178.5503
-\i (01:19:50) trapsize 1393
-\i (01:19:52) pick grid 263.2556 184.5967
-\t (01:19:52) last pick:  263.2556 184.5967
-\t (01:34:48) Performing Auto-Backup...
-\t (01:34:48) Auto-Backup successful
-\i (01:34:48) updateport ReportsPane
-\i (01:34:48) updateport SearchPane
-\i (01:34:49) updateport PropPane
-\i (01:35:29) zoom out 1 
-\i (01:35:29) setwindow pcb
-\i (01:35:29) zoom out 265.5962 175.4017
-\i (01:35:29) trapsize 2786
-\i (01:35:30) zoom out 1 
-\i (01:35:30) setwindow pcb
-\i (01:35:30) zoom out 265.5962 175.4017
-\i (01:35:30) trapsize 5573
-\i (01:35:42) prepopup 249.8811 148.3182
-\i (01:35:45) pop dyn_option_select '@:@Edit Footprint (CONN_1054550101_MOL)' 
-\i (01:35:45) mod symbol 
-\i (10:44:48) xrefdes '!' J4 
-\t (10:44:48) Symbol and Component Instances are not selectable at this time.
-\i (10:44:49) xrefdes '!' Y2 
-\t (10:44:49) Symbol and Component Instances are not selectable at this time.
-\i (10:44:49) xrefdes '!' U3 
-\t (10:44:49) Symbol and Component Instances are not selectable at this time.
-\i (10:44:49) xname_flush '!' 
-\i (10:44:49) QtSignal RefreshSymbolDialog updateTextButton clicked true
-\i (10:44:49) QtSignal RefreshSymbolDialog updatepadstksButton clicked true
-\i (10:44:50) QtSignal RefreshSymbolDialog okButton clicked
-\t (10:44:50) Starting Refresh Footprint...
-\t (10:44:53) SpawnProcessExit background process completed status = 2
-
-\e (10:44:53) ERROR(SPMHGE-794): refresh_symbol had errors.
-\i (10:44:54) updateport ReportsPane
-\i (10:44:54) updateport SearchPane
-\i (10:44:54) updateport PropPane
-\i (10:44:54) ucpedit 
-\i (10:44:54) updateport VisibilityPane
-\i (10:50:50) QtSignal MainCanvas ERCDesignSetupCompsDialog closed
-\i (10:50:50) QtSignal MainCanvas DCRMeasSetupDialog closed
-\i (10:50:50) QtSignal MainCanvas PkgModelParamDialog closed
-\i (10:50:50) QtSignal MainCanvas PwrIndPrefDialog closed
-\i (10:50:50) QtSignal MainCanvas ThermalModelSetupDialog closed
-\i (10:50:50) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (10:50:50) QtSignal MainCanvas IRDropVRMSetupDialog closed
-\i (10:50:51) QtSignal MainCanvas TopXpPrefDialog closed
-\i (10:50:51) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (10:50:51) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (10:50:51) QtSignal MainCanvas TopXpLayoutLinkNewDialog closed
-\i (10:50:51) QtSignal MainCanvas RfltPrefDialog closed
-\i (10:50:51) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (10:50:51) QtSignal MainCanvas CplPrefDialog closed
-\i (10:50:51) QtSignal MainCanvas CplGrpSel closed
-\i (10:50:51) QtSignal MainCanvas XtalkPrefDialog closed
-\i (10:50:51) QtSignal MainCanvas RefreshSymbolDialog closed
-\i (10:50:51) QtSignal MainCanvas IRDropSINKSetupDialog closed
-\i (10:50:51) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (10:50:51) QtSignal MainCanvas RpGrpSel closed
-\i (10:50:51) QtSignal MainCanvas ImpPrefDialog closed
-\i (10:50:51) QtSignal MainCanvas ImpGrpSel closed
-\i (10:50:51) QtSignal MainCanvas InterConnModelExtPrefDialog closed
-\i (10:50:51) QtSignal MainCanvas DesignSetupPrefDialog closed
-\i (10:50:51) QtSignal MainCanvas ERCDesignSetupXNetsDialog closed
-\i (10:50:51) QtSignal MainCanvas DCResistPrefDialog closed
-\i (10:50:51) QtSignal MainCanvas ThermalCompSetupDialog closed
-\i (10:50:51) QtSignal MainCanvas ThermalPrefDialog closed
-\i (10:50:51) QtSignal MainCanvas IRDropPrefDialog closed
-\i (10:50:51) QtSignal MainCanvas ReturnPathPrefDialog closed
-\t (10:50:57)     Journal end - Thu Jun  4 21:00:39 2026
+\t (00:00:07) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (00:00:07)     Journal start - Thu Aug 13 14:58:31 2026
+\t (00:00:07)         Host=LAPTOP-DI-ANDRE User=andre Pid=12192 CPUs=8
+\t (00:00:07) CmdLine= unison -layout -orcadx -productToken 00013EA1BF82F7E0B1F73CE0F4D3F4E0E6E222F5EB9FA5A9B7F838FABBDFF5BCE6F93782ACA5B2C7BA8038F3EF8383C6DF9F2CF1C1A6B3F7E6AA3AC5D48690E8EC9033F8A894F0E6B1FC6FE4ECBDF084B2FD38FBED9BC09A80CF39898CEBC084E5CF27FF8C80EDC0CF9F468A9BA8FF84BFF038FBED85C08480CF38FBED85C08480CF528652EA7FEBEAB2000040EA C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/aw3212f.dra
+\t (00:00:07) 
+\t (00:00:07) Loading axlcore.cxt 
+\t (00:00:07) Starting new design...
+\i (00:00:07) trapsize 10500
+\i (00:00:08) opencd_reload C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/aw3212f.dra 
+\t (00:00:08) Opening existing design...
+\i (00:00:08) trapsize 13013
+\t (00:00:09)     Journal end - Thu Aug 13 14:58:33 2026
