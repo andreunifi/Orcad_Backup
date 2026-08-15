@@ -1,157 +1,147 @@
-\t (00:09:37) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
-\t (00:09:37)     Journal start - Thu Aug 13 16:57:16 2026
-\t (00:09:37)         Host=LAPTOP-DI-ANDRE User=andre Pid=5668 CPUs=8
-\t (00:09:37) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\unison.exe -layout -orcadx
-\t (00:09:37) 
-\d (00:09:37) Design opened: C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/RHB0032E.dra
-\i (00:09:38) QtSignal ucp_shape_create_dyn_dim UCPAddShape_Type CurrentIndexChanged 1
-\i (00:09:38) updateport VisibilityPane
-\i (00:09:38) updateport PropPane
-\i (00:09:39) ucpedit 
-\i (00:09:39) updateport VisibilityPane
-\i (00:09:40) QtSignal VisLayerToolbarAllButton All clicked on
-\i (00:09:40) updateport ReportsPane
-\i (00:09:40) updateport SearchPane
-\i (00:09:40) updateport VisibilityPane
-\i (00:09:40) updateport PropPane
-\i (00:09:40) updateport CVPane
-\i (00:09:40) updateport VisibilityPane
-\i (00:09:42) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Assembly_Top" +
-\i (00:09:42) QtSignal 0
-\i (00:09:42) updateport ReportsPane
-\i (00:09:42) updateport SearchPane
-\i (00:09:42) updateport VisibilityPane
-\i (00:09:42) updateport PropPane
-\i (00:09:43) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Pastemask_Top" +
-\i (00:09:43) QtSignal 0
-\i (00:09:43) updateport ReportsPane
-\i (00:09:43) updateport SearchPane
-\i (00:09:43) updateport VisibilityPane
-\i (00:09:43) updateport PropPane
-\i (00:09:43) updateport CVPane
-\i (00:09:43) updateport VisibilityPane
-\i (00:09:44) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Silkscreen_Top" +
-\i (00:09:44) QtSignal 0
-\i (00:09:44) updateport ReportsPane
-\i (00:09:44) updateport SearchPane
-\i (00:09:44) updateport VisibilityPane
-\i (00:09:44) updateport PropPane
-\i (00:09:44) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Soldermask_Top" +
-\i (00:09:44) QtSignal 0
-\i (00:09:44) updateport ReportsPane
-\i (00:09:44) updateport SearchPane
-\i (00:09:44) updateport VisibilityPane
-\i (00:09:44) updateport PropPane
-\i (00:09:44) updateport CVPane
-\i (00:09:44) updateport VisibilityPane
-\i (00:09:44) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Place_Bound_Top" +
-\i (00:09:44) QtSignal 0
-\i (00:09:45) updateport ReportsPane
-\i (00:09:45) updateport SearchPane
-\i (00:09:45) updateport VisibilityPane
-\i (00:09:45) updateport PropPane
-\i (00:09:45) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Dfa_Bound_Top" +
-\i (00:09:45) QtSignal 0
-\i (00:09:45) updateport ReportsPane
-\i (00:09:45) updateport SearchPane
-\i (00:09:45) updateport VisibilityPane
-\i (00:09:45) updateport PropPane
-\i (00:09:46) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged Top 0
-\i (00:09:46) updateport ReportsPane
-\i (00:09:46) updateport SearchPane
-\i (00:09:46) updateport VisibilityPane
-\i (00:09:46) updateport PropPane
-\i (00:09:46) updateport CVPane
-\i (00:09:46) updateport VisibilityPane
-\i (00:09:47) drag_start grid -2.1506 2.1510
-\i (00:09:47) drag_stop 2.3843 -2.0211
-\i (00:09:48) updateport ReportsPane
-\i (00:09:48) updateport SearchPane
-\i (00:09:48) updateport PropPane
-\i (00:09:48) pick grid 1.4924 -0.0560
-\t (00:09:48) last pick:  1.4924 -0.0560
-\i (00:09:48) updateport ReportsPane
-\i (00:09:48) updateport SearchPane
-\i (00:09:48) updateport PropPane
-\i (00:09:49) zoom in 1 
-\i (00:09:49) setwindow pcb
-\i (00:09:49) zoom in -0.1703 -0.1618
-\i (00:09:49) trapsize 378
-\i (00:09:50) pick grid tgl 0.1094 -0.0409
-\t (00:09:50) last pick:  0.1094 -0.0409
-\i (00:09:50) updateport ReportsPane
-\i (00:09:50) updateport SearchPane
-\i (00:09:50) updateport PropPane
-\i (00:09:51) pick grid tgl -1.4400 0.0347
-\t (00:09:51) last pick:  -1.4400 0.0347
-\i (00:09:52) updateport ReportsPane
-\i (00:09:52) updateport SearchPane
-\i (00:09:52) updateport PropPane
-\i (00:09:52) pick grid tgl -0.0040 1.4330
-\t (00:09:52) last pick:  -0.0040 1.4330
-\i (00:09:53) updateport ReportsPane
-\i (00:09:53) updateport SearchPane
-\i (00:09:53) updateport PropPane
-\i (00:09:53) pick grid tgl 0.0489 -1.4769
-\t (00:09:53) last pick:  0.0489 -1.4769
-\i (00:09:54) updateport ReportsPane
-\i (00:09:54) updateport SearchPane
-\i (00:09:54) updateport PropPane
-\i (00:09:54) prepopup 0.0489 -1.4769
-\i (00:09:56) pop dyn_option_select @:@Delete 
-\i (00:09:56) ucp_delete 
-\i (00:09:56) updateport ReportsPane
-\i (00:09:56) updateport SearchPane
-\i (00:09:56) updateport PropPane
-\i (00:09:56) ucpedit 
-\i (00:09:56) updateport ReportsPane
-\i (00:09:56) updateport SearchPane
-\i (00:09:56) updateport VisibilityPane
-\i (00:09:56) updateport PropPane
-\i (00:09:59) save 
-\i (00:10:01) fillin yes 
-\t (00:10:02) Symbol 'rhb0032e.psm' created.
-\i (00:10:02) updateport ReportsPane
-\i (00:10:02) updateport SearchPane
-\i (00:10:02) updateport PropPane
-\i (00:10:02) ucpedit 
-\i (00:10:02) updateport VisibilityPane
-\i (00:10:04) QtSignal MainCanvas DCRMeasSetupDialog closed
-\i (00:10:04) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (00:10:04) QtSignal MainCanvas CplPrefDialog closed
-\i (00:10:04) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (00:10:04) QtSignal MainCanvas DCResistPrefDialog closed
-\i (00:10:04) QtSignal MainCanvas ThermalCompSetupDialog closed
-\i (00:10:04) QtSignal MainCanvas ThermalModelSetupDialog closed
-\i (00:10:04) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (00:10:05) QtSignal MainCanvas IRDropSINKSetupDialog closed
-\i (00:10:05) QtSignal MainCanvas ImpPrefDialog closed
-\i (00:10:05) QtSignal MainCanvas TopXpPrefDialog closed
-\i (00:10:05) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (00:10:05) QtSignal MainCanvas PkgModelParamDialog closed
-\i (00:10:05) QtSignal MainCanvas ReturnPathPrefDialog closed
-\i (00:10:05) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (00:10:05) QtSignal MainCanvas ERCDesignSetupXNetsDialog closed
-\i (00:10:05) QtSignal MainCanvas ThermalPrefDialog closed
-\i (00:10:05) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (00:10:05) QtSignal MainCanvas PwrIndPrefDialog closed
-\i (00:10:05) QtSignal MainCanvas CplGrpSel closed
-\i (00:10:05) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (00:10:05) QtSignal MainCanvas TopXpLayoutLinkNewDialog closed
-\i (00:10:05) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (00:10:05) QtSignal MainCanvas IRDropVRMSetupDialog closed
-\i (00:10:05) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (00:10:05) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (00:10:05) QtSignal MainCanvas RfltPrefDialog closed
-\i (00:10:05) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (00:10:05) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (00:10:05) QtSignal MainCanvas IRDropPrefDialog closed
-\i (00:10:05) QtSignal MainCanvas InterConnModelExtPrefDialog closed
-\i (00:10:05) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (00:10:05) QtSignal MainCanvas ERCDesignSetupCompsDialog closed
-\i (00:10:05) QtSignal MainCanvas DesignSetupPrefDialog closed
-\i (00:10:05) QtSignal MainCanvas RpGrpSel closed
-\i (00:10:05) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (00:10:05) QtSignal MainCanvas ImpGrpSel closed
-\i (00:10:05) QtSignal MainCanvas XtalkPrefDialog closed
-\t (00:10:12)     Journal end - Thu Aug 13 16:57:50 2026
+\t (00:00:12) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (00:00:12)     Journal start - Fri Aug 14 16:17:52 2026
+\t (00:00:12)         Host=LAPTOP-DI-ANDRE User=andre Pid=11536 CPUs=8
+\t (00:00:12) CmdLine= unison -layout -orcadx -productToken 000165AAED84F9B6B9FB69EFF484F4BCB5E224ADEB9FF3A9B1F86BFBEF82A4E2B7FA3082F9A2B2C7BA8038F3EF8383C6DF9F2CF1C1A6B3F7E6AA3AC5D48690E8EC9033AFABC5F3B7B1AE68B0E2D6F7B4B1A938FBED9BC09A80CF39898CEBC084E5CF27FF8C80EDC0CF9F468A9BA8FF84BFF038FBED85C08480CF38FBED85C08480CF5284CE06E307EAB0000040BB C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/conn_1054550101_mol.dra
+\t (00:00:12) 
+\d (00:00:12) Design opened: C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/conn_1054550101_mol.dra
+\i (00:00:13) trapsize 321
+\i (00:00:14) QtSignal PropertyPadstackWidget PropertyPadstackEditMode CurrentIndexChanged 0
+\i (00:00:14) QtSignal PropertyPadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (00:00:14) QtSignal PropertyPadstackWidget copperPadType CurrentIndexChanged 0
+\i (00:00:27) QtSignal Property_Docked_PadstackWidget PropertyPadstackEditMode CurrentIndexChanged +
+\i (00:00:27) QtSignal 0
+\i (00:00:27) QtSignal Property_Docked_PadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (00:00:27) QtSignal Property_Docked_PadstackWidget copperPadType CurrentIndexChanged 0
+\t (00:00:32) Loading consmgr.cxt 
+\t (00:00:32) Loading acns_formula.cxt 
+\i (00:00:32) trapsize 326
+\i (00:00:35) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
+\i (00:00:36) QtSignal ucp_shape_create_dyn_dim UCPAddShape_Type CurrentIndexChanged 1
+\i (00:00:37) updateport VisibilityPane
+\i (00:00:38) updateport CMPanelPort
+\i (00:00:38) updateport PropPane
+\i (00:00:38) updateport CVPane
+\i (00:00:38) ucpedit 
+\i (00:00:38) updateport ReportsPane
+\i (00:00:38) updateport SearchPane
+\i (00:00:38) updateport VisibilityPane
+\i (00:00:39) zoom out 1 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom out 2.2921 2.9231
+\i (00:00:39) trapsize 652
+\i (00:00:40) roam start
+\i (00:00:40) roam x -5
+\i (00:00:40) roam x -19
+\i (00:00:40) roam y -1
+\i (00:00:40) roam x -29
+\i (00:00:40) roam x -33
+\i (00:00:40) roam x -72
+\i (00:00:41) roam x -37
+\i (00:00:41) roam x -14
+\i (00:00:41) roam x -21
+\i (00:00:41) roam y 3
+\i (00:00:41) roam x -20
+\i (00:00:41) roam y 2
+\i (00:00:41) roam x -8
+\i (00:00:41) roam y 3
+\i (00:00:41) roam x -6
+\i (00:00:41) roam x -29
+\i (00:00:41) roam y 6
+\i (00:00:41) roam x -41
+\i (00:00:41) roam y 1
+\i (00:00:41) roam x -34
+\i (00:00:41) roam y 6
+\i (00:00:41) roam x -20
+\i (00:00:41) roam y 5
+\i (00:00:41) roam x -7
+\i (00:00:41) roam y 3
+\i (00:00:41) roam x -9
+\i (00:00:41) roam y 2
+\i (00:00:41) roam x -1
+\i (00:00:41) roam y 2
+\i (00:00:41) roam y 1
+\i (00:00:41) roam x -3
+\i (00:00:41) roam y 9
+\i (00:00:41) roam x -8
+\i (00:00:41) roam y 21
+\i (00:00:41) roam x -5
+\i (00:00:41) roam y 10
+\i (00:00:41) roam x -2
+\i (00:00:41) roam y 5
+\i (00:00:41) roam x -2
+\i (00:00:41) roam y 12
+\i (00:00:41) roam x -1
+\i (00:00:41) roam y 9
+\i (00:00:41) roam x -2
+\i (00:00:41) roam y 14
+\i (00:00:41) roam x -2
+\i (00:00:41) roam y 12
+\i (00:00:41) roam x -1
+\i (00:00:41) roam y 13
+\i (00:00:41) roam y 6
+\i (00:00:42) roam y 5
+\i (00:00:42) roam x 1
+\i (00:00:42) roam y 4
+\i (00:00:42) roam end
+\i (00:00:43) QtSignal UCP_Add_Text UCPTextHeight editingFinished "2.54 MM"
+\i (00:00:43) QtSignal VisLayerToolbarAllButton All clicked on
+\i (00:00:43) updateport ReportsPane
+\i (00:00:43) updateport SearchPane
+\i (00:00:43) updateport VisibilityPane
+\i (00:00:43) updateport PropPane
+\i (00:00:43) updateport CVPane
+\i (00:00:43) updateport VisibilityPane
+\i (00:00:50) zoom out 1 
+\i (00:00:50) setwindow pcb
+\i (00:00:50) zoom out 3.5829 2.1726
+\i (00:00:50) trapsize 1304
+\i (00:00:51) zoom in 1 
+\i (00:00:51) setwindow pcb
+\i (00:00:51) zoom in 3.5830 2.1726
+\i (00:00:51) trapsize 652
+\i (00:00:53) roam start
+\i (00:00:53) roam x -4
+\i (00:00:53) roam y 4
+\i (00:00:53) roam x -9
+\i (00:00:53) roam y 6
+\i (00:00:53) roam x -10
+\i (00:00:53) roam y 7
+\i (00:00:53) roam x -6
+\i (00:00:53) roam y 6
+\i (00:00:53) roam x -12
+\i (00:00:53) roam y 7
+\i (00:00:53) roam x -4
+\i (00:00:53) roam y 3
+\i (00:00:53) roam x -5
+\i (00:00:53) roam y 5
+\i (00:00:53) roam x -4
+\i (00:00:53) roam y 5
+\i (00:00:54) roam x -9
+\i (00:00:54) roam y 5
+\i (00:00:54) roam x -2
+\i (00:00:54) roam y 5
+\i (00:00:54) roam y 4
+\i (00:00:54) roam x -1
+\i (00:00:54) roam y 3
+\i (00:00:54) roam x -4
+\i (00:00:54) roam y 7
+\i (00:00:54) roam y 5
+\i (00:00:54) roam x -1
+\i (00:00:54) roam y 5
+\i (00:00:54) roam x -2
+\i (00:00:54) roam y 6
+\i (00:00:54) roam x -1
+\i (00:00:54) roam y 6
+\i (00:00:54) roam y 1
+\i (00:00:54) roam end
+\i (00:00:54) zoom in 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom in 9.9091 2.6160
+\i (00:00:54) trapsize 326
+\i (00:00:55) zoom out 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom out 9.8766 2.5443
+\i (00:00:55) trapsize 652
+\i (00:03:43) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:03:43) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\t (00:03:50)     Journal end - Fri Aug 14 16:21:30 2026

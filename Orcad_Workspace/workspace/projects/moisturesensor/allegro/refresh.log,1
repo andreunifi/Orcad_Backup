@@ -4,12 +4,12 @@
 (                                                                     )
 (    Drawing          : SO1L.brd                                      )
 (    Software Version : 25.1S030                                      )
-(    Date/Time        : Thu Aug 13 15:53:52 2026                      )
+(    Date/Time        : Fri Aug 14 13:34:43 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Thu Aug 13 15:53:52 2026				Page     1
+Fri Aug 14 13:34:43 2026				Page     1
 
 
 ------ Symbol Refresh Directives ------
@@ -27,7 +27,7 @@ Reset symbol text and size locations   = 'YES'
 Reset Pin Escapes (fanouts)            = 'NO'
 Ripup Etch                             = 'NO'
 Reset custom drill data                = 'NO'
-Symbol list file                       = 'C:/Users/andre/AppData/Local/Temp/#Taaaaas00544.tmp'
+Symbol list file                       = 'C:/Users/andre/AppData/Local/Temp/#Taaaagu08048.tmp'
 
 
 ------ Library Paths ------
@@ -55,7 +55,7 @@ PADPATH =  C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/librarie
 
 ------ Symbol Refresh Messages ------
 
-'QFN20_4X4MC_MCH'  symbol refreshed successfully.
+'CX3225FB48000F0FZZH1'  symbol refreshed successfully.
 
 
 ------ Updating padstacks referring to the refreshed shapes and flash symbols.  ------
@@ -64,9 +64,7 @@ PADPATH =  C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/librarie
 
 ------ Pad Stack Refresh Messages ------
 
-'R279_279-1'  pad stack refreshed successfully.
-'VIAFORMCC'  pad stack refreshed successfully.
-'R25_81'  pad stack refreshed successfully.
+'R140_120'  pad stack refreshed successfully.
 
 
 ----- Symbol Update Summary ----

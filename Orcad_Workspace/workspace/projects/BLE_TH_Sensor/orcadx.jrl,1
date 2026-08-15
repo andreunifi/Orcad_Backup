@@ -1,0 +1,86 @@
+\t (22:57:44) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (22:57:44)     Journal start - Fri Aug 14 16:09:38 2026
+\t (22:57:44)         Host=LAPTOP-DI-ANDRE User=andre Pid=8048 CPUs=8
+\t (22:57:44) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\unison.exe -layout -orcadx
+\t (22:57:44) 
+\d (22:57:44) Design opened: C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/BLE_TH_Sensor/Tesis_minimum_size_v3.brd
+\i (22:57:48) updateport VisibilityPane
+\i (22:57:48) updateport PropPane
+\i (22:57:49) ucpedit 
+\i (22:57:49) updateport VisibilityPane
+\i (22:57:49) roam start
+\i (22:57:49) roam x 124
+\i (22:57:49) roam y -25
+\i (22:57:50) roam x 111
+\i (22:57:50) roam y -8
+\i (22:57:50) roam x 416
+\i (22:57:50) roam x 93
+\i (22:57:50) roam x 91
+\i (22:57:50) roam y 8
+\i (22:57:50) roam x 100
+\i (22:57:50) roam y 6
+\i (22:57:50) roam x 72
+\i (22:57:50) roam y 13
+\i (22:57:50) roam end
+\i (22:57:51) pick grid 11.6154 -28.2949
+\t (22:57:51) last pick:  11.6154 -28.2949
+\i (22:57:52) ucp_shape_edit_mode 
+\i (22:57:53) updateport ReportsPane
+\i (22:57:53) updateport SearchPane
+\i (22:57:53) updateport VisibilityPane
+\i (22:57:53) updateport PropPane
+\i (22:57:53) ucpedit 
+\i (22:57:55) updateport ReportsPane
+\i (22:57:55) updateport SearchPane
+\i (22:57:55) updateport PropPane
+\i (22:57:55) pick grid tgl 10.7260 -16.5479
+\t (22:57:55) last pick:  10.7260 -16.5479
+\i (22:57:56) ucp_selection_mode 
+\i (22:57:57) updateport ReportsPane
+\i (22:57:57) updateport SearchPane
+\i (22:57:57) updateport PropPane
+\i (22:57:57) ucpedit 
+\i (22:57:58) updateport ReportsPane
+\i (22:57:58) updateport SearchPane
+\i (22:57:58) updateport VisibilityPane
+\i (22:57:58) updateport PropPane
+\i (22:58:01) cplay_copy_layout 
+\i (22:58:07) pick grid 9.6514 -15.4733
+\t (22:58:07) last pick:  9.6514 -15.4733
+\i (22:58:08) updateport VisibilityPane
+\i (22:58:08) ucpedit 
+\i (22:58:09) updateport ReportsPane
+\i (22:58:09) updateport SearchPane
+\i (22:58:09) updateport VisibilityPane
+\i (22:58:09) updateport PropPane
+\i (22:58:10) pick grid 10.3184 -28.3691
+\t (22:58:10) last pick:  10.3184 -28.3691
+\i (22:58:11) ucp_shape_edit_mode 
+\i (22:58:12) updateport ReportsPane
+\i (22:58:12) updateport SearchPane
+\i (22:58:12) updateport VisibilityPane
+\i (22:58:12) updateport PropPane
+\i (22:58:12) ucpedit 
+\i (22:58:14) updateport ReportsPane
+\i (22:58:14) updateport SearchPane
+\i (22:58:14) updateport PropPane
+\i (22:58:14) pick grid tgl 10.9483 -16.7703
+\t (22:58:14) last pick:  10.9483 -16.7703
+\i (22:58:15) ucp_selection_mode 
+\i (22:58:16) updateport ReportsPane
+\i (22:58:16) updateport SearchPane
+\i (22:58:16) updateport PropPane
+\i (22:58:16) ucpedit 
+\i (22:58:17) updateport ReportsPane
+\i (22:58:17) updateport SearchPane
+\i (22:58:17) updateport VisibilityPane
+\i (22:58:17) updateport PropPane
+\i (22:58:40) opencd C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd 
+\e (22:58:41) Do you want to save the changes you made to Tesis_minimum_size_v3.brd?
+\i (22:58:44) fillin no 
+\t (22:58:44) Opening existing design...
+\i (22:58:46) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (22:58:46) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (22:58:48) trapsize 4053
+\t (22:58:49) > Sending response DoneOpenBoard
+\t (22:58:49)     Journal end - Fri Aug 14 16:10:44 2026

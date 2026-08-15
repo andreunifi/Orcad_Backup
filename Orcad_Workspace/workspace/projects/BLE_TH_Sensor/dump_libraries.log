@@ -1,0 +1,127 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 25.1S030                                      )
+(    Date/Time        : Fri Aug 14 16:06:34 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/BLE_TH_Sensor/Tesis_minimum_size_v3.brd ***
+
+
+
+  *** Creating all device files (see create_devices.log) ***
+
+
+  *** Creating padstacks. ***
+
+  MF_SMD_0402_COMPONENTS being dumped.
+
+  MF_SMD_0603_COMPONENTS being dumped.
+
+  MF_PTH_DRILL0D25_PAD0D6 being dumped.
+
+  MF_SMD_RECTANGLE1D5_1D5 being dumped.
+
+  MF_SMD_CIRCLE_15D0 being dumped.
+
+  MF_SMD_RECTANGLE_1D0_0D3 being dumped.
+
+  MF_SMD_RECTANGLE_1D3_2D0 being dumped.
+
+  MF_SMD_RECTANGLE_1D2_1D5 being dumped.
+
+  MF_SMD_RECTANGLE_1D7_1D1 being dumped.
+
+  MF_SMD_RECTANGLE_0D8_1D1 being dumped.
+
+  MF_SMD_RECTANGLE_0D6_0D5 being dumped.
+
+  MF_SMD_RECTANGLE_2D6_3D0 being dumped.
+
+  MF_SMD_RECTANGLE_3D6_3D0 being dumped.
+
+  MF_SMD_RECTANGLE_2D5_5D1 being dumped.
+
+  MF_SMD_RECTANGLE_0D8_1D6 being dumped.
+
+  MF_SMD_RECTANGLE_1D7_3D7 being dumped.
+
+  MF_SMD_SQUIARE_3D0 being dumped.
+
+  MF_SMD_CIRCLE_0D263 being dumped.
+
+  MF_AN043_FEED_POINT being dumped.
+
+  MF_SMD_RECTANGLE_1D4_1D15 being dumped.
+
+  VIA being dumped.
+
+  SN_PTH_DRILL1D0_PAD2D0_2D0 being dumped.
+
+  SMD_CC2650 being dumped.
+
+  MF_SMD_RECTANGLE_1D27_3D68 being dumped.
+
+  R0_50_0_50 being dumped.
+
+  MF_SMD_RECTANGLE_0D74_2D79 being dumped.
+
+  MF_THRUHOLE_0D6 being dumped.
+
+  MF_THRUHOLE_0D9 being dumped.
+
+  MF_DIEPAD_RECTANGLE_0D9_0D7 being dumped.
+
+
+  *** Creating flash symbols (.dra and .fsm) ***
+
+  ab00 being dumped.
+
+
+  *** Creating package symbols (.dra and .psm) ***
+
+  hdc2010 being dumped.
+
+  smd_cc2650_32 being dumped.
+
+  mf_0603_smd_filter being dumped.
+
+  s8421-45r being dumped.
+
+  tsx-3225_24mhz being dumped.
+
+  ftsh-105-01-f-dv being dumped.
+
+  m50-3530242 being dumped.
+
+  mf_0402_smd_inductor being dumped.
+
+  mf_0603_smd_led being dumped.
+
+  mf_0603_smd_inductor being dumped.
+
+  an043_flip being dumped.
+
+  mf_0402_smd_resistor being dumped.
+
+  kss341glfs being dumped.
+
+  mf_0402_smd_capacitor being dumped.
+
+  c-135r being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:               29
+Number of package symbols dumped:         15
+Number of flash symbols dumped:            1
+
+Total number of symbols dumped:           16
+*****************************************************
+

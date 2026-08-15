@@ -1,0 +1,40 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Create_devices LOG file                                          )
+(                                                                     )
+(    Drawing          : Tesis_minimum_size_v3.brd                     )
+(    Software Version : 25.1S030                                      )
+(    Date/Time        : Fri Aug 14 16:06:35 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Device file 'C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/BLE_TH_Sensor/export_libraries/txs-3225_tsx-3225_24mhz_24mhz.txt': written successfully.
+Device file 'C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/BLE_TH_Sensor/export_libraries/m50-3530242_m50-3530242_m50-353.txt': written successfully.
+Device file 'C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/BLE_TH_Sensor/export_libraries/anteena_an043_flip_anteena.txt': written successfully.
+Device file 'C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/BLE_TH_Sensor/export_libraries/s8421-45r_s8421-45r_s8421-45r.txt': written successfully.
+Device file 'C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/BLE_TH_Sensor/export_libraries/capacitor_mf_0402_smd_capacitor.txt': written successfully.
+Device file 'C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/BLE_TH_Sensor/export_libraries/capacitor_mf_0402_smd_capacit_1.txt': written successfully.
+Device file 'C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/BLE_TH_Sensor/export_libraries/capacitor_mf_0402_smd_capacit_2.txt': written successfully.
+Device file 'C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/BLE_TH_Sensor/export_libraries/ftsh-105-01-f-dv_ftsh-105-01-f-.txt': written successfully.
+Device file 'C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/BLE_TH_Sensor/export_libraries/capacitor_mf_0402_smd_capacit_3.txt': written successfully.
+Device file 'C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/BLE_TH_Sensor/export_libraries/hdc2010_hdc2010_hdc2010.txt': written successfully.
+Device file 'C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/BLE_TH_Sensor/export_libraries/resistor_mf_0402_smd_resistor_4.txt': written successfully.
+Device file 'C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/BLE_TH_Sensor/export_libraries/switchbutton_kss341glfs_kss341g.txt': written successfully.
+Device file 'C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/BLE_TH_Sensor/export_libraries/blm18he152sn1_mf_0603_smd_filte.txt': written successfully.
+Device file 'C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/BLE_TH_Sensor/export_libraries/inductor_mf_0402_smd_inductor_2.txt': written successfully.
+Device file 'C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/BLE_TH_Sensor/export_libraries/inductor_mf_0402_smd_inductor_1.txt': written successfully.
+Device file 'C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/BLE_TH_Sensor/export_libraries/inductor_mf_0603_smd_inductor_1.txt': written successfully.
+Device file 'C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/BLE_TH_Sensor/export_libraries/led_mf_0603_smd_led_greenled.txt': written successfully.
+Device file 'C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/BLE_TH_Sensor/export_libraries/led_mf_0603_smd_led_redled.txt': written successfully.
+Device file 'C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/BLE_TH_Sensor/export_libraries/resistor_mf_0402_smd_resistor_1.txt': written successfully.
+Device file 'C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/BLE_TH_Sensor/export_libraries/resistor_mf_0402_smd_resistor_2.txt': written successfully.
+Device file 'C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/BLE_TH_Sensor/export_libraries/resistor_mf_0402_smd_resistor_0.txt': written successfully.
+Device file 'C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/BLE_TH_Sensor/export_libraries/resistor_mf_0402_smd_resistor_6.txt': written successfully.
+Device file 'C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/BLE_TH_Sensor/export_libraries/resistor_mf_0402_smd_resistor_3.txt': written successfully.
+Device file 'C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/BLE_TH_Sensor/export_libraries/cc2650_smd_cc2650_32_cc2650.txt': written successfully.
+Device file 'C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/BLE_TH_Sensor/export_libraries/fc-135r_c-135r_32768khz.txt': written successfully.
+
+  Created device files: 25
+

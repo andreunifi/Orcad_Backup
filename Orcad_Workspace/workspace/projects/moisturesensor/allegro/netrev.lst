@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : SO1L.brd                                      )
 (    Software Version : 25.1S030                                      )
-(    Date/Time        : Thu Aug 13 17:19:09 2026                      )
+(    Date/Time        : Sat Aug 15 10:36:58 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -22,12 +22,12 @@ Design Directory:            'C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace
 Old design name:             'C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd'
 New design name:             'C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd'
 
-CmdLine: netrev -y 1 -i c:\users\andre\desktop\ese_group18\pcb_layout -q netrev_constraint_report.xml C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/#Taaaadb08048.tmp
+CmdLine: netrev -y 1 -i c:\users\andre\desktop\ese_group18\pcb_layout -q netrev_constraint_report.xml C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/#Taaaabf14928.tmp
 
 ------ Preparing to read pst files ------
 
 Starting to read c:/users/andre/desktop/ese_group18/pcb_layout/pstchip.dat 
-   Finished reading c:/users/andre/desktop/ese_group18/pcb_layout/pstchip.dat (00:00:00.05)
+   Finished reading c:/users/andre/desktop/ese_group18/pcb_layout/pstchip.dat (00:00:00.03)
 Starting to read c:/users/andre/desktop/ese_group18/pcb_layout/pstxprt.dat 
    Finished reading c:/users/andre/desktop/ese_group18/pcb_layout/pstxprt.dat (00:00:00.00)
 Starting to read c:/users/andre/desktop/ese_group18/pcb_layout/pstxnet.dat 
@@ -79,7 +79,7 @@ PADPATH =  C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/librarie
 ------ Summary Statistics ------
 
 
-netrev run on Aug 13 17:19:09 2026
+netrev run on Aug 15 10:36:58 2026
    DESIGN NAME : 'SO1L'
    PACKAGING ON Mar 25 2026 22:25:38
 
@@ -104,6 +104,6 @@ netrev run on Aug 13 17:19:09 2026
  No oversight detected
   2 warnings detected
 
-cpu time      0:02:15
+cpu time      0:01:03
 elapsed time  0:00:00
 
