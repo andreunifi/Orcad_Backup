@@ -182,3 +182,7 @@
 2026-08-15T10:36:58 ===> "c:/users/andre/desktop/ese_group18/pcb_layout/pstxnet.dat"
 2026-08-15T10:36:58 ===> "c:/users/andre/desktop/ese_group18/pcb_layout/pstxprt.dat"
 2026-08-15T10:36:58 ===> "c:/users/andre/desktop/ese_group18/pcb_layout/pstdmlmodels.dat"
+2026-08-15T14:06:19 ===> "c:/users/andre/desktop/ese_group18/pcb_layout/pstchip.dat"
+2026-08-15T14:06:19 ===> "c:/users/andre/desktop/ese_group18/pcb_layout/pstxnet.dat"
+2026-08-15T14:06:19 ===> "c:/users/andre/desktop/ese_group18/pcb_layout/pstxprt.dat"
+2026-08-15T14:06:19 ===> "c:/users/andre/desktop/ese_group18/pcb_layout/pstdmlmodels.dat"

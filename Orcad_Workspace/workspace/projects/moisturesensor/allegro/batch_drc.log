@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : SO1L.brd                                      )
 (    Software Version : 25.1S030                                      )
-(    Date/Time        : Sat Aug 15 11:52:30 2026                      )
+(    Date/Time        : Sat Aug 15 13:57:40 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -21,9 +21,6 @@
  ========= check standalone rectangles        0:00:00
 
  ..... Total number of DRC errors  0
-
-
-WARNING: 2 dynamic shape(s) out of date; checking skipped on these elements.
 
  ..... DRC update completed, total CPU time   0:00:00
  *************************************************************************

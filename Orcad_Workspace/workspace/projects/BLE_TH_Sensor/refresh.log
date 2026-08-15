@@ -1,0 +1,74 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : Tesis_minimum_size_v2.brd                     )
+(    Software Version : 25.1S030                                      )
+(    Date/Time        : Sat Aug 15 14:02:22 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Sat Aug 15 14:02:22 2026				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design  = 'C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/BLE_TH_Sensor/Tesis_minimum_size_v2.brd'
+Output design = ''
+
+Update mechanical symbols              = 'NO'
+Update format symbols                  = 'NO'
+Update package symbols                 = 'NO'
+Update shape/flash symbols             = 'NO'
+Update symbol padstacks                = 'YES'
+Preserve padstacks replaced on pins    = 'NO'
+Reset symbol text and size locations   = 'YES'
+Reset Pin Escapes (fanouts)            = 'NO'
+Ripup Etch                             = 'NO'
+Reset custom drill data                = 'NO'
+Symbol list file                       = 'C:/Users/andre/AppData/Local/Temp/#Taaaade12076.tmp'
+
+
+------ Library Paths ------
+PSMPATH =  C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/OrCADX_25.1/share/orApps/OrCaptureApp/../../../share/local/pcb/symbols 
+           C:/Cadence/OrCADX_25.1/share/orApps/OrCaptureApp/../../../share/pcb/pcb_lib/symbols 
+           C:/Cadence/OrCADX_25.1/share/orApps/OrCaptureApp/../../../share/pcb/allegrolib/symbols 
+           C:/Users/andre/AppData/Roaming/SPB_Data/cdssetup/OrCAD_Capture/25.1.0/downloaded_parts/allegropcb 
+           C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace 
+
+PADPATH =  C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/OrCADX_25.1/share/orApps/OrCaptureApp/../../../share/local/pcb/padstacks 
+           C:/Cadence/OrCADX_25.1/share/orApps/OrCaptureApp/../../../share/pcb/pcb_lib/symbols 
+           C:/Cadence/OrCADX_25.1/share/orApps/OrCaptureApp/../../../share/pcb/allegrolib/symbols 
+           C:/Users/andre/AppData/Roaming/SPB_Data/cdssetup/OrCAD_Capture/25.1.0/downloaded_parts/allegropcb 
+
+
+------ Symbol Refresh Messages ------
+
+'AN043_FLIP'  symbol refreshed successfully.
+
+
+------ Updating padstacks referring to the refreshed shapes and flash symbols.  ------
+
+
+
+------ Pad Stack Refresh Messages ------
+
+'MF_AN043_FEED_POINT'  pad stack refreshed successfully.
+
+
+----- Symbol Update Summary ----
+
+Updated symbols: 1 out 1
+    Design updated.
+

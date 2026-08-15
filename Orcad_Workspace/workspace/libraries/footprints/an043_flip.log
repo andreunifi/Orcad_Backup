@@ -1,6 +1,6 @@
 (---------------------------------------------------------------------)
 (                                                                     )
-(    Downrev Design                                                   )
+(    CREATE SYMBOL                                                    )
 (                                                                     )
 (    Drawing          : an043_flip.dra                                )
 (    Software Version : 25.1S030                                      )
@@ -9,4 +9,15 @@
 (---------------------------------------------------------------------)
 
 
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints
+    Name      = an043_flip.psm
+    User      = andre
+    Machine   = LAPTOP-DI-ANDRE
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
 

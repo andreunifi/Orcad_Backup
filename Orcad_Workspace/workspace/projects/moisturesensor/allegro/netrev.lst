@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : SO1L.brd                                      )
 (    Software Version : 25.1S030                                      )
-(    Date/Time        : Sat Aug 15 10:36:58 2026                      )
+(    Date/Time        : Sat Aug 15 14:06:19 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -22,12 +22,12 @@ Design Directory:            'C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace
 Old design name:             'C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd'
 New design name:             'C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd'
 
-CmdLine: netrev -y 1 -i c:\users\andre\desktop\ese_group18\pcb_layout -q netrev_constraint_report.xml C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/#Taaaabf14928.tmp
+CmdLine: netrev -y 1 -i c:\users\andre\desktop\ese_group18\pcb_layout -q netrev_constraint_report.xml C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/#Taaaaft12076.tmp
 
 ------ Preparing to read pst files ------
 
 Starting to read c:/users/andre/desktop/ese_group18/pcb_layout/pstchip.dat 
-   Finished reading c:/users/andre/desktop/ese_group18/pcb_layout/pstchip.dat (00:00:00.03)
+   Finished reading c:/users/andre/desktop/ese_group18/pcb_layout/pstchip.dat (00:00:00.04)
 Starting to read c:/users/andre/desktop/ese_group18/pcb_layout/pstxprt.dat 
    Finished reading c:/users/andre/desktop/ese_group18/pcb_layout/pstxprt.dat (00:00:00.00)
 Starting to read c:/users/andre/desktop/ese_group18/pcb_layout/pstxnet.dat 
@@ -37,13 +37,6 @@ Starting to read c:/users/andre/desktop/ese_group18/pcb_layout/pstxnet.dat
 
 
 #1   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'AN043_FLIP' used by RefDes A1 for device 'ANTEENA_AN043_FLIP_ANTENNA' not found. 
-The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
-
-Set the correct library path if not set or use dbdoctor to migrate old symbols
-
-#2   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
 
 WARNING(SPMHNI-194): Symbol 'CK05' used by RefDes C9 for device 'C_CK05_DNM' not found. 
 The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
@@ -79,7 +72,7 @@ PADPATH =  C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/librarie
 ------ Summary Statistics ------
 
 
-netrev run on Aug 15 10:36:58 2026
+netrev run on Aug 15 14:06:19 2026
    DESIGN NAME : 'SO1L'
    PACKAGING ON Mar 25 2026 22:25:38
 
@@ -102,8 +95,8 @@ netrev run on Aug 15 10:36:58 2026
 
  No error detected
  No oversight detected
-  2 warnings detected
+  1 warnings detected
 
-cpu time      0:01:03
+cpu time      0:01:16
 elapsed time  0:00:00
 
