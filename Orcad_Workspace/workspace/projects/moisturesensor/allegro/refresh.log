@@ -4,12 +4,12 @@
 (                                                                     )
 (    Drawing          : SO1L.brd                                      )
 (    Software Version : 25.1S030                                      )
-(    Date/Time        : Fri Aug 14 15:16:44 2026                      )
+(    Date/Time        : Sun Aug 16 11:23:05 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Fri Aug 14 15:16:44 2026				Page     1
+Sun Aug 16 11:23:05 2026				Page     1
 
 
 ------ Symbol Refresh Directives ------
@@ -27,7 +27,7 @@ Reset symbol text and size locations   = 'YES'
 Reset Pin Escapes (fanouts)            = 'NO'
 Ripup Etch                             = 'NO'
 Reset custom drill data                = 'NO'
-Symbol list file                       = 'C:/Users/andre/AppData/Local/Temp/#Taaaajv08048.tmp'
+Symbol list file                       = 'C:/Users/andre/AppData/Local/Temp/#Taaaait13096.tmp'
 
 
 ------ Library Paths ------
@@ -55,7 +55,7 @@ PADPATH =  C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/librarie
 
 ------ Symbol Refresh Messages ------
 
-'RHB0032E'  symbol refreshed successfully.
+'AN043_FLIP'  symbol refreshed successfully.
 
 
 ------ Updating padstacks referring to the refreshed shapes and flash symbols.  ------
@@ -64,8 +64,7 @@ PADPATH =  C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/librarie
 
 ------ Pad Stack Refresh Messages ------
 
-'O10090240000200A'  pad stack refreshed successfully.
-'R11361360000267A'  pad stack refreshed successfully.
+'MF_AN043_FEED_POINT'  pad stack refreshed successfully.
 
 
 ----- Symbol Update Summary ----

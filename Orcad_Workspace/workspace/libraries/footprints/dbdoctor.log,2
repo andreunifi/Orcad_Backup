@@ -4,25 +4,15 @@
 (                                                                     )
 (    Drawing          : conn_1054550101_mol.dra                       )
 (    Software Version : 25.1S030                                      )
-(    Date/Time        : Wed Jun  3 15:25:31 2026                      )
+(    Date/Time        : Wed Jun  3 15:53:41 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 
-ERROR: in PAD STACK padstack name = OX107Y47D1P0_D85X26
-  ERROR(SPMHDB-311): Duplicate padstack name found in design.
-   Error was fixed.
-    Duplicate padstack renamed from OX107Y47D1P0_D85X26 to OX107Y47D1P0_D85X26_DBFIX1
-
-ERROR: in PAD STACK padstack name = OX87Y47D1P0_D65X26
-  ERROR(SPMHDB-311): Duplicate padstack name found in design.
-   Error was fixed.
-    Duplicate padstack renamed from OX87Y47D1P0_D65X26 to OX87Y47D1P0_D65X26_DBFIX2
-
 Regenerating DRC
-  Original DRC errors:   0
+  Original DRC errors:   3
   Updated DRC errors:    0
   DRC elapsed time:      00:00:00
 
-0 warnings, 2 errors detected, 2 errors  fixed.
+0 warnings, 0 errors detected, 0 errors  fixed.
