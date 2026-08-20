@@ -1,100 +1,44 @@
 \t (00:00:13) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
-\t (00:00:13)     Journal start - Sun Aug 16 11:20:55 2026
-\t (00:00:13)         Host=LAPTOP-DI-ANDRE User=andre Pid=7060 CPUs=8
-\t (00:00:13) CmdLine= unison -layout -orcadx -productToken 000160F9EB81F3B0B9A96CE5F4DFF4E6B0E277FBED9EA1A9E2F66AFBEAD7A1E2B7A9618CA8F3B2C7BA8038F3EF8383C6DF9F2CF1C1A6B3F7E6AA3AC5D48690E8EC903AADA8C5F0B7B8A96AE5EE85F2BCB3FC38FBED9BC09A80CF39898CEBC084E5CF27FF8C80EDC0CF9F468A9BA8FF84BFF038FBED85C08480CF38FBED85C08480CF527A6D6F406EEA4E000040FA C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/an043_flip.dra
+\t (00:00:13)     Journal start - Thu Aug 20 11:23:20 2026
+\t (00:00:13)         Host=LAPTOP-DI-ANDRE User=andre Pid=17944 CPUs=8
+\t (00:00:13) CmdLine= unison -layout -orcadx -productToken 00013FAFEC85F1BCB7AA37B2F4D1F4E1B8E226FAEB91F3A9B3F66AF1EA85F0B2E4FC37D2ABA0B2C7BA8038F3EF8383C6DF9F2CF1C1A6B3F7E6AA3AC5D48690E8EC9032ADFCC1A4B3B0AA6CEFB8DFA2E7B2F638FBED9BC09A80CF39898CEBC084E5CF27FF8C80EDC0CF9F468A9BA8FF84BFF038FBED85C08480CF38FBED85C08480CF527D2AFE07FFEA49000040F2 C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/conn_1054550101_mol.dra
 \t (00:00:13) 
-\d (00:00:13) Design opened: C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/an043_flip.dra
-\i (00:00:13) trapsize 796
+\d (00:00:13) Design opened: C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/conn_1054550101_mol.dra
+\i (00:00:13) trapsize 606
 \i (00:00:14) QtSignal PropertyPadstackWidget PropertyPadstackEditMode CurrentIndexChanged 0
 \i (00:00:14) QtSignal PropertyPadstackWidget copperPadLayer CurrentIndexChanged 0
 \i (00:00:14) QtSignal PropertyPadstackWidget copperPadType CurrentIndexChanged 0
-\i (00:00:22) trapsize 1049
+\i (00:00:21) trapsize 798
 \i (00:00:27) QtSignal Property_Docked_PadstackWidget PropertyPadstackEditMode CurrentIndexChanged +
 \i (00:00:27) QtSignal 0
 \i (00:00:27) QtSignal Property_Docked_PadstackWidget copperPadLayer CurrentIndexChanged 0
 \i (00:00:27) QtSignal Property_Docked_PadstackWidget copperPadType CurrentIndexChanged 0
-\t (00:00:33) Loading consmgr.cxt 
-\t (00:00:33) Loading acns_formula.cxt 
-\i (00:00:33) trapsize 1047
-\i (00:00:33) trapsize 1070
+\t (00:00:32) Loading consmgr.cxt 
+\t (00:00:32) Loading acns_formula.cxt 
+\i (00:00:32) trapsize 797
+\i (00:00:32) trapsize 814
 \i (00:00:36) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
-\i (00:00:37) QtSignal ucp_shape_create_dyn_dim UCPAddShape_Type CurrentIndexChanged 1
-\i (00:00:38) updateport VisibilityPane
-\i (00:00:38) updateport PropPane
-\i (00:00:38) updateport CVPane
-\i (00:00:38) ucpedit 
-\i (00:00:38) updateport VisibilityPane
-\i (00:01:18) zoom out 1 
-\i (00:01:18) setwindow pcb
-\i (00:01:18) zoom out 2.4153 -6.8723
-\i (00:01:18) trapsize 1473
-\i (00:01:19) roam start
-\i (00:01:19) roam end
-\i (00:01:20) zoom in 1 
-\i (00:01:20) setwindow pcb
-\i (00:01:20) zoom in 3.3989 -3.1434
-\i (00:01:20) trapsize 737
-\i (00:01:21) roam start
-\i (00:01:21) roam x -9
-\i (00:01:21) roam y -3
-\i (00:01:21) roam x -10
-\i (00:01:21) roam y -8
-\i (00:01:21) roam x -11
-\i (00:01:21) roam y -6
-\i (00:01:21) roam x -19
-\i (00:01:21) roam y -15
-\i (00:01:21) roam x -6
-\i (00:01:21) roam y -5
-\i (00:01:21) roam x -4
-\i (00:01:21) roam y -6
-\i (00:01:21) roam x -2
-\i (00:01:21) roam y -8
-\i (00:01:21) roam x -10
-\i (00:01:21) roam y -17
-\i (00:01:21) roam x -8
-\i (00:01:21) roam y -18
-\i (00:01:21) roam x -4
-\i (00:01:21) roam y -11
-\i (00:01:21) roam x -3
-\i (00:01:21) roam y -9
-\i (00:01:21) roam x -3
-\i (00:01:21) roam y -9
-\i (00:01:21) roam x -1
-\i (00:01:21) roam y -16
-\i (00:01:21) roam x -3
-\i (00:01:21) roam y -17
-\i (00:01:21) roam x -2
-\i (00:01:21) roam y -7
-\i (00:01:21) roam y -7
-\i (00:01:21) roam y -10
-\i (00:01:21) roam y -10
-\i (00:01:21) roam y -4
-\i (00:01:21) roam y -5
-\i (00:01:21) roam y -2
-\i (00:01:21) roam y -8
-\i (00:01:21) roam y -4
-\i (00:01:21) roam y -1
-\i (00:01:21) roam end
-\i (00:01:21) zoom out 1 
-\i (00:01:21) setwindow pcb
-\i (00:01:21) zoom out -4.6021 -3.2907
-\i (00:01:21) trapsize 1473
-\i (00:01:24) QtSignal PropertyStatusWidget 3d_model_import clicked
-\i (00:01:26) ucpedit 
-\i (00:01:26) updateport VisibilityPane
-\i (00:01:33) updateport ReportsPane
-\i (00:01:33) updateport SearchPane
-\i (00:01:33) updateport PropPane
-\i (00:01:33) ucpedit 
-\i (00:01:34) updateport VisibilityPane
-\i (00:01:39) save 
-\i (00:01:42) fillin yes 
-\t (00:01:44) Symbol 'an043_flip.psm' created.
-\i (00:01:44) updateport ReportsPane
-\i (00:01:44) updateport SearchPane
-\i (00:01:44) updateport PropPane
-\i (00:01:44) ucpedit 
-\i (00:01:44) updateport VisibilityPane
-\i (00:02:01) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (00:02:01) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
-\t (00:02:08)     Journal end - Sun Aug 16 11:22:50 2026
+\i (00:00:36) QtSignal ucp_shape_create_dyn_dim UCPAddShape_Type CurrentIndexChanged 1
+\i (00:00:37) updateport VisibilityPane
+\i (00:00:37) updateport PropPane
+\i (00:00:37) updateport CVPane
+\i (00:00:37) ucpedit 
+\i (00:00:37) updateport VisibilityPane
+\i (00:01:03) QtSignal PropertyStatusWidget 3d_model_color colorAssigned "#565656"
+\i (00:01:03) updateport ReportsPane
+\i (00:01:03) updateport SearchPane
+\i (00:01:03) updateport PropPane
+\i (00:01:06) updateport VisibilityPane
+\i (00:01:07) QtSignal DisplayGeneral DisplayGeneralMode CurrentIndexChanged 1
+\i (00:01:08) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
+\i (00:01:08) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (00:01:09) ucpedit 
+\i (00:01:09) updateport VisibilityPane
+\i (00:01:14) QtSignal PropertyStatusWidget 3d_model_color colorAssigned "#989898"
+\i (00:01:14) updateport ReportsPane
+\i (00:01:14) updateport SearchPane
+\i (00:01:14) updateport PropPane
+\t (00:01:24) Symbol 'conn_1054550101_mol.psm' created.
+\i (00:01:24) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:01:24) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
+\t (00:01:31)     Journal end - Thu Aug 20 11:24:39 2026

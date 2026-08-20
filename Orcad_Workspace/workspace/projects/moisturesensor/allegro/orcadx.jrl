@@ -1,12 +1,12 @@
 \t (00:00:08) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
-\t (00:00:08)     Journal start - Sun Aug 16 11:20:50 2026
-\t (00:00:08)         Host=LAPTOP-DI-ANDRE User=andre Pid=7060 CPUs=8
-\t (00:00:08) CmdLine= unison -layout -orcadx -productToken 000160F9EB81F3B0B9A96CE5F4DFF4E6B0E277FBED9EA1A9E2F66AFBEAD7A1E2B7A9618CA8F3B2C7BA8038F3EF8383C6DF9F2CF1C1A6B3F7E6AA3AC5D48690E8EC903AADA8C5F0B7B8A96AE5EE85F2BCB3FC38FBED9BC09A80CF39898CEBC084E5CF27FF8C80EDC0CF9F468A9BA8FF84BFF038FBED85C08480CF38FBED85C08480CF527A6D6F406EEA4E000040FA C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/an043_flip.dra
+\t (00:00:08)     Journal start - Thu Aug 20 11:23:15 2026
+\t (00:00:08)         Host=LAPTOP-DI-ANDRE User=andre Pid=17944 CPUs=8
+\t (00:00:08) CmdLine= unison -layout -orcadx -productToken 00013FAFEC85F1BCB7AA37B2F4D1F4E1B8E226FAEB91F3A9B3F66AF1EA85F0B2E4FC37D2ABA0B2C7BA8038F3EF8383C6DF9F2CF1C1A6B3F7E6AA3AC5D48690E8EC9032ADFCC1A4B3B0AA6CEFB8DFA2E7B2F638FBED9BC09A80CF39898CEBC084E5CF27FF8C80EDC0CF9F468A9BA8FF84BFF038FBED85C08480CF38FBED85C08480CF527D2AFE07FFEA49000040F2 C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/conn_1054550101_mol.dra
 \t (00:00:08) 
 \t (00:00:08) Loading axlcore.cxt 
 \t (00:00:08) Starting new design...
-\i (00:00:11) trapsize 10500
-\i (00:00:12) opencd_reload C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/an043_flip.dra 
-\t (00:00:12) Opening existing design...
-\i (00:00:12) trapsize 12230
-\t (00:00:13)     Journal end - Sun Aug 16 11:20:55 2026
+\i (00:00:10) trapsize 10500
+\i (00:00:11) opencd_reload C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/conn_1054550101_mol.dra 
+\t (00:00:11) Opening existing design...
+\i (00:00:12) trapsize 9306
+\t (00:00:12)     Journal end - Thu Aug 20 11:23:20 2026
