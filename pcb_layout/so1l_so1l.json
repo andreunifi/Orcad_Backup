@@ -5,7 +5,106 @@
 	"Component Property" : [],
 	"Net Property" : [],
 	"Pin Property" : [],
-	"Component" : [],
-	"Net" : [],
-	"Connection" : []
+	"Component" : [
+		{
+			"Name" : "J4",
+			"C_PATH" : "@so1l.so1l(sch_1):ins101061@so1l.\\1054550101_14.normal\\(sch_1)",
+			"Logical" : "1054550101_14_CONN_1054550101_MOL_USB-C",
+			"Physical" : "1054550101_14_CONN_1054550101_MOL_1054550101"
+		}
+	],
+	"Net" : [
+		{
+			"Name" : "SOLAR_IN",
+			"C_PATH" : "@so1l.so1l(sch_1):solar_in",
+			"Logical" : null,
+			"Physical" : "SOLAR_IN"
+		},
+		{
+			"Name" : "SOLAR+USB",
+			"C_PATH" : "@so1l.so1l(sch_1):\\solar+usb\\",
+			"Logical" : "SOLAR+USB",
+			"Physical" : null
+		}
+	],
+	"Connection" : [
+		{
+			"Name" : "C17.1",
+			"C_PATH" : "@so1l.so1l(sch_1):ins83451@so1l.\\eev477m010a9maa_0.normal\\(chips):\\+\\",
+			"Logical" : "SOLAR+USB",
+			"Physical" : "SOLAR_IN"
+		},
+		{
+			"Name" : "C18.1",
+			"C_PATH" : "@so1l.so1l(sch_1):ins83403@cc0603krx7r6bb105.\\cc0603krx7r6bb105.normal\\(chips):\\1\\",
+			"Logical" : "SOLAR+USB",
+			"Physical" : "SOLAR_IN"
+		},
+		{
+			"Name" : "C20.2",
+			"C_PATH" : "@so1l.so1l(sch_1):ins83431@cl10b106mq8nrnc.\\cl10b106mq8nrnc.normal\\(sch_1):\\2\\",
+			"Logical" : "SOLAR+USB",
+			"Physical" : "SOLAR_IN"
+		},
+		{
+			"Name" : "D1.1",
+			"C_PATH" : "@so1l.so1l(sch_1):ins83375@so1l.\\ss14_0.normal\\(chips):K",
+			"Logical" : "SOLAR+USB",
+			"Physical" : "SOLAR_IN"
+		},
+		{
+			"Name" : "J4.A4",
+			"C_PATH" : "@so1l.so1l(sch_1):ins101061@so1l.\\1054550101_14.normal\\(sch_1):VBUS",
+			"Logical" : "SOLAR+USB",
+			"Physical" : "SOLAR_IN"
+		},
+		{
+			"Name" : "J4.B4",
+			"C_PATH" : "@so1l.so1l(sch_1):ins101061@so1l.\\1054550101_14.normal\\(sch_1):VBUS_3",
+			"Logical" : "SOLAR+USB",
+			"Physical" : "SOLAR_IN"
+		},
+		{
+			"Name" : "J4.B9",
+			"C_PATH" : "@so1l.so1l(sch_1):ins101061@so1l.\\1054550101_14.normal\\(sch_1):VBUS_4",
+			"Logical" : "SOLAR+USB",
+			"Physical" : "SOLAR_IN"
+		},
+		{
+			"Name" : "J4.A9",
+			"C_PATH" : "@so1l.so1l(sch_1):ins101061@so1l.\\1054550101_14.normal\\(sch_1):VBUS_2",
+			"Logical" : "SOLAR+USB",
+			"Physical" : "SOLAR_IN"
+		},
+		{
+			"Name" : "U2.4",
+			"C_PATH" : "@so1l.so1l(sch_1):ins83583@so1l.\\mcp73871-2cciml_4a.normal\\(sch_1):PROG2",
+			"Logical" : "SOLAR+USB",
+			"Physical" : "SOLAR_IN"
+		},
+		{
+			"Name" : "U2.19",
+			"C_PATH" : "@so1l.so1l(sch_1):ins83583@so1l.\\mcp73871-2cciml_4a.normal\\(sch_1):IN_2",
+			"Logical" : "SOLAR+USB",
+			"Physical" : "SOLAR_IN"
+		},
+		{
+			"Name" : "U2.18",
+			"C_PATH" : "@so1l.so1l(sch_1):ins83583@so1l.\\mcp73871-2cciml_4a.normal\\(sch_1):\\in\\",
+			"Logical" : "SOLAR+USB",
+			"Physical" : "SOLAR_IN"
+		},
+		{
+			"Name" : "U2.17",
+			"C_PATH" : "@so1l.so1l(sch_1):ins83583@so1l.\\mcp73871-2cciml_4a.normal\\(sch_1):CE",
+			"Logical" : "SOLAR+USB",
+			"Physical" : "SOLAR_IN"
+		},
+		{
+			"Name" : "U2.2",
+			"C_PATH" : "@so1l.so1l(sch_1):ins83583@so1l.\\mcp73871-2cciml_4a.normal\\(sch_1):VPCC",
+			"Logical" : "SOLAR+USB",
+			"Physical" : "SOLAR_IN"
+		}
+	]
 }

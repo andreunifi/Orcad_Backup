@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 25.1.0 d001Aug-15-2026 at 14:17:54}
+{ Using PSTWRITER 25.1.0 d001Aug-21-2026 at 17:39:02}
 primitive 'ANTEENA_AN043_FLIP_ANTENNA';
   pin
     'FEED':
@@ -353,7 +353,7 @@ primitive '1729128_CONN_1729128_PXC_SOLAR PANEL';
     VALUE='Solar Panel';
   end_body;
 end_primitive;
-primitive '1054550101_14_CONN_1054550101_MOL_1054550101';
+primitive '1054550101_14_CONN_1054550101_MOL_USB-C';
   pin
     'GND':
       PIN_NUMBER='(A1)';
@@ -443,7 +443,7 @@ primitive '1054550101_14_CONN_1054550101_MOL_1054550101';
   body
     PART_NAME='1054550101_14';
     JEDEC_TYPE='CONN_1054550101_MOL';
-    VALUE='1054550101';
+    VALUE='USB-C';
   end_body;
 end_primitive;
 primitive 'S2B-PH-K-SLFSN_CONN_S2B-PH-K-S_JST_BATTERY';
