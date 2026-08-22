@@ -51,7 +51,7 @@ Item Number,Quantity,Value,Description,Part Number,Part Reference,Manufacturer N
 50,1,1 kOhm,Res Thick Film 0603 1K Ohm 1% 0.1W(1/10W) +/-100ppm/C Epoxy Pad SMD T/R,,R12,YAGEO Corp.,RC0603FR-071KL,392,RC0603FR-071KL-1918764013,,
 51,1,10 kOhm,"NTC Thermistors, Insulated Leads for 185 C Applications",,RT1,"Vishay Intertechnology, Inc.",NTCLE350E4103FHB0,277,NTCLE350E4103FHB0-145239971532,,
 52,1,1825910-6,Body Features: Product Orientation Vertical | Case Material Nylon | Actuator Force 5.64 OZ | Cover Material PET Film | Actuator Force 160 G | Actuator Color Black | Actuator Material PBT | Actuator Profile Extended | Case Color Black | Configuration Features: Operating Function NO | Ganged With | Support Bracket Without | Switch Feedback Type Tactile | Configuration (Pole-Throw) Single Pole - Single Throw | Number of Actuators Single | ESD Grounding Terminal Without | Contact Features: Contact Base Material,1825910-6,S1,TE Connectivity,1825910-6,666,,,
-53,1,CC2640R2FRHB,SimpleLink 32bit Arm Cortex-M3 Bluetooth Low Energy 5.1 wireless MCU with 128kB flash 32-VQFN -40 to 85,CC2640R2FRHBR,U1,Texas Instruments,CC2640R2FRHBR,469,,,
+53,1,Microcontroller,SimpleLink 32bit Arm Cortex-M3 Bluetooth Low Energy 5.1 wireless MCU with 128kB flash 32-VQFN -40 to 85,CC2640R2FRHBR,U1,Texas Instruments,CC2640R2FRHBR,469,,,
 54,1,Battery Charger,,,U2,Microchip Tech,MCP73871-2CCI/ML,"324,359",MCP73871-2CCIML-0d06fb053f1a4937473ad7c3c4c9a16ed881efa8,,
 55,1,RELAY,,,U3,Panasonic Corporation,DK1A-3V-F,383,DK1A-3V-F-1726368762,,
 56,1,24 MHZ,,,Y1,"CITIZEN FINEDEVICE CO.,LTD.",CS325S24000000ABJT,208,CS325S24000000ABJT-8259018897,,
