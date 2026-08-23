@@ -6,6 +6,176 @@
 	"Net Property" : [],
 	"Pin Property" : [],
 	"Component" : [],
-	"Net" : [],
-	"Connection" : []
+	"Net" : [
+		{
+			"Name" : "0",
+			"C_PATH" : "@so1l.so1l(sch_1):\\0\\",
+			"Logical" : null,
+			"Physical" : "0"
+		}
+	],
+	"Connection" : [
+		{
+			"Name" : "C17.2",
+			"C_PATH" : "@so1l.so1l(sch_1):ins83451@so1l.\\eev477m010a9maa_0.normal\\(chips):\\-\\",
+			"Logical" : "GND",
+			"Physical" : "0"
+		},
+		{
+			"Name" : "C18.2",
+			"C_PATH" : "@so1l.so1l(sch_1):ins83403@cc0603krx7r6bb105.\\cc0603krx7r6bb105.normal\\(chips):\\2\\",
+			"Logical" : "GND",
+			"Physical" : "0"
+		},
+		{
+			"Name" : "C19.1",
+			"C_PATH" : "@so1l.so1l(sch_1):ins83719@cc0603mrx7r5bb475.\\cc0603mrx7r5bb475.normal\\(sch_1):\\1\\",
+			"Logical" : "GND",
+			"Physical" : "0"
+		},
+		{
+			"Name" : "C20.1",
+			"C_PATH" : "@so1l.so1l(sch_1):ins83431@cl10b106mq8nrnc.\\cl10b106mq8nrnc.normal\\(sch_1):\\1\\",
+			"Logical" : "GND",
+			"Physical" : "0"
+		},
+		{
+			"Name" : "C21.1",
+			"C_PATH" : "@so1l.so1l(sch_1):ins83739@cc0603mrx7r5bb475.\\cc0603mrx7r5bb475.normal\\(sch_1):\\1\\",
+			"Logical" : "GND",
+			"Physical" : "0"
+		},
+		{
+			"Name" : "IC1.11",
+			"C_PATH" : "@so1l.so1l(sch_1):ins131859@tps62177dqcr.\\tps62177dqcr.normal\\(chips):EP",
+			"Logical" : "GND",
+			"Physical" : "0"
+		},
+		{
+			"Name" : "IC1.6",
+			"C_PATH" : "@so1l.so1l(sch_1):ins131859@tps62177dqcr.\\tps62177dqcr.normal\\(chips):AGND",
+			"Logical" : "GND",
+			"Physical" : "0"
+		},
+		{
+			"Name" : "IC1.7",
+			"C_PATH" : "@so1l.so1l(sch_1):ins131859@tps62177dqcr.\\tps62177dqcr.normal\\(chips):PG",
+			"Logical" : "GND",
+			"Physical" : "0"
+		},
+		{
+			"Name" : "IC1.4",
+			"C_PATH" : "@so1l.so1l(sch_1):ins131859@tps62177dqcr.\\tps62177dqcr.normal\\(chips):NC",
+			"Logical" : "GND",
+			"Physical" : "0"
+		},
+		{
+			"Name" : "IC1.1",
+			"C_PATH" : "@so1l.so1l(sch_1):ins131859@tps62177dqcr.\\tps62177dqcr.normal\\(chips):PGND",
+			"Logical" : "GND",
+			"Physical" : "0"
+		},
+		{
+			"Name" : "IC1.5",
+			"C_PATH" : "@so1l.so1l(sch_1):ins131859@tps62177dqcr.\\tps62177dqcr.normal\\(chips):FB",
+			"Logical" : "GND",
+			"Physical" : "0"
+		},
+		{
+			"Name" : "J3.2",
+			"C_PATH" : "@so1l.so1l(sch_1):ins83787@\\1729128\\.\\1729128.normal\\(sch_1):\\2\\",
+			"Logical" : "GND",
+			"Physical" : "0"
+		},
+		{
+			"Name" : "J4.A12",
+			"C_PATH" : "@so1l.so1l(sch_1):ins101061@so1l.\\1054550101_14.normal\\(sch_1):GND_2",
+			"Logical" : "GND",
+			"Physical" : "0"
+		},
+		{
+			"Name" : "J4.B12",
+			"C_PATH" : "@so1l.so1l(sch_1):ins101061@so1l.\\1054550101_14.normal\\(sch_1):GND_4",
+			"Logical" : "GND",
+			"Physical" : "0"
+		},
+		{
+			"Name" : "J4.B1",
+			"C_PATH" : "@so1l.so1l(sch_1):ins101061@so1l.\\1054550101_14.normal\\(sch_1):GND_3",
+			"Logical" : "GND",
+			"Physical" : "0"
+		},
+		{
+			"Name" : "J4.A1",
+			"C_PATH" : "@so1l.so1l(sch_1):ins101061@so1l.\\1054550101_14.normal\\(sch_1):GND",
+			"Logical" : "GND",
+			"Physical" : "0"
+		},
+		{
+			"Name" : "J5.2",
+			"C_PATH" : "@so1l.so1l(sch_1):ins83355@\\s2b-ph-k-s-lf-sn\\.\\s2b-ph-k-slfsn.normal\\(sch_1):\\2\\",
+			"Logical" : "GND",
+			"Physical" : "0"
+		},
+		{
+			"Name" : "R10.1",
+			"C_PATH" : "@so1l.so1l(sch_1):ins83479@project18_pw.\\rc0603fr-0720kl_0.normal\\(chips):\\1\\",
+			"Logical" : "GND",
+			"Physical" : "0"
+		},
+		{
+			"Name" : "R7.1",
+			"C_PATH" : "@so1l.so1l(sch_1):ins83863@project18_pw.\\rc0603fr-075k1l_5.normal\\(sch_1):\\1\\",
+			"Logical" : "GND",
+			"Physical" : "0"
+		},
+		{
+			"Name" : "R8.1",
+			"C_PATH" : "@so1l.so1l(sch_1):ins83759@project18_pw.\\rc0603fr-075k1l_5.normal\\(sch_1):\\1\\",
+			"Logical" : "GND",
+			"Physical" : "0"
+		},
+		{
+			"Name" : "R9.1",
+			"C_PATH" : "@so1l.so1l(sch_1):ins83327@project18_pw.\\rc0603fr-072kl_0.normal\\(chips):\\1\\",
+			"Logical" : "GND",
+			"Physical" : "0"
+		},
+		{
+			"Name" : "RT1.1",
+			"C_PATH" : "@so1l.so1l(sch_1):ins83691@project18_pw.\\ntcle350e4103fhb0_0.normal\\(chips):\\1\\",
+			"Logical" : "GND",
+			"Physical" : "0"
+		},
+		{
+			"Name" : "U2.21",
+			"C_PATH" : "@so1l.so1l(sch_1):ins83583@so1l.\\mcp73871-2cciml_4a.normal\\(sch_1):EP",
+			"Logical" : "GND",
+			"Physical" : "0"
+		},
+		{
+			"Name" : "U2.3",
+			"C_PATH" : "@so1l.so1l(sch_1):ins83583@so1l.\\mcp73871-2cciml_4a.normal\\(sch_1):SEL",
+			"Logical" : "GND",
+			"Physical" : "0"
+		},
+		{
+			"Name" : "U2.9",
+			"C_PATH" : "@so1l.so1l(sch_1):ins83583@so1l.\\mcp73871-2cciml_4a.normal\\(sch_1):\\*te\\",
+			"Logical" : "GND",
+			"Physical" : "0"
+		},
+		{
+			"Name" : "U2.10",
+			"C_PATH" : "@so1l.so1l(sch_1):ins83671@so1l.\\mcp73871-2cciml_4b.normal\\(sch_1):VSS",
+			"Logical" : "GND",
+			"Physical" : "0"
+		},
+		{
+			"Name" : "U2.11",
+			"C_PATH" : "@so1l.so1l(sch_1):ins83671@so1l.\\mcp73871-2cciml_4b.normal\\(sch_1):VSS_2",
+			"Logical" : "GND",
+			"Physical" : "0"
+		}
+	]
 }
