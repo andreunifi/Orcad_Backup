@@ -3,58 +3,67 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Fri Aug 21 17:39:04 2026  |
+|                                                    Sat Aug 22 19:32:56 2026  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  SOLAR_IN     net RENAMED (to net name listed on right)           SOLAR+USB    
+  VDDS         pins MOVED FROM this net (to net name listed on right)
+                                 Q1.2            243.323 189.527
+                                                                          3.3 V
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Fri Aug 21 17:39:04 2026  |
+|                                                    Sat Aug 22 19:32:56 2026  |
 |------------------------------------------------------------------------------|
 | COMPONENT DEFINITION added to design                                         |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    device type                                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- 1054550101_14_CONN_1054550101_MOL_USB-C
+ CC2640R2FRHBR_6_RHB0032E_MICROCONTROLLER
+ TPS62177DQCR_SON50P200X300X80-11N_VOLTAGE REGULATOR
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   3  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Fri Aug 21 17:39:04 2026  |
+|                                                    Sat Aug 22 19:32:56 2026  |
 |------------------------------------------------------------------------------|
 | COMPONENTS CHANGED from one device type to another in design                 |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    ref des        | new device type     |   x   |   y   |  old  device type  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- J4                  1054550101_14_CONN_1054550101_MOL_USB-C 248.853 143.011 1054550101_14_CONN_1054550101_MOL_1054550101
+ IC1                 TPS62177DQCR_SON50P200X300X80-11N_VOLTAGE REGULATOR 259.750 178.170 TPS62177DQCR_SON50P200X300X80-11N_TPS62177DQCR
+ U1                  CC2640R2FRHBR_6_RHB0032E_MICROCONTROLLER 216.625 184.004 CC2640R2FRHBR_6_RHB0032E_CC2640R2FRHB
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   4  |
 |------------------------------------------------------------------------------|
 |  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Fri Aug 21 17:39:04 2026  |
+|                                                    Sat Aug 22 19:32:56 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- J4.B9          248.853 143.011 PRIM_FILE      .\pstchip.dat
- J4.B9          248.853 143.011 SCH_BBOX       (114,322,214,472)
- J4.B9          248.853 143.011 SCH_MIRROR     (0)
- J4.B9          248.853 143.011 SCH_ORIENT     (0)
- J4.B9          248.853 143.011 XY             (114,322)
+ IC1.10         259.750 178.170 PRIM_FILE      .\pstchip.dat
+ IC1.10         259.750 178.170 SCH_BBOX       (432,488,512,568)
+ IC1.10         259.750 178.170 SCH_MIRROR     (0)
+ IC1.10         259.750 178.170 SCH_ORIENT     (0)
+ IC1.10         259.750 178.170 XY             (432,488)
+ U1.5           216.625 184.004 PRIM_FILE      .\pstchip.dat
+ U1.5           216.625 184.004 SCH_BBOX       (470,190,630,490)
+ U1.5           216.625 184.004 SCH_MIRROR     (0)
+ U1.5           216.625 184.004 SCH_ORIENT     (0)
+ U1.5           216.625 184.004 XY             (470,190)
 |------------------------------------------------------------------------------|
 |       Nets changed          :       1                                        |
-|       Comp definitions added:       1                                        |
-|       Components changed    :       1                                        |
-|       Slot property added   :       5                                        |
+|       Comp definitions added:       2                                        |
+|       Components changed    :       2                                        |
+|       Slot property added   :      10                                        |
 |                                                                              |
-|   Total ECO changes reported:       8                                        |
+|   Total ECO changes reported:      15                                        |
 |------------------------------------------------------------------------------|
