@@ -1,1 +1,1 @@
-cap_cc0603_yag.dra
+conn_1729128_pxc.dra
