@@ -1,18 +1,12 @@
 (---------------------------------------------------------------------)
 (                                                                     )
-(    DBDOCTOR                                                         )
+(    Downrev Design                                                   )
 (                                                                     )
-(    Drawing          : SO1L_v2.brd                                   )
+(    Drawing          : MF_PTH_DRILL0D25_PAD0D6                       )
 (    Software Version : 25.1S030                                      )
-(    Date/Time        : Sun Aug 23 20:22:29 2026                      )
+(    Date/Time        : Sun Aug 23 19:53:00 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 
-Regenerating DRC
-  Original DRC errors:   0
-  Updated DRC errors:    0
-  DRC elapsed time:      00:00:01
-
-0 warnings, 0 errors detected, 0 errors  fixed.

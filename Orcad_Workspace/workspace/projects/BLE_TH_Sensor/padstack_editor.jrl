@@ -1,0 +1,17 @@
+\t (00:00:00) padstack_editor 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Sun Aug 23 19:55:14 2026
+\t (00:00:00)         Host=LAPTOP-DI-ANDRE User=andre Pid=2252 CPUs=8
+\t (00:00:00) CmdLine= padstack_editor -mpssession andre -file C:/Users/andre/AppData/Local/Temp/#Taaaafe16052.tmp -pname MF_PTH_DRILL0D25_PAD0D6 -data C:/Users/andre/AppData/Local/Temp/#Taaaafi16052.tmp -unison
+\t (00:00:00) 
+\d (00:00:03) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:08) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:09) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:15) QtSignal GuidedTabsParent GuidedTabs currentChanged Options
+\d (00:00:16) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:16) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:25) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:25) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Symbol"
+\d (00:00:27) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Offset"
+\d (00:00:29) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:01:00) QtSignal MainWindow Exit triggered
+\t (00:01:00)     Journal end - Sun Aug 23 19:56:13 2026

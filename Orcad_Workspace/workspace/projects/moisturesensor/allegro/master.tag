@@ -1,1 +1,1 @@
-SO1L.brd
+SO1L_v2.brd

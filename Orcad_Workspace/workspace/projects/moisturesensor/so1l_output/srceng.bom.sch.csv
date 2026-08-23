@@ -1,58 +1,58 @@
 Quantity,Part Number,Part Reference,Value,Description,Manufacturer Name,Manufacturer Part Number,Assigned SKU,Assigned Manufacturer Part Number,Assigned Manufacturer Name,Design Risk Score,Market Availability,Reach Compliant,ROHS Compliant,Status,Price Range
 1,,A1,Antenna,,,,,,,,,,,,
-1,,C2,100 nF,,YAGEO Corp.,CC0603MRX7R8BB104,CC0603MRX7R8BB104-2039279279,CC0603MRX7R8BB104,YAGEO Corp.,10,10,,,Active,$0.00757-$0.00772
-1,,C3,100 nF,,YAGEO Corp.,CC0603MRX7R8BB104,CC0603MRX7R8BB104-2039279279,CC0603MRX7R8BB104,YAGEO Corp.,10,10,,,Active,$0.00757-$0.00772
-1,,C4,10 uF,,YAGEO Corp.,CC0603MRX5R6BB106,CC0603MRX5R6BB106-1824515384,CC0603MRX5R6BB106,YAGEO Corp.,10,10,,,Active,$0.02085-$0.02303
-1,,C5,100 nF,,YAGEO Corp.,CC0603MRX7R8BB104,CC0603MRX7R8BB104-2039279279,CC0603MRX7R8BB104,YAGEO Corp.,10,10,,,Active,$0.00757-$0.00772
-1,,C6,10 uF,,YAGEO Corp.,CC0603MRX5R6BB106,CC0603MRX5R6BB106-1824515384,CC0603MRX5R6BB106,YAGEO Corp.,10,10,,,Active,$0.02085-$0.02303
-1,,C7,100 nF,,YAGEO Corp.,CC0603MRX7R8BB104,CC0603MRX7R8BB104-2039279279,CC0603MRX7R8BB104,YAGEO Corp.,10,10,,,Active,$0.00757-$0.00772
-1,,C8,100 nF,,YAGEO Corp.,CC0603MRX7R8BB104,CC0603MRX7R8BB104-2039279279,CC0603MRX7R8BB104,YAGEO Corp.,10,10,,,Active,$0.00757-$0.00772
-1,,C10,1 uF,,YAGEO Corp.,CC0603KRX7R6BB105,CC0603KRX7R6BB105-2039278970,CC0603KRX7R6BB105,YAGEO Corp.,10,10,,,Active,$0.01451-$0.01525
-1,,C11,12 pF,,YAGEO Corp.,AC0603JRNPO9BN120,AC0603JRNPO9BN120-145001409996,AC0603JRNPO9BN120,YAGEO Corp.,10,8,,,Active,$0.01096-$0.01509
-1,,C12,12 pF,,KEMET Corporation,C0603C120K5RAC7867,C0603C120K5RAC7867-912380689,C0603C120K5RAC7867,KEMET Corporation,6,0,,,Active,$0.05119-$0.05119
-1,,C13,100 nF,,YAGEO Corp.,CC0603MRX7R8BB104,CC0603MRX7R8BB104-2039279279,CC0603MRX7R8BB104,YAGEO Corp.,10,10,,,Active,$0.00757-$0.00772
-1,,C14,12 pF,,YAGEO Corp.,AC0603JRNPO9BN120,AC0603JRNPO9BN120-145001409996,AC0603JRNPO9BN120,YAGEO Corp.,10,8,,,Active,$0.01096-$0.01509
-1,,C15,1.2 pF,,YAGEO Corp.,AC0603CRNPO9BN1R2,AC0603CRNPO9BN1R2-145001409987,AC0603CRNPO9BN1R2,YAGEO Corp.,10,4,,,Active,$0.01394-$0.01601
-1,,C16,1.2 pF,,YAGEO Corp.,AC0603CRNPO9BN1R2,AC0603CRNPO9BN1R2-145001409987,AC0603CRNPO9BN1R2,YAGEO Corp.,10,4,,,Active,$0.01394-$0.01601
-1,,C17,470 uF,"Surface Mount, Aluminum Electrolytic",KEMET Corporation,EEV477M010A9MAA,EEV477M010A9MAA-1257574448,EEV477M010A9MAA,KEMET Corporation,10,4,,,Active,$0.17885-$0.23372
-1,,C18,1 uF,Cap Ceramic 1uF 10V X7R 10% Pad SMD 0603 125C T/R,YAGEO Corp.,CC0603KRX7R6BB105,CC0603KRX7R6BB105-2039278970,CC0603KRX7R6BB105,YAGEO Corp.,10,10,,,Active,$0.01451-$0.01525
-1,,C19,4.7 uF,,YAGEO Corp.,CC0603MRX7R5BB475,CC0603MRX7R5BB475-7230193480,CC0603MRX7R5BB475,YAGEO Corp.,10,6,,,Active,$0.13931-$0.15237
-1,,C20,10 uF,,YAGEO Corp.,CC0603MRX5R6BB106,CC0603MRX5R6BB106-1824515384,CC0603MRX5R6BB106,YAGEO Corp.,10,10,,,Active,$0.02085-$0.02303
-1,,C21,4.7 uF,,YAGEO Corp.,CC0603MRX7R5BB475,CC0603MRX7R5BB475-7230193480,CC0603MRX7R5BB475,YAGEO Corp.,10,6,,,Active,$0.13931-$0.15237
-1,,D1,SS14,"MULTICOMP - SS14 - Schottky Rectifier, 40 V, 1 A, Single, DO-214AC (SMA), 2 Pins, 750 mV",Taiwan Semiconductor,SS14,SS14-1029995255,SS14,Taiwan Semiconductor,10,10,,,Active,$0.04830-$0.05640
-1,M7,D2,M7,Standard recovery rectifier diode,DIOTEC SEMICONDUCTOR AG,M7,M7-1265098379,M7,DIOTEC SEMICONDUCTOR AG,8,1,,,Active,$0.01038-$0.01053
+1,,C2,100 nF,,YAGEO Corp.,CC0603MRX7R8BB104,,,,,,,,,
+1,,C3,100 nF,,YAGEO Corp.,CC0603MRX7R8BB104,,,,,,,,,
+1,,C4,10 uF,,YAGEO Corp.,CC0603MRX5R6BB106,,,,,,,,,
+1,,C5,100 nF,,YAGEO Corp.,CC0603MRX7R8BB104,,,,,,,,,
+1,,C6,10 uF,,YAGEO Corp.,CC0603MRX5R6BB106,,,,,,,,,
+1,,C7,100 nF,,YAGEO Corp.,CC0603MRX7R8BB104,,,,,,,,,
+1,,C8,100 nF,,YAGEO Corp.,CC0603MRX7R8BB104,,,,,,,,,
+1,,C10,1 uF,,YAGEO Corp.,CC0603KRX7R6BB105,,,,,,,,,
+1,,C11,12 pF,,YAGEO Corp.,AC0603JRNPO9BN120,,,,,,,,,
+1,,C12,12 pF,,KEMET Corporation,C0603C120K5RAC7867,,,,,,,,,
+1,,C13,100 nF,,YAGEO Corp.,CC0603MRX7R8BB104,,,,,,,,,
+1,,C14,12 pF,,YAGEO Corp.,AC0603JRNPO9BN120,,,,,,,,,
+1,,C15,1.2 pF,,YAGEO Corp.,AC0603CRNPO9BN1R2,,,,,,,,,
+1,,C16,1.2 pF,,YAGEO Corp.,AC0603CRNPO9BN1R2,,,,,,,,,
+1,,C17,470 uF,"Surface Mount, Aluminum Electrolytic",KEMET Corporation,EEV477M010A9MAA,,,,,,,,,
+1,,C18,1 uF,Cap Ceramic 1uF 10V X7R 10% Pad SMD 0603 125C T/R,YAGEO Corp.,CC0603KRX7R6BB105,,,,,,,,,
+1,,C19,4.7 uF,,YAGEO Corp.,CC0603MRX7R5BB475,,,,,,,,,
+1,,C20,10 uF,,YAGEO Corp.,CC0603MRX5R6BB106,,,,,,,,,
+1,,C21,4.7 uF,,YAGEO Corp.,CC0603MRX7R5BB475,,,,,,,,,
+1,,D1,SS14,"MULTICOMP - SS14 - Schottky Rectifier, 40 V, 1 A, Single, DO-214AC (SMA), 2 Pins, 750 mV",Taiwan Semiconductor,SS14,,,,,,,,,
+1,M7,D2,M7,Standard recovery rectifier diode,DIOTEC SEMICONDUCTOR AG,M7,,,,,,,,,
 1,TPS62177DQCR,IC1,Voltage Regulator,"TEXAS INSTRUMENTS - TPS62177DQCR - DC/DC CONV, SYNC BUCK, 1MHZ, WSON-10",Texas Instruments,TPS62177DQCR,TPS62177DQCR-1247201299,TPS62177DQCR,Texas Instruments Incorporated,10,10,,,Active,$0.91410-$0.96368
 1,1725669,J1,CONN_03P_00C_1,"PCB terminal block, nominal current: 6 A, rated voltage (III/2): 160 V, nominal cross section: 0.5 mm, number of potentials: 3, Number of rows: 1, Number of positions per row: 3, product range: MPT 0,5, pitch: 2.54 mm, connection method: Screw connection",Phoenix Contact,1725669,1725669-1453666544,1725669,PHOENIX CONTACT GMBH & CO KG,10,10,,,Active,$3.33865-$7.31828
 1,FTSH-105-01-F-DV,J2,FTSH-105-XX-X-DV,,Samtec Inc.,FTSH-105-01-F-DV,FTSH-105-01-F-DV-2091833722,FTSH-105-01-F-DV,"Samtec, Inc",10,10,,,Active,$0.77091-$0.95120
-1,,J3,Solar Panel,"PCB terminal block, nominal current: 13.5 A, nom. voltage: 400 V, pitch: 5.08 mm, number of positions: 2, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 , color: green",PHOENIX CONTACT GMBH & CO KG,1729128,1729128-1453667844,1729128,PHOENIX CONTACT GMBH & CO KG,10,10,,,Active,$0.98664-$1.08973
+1,,J3,Solar Panel,"PCB terminal block, nominal current: 13.5 A, nom. voltage: 400 V, pitch: 5.08 mm, number of positions: 2, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 , color: green",PHOENIX CONTACT GMBH & CO KG,1729128,,,,,,,,,
 1,1054550101,J4,USB-C,"Universal Serial Bus (USB) Shielded I/O Receptacle, Type C, Right-Angle,  Mid-Mount, Surface Mount, Gold (Au) Flash over 0.75m Palladium Nickel Plating, 0.70mm Solder Tab, Paper Reel",Molex,1054550101,1054550101-8290921814,1054550101,"Molex, LLC",10,10,,,Active,$1.22242-$1.46134
-1,,J5,Battery,CONNECTOR; MALE; THROUGH HOLE; 2.0MM PITCH; DISCONNECTABLE CRIMP STYLE CONNECTOR; SIDE ENTRY TYPE; RIGHT ANGLE; 2PINS,"J.S.T. Mfg. Co.,Ltd.",S2B-PH-K-S(LF)(SN),S2B-PH-K-SLFSN-1862297719,S2B-PH-K-S(LF)(SN),"J.S.T. Mfg. Co.,Ltd.",10,9,,,Active,$0.05600-$0.06931
-1,,J6,1729128,"MKDSN 1,5/ 2-5,08 - Printed circuit board terminal, nominal current: 17.5 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm<sup>2</sup>, number of potentials: 2, number of rows: 1, number of positions per row: 2, product range: MKDSN 1,5, pitch: 5.08 mm, connection method: Screw connection with tension sleeve, screw head form: L Slotted, mounting: Wave soldering, conductor/PCB connection direction: 0 , color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, number of solder pins per",PHOENIX CONTACT GMBH & CO KG,1729128,1729128-1453667844,1729128,PHOENIX CONTACT GMBH & CO KG,10,10,,,Active,$0.98664-$1.08973
+1,,J5,Battery,CONNECTOR; MALE; THROUGH HOLE; 2.0MM PITCH; DISCONNECTABLE CRIMP STYLE CONNECTOR; SIDE ENTRY TYPE; RIGHT ANGLE; 2PINS,"J.S.T. Mfg. Co.,Ltd.",S2B-PH-K-S(LF)(SN),,,,,,,,,
+1,,J6,1729128,"MKDSN 1,5/ 2-5,08 - Printed circuit board terminal, nominal current: 17.5 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm<sup>2</sup>, number of potentials: 2, number of rows: 1, number of positions per row: 2, product range: MKDSN 1,5, pitch: 5.08 mm, connection method: Screw connection with tension sleeve, screw head form: L Slotted, mounting: Wave soldering, conductor/PCB connection direction: 0 , color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, number of solder pins per",PHOENIX CONTACT GMBH & CO KG,1729128,,,,,,,,,
 1,BLM18HE152SN1D,L1,1.5 uH,,Murata,BLM18HE152SN1D,BLM18HE152SN1D-1579710511,BLM18HE152SN1D,"Murata Manufacturing Co., Ltd.",10,10,,,Active,$0.07952-$0.10736
 1,IFSC1515AHER100M01,L2,10 uH,"VISHAY - IFSC1515AHER100M01 - INDUCTOR, 10UH, 1.3A, 20%, 5MHZ",Vishay,IFSC1515AHER100M01,IFSC1515AHER100M01-1240300364,IFSC1515AHER100M01,"Vishay Intertechnology, Inc.",4,2,,,Active,$0.28181-$0.40742
-1,,L3,15 nH,,"Murata Manufacturing Co., Ltd.",LQW15AN15NG0ZD,LQW15AN15NG0ZD-8324043741,LQW15AN15NG0ZD,"Murata Manufacturing Co., Ltd.",10,2,,,Active,$0.07410-$0.07410
-1,,L4,2 nH,,"Murata Manufacturing Co., Ltd.",LQG15HS2N0S02D,LQG15HS2N0S02D-1997926428,LQG15HS2N0S02D,"Murata Manufacturing Co., Ltd.",10,10,,,Active,$0.01042-$0.01770
-1,,L5,10 uH,IFSC-1515AH-01 10 20p ER E3,"Bourns, Inc.",SRP1265A-100M,SRP1265A-100M-1535042399,SRP1265A-100M,"Bourns, Inc.",10,8,,,Active,$0.75821-$0.80212
-1,,LED1,green led,,LITE-ON Technology,LTST-C193KGKT-5A,LTST-C193KGKT-5A-1101663604,LTST-C193KGKT-5A,LITE-ON Technology,10,10,,,Active,$0.06425-$0.07392
-1,,LED2,red led,,LITE-ON Technology,LTST-C193KSKT-5A,LTST-C193KSKT-5A-1390670315,LTST-C193KSKT-5A,LITE-ON Technology,10,10,,,Active,$0.05168-$0.05587
-1,,Q1,MOSFET N,,Alpha and Omega Semiconductor,AO3400A,AO3400A-1300403095,AO3400A,Alpha and Omega Semiconductor,9,9,,,Active,$0.08144-$0.08804
-1,,Q2,AO3400A,30V N-Channel MOSFET,Alpha and Omega Semiconductor,AO3400A,AO3400A-1300403095,AO3400A,Alpha and Omega Semiconductor,9,9,,,Active,$0.08144-$0.08804
-1,,R1,100 Ohm,,YAGEO Corp.,RC0603FR-07100RL,RC0603FR-07100RL-2121402425,RC0603FR-07100RL,YAGEO Corp.,10,10,,,Active,$0.00719-$0.01047
-1,,R2,1 kOhm,,YAGEO Corp.,RC0603FR-071KL,RC0603FR-071KL-1918764013,RC0603FR-071KL,YAGEO Corp.,10,10,,,Active,$0.00391-$0.05201
-1,,R3,100 kOhm,,YAGEO Corp.,RC0603FR-13100KL,RC0603FR-13100KL-2121403223,RC0603FR-13100KL,YAGEO Corp.,10,10,,,Active,$0.00111-$0.00254
-1,,R4,680 Ohm,,YAGEO Corp.,RC0603JR-07680RL,RC0603JR-07680RL-2121404169,RC0603JR-07680RL,YAGEO Corp.,10,10,,,Active,$0.00112-$0.00308
-1,,R5,680 Ohm,,YAGEO Corp.,RC0603JR-07680RL,RC0603JR-07680RL-2121404169,RC0603JR-07680RL,YAGEO Corp.,10,10,,,Active,$0.00112-$0.00308
-1,,R6,270 Ohm,,YAGEO Corp.,RC0603FR-07270RL,RC0603FR-07270RL-2121402710,RC0603FR-07270RL,YAGEO Corp.,10,10,,,Active,$0.00314-$0.00346
-1,,R7,5.1 kOhm,,YAGEO Corp.,RC0603FR-075K1L,RC0603FR-075K1L-2121403022,RC0603FR-075K1L,YAGEO Corp.,10,6,,,Active,$0.00511-$0.02078
-1,,R8,5.1 kOhm,,YAGEO Corp.,RC0603FR-075K1L,RC0603FR-075K1L-2121403022,RC0603FR-075K1L,YAGEO Corp.,10,6,,,Active,$0.00511-$0.02078
-1,,R9,2 kOhm,Thick Film Resistors - SMD 2 kOhms 100mW 0603 1%,YAGEO Corp.,RC0603FR-072KL,RC0603FR-072KL-1918764037,RC0603FR-072KL,YAGEO Corp.,10,10,,,Active,$0.00779-$0.00887
-1,,R10,20 kOhm,"RC0603 SMD resistor,47K5 1% 0.1W (Reel) Yageo RC Series Thick Film Surface Mount Resistor 603 Case 20k +/-1% 0.1W +/-100ppm/C",YAGEO Corp.,RC0603FR-0720KL,RC0603FR-0720KL-1918764019,RC0603FR-0720KL,YAGEO Corp.,10,10,,,Active,$0.00364-$0.01741
-1,,R11,100 Ohm,Yageo RC Series Thick Film Surface Mount Resistor 0603 Case 100,YAGEO Corp.,RC0603FR-07100RL,RC0603FR-07100RL-2121402425,RC0603FR-07100RL,YAGEO Corp.,10,10,,,Active,$0.00719-$0.01047
-1,,R12,1 kOhm,Res Thick Film 0603 1K Ohm 1% 0.1W(1/10W) +/-100ppm/C Epoxy Pad SMD T/R,YAGEO Corp.,RC0603FR-071KL,RC0603FR-071KL-1918764013,RC0603FR-071KL,YAGEO Corp.,10,10,,,Active,$0.00391-$0.05201
-1,,RT1,10 kOhm,"NTC Thermistors, Insulated Leads for 185 C Applications","Vishay Intertechnology, Inc.",NTCLE350E4103FHB0,NTCLE350E4103FHB0-145239971532,NTCLE350E4103FHB0,"Vishay Intertechnology, Inc.",7,5,,,Active,$0.73097-$0.81344
+1,,L3,15 nH,,"Murata Manufacturing Co., Ltd.",LQW15AN15NG0ZD,,,,,,,,,
+1,,L4,2 nH,,"Murata Manufacturing Co., Ltd.",LQG15HS2N0S02D,,,,,,,,,
+1,,L5,10 uH,IFSC-1515AH-01 10 20p ER E3,"Bourns, Inc.",SRP1265A-100M,,,,,,,,,
+1,,LED1,green led,,LITE-ON Technology,LTST-C193KGKT-5A,,,,,,,,,
+1,,LED2,red led,,LITE-ON Technology,LTST-C193KSKT-5A,,,,,,,,,
+1,,Q1,MOSFET N,,Alpha and Omega Semiconductor,AO3400A,,,,,,,,,
+1,,Q2,AO3400A,30V N-Channel MOSFET,Alpha and Omega Semiconductor,AO3400A,,,,,,,,,
+1,,R1,100 Ohm,,YAGEO Corp.,RC0603FR-07100RL,,,,,,,,,
+1,,R2,1 kOhm,,YAGEO Corp.,RC0603FR-071KL,,,,,,,,,
+1,,R3,100 kOhm,,YAGEO Corp.,RC0603FR-13100KL,,,,,,,,,
+1,,R4,680 Ohm,,YAGEO Corp.,RC0603JR-07680RL,,,,,,,,,
+1,,R5,680 Ohm,,YAGEO Corp.,RC0603JR-07680RL,,,,,,,,,
+1,,R6,270 Ohm,,YAGEO Corp.,RC0603FR-07270RL,,,,,,,,,
+1,,R7,5.1 kOhm,,YAGEO Corp.,RC0603FR-075K1L,,,,,,,,,
+1,,R8,5.1 kOhm,,YAGEO Corp.,RC0603FR-075K1L,,,,,,,,,
+1,,R9,2 kOhm,Thick Film Resistors - SMD 2 kOhms 100mW 0603 1%,YAGEO Corp.,RC0603FR-072KL,,,,,,,,,
+1,,R10,20 kOhm,"RC0603 SMD resistor,47K5 1% 0.1W (Reel) Yageo RC Series Thick Film Surface Mount Resistor 603 Case 20k +/-1% 0.1W +/-100ppm/C",YAGEO Corp.,RC0603FR-0720KL,,,,,,,,,
+1,,R11,100 Ohm,Yageo RC Series Thick Film Surface Mount Resistor 0603 Case 100,YAGEO Corp.,RC0603FR-07100RL,,,,,,,,,
+1,,R12,1 kOhm,Res Thick Film 0603 1K Ohm 1% 0.1W(1/10W) +/-100ppm/C Epoxy Pad SMD T/R,YAGEO Corp.,RC0603FR-071KL,,,,,,,,,
+1,,RT1,10 kOhm,"NTC Thermistors, Insulated Leads for 185 C Applications","Vishay Intertechnology, Inc.",NTCLE350E4103FHB0,,,,,,,,,
 1,1825910-6,S1,1825910-6,Body Features: Product Orientation Vertical | Case Material Nylon | Actuator Force 5.64 OZ | Cover Material PET Film | Actuator Force 160 G | Actuator Color Black | Actuator Material PBT | Actuator Profile Extended | Case Color Black | Configuration Features: Operating Function NO | Ganged With | Support Bracket Without | Switch Feedback Type Tactile | Configuration (Pole-Throw) Single Pole - Single Throw | Number of Actuators Single | ESD Grounding Terminal Without | Contact Features: Contact Base Material,TE Connectivity,1825910-6,1825910-6-1894902532,1825910-6,TE Connectivity,10,10,,,Active,$0.05052-$0.07109
 1,CC2640R2FRHBR,U1,Microcontroller,SimpleLink 32bit Arm Cortex-M3 Bluetooth Low Energy 5.1 wireless MCU with 128kB flash 32-VQFN -40 to 85,Texas Instruments,CC2640R2FRHBR,CC2640R2FRHBR-8211461479,CC2640R2FRHBR,Texas Instruments Incorporated,10,7,,,Active,$2.18124-$2.22068
 1,,U2,Battery Charger,,Microchip Tech,MCP73871-2CCI/ML,,,,,,,,,
-1,,U3,RELAY,,Panasonic Corporation,DK1A-3V-F,DK1A-3V-F-1726368762,DK1A-3V-F,Panasonic Corporation,10,10,,,Active,$4.78589-$5.40083
-1,,Y1,24 MHZ,,"CITIZEN FINEDEVICE CO.,LTD.",CS325S24000000ABJT,CS325S24000000ABJT-8259018897,CS325S24000000ABJT,"CITIZEN FINEDEVICE CO.,LTD.",6,7,,,Active,$0.51175-$0.63486
-1,,Y2,32.768kHz,,Epson,FC-135R32.7680KA-AX,FC-135R327680KA-AX-8362991461,FC-135R32.7680KA-AX,Epson,5,0,,,Active,
+1,,U3,RELAY,,Panasonic Corporation,DK1A-3V-F,,,,,,,,,
+1,,Y1,24 MHZ,,"CITIZEN FINEDEVICE CO.,LTD.",CS325S24000000ABJT,,,,,,,,,
+1,,Y2,32.768kHz,,Epson,FC-135R32.7680KA-AX,,,,,,,,,

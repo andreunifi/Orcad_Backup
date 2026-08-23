@@ -1,734 +1,153 @@
-\t (02:41:48) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
-\t (02:41:48)     Journal start - Sat Aug 22 13:07:35 2026
-\t (02:41:48)         Host=LAPTOP-DI-ANDRE User=andre Pid=12516 CPUs=8
-\t (02:41:48) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\unison.exe -layout -orcadx
-\t (02:41:48) 
-\d (02:41:48) Design opened: C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/BLE_TH_Sensor/Tesis_minimum_size_v2.brd
-\w (02:41:51) WARNING(SPMHGE-729): No ground net found.
-\i (02:41:52) updateport VisibilityPane
-\i (02:41:52) updateport PropPane
-\i (02:41:52) ucpedit 
-\i (02:41:52) updateport VisibilityPane
-\i (02:42:01) QtSignal DesignSetupWorkflow DefineMatTask linkActivated "def_mat"
-\i (02:42:01) ucp_materials 
-\i (02:42:15) QtSignal MaterialDlgUI  closed
-\i (02:42:15) ucpedit 
-\i (02:42:15) updateport VisibilityPane
-\i (02:42:19) QtSignal DesignSetupWorkflow DesignSetupSaveDesign linkActivated "save_design"
-\i (02:42:19) save_as 
-\i (02:42:21) fillin "menu_cancel"
-\i (02:42:21) ucpedit 
-\i (02:42:21) updateport VisibilityPane
-\i (02:42:26) QtSignal AnalysisDialog SelectWorkflow CurrentIndexChanged "Return Path Workflow"
-\w (02:42:26) WARNING(SPMHGE-729): No ground net found.
-\i (02:42:29) QtSignal ReturnPathWorkflow SelectDirectedGroups linkActivated "select_directed_groups"
-\i (02:42:29) component probe 
-\t (02:42:29) INFO(SPMHGE-753): Select start component
-\i (02:42:29) updateport VisibilityPane
-\i (02:42:31) zoom out 1 
-\i (02:42:31) setwindow pcb
-\i (02:42:31) zoom out 0.7266 -23.1864
-\i (02:42:31) trapsize 4436
-\i (02:42:31) zoom out 1 
-\i (02:42:31) setwindow pcb
-\i (02:42:31) zoom out -5.3201 -23.5413
-\i (02:42:31) trapsize 8873
-\i (02:42:31) zoom out 1 
-\i (02:42:31) setwindow pcb
-\i (02:42:31) zoom out 18.8955 -14.1113
-\i (02:42:31) trapsize 12048
-\i (02:42:32) roam start
-\i (02:42:33) roam end
-\i (02:42:33) zoom in 1 
-\i (02:42:33) setwindow pcb
-\i (02:42:33) zoom in 6.2651 -31.0843
-\i (02:42:33) trapsize 6024
-\i (02:42:33) zoom in 1 
-\i (02:42:33) setwindow pcb
-\i (02:42:33) zoom in -46.8675 -31.0843
-\i (02:42:33) trapsize 3012
-\i (02:42:34) zoom out 1 
-\i (02:42:34) setwindow pcb
-\i (02:42:34) zoom out -49.2168 -31.6867
-\i (02:42:34) trapsize 6024
-\i (02:42:35) zoom out 1 
-\i (02:42:35) setwindow pcb
-\i (02:42:35) zoom out -20.3614 -27.4698
-\i (02:42:35) trapsize 12048
-\i (02:42:35) zoom in 1 
-\i (02:42:35) setwindow pcb
-\i (02:42:35) zoom in 59.2771 -25.0602
-\i (02:42:35) trapsize 6024
-\i (02:42:36) roam start
-\i (02:42:36) roam y 4
-\i (02:42:36) roam y 4
-\i (02:42:36) roam y 5
-\i (02:42:36) roam y 4
-\i (02:42:36) roam y 6
-\i (02:42:36) roam y 15
-\i (02:42:36) roam y 6
-\i (02:42:36) roam y 5
-\i (02:42:36) roam y 1
-\i (02:42:36) roam y 3
-\i (02:42:36) roam y 4
-\i (02:42:36) roam y 1
-\i (02:42:36) roam y 6
-\i (02:42:36) roam y 3
-\i (02:42:36) roam end
-\i (02:42:38) QtSignal RpGrpSel txTree itemChanged HDC2010 "~U6" "|" 2
-\t (02:42:38) INFO(SPMHGE-754): Select end component(s) then create directed groups
-\i (02:42:38) QtSignal RpGrpSel txTree itemClicked HDC2010 U6
-\i (02:42:46) QtSignal RpGrpSel rxTree itemSelectionChanged "TSX-3225_24MHZ" Y2
-\i (02:42:46) QtSignal RpGrpSel rxTree itemClicked "TSX-3225_24MHZ" Y2
-\i (02:42:46) QtSignal RpGrpSel rxTree itemClicked "TSX-3225_24MHZ" Y2
-\i (02:42:47) QtSignal RpGrpSel rxTree itemChanged "TSX-3225_24MHZ" "~Y2" "|" 2
-\t (02:42:47) INFO(SPMHGE-754): Select end component(s) then create directed groups
-\i (02:42:47) QtSignal RpGrpSel rxTree itemClicked "TSX-3225_24MHZ" Y2
-\i (02:42:48) QtSignal RpGrpSel creationButton clicked
-\t (02:42:48) INFO(SPMHGE-753): Select start component
-\i (02:42:50) QtSignal RpGrpSel okButton clicked
-\i (02:42:50) updateport ReportsPane
-\i (02:42:50) updateport SearchPane
-\i (02:42:50) updateport VisibilityPane
-\i (02:42:50) updateport PropPane
-\i (02:42:50) ucpedit 
-\i (02:42:50) updateport VisibilityPane
-\i (02:42:51) zoom in 1 
-\i (02:42:51) setwindow pcb
-\i (02:42:51) zoom in 16.5060 -28.6747
-\i (02:42:51) trapsize 3012
-\i (02:42:51) zoom in 1 
-\i (02:42:51) setwindow pcb
-\i (02:42:51) zoom in -9.0361 -30.4819
-\i (02:42:51) trapsize 1506
-\i (02:42:53) pick grid -19.0662 -29.6385
-\t (02:42:53) last pick:  -19.0662 -29.6385
-\w (02:42:54) WARNING(SPMHGE-729): No ground net found.
-\e (02:42:54) No reference net found
-\i (02:42:56) fillin confirm
-\i (02:42:59) roam start
-\i (02:42:59) roam x 2
-\i (02:42:59) roam y -3
-\i (02:42:59) roam x -7
-\i (02:42:59) roam y -2
-\i (02:42:59) roam x -16
-\i (02:42:59) roam y -5
-\i (02:42:59) roam x -22
-\i (02:42:59) roam y -4
-\i (02:42:59) roam x -47
-\i (02:42:59) roam y -15
-\i (02:42:59) roam x -45
-\i (02:42:59) roam y -10
-\i (02:42:59) roam x -30
-\i (02:42:59) roam y -6
-\i (02:42:59) roam x -24
-\i (02:42:59) roam y -4
-\i (02:42:59) roam x -15
-\i (02:42:59) roam y -4
-\i (02:42:59) roam x -7
-\i (02:42:59) roam y -1
-\i (02:42:59) roam x -9
-\i (02:42:59) roam y -1
-\i (02:42:59) roam x -5
-\i (02:42:59) roam y -2
-\i (02:42:59) roam x -58
-\i (02:42:59) roam y -11
-\i (02:42:59) roam x -27
-\i (02:42:59) roam y -1
-\i (02:42:59) roam x -90
-\i (02:42:59) roam y -9
-\i (02:42:59) roam x -11
-\i (02:42:59) roam y -4
-\i (02:42:59) roam x -4
-\i (02:42:59) roam end
-\i (02:43:00) zoom in 1 
-\i (02:43:00) setwindow pcb
-\i (02:43:00) zoom in -12.1085 -26.4157
-\i (02:43:00) trapsize 753
-\i (02:43:00) zoom in 1 
-\i (02:43:00) setwindow pcb
-\i (02:43:00) zoom in -12.9217 -26.5512
-\i (02:43:00) trapsize 377
-\w (02:43:04) WARNING(SPMHGE-729): No ground net found.
-\e (02:43:04) No reference net found
-\i (02:43:05) fillin confirm
-\i (02:43:10) QtSignal ReturnPathWorkflow SelectReferenceNet CurrentIndexChanged GND
-\w (02:43:10) WARNING(SPMHGE-729): No ground net found.
-\e (02:43:10) Net GND cannot be set as a reference net
-Before continuing, please add a VOLTAGE property of 0V to this net
-\i (02:43:10) QtSignal ReturnPathWorkflow SelectReferenceNet EditingFinished
-\i (02:43:12) QtSignal ReturnPathWorkflow SelectReferenceNet EditingFinished GND
-\i (02:43:14) QtSignal ReturnPathWorkflow CutDsnCheck clicked true
-\i (02:44:35) QtSignal AnalysisDialog SelectWorkflow CurrentIndexChanged "Thermal Workflow"
-\i (02:44:45) QtSignal AnalysisDialog SelectWorkflow CurrentIndexChanged "Crosstalk Workflow"
-\i (02:44:48) QtSignal CrosstalkWorkflow SelectNets linkActivated "select_nets"
-\t (02:44:48) Select nets
-
-\i (02:44:48) net probe 
-\i (02:44:48) updateport VisibilityPane
-\i (02:44:52) zoom out 1 
-\i (02:44:52) setwindow pcb
-\i (02:44:52) zoom out -9.8268 -25.8660
-\i (02:44:52) trapsize 753
-\i (02:44:52) zoom out 1 
-\i (02:44:52) setwindow pcb
-\i (02:44:52) zoom out -9.8267 -25.8659
-\i (02:44:52) trapsize 1506
-\i (02:44:55) pick grid -6.7243 -22.9743
-\t (02:44:55) last pick:  -6.7243 -22.9743
-\i (02:44:57) pick grid -5.9713 -22.0707
-\t (02:44:57) last pick:  -5.9713 -22.0707
-\i (02:44:59) QtSignal XtalkNetSel okButton clicked
-\i (02:44:59) updateport ReportsPane
-\i (02:44:59) updateport SearchPane
-\i (02:44:59) updateport VisibilityPane
-\i (02:44:59) updateport PropPane
-\i (02:44:59) ucpedit 
-\i (02:44:59) updateport VisibilityPane
-\i (02:45:05) QtSignal CrosstalkWorkflow StartSimTask linkActivated "start_sim"
-\e (02:45:06) ERROR(SPMHIA-806): Cannot run simulation. Ensure that either the 'Sigrity X PCB In-Design Analysis Extension' or 'Sigrity X Aurora PCB Analysis' license is available, or 2 Sigrity X Tokens.
-\i (02:45:11) QtSignal CrosstalkWorkflow StartSimTask linkActivated "start_sim"
-\e (02:45:11) ERROR(SPMHIA-806): Cannot run simulation. Ensure that either the 'Sigrity X PCB In-Design Analysis Extension' or 'Sigrity X Aurora PCB Analysis' license is available, or 2 Sigrity X Tokens.
-\i (02:45:13) zoom in 1 
-\i (02:45:13) setwindow pcb
-\i (02:45:13) zoom in -8.6821 -29.0587
-\i (02:45:13) trapsize 753
-\i (02:45:15) QtSignal CrosstalkWorkflow StartSimTask linkActivated "start_sim"
-\e (02:45:15) ERROR(SPMHIA-806): Cannot run simulation. Ensure that either the 'Sigrity X PCB In-Design Analysis Extension' or 'Sigrity X Aurora PCB Analysis' license is available, or 2 Sigrity X Tokens.
-\i (02:45:19) QtSignal CrosstalkWorkflow AnalysisOpt linkActivated "analysis_opt"
-\i (02:45:24) QtSignal MainCanvas XtalkPrefDialog closed
-\i (02:45:29) QtSignal CrosstalkWorkflow CutDsnCheck clicked true
-\i (02:45:31) QtSignal CrosstalkWorkflow StartSimTask linkActivated "start_sim"
-\e (02:45:31) ERROR(SPMHIA-806): Cannot run simulation. Ensure that either the 'Sigrity X PCB In-Design Analysis Extension' or 'Sigrity X Aurora PCB Analysis' license is available, or 2 Sigrity X Tokens.
-\i (02:45:40) QtSignal CrosstalkWorkflow StartSimTask linkActivated "start_sim"
-\e (02:45:40) ERROR(SPMHIA-806): Cannot run simulation. Ensure that either the 'Sigrity X PCB In-Design Analysis Extension' or 'Sigrity X Aurora PCB Analysis' license is available, or 2 Sigrity X Tokens.
-\i (02:45:56) QtSignal AnalysisDialog SelectWorkflow CurrentIndexChanged "DC Resistance Workflow"
-\i (02:46:01) QtSignal AnalysisDialog SelectWorkflow CurrentIndexChanged "Crosstalk Workflow"
-\i (02:46:03) QtSignal CrosstalkWorkflow StartSimTask linkActivated "start_sim"
-\e (02:46:03) ERROR(SPMHIA-806): Cannot run simulation. Ensure that either the 'Sigrity X PCB In-Design Analysis Extension' or 'Sigrity X Aurora PCB Analysis' license is available, or 2 Sigrity X Tokens.
-\i (02:46:03) QtSignal CrosstalkWorkflow StartSimTask linkActivated "start_sim"
-\e (02:46:03) ERROR(SPMHIA-806): Cannot run simulation. Ensure that either the 'Sigrity X PCB In-Design Analysis Extension' or 'Sigrity X Aurora PCB Analysis' license is available, or 2 Sigrity X Tokens.
-\i (02:46:04) QtSignal CrosstalkWorkflow StartSimTask linkActivated "start_sim"
-\e (02:46:04) ERROR(SPMHIA-806): Cannot run simulation. Ensure that either the 'Sigrity X PCB In-Design Analysis Extension' or 'Sigrity X Aurora PCB Analysis' license is available, or 2 Sigrity X Tokens.
-\i (02:46:06) QtSignal CrosstalkWorkflow StartSimTask linkActivated "start_sim"
-\e (02:46:06) ERROR(SPMHIA-806): Cannot run simulation. Ensure that either the 'Sigrity X PCB In-Design Analysis Extension' or 'Sigrity X Aurora PCB Analysis' license is available, or 2 Sigrity X Tokens.
-\i (02:46:06) QtSignal CrosstalkWorkflow StartSimTask linkActivated "start_sim"
-\e (02:46:06) ERROR(SPMHIA-806): Cannot run simulation. Ensure that either the 'Sigrity X PCB In-Design Analysis Extension' or 'Sigrity X Aurora PCB Analysis' license is available, or 2 Sigrity X Tokens.
-\i (02:46:13) QtSignal CrosstalkWorkflow StartSimTask linkActivated "start_sim"
-\e (02:46:13) ERROR(SPMHIA-806): Cannot run simulation. Ensure that either the 'Sigrity X PCB In-Design Analysis Extension' or 'Sigrity X Aurora PCB Analysis' license is available, or 2 Sigrity X Tokens.
-\i (02:46:14) zoom out 1 
-\i (02:46:14) setwindow pcb
-\i (02:46:14) zoom out -16.2273 -25.6852
-\i (02:46:14) trapsize 1506
-\i (02:46:14) zoom out 1 
-\i (02:46:14) setwindow pcb
-\i (02:46:14) zoom out -16.2273 -25.6852
-\i (02:46:14) trapsize 3012
-\i (02:46:16) pick grid 29.8570 -40.4442
-\t (02:46:16) last pick:  29.8570 -40.4442
-\i (02:46:16) pick grid dbl 29.8570 -40.4442
-\t (02:46:16) last pick:  29.8570 -40.4442
-\i (02:46:27) QtSignal CrosstalkWorkflow StartSimTask linkActivated "start_sim"
-\e (02:46:27) ERROR(SPMHIA-806): Cannot run simulation. Ensure that either the 'Sigrity X PCB In-Design Analysis Extension' or 'Sigrity X Aurora PCB Analysis' license is available, or 2 Sigrity X Tokens.
-\i (02:55:52) zoom in 1 
-\i (02:55:52) setwindow pcb
-\i (02:55:52) zoom in -28.6973 -31.6490
-\i (02:55:52) trapsize 1506
-\i (02:55:55) roam start
-\i (02:55:55) roam x 61
-\i (02:55:55) roam y -24
-\i (02:55:55) roam x 6
-\i (02:55:55) roam y -1
-\i (02:55:55) roam x 8
-\i (02:55:55) roam y -4
-\i (02:55:55) roam x 67
-\i (02:55:55) roam y -20
-\i (02:55:55) roam x 4
-\i (02:55:55) roam y -1
-\i (02:55:55) roam x 5
-\i (02:55:55) roam x 15
-\i (02:55:55) roam y -3
-\i (02:55:55) roam x 42
-\i (02:55:55) roam y -5
-\i (02:55:55) roam x 20
-\i (02:55:55) roam y -7
-\i (02:55:56) roam x 3
-\i (02:55:56) roam y -1
-\i (02:55:56) roam x 6
-\i (02:55:56) roam y -2
-\i (02:55:56) roam x 5
-\i (02:55:56) roam y -2
-\i (02:55:56) roam x 4
-\i (02:55:56) roam x 5
-\i (02:55:56) roam y -4
-\i (02:55:56) roam x 6
-\i (02:55:56) roam y -2
-\i (02:55:56) roam x 8
-\i (02:55:56) roam y -5
-\i (02:55:56) roam x 21
-\i (02:55:56) roam y -10
-\i (02:55:56) roam x 54
-\i (02:55:56) roam y -30
-\i (02:55:56) roam x 21
-\i (02:55:56) roam y -12
-\i (02:55:56) roam x 5
-\i (02:55:56) roam y -3
-\i (02:55:56) roam end
-\i (02:56:01) QtSignal CrosstalkWorkflow StartSimTask linkActivated "start_sim"
-\e (02:56:01) ERROR(SPMHIA-806): Cannot run simulation. Ensure that either the 'Sigrity X PCB In-Design Analysis Extension' or 'Sigrity X Aurora PCB Analysis' license is available, or 2 Sigrity X Tokens.
-\i (02:56:02) QtSignal CrosstalkWorkflow StartSimTask linkActivated "start_sim"
-\e (02:56:02) ERROR(SPMHIA-806): Cannot run simulation. Ensure that either the 'Sigrity X PCB In-Design Analysis Extension' or 'Sigrity X Aurora PCB Analysis' license is available, or 2 Sigrity X Tokens.
-\t (03:11:47) Performing Auto-Backup...
-\t (03:11:47) Auto-Backup successful
-\i (03:11:47) updateport ReportsPane
-\i (03:11:47) updateport SearchPane
-\i (03:11:47) updateport PropPane
-\i (05:28:29) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:30) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:30) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:30) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:30) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:30) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:30) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:30) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:30) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:30) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:30) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:30) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:30) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:30) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:30) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:30) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:30) QtSignal MainCanvas IRDropPrefDialog closed
-\i (05:28:30) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:30) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:30) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:30) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:30) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:30) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:30) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:30) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:30) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:30) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:31) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:31) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:31) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:31) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:31) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:31) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:31) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:31) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:31) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:31) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:31) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:31) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:31) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:31) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:31) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:31) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:31) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:31) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:31) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:31) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:31) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:31) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:31) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:31) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:31) QtSignal MainCanvas DesignSetupPrefDialog closed
-\i (05:28:32) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:32) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:32) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:32) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:32) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:32) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:32) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:32) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:32) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:32) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:32) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:32) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:32) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:32) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:32) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:32) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:32) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:32) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:32) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:32) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:32) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:32) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:32) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:32) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:32) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:32) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:32) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:32) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:32) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:33) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:33) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:33) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:33) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:33) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:33) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:33) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:33) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:33) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:33) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:33) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:33) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:33) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:33) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:33) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:33) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:33) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:33) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:33) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:33) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:33) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:33) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:33) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:34) QtSignal MainCanvas TopXpLayoutLinkNewDialog closed
-\i (05:28:34) QtSignal MainCanvas IRDropVRMSetupDialog closed
-\i (05:28:34) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:34) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:34) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:34) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:34) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:34) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:34) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:34) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:34) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:34) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:34) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:34) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:34) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:34) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:34) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:34) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:34) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:34) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:34) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:34) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:34) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:34) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:35) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:35) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:35) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:35) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:35) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:35) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:35) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:35) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:35) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:35) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:35) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:35) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:35) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:35) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:35) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:35) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:35) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:35) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:35) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:35) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:35) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:35) QtSignal MainCanvas RpGrpSel closed
-\i (05:28:35) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:35) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:35) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:35) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:36) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:36) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:36) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:36) QtSignal MainCanvas DCRMeasSetupDialog closed
-\i (05:28:36) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:36) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:36) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:36) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:36) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:36) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:36) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:36) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:36) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:36) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:36) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:36) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:36) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:36) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:36) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:36) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:36) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:36) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:36) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:36) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:36) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:36) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:36) QtSignal MainCanvas ThermalPrefDialog closed
-\i (05:28:36) QtSignal MainCanvas InterConnModelExtPrefDialog closed
-\i (05:28:37) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:37) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:37) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:37) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:37) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:37) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:37) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:37) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:37) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:37) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:37) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:37) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:37) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:37) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:37) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:37) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:37) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:37) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:37) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:37) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:37) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:37) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:37) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:37) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:37) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:37) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:37) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:37) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:37) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:37) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:38) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:38) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:38) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:38) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:38) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:38) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:38) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:38) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:38) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:38) QtSignal MainCanvas IRDropSINKSetupDialog closed
-\i (05:28:38) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:38) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:38) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:38) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:38) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:38) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:38) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:38) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:38) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:38) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:38) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:38) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:38) QtSignal MainCanvas ThermalCompSetupDialog closed
-\i (05:28:38) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:38) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:38) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:38) QtSignal MainCanvas CplGrpSel closed
-\i (05:28:39) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:39) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:39) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:39) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:39) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:39) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:39) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:39) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:39) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:39) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:39) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:39) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:39) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:39) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:39) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:39) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:39) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:39) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:39) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:39) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:39) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:39) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:39) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:39) QtSignal MainCanvas ImpGrpSel closed
-\i (05:28:39) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:39) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:39) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:40) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:40) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:40) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:40) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:40) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:40) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:40) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:40) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:40) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:40) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:40) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:40) QtSignal MainCanvas ERCDesignSetupXNetsDialog closed
-\i (05:28:40) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:40) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:40) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:40) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:40) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:40) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:40) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:40) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:40) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:40) QtSignal MainCanvas ERCDesignSetupCompsDialog closed
-\i (05:28:40) QtSignal MainCanvas ReturnPathPrefDialog closed
-\i (05:28:41) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:41) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:41) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:41) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:41) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:41) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:41) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:41) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:41) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:41) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:41) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:41) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:41) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:41) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:41) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:41) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:41) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:41) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:41) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:41) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:41) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:41) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:41) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:41) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:41) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:41) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:41) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:42) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:42) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:42) QtSignal MainCanvas RfltPrefDialog closed
-\i (05:28:42) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:42) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:42) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:42) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:42) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:42) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:42) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:42) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:42) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:42) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:42) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:42) QtSignal MainCanvas TopXpPrefDialog closed
-\i (05:28:42) QtSignal MainCanvas XtalkPrefDialog closed
-\i (05:28:42) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:42) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:42) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:42) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:42) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:42) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:42) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:42) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:42) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:42) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:42) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:42) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:42) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:42) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:42) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:43) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:43) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:43) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:43) QtSignal MainCanvas ThermalModelSetupDialog closed
-\i (05:28:43) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:43) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:43) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:43) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:43) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:43) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:43) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:43) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:43) QtSignal MainCanvas DCResistPrefDialog closed
-\i (05:28:43) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:43) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:43) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:43) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:43) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:43) QtSignal MainCanvas ImpPrefDialog closed
-\i (05:28:43) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:43) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:43) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:43) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:43) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:43) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:43) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:43) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:43) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:43) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:44) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:44) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:44) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:44) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:44) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:44) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:44) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:44) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:44) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:44) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:44) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:44) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:44) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:44) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:44) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:44) QtSignal MainCanvas CplPrefDialog closed
-\i (05:28:44) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:44) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:44) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:44) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:44) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:44) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:44) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:44) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:44) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:44) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:44) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:44) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:44) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:44) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:44) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:45) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:45) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:45) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:45) QtSignal MainCanvas PwrIndPrefDialog closed
-\i (05:28:45) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:45) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:45) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:45) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:45) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:45) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:45) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:45) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:45) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:45) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:45) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:45) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:45) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:45) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:45) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:45) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:45) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:45) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:45) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:45) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:45) QtSignal MainCanvas IDAPrefDialogWHelp closed
-\i (05:28:45) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:45) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:45) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:45) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:46) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:46) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:46) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:46) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:46) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:46) QtSignal MainCanvas PkgModelParamDialog closed
-\i (05:28:46) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:46) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:46) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:46) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:46) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (05:28:46) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\t (05:28:58)     Journal end - Sat Aug 22 15:54:45 2026
+\t (01:44:01) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (01:44:01)     Journal start - Sun Aug 23 20:18:54 2026
+\t (01:44:01)         Host=LAPTOP-DI-ANDRE User=andre Pid=16052 CPUs=8
+\t (01:44:01) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\unison.exe -layout -orcadx
+\t (01:44:01) 
+\d (01:44:01) Design opened: C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/BLE_TH_Sensor/Tesis_minimum_size_v2.brd
+\i (01:44:05) updateport VisibilityPane
+\i (01:44:05) updateport PropPane
+\i (01:44:06) ucpedit 
+\i (01:44:06) updateport VisibilityPane
+\i (01:44:07) QtSignal VisLayerToolbarAllButton All clicked on
+\i (01:44:07) updateport ReportsPane
+\i (01:44:07) updateport SearchPane
+\i (01:44:07) updateport VisibilityPane
+\i (01:44:07) updateport PropPane
+\i (01:44:07) updateport CVPane
+\i (01:44:07) updateport VisibilityPane
+\i (01:44:07) zoom in 1 
+\i (01:44:08) setwindow pcb
+\i (01:44:08) zoom in 10.1761 -32.0592
+\i (01:44:08) trapsize 1109
+\i (01:44:08) zoom in 1 
+\i (01:44:08) setwindow pcb
+\i (01:44:08) zoom in 10.1761 -32.0592
+\i (01:44:08) trapsize 555
+\i (01:44:08) zoom in 1 
+\i (01:44:08) setwindow pcb
+\i (01:44:08) zoom in 10.1761 -32.0592
+\i (01:44:08) trapsize 277
+\i (01:44:08) roam start
+\i (01:44:08) roam y -4
+\i (01:44:08) roam x -3
+\i (01:44:08) roam y -10
+\i (01:44:08) roam x -2
+\i (01:44:08) roam y -13
+\i (01:44:08) roam x -4
+\i (01:44:08) roam y -13
+\i (01:44:08) roam y -20
+\i (01:44:08) roam x -4
+\i (01:44:08) roam y -49
+\i (01:44:08) roam y -75
+\i (01:44:08) roam y -48
+\i (01:44:09) roam x 6
+\i (01:44:09) roam y -37
+\i (01:44:09) roam x 3
+\i (01:44:09) roam y -28
+\i (01:44:09) roam y -12
+\i (01:44:09) roam y -4
+\i (01:44:09) roam end
+\i (01:44:09) roam start
+\i (01:44:09) roam x 2
+\i (01:44:09) roam y -1
+\i (01:44:09) roam y -6
+\i (01:44:09) roam y -14
+\i (01:44:09) roam y -11
+\i (01:44:09) roam x -3
+\i (01:44:09) roam y -10
+\i (01:44:09) roam x -6
+\i (01:44:09) roam y -19
+\i (01:44:09) roam x -23
+\i (01:44:09) roam y -60
+\i (01:44:09) roam x -5
+\i (01:44:09) roam y -10
+\i (01:44:09) roam x -7
+\i (01:44:09) roam y -25
+\i (01:44:09) roam x -4
+\i (01:44:09) roam y -8
+\i (01:44:09) roam x -1
+\i (01:44:09) roam end
+\i (01:44:10) zoom in 1 
+\i (01:44:10) setwindow pcb
+\i (01:44:10) zoom in 10.7538 -29.2733
+\i (01:44:10) trapsize 139
+\i (01:44:14) zoom in 1 
+\i (01:44:14) setwindow pcb
+\i (01:44:14) zoom in 10.3268 -28.2002
+\i (01:44:14) trapsize 69
+\i (01:44:14) zoom in 1 
+\i (01:44:14) setwindow pcb
+\i (01:44:14) zoom in 10.3268 -28.2002
+\i (01:44:14) trapsize 35
+\i (01:44:14) zoom out 1 
+\i (01:44:14) setwindow pcb
+\i (01:44:14) zoom out 9.9553 -28.3367
+\i (01:44:14) trapsize 69
+\i (01:44:15) roam start
+\i (01:44:15) roam x -26
+\i (01:44:15) roam y -12
+\i (01:44:15) roam x -27
+\i (01:44:15) roam y -12
+\i (01:44:15) roam x -30
+\i (01:44:15) roam y -10
+\i (01:44:15) roam x -59
+\i (01:44:15) roam y -15
+\i (01:44:15) roam x -73
+\i (01:44:15) roam y -8
+\i (01:44:15) roam x -52
+\i (01:44:15) roam y -7
+\i (01:44:15) roam x -285
+\i (01:44:15) roam x -88
+\i (01:44:15) roam x -48
+\i (01:44:15) roam x -49
+\i (01:44:15) roam x -15
+\i (01:44:15) roam x -41
+\i (01:44:15) roam x -12
+\i (01:44:15) roam x -22
+\i (01:44:15) roam end
+\i (01:44:16) zoom in 1 
+\i (01:44:16) setwindow pcb
+\i (01:44:16) zoom in 9.9104 -28.3950
+\i (01:44:16) trapsize 35
+\i (01:44:16) zoom out 1 
+\i (01:44:16) setwindow pcb
+\i (01:44:16) zoom out 9.5528 -28.3527
+\i (01:44:16) trapsize 69
+\i (01:44:16) zoom out 1 
+\i (01:44:16) setwindow pcb
+\i (01:44:16) zoom out 9.5458 -28.3528
+\i (01:44:16) trapsize 139
+\i (01:44:16) zoom in 1 
+\i (01:44:16) setwindow pcb
+\i (01:44:16) zoom in 9.5459 -28.3528
+\i (01:44:16) trapsize 69
+\i (01:44:17) zoom out 1 
+\i (01:44:17) setwindow pcb
+\i (01:44:17) zoom out 9.5307 -28.3736
+\i (01:44:17) trapsize 139
+\i (01:44:20) roam start
+\i (01:44:20) roam x -5
+\i (01:44:20) roam y -4
+\i (01:44:20) roam x -14
+\i (01:44:20) roam y -3
+\i (01:44:20) roam x -130
+\i (01:44:20) roam y -27
+\i (01:44:20) roam x -46
+\i (01:44:20) roam x -55
+\i (01:44:20) roam x -61
+\i (01:44:20) roam x -34
+\i (01:44:21) roam x -10
+\i (01:44:21) roam x -10
+\i (01:44:21) roam x -5
+\i (01:44:21) roam end
+\i (01:44:24) zoom in 1 
+\i (01:44:24) setwindow pcb
+\i (01:44:24) zoom in 10.1156 -28.3660
+\i (01:44:24) trapsize 69
+\i (01:44:36) opencd C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L_v2.brd 
+\t (01:44:36) Opening existing design...
+\i (01:44:37) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (01:44:37) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (01:44:39) trapsize 57
+\t (01:44:40) > Sending response DoneOpenBoard
+\t (01:44:40)     Journal end - Sun Aug 23 20:19:33 2026

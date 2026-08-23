@@ -1,0 +1,21 @@
+\t (01:43:43) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (01:43:43)     Journal start - Sun Aug 23 20:18:37 2026
+\t (01:43:43)         Host=LAPTOP-DI-ANDRE User=andre Pid=16052 CPUs=8
+\t (01:43:43) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\unison.exe -layout -orcadx
+\t (01:43:43) 
+\d (01:43:43) Design opened: C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L_v2.brd
+\i (01:43:49) zoom out 1 
+\i (01:43:49) setwindow pcb
+\i (01:43:49) zoom out 198.0577 187.2172
+\i (01:43:49) trapsize 115
+\i (01:43:49) updateport VisibilityPane
+\i (01:43:49) updateport PropPane
+\i (01:43:49) ucpedit 
+\i (01:43:49) updateport VisibilityPane
+\i (01:43:55) opencd C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/BLE_TH_Sensor/Tesis_minimum_size_v2.brd 
+\t (01:43:56) Opening existing design...
+\i (01:43:57) fillin yes 
+\i (01:43:58) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (01:43:58) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (01:44:00) trapsize 2218
+\t (01:44:01)     Journal end - Sun Aug 23 20:18:54 2026
