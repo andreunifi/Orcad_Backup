@@ -1,44 +1,10 @@
 \t (00:00:01) padstack_editor 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Sun Aug 23 17:52:01 2026
-\t (00:00:01)         Host=LAPTOP-DI-ANDRE User=andre Pid=5660 CPUs=8
-\t (00:00:01) CmdLine= padstack_editor -mpssession andre -file C:/Users/andre/AppData/Local/Temp/#Taaaahe14544.tmp -pname VIA-1-2-1 -data C:/Users/andre/AppData/Local/Temp/#Taaaahi14544.tmp -unison
+\t (00:00:01)     Journal start - Sun Aug 23 19:15:12 2026
+\t (00:00:01)         Host=LAPTOP-DI-ANDRE User=andre Pid=14072 CPUs=8
+\t (00:00:01) CmdLine= padstack_editor -mpssession andre -file C:/Users/andre/AppData/Local/Temp/#Taaaabz16052.tmp -pname VIA -data C:/Users/andre/AppData/Local/Temp/#Taaaacd16052.tmp -unison
 \t (00:00:01) 
-\d (00:00:03) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
-\d (00:00:14) QtSignal GuidedDrillTab NumDrillRows editingFinished 3
-\d (00:00:20) QtSignal GuidedDrillTab NumDrillColumns editingFinished 3
-\d (00:00:41) QtSignal GuidedDrillTab XClearance editingFinished "0.5000"
-\d (00:00:44) QtSignal GuidedDrillTab YClearance editingFinished "0.5000"
-\d (00:00:44) QtSignal GuidedTabsParent GuidedDrillTab keyPressEvent 16777220 0 false 1 ""
-\d (00:00:49) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
-\d (00:01:11) QtSignal MainWindow UpdateToDesign triggered
-\d (00:01:20) QtSignal MainWindow pseCheckBrowser closed
-\d (00:01:21) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
-\d (00:01:24) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
-\d (00:01:29) QtSignal GuidedDesignLayersTab PadShape CurrentIndexChanged Rectangle
-\d (00:01:49) QtSignal GuidedDesignLayersTab PadWidth editingFinished "2.8000"
-\d (00:01:50) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777249 67108864 false +
-\d (00:01:50) QtSignal 1
-\d (00:01:52) QtSignal GuidedDesignLayersTab PadHeight editingFinished "2.8000"
-\d (00:01:52) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777220 0 false 1 ""
-\d (00:01:55) QtSignal GuidedDesignLayersTab LayersTable cellClicked 0 "Regular Pad" 0 2
-\d (00:01:56) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 1 "Regular Pad"
-\d (00:01:56) QtSignal GuidedDesignLayersTab LayersTable cellClicked 1 "Regular Pad" 1 2
-\d (00:01:57) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 2 "Regular Pad"
-\d (00:01:57) QtSignal GuidedDesignLayersTab LayersTable cellClicked 2 "Regular Pad" 2 2
-\d (00:02:16) QtSignal GuidedDesignLayersTab LayersTable customContextMenuRequest 2 "Regular Pad"
-\d (00:02:18) QtFillin ""
-\d (00:02:26) QtSignal GuidedDesignLayersTab PadWidth editingFinished "2.8000"
-\d (00:02:31) QtSignal GuidedDesignLayersTab PadHeight editingFinished "2.8000"
-\d (00:02:31) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 0 "Regular Pad"
-\d (00:02:31) QtSignal GuidedDesignLayersTab LayersTable cellClicked 0 "Regular Pad" 0 2
-\d (00:02:32) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 1 "Regular Pad"
-\d (00:02:32) QtSignal GuidedDesignLayersTab LayersTable cellClicked 1 "Regular Pad" 1 2
-\d (00:02:38) QtSignal GuidedDesignLayersTab PadWidth editingFinished "2.8000"
-\d (00:02:42) QtSignal GuidedDesignLayersTab PadHeight editingFinished "2.8000"
-\d (00:02:42) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged
-\d (00:02:43) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
-\d (00:02:46) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
-\d (00:02:50) QtSignal MainWindow Save triggered
-\d (00:02:51) QtSignal MainWindow UpdateToDesign triggered
-\d (00:02:53) QtSignal MainWindow Exit triggered
-\t (00:02:53)     Journal end - Sun Aug 23 17:54:54 2026
+\d (00:00:12) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:15) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:16) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:20) QtSignal MainWindow Exit triggered
+\t (00:00:20)     Journal end - Sun Aug 23 19:15:31 2026

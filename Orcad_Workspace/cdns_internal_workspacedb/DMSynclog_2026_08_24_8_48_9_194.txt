@@ -1,0 +1,8 @@
+[INFO][2026:08:24-8:48:9:580] - Number of files added:195
+[INFO][2026:08:24-8:48:9:597] - Number of files deleted:0
+[INFO][2026:08:24-8:48:9:604] - Folder Path:C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace
+[INFO][2026:08:24-8:48:9:641] - Home:C:\Users\andre\AppData\Roaming\SPB_Data
+[INFO][2026:08:24-8:48:9:646] - UserName:s338780@studenti.polito.it
+[INFO][2026:08:24-8:48:9:650] - Server is running @ http://0.0.0.0:62718 at time : Mon Aug 24 2026 08:48:08 GMT+0200 (Ora legale dell’Europa centrale)
+[INFO][2026:08:24-8:48:9:655] - Port:62718 Cloud Server - https://pcb.cadence.com
+[INFO][2026:08:24-8:48:9:659] - Logging State: OFF

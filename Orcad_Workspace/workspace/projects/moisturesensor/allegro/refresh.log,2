@@ -2,19 +2,19 @@
 (                                                                     )
 (    Refresh Symbol                                                   )
 (                                                                     )
-(    Drawing          : SO1L.brd                                      )
+(    Drawing          : SO1L_v2.brd                                   )
 (    Software Version : 25.1S030                                      )
-(    Date/Time        : Sun Aug 23 18:22:18 2026                      )
+(    Date/Time        : Mon Aug 24 08:53:43 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Sun Aug 23 18:22:18 2026				Page     1
+Mon Aug 24 08:53:43 2026				Page     1
 
 
 ------ Symbol Refresh Directives ------
 
-Input design  = 'C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd'
+Input design  = 'C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L_v2.brd'
 Output design = ''
 
 Update mechanical symbols              = 'NO'
@@ -27,7 +27,7 @@ Reset symbol text and size locations   = 'YES'
 Reset Pin Escapes (fanouts)            = 'NO'
 Ripup Etch                             = 'NO'
 Reset custom drill data                = 'NO'
-Symbol list file                       = 'C:/Users/andre/AppData/Local/Temp/#Taaaahv14544.tmp'
+Symbol list file                       = 'C:/Users/andre/AppData/Local/Temp/#Taaaade07868.tmp'
 
 
 ------ Library Paths ------
@@ -55,17 +55,12 @@ PADPATH =  C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/librarie
 
 ------ Symbol Refresh Messages ------
 
-'SON50P200X300X80-11N'  symbol refreshed successfully.
-
-
------- Updating padstacks referring to the refreshed shapes and flash symbols.  ------
-
+'CAPAE1030X1050N'  symbol refreshed successfully.
 
 
 ------ Pad Stack Refresh Messages ------
 
-'R250_94'  pad stack refreshed successfully.
-'R70_30'  pad stack refreshed successfully.
+'R435_210'  pad stack refreshed successfully.
 
 
 ----- Symbol Update Summary ----
