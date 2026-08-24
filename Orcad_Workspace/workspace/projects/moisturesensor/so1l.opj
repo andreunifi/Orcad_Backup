@@ -1,6 +1,6 @@
 (ExpressProject "MoistureSensor"
   (ProjectVersion "19981106")
-  (SoftwareVersion "25.1 S030 (4414069)  [3/25/2026]-[08/23/26]")
+  (SoftwareVersion "25.1 S030 (4414069)  [3/25/2026]-[08/24/26]")
   (Folder "Design Resources"
     (Folder "Library"
       (File "C:\Users\andre\Desktop\Ese_Group18\olb_library\LIBRARY_SO1L.OLB"
@@ -290,12 +290,12 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 695"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 539"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1124 24 713")
+        (Placement "44 0 1 -1 -1 5 24 5 1255 24 557")
         (Scroll "198 243")
         (Zoom "180")
         (Occurrence "/"))
@@ -306,8 +306,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1124 24 713")
-        (Scroll "-87 0")
+        (Placement "44 0 1 -1 -1 5 24 5 1255 24 557")
+        (Scroll "-153 0")
         (Zoom "94")
         (Occurrence "/"))
       (Path
@@ -317,8 +317,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1124 24 713")
-        (Scroll "-34 1")
+        (Placement "44 0 1 -1 -1 5 24 5 1255 24 557")
+        (Scroll "-99 1")
         (Zoom "105")
         (Occurrence "/"))
       (Path
@@ -328,9 +328,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1124 24 713")
-        (Scroll "-117 -12")
-        (Zoom "88")
+        (Placement "44 0 1 -1 -1 5 24 5 1255 24 557")
+        (Scroll "-172 0")
+        (Zoom "90")
         (Occurrence "/"))
       (Path
          "C:\USERS\ANDRE\DESKTOP\ESE_GROUP18\ORCAD_WORKSPACE\WORKSPACE\PROJECTS\MOISTURESENSOR\SO1L.DSN")

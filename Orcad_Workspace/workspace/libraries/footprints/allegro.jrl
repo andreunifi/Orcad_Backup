@@ -1,24 +1,191 @@
 \t (00:00:04) allegro 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
-\t (00:00:04)     Journal start - Sun May 31 19:00:30 2026
-\t (00:00:04)         Host=LAPTOP-DI-ANDRE User=andre Pid=21912 CPUs=8
-\t (00:00:04) CmdLine= c:\cadence\orcadx_25.1\tools\bin\allegro.exe C:\Users\andre\Desktop\Ese_Group18\Orcad_Workspace\workspace\libraries\footprints\SAMTEC_FTSH-105-XX-X-DV.dra
+\t (00:00:04)     Journal start - Mon Aug 24 16:07:47 2026
+\t (00:00:04)         Host=LAPTOP-DI-ANDRE User=andre Pid=16264 CPUs=8
+\t (00:00:04) CmdLine= c:\cadence\orcadx_25.1\tools\bin\allegro.exe C:\Users\andre\Desktop\Ese_Group18\Orcad_Workspace\workspace\libraries\footprints\son50p200x300x80-11n.dra
 \t (00:00:04) 
 \t (00:00:04) Loading axlcore.cxt 
 \t (00:00:07) Opening existing design...
-\i (00:00:07) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "SAMTEC_FTSH-105-XX-X-DV"
-\d (00:00:07) Design opened: C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/SAMTEC_FTSH-105-XX-X-DV.dra
-\i (00:00:07) trapsize 1500
-\i (00:00:07) trapsize 1547
-\i (00:00:07) trapsize 1500
-\i (00:00:08) trapsize 1283
-\i (00:00:08) trapsize 1530
-\i (00:00:08) generaledit 
-\t (00:00:08) [19:00:35.078538] Periodic Lic check successful
-[19:00:35.078546] Feature usage summary:
+\i (00:00:07) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "son50p200x300x80-11n"
+\d (00:00:08) Design opened: C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/son50p200x300x80-11n.dra
+\i (00:00:08) trapsize 657
+\i (00:00:08) trapsize 697
+\i (00:00:09) trapsize 744
+\i (00:00:09) trapsize 697
+\i (00:00:09) trapsize 522
+\i (00:00:09) trapsize 624
+\i (00:00:10) generaledit 
+\t (00:00:10) [16:07:53.180585] Periodic Lic check successful
+[16:07:53.180595] Feature usage summary:
 
-\i (00:00:14) exit 
-\t (00:00:14) Lic Summary:
-[19:00:41.354899] Cdslmd servers:C:\Users\andre\AppData\Roaming\Cadence\VBL\SPB\license\license.txt
-[19:00:41.355963] Feature usage summary:
+\i (00:00:17) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\t (00:00:28) last pick:  4.6047 3.4312
+\w (00:00:28) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:00:33) prepopup -1.0881 1.0342
+\i (00:01:03) pick grid -2.3116 -2.1743
+\t (00:01:03) last pick:  -2.5400 -2.5400
+\i (00:01:13) setwindow form.find
+\i (00:01:13) FORM find all_off  
+\i (00:01:15) FORM find pins YES 
+\t (00:01:16) last pick:  4.7545 2.8194
+\w (00:01:16) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:01:17) setwindow pcb
+\i (00:01:17) drag_start grid -2.3990 3.3438
+\i (00:01:18) drag_stop -1.6874 2.0829
+\i (00:01:19) drag_start grid -2.3615 2.6821
+\i (00:01:20) drag_stop 3.8681 -2.2741
+\i (00:01:25) setwindow form.find
+\i (00:01:25) FORM find pins NO 
+\i (00:01:26) FORM find pins YES 
+\i (00:01:27) setwindow pcb
+\i (00:01:27) prepopup 1.0592 0.9843
+\i (00:01:34) pop dyn_option_select '@:@Show in Search Results' 
+\i (00:01:34) searchbox filter 
+\i (00:01:34) updateport SearchPane
+\i (00:01:34) generaledit 
+\i (00:01:37) QtSignal ADTableContainerWidget PinsTable selectionChanged
+\i (00:01:38) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 5
+\i (00:01:38) QtSignal ADTableContainerWidget PinsTable customContextMenuRequest 0 5
+\i (00:01:39) QtFillin ""
+\i (00:01:40) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 5
+\i (00:01:40) QtSignal ADTableContainerWidget PinsTable doubleClicked 0 5
+\i (00:01:40) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 5
+\i (00:01:40) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 5
+\i (00:01:41) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 5
+\i (00:01:41) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 5
+\i (00:01:42) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 5
+\i (00:01:43) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 5
+\i (00:01:43) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 5
+\i (00:01:44) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 5
+\i (00:01:44) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 5
+\i (00:01:44) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 5
+\i (00:01:44) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 5
+\i (00:01:44) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 5
+\i (00:01:44) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 5
+\i (00:01:45) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 5
+\i (00:01:45) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 5
+\i (00:01:45) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 5
+\i (00:01:53) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 5
+\i (00:01:54) QtSignal ADTableContainerWidget PinsTable customContextMenuRequest 0 1
+\i (00:01:54) QtSignal ADTableContainerWidget PinsTable customContextMenuRequest 0 1
+\i (00:01:55) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 5
+\i (00:01:55) QtSignal ADTableContainerWidget PinsTable doubleClicked 0 1
+\i (00:01:55) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 5
+\i (00:01:55) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 5
+\i (00:01:55) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 5
+\i (00:01:56) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 3
+\i (00:01:56) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 3
+\i (00:01:56) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 3
+\i (00:01:56) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 5
+\i (00:01:57) QtSignal ADTableContainerWidget PinsTable customContextMenuRequest 0 5
+\i (00:01:58) QtFillin Zoom
+\i (00:01:59) trapsize 296
+\i (00:02:00) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 5
+\i (00:02:00) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 5
+\i (00:02:00) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 5
+\i (00:02:00) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 5
+\i (00:02:01) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 5
+\i (00:02:01) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 5
+\i (00:02:01) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 5
+\i (00:02:01) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 5
+\i (00:02:01) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 5
+\i (00:02:02) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 5
+\i (00:02:02) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 5
+\i (00:02:02) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 5
+\i (00:02:02) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 5
+\i (00:02:03) QtSignal ADTableContainerWidget PinsTableHeader sectionPressed 5
+\i (00:02:03) QtSignal ADTableContainerWidget PinsTableHeader sectionClicked 5
+\i (00:02:03) QtSignal ADTableContainerWidget PinsTableHeader sectionPressed 5
+\i (00:02:03) QtSignal ADTableContainerWidget PinsTableHeader sectionClicked 5
+\i (00:02:04) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 5 1 5 2 5 3 5 4 5 5 5 +
+\i (00:02:04) QtSignal 6 5 7 5 8 5 9 5 10 5
+\i (00:02:04) QtSignal ADTableContainerWidget PinsTable customContextMenuRequest 0 5
+\i (00:02:05) QtFillin ""
+\i (00:02:05) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 5
+\i (00:02:06) QtSignal ADTableContainerWidget PinsTable selectionChanged 0 5
+\i (00:02:17) add pin 
+\i (00:02:21) prepopup -1.1612 0.4412
+\i (00:02:25) pick grid -1.6764 0.1866
+\t (00:02:25) last pick:  -2.5400 0.0000
+\e (00:02:25) ERROR(SPMHAP-2): No padstack specified.
+\i (00:02:27) pick grid -2.8076 0.9031
+\t (00:02:27) last pick:  -2.5400 0.0000
+\e (00:02:27) ERROR(SPMHAP-2): No padstack specified.
+\i (00:02:27) pick grid -2.6299 1.2585
+\t (00:02:27) last pick:  -2.5400 0.0000
+\e (00:02:27) ERROR(SPMHAP-2): No padstack specified.
+\i (00:02:28) prepopup -2.3753 0.7018
+\i (00:02:51) pick grid -2.8846 1.1222
+\t (00:02:51) last pick:  -2.5400 0.0000
+\e (00:02:51) ERROR(SPMHAP-2): No padstack specified.
+\i (00:02:52) pick grid -2.7957 0.9327
+\t (00:02:52) last pick:  -2.5400 0.0000
+\e (00:02:52) ERROR(SPMHAP-2): No padstack specified.
+\i (00:02:54) zoom out 1 
+\i (00:02:54) setwindow pcb
+\i (00:02:54) zoom out -2.1325 0.6840
+\i (00:02:55) trapsize 624
+\i (00:02:57) pick grid 1.9206 2.4949
+\t (00:02:57) last pick:  2.5400 2.5400
+\e (00:02:57) ERROR(SPMHAP-2): No padstack specified.
+\t (00:03:00) last pick:  8.7744 -2.9233
+\w (00:03:00) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:03:01) pick grid 1.0966 0.4474
+\t (00:03:01) last pick:  0.0000 0.0000
+\e (00:03:01) ERROR(SPMHAP-2): No padstack specified.
+\i (00:03:09) move 
+\t (00:03:09) Exiting from Add Pin.
+\i (00:03:09) updateport SearchPane
+\i (00:03:10) pick grid -0.3640 1.6085
+\t (00:03:10) last pick:  0.0000 2.5400
+\t (00:03:10) Pick new location for the element(s).
+\i (00:03:11) pick grid -0.3266 1.2589
+\t (00:03:11) last pick:  0.0000 0.0000
+\e (00:03:11) ERROR(SPMHA1-70): Pin is outside of the extents.
+\i (00:03:13) undo 
+\i (00:03:13) trapsize 624
+\i (00:03:13) updateport SearchPane
+\i (00:03:13) generaledit 
+\i (00:03:14) pick grid 2.1952 2.8943
+\t (00:03:14) last pick:  2.5400 2.5400
+\i (00:03:29) pick grid -1.1630 0.9218
+\t (00:03:29) last pick:  0.0000 0.0000
+\i (00:03:32) pick grid -1.8122 3.0067
+\t (00:03:32) last pick:  -2.5400 2.5400
+\i (00:03:33) delete 
+\i (00:03:36) pick grid -1.1131 0.9468
+\t (00:03:36) last pick:  0.0000 0.0000
+\t (00:03:36) Mechanical Pin "R70_30"
+\i (00:03:38) prepopup -1.1131 0.9468
+\i (00:03:43) delete 
+\i (00:03:43) updateport SearchPane
+\i (00:03:46) undo 
+\i (00:03:46) trapsize 624
+\i (00:03:46) updateport SearchPane
+\i (00:03:47) generaledit 
+\i (00:03:51) zoom in 1 
+\i (00:03:51) setwindow pcb
+\i (00:03:51) zoom in -1.0007 0.6222
+\i (00:03:51) trapsize 312
+\i (00:03:52) zoom out 1 
+\i (00:03:52) setwindow pcb
+\i (00:03:52) zoom out -2.1618 0.6222
+\i (00:03:52) trapsize 624
+\i (00:04:02) undo 
+\i (00:04:02) trapsize 624
+\i (00:04:02) updateport SearchPane
+\i (00:04:02) generaledit 
+\i (00:04:03) pick grid -1.9371 2.3575
+\t (00:04:03) last pick:  -2.5400 2.5400
+\i (00:04:05) prepopup -1.0881 0.9967
+\i (00:04:08) pick grid -1.1880 1.0092
+\t (00:04:08) last pick:  0.0000 0.0000
+\t (00:04:09) last pick:  4.5423 2.8943
+\w (00:04:09) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:04:19) exit 
+\e (00:04:19) Do you want to save the changes you made to son50p200x300x80-11n.dra?
+\i (00:04:21) fillin no 
+\t (00:04:21) Lic Summary:
+[16:12:04.179162] Cdslmd servers:C:\Users\andre\AppData\Roaming\Cadence\VBL\SPB\license\license.txt
+[16:12:04.704609] Feature usage summary:
 
-\t (00:00:14)     Journal end - Sun May 31 19:00:41 2026
+\t (00:04:21)     Journal end - Mon Aug 24 16:12:04 2026

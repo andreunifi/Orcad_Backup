@@ -1,31 +1,153 @@
-\t (00:00:08) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
-\t (00:00:08)     Journal start - Mon Aug 24 09:33:25 2026
-\t (00:00:08)         Host=LAPTOP-DI-ANDRE User=andre Pid=9012 CPUs=8
-\t (00:00:08) CmdLine= unison -layout -orcadx -productToken 000162F9EE80F4B1E2F868E4F4DBF4E2E5E274F5BC9CA4A9E1F83EFCEE81F7B3E2AA668CFAF6B2C7BA8038F3EF8383C6DF9F2CF1C1A6B3F7E6AA3AC5D48690E8EC9061F7FA95A2E7E3F732E5B882F7B0B3FC38FBED9BC09A80CF39898CEBC084E5CF27FF8C80EDC0CF9F468A9BA8FF84BFF038FBED85C08480CF38FBED85C08480CF52701E383339EA4400004074 C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/cap_cc0603_yag.dra
-\t (00:00:08) 
-\d (00:00:08) Design opened: C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/cap_cc0603_yag.dra
-\i (00:00:08) trapsize 408
-\i (00:00:09) QtSignal PropertyPadstackWidget PropertyPadstackEditMode CurrentIndexChanged 0
-\i (00:00:09) QtSignal PropertyPadstackWidget copperPadLayer CurrentIndexChanged 0
-\i (00:00:09) QtSignal PropertyPadstackWidget copperPadType CurrentIndexChanged 0
-\i (00:00:15) trapsize 415
-\i (00:00:19) QtSignal Property_Docked_PadstackWidget PropertyPadstackEditMode CurrentIndexChanged +
-\i (00:00:19) QtSignal 0
-\i (00:00:19) QtSignal Property_Docked_PadstackWidget copperPadLayer CurrentIndexChanged 0
-\i (00:00:19) QtSignal Property_Docked_PadstackWidget copperPadType CurrentIndexChanged 0
-\t (00:00:24) Loading consmgr.cxt 
-\t (00:00:24) Loading acns_formula.cxt 
-\i (00:00:24) trapsize 422
-\i (00:00:27) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
-\i (00:00:27) QtSignal ucp_shape_create_dyn_dim UCPAddShape_Type CurrentIndexChanged 1
-\i (00:00:28) updateport VisibilityPane
-\i (00:00:28) updateport CMPanelPort
-\i (00:00:28) updateport PropPane
-\i (00:00:28) updateport CVPane
-\i (00:00:28) ucpedit 
-\i (00:00:28) updateport ReportsPane
-\i (00:00:28) updateport SearchPane
-\i (00:00:28) updateport VisibilityPane
-\i (00:00:39) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (00:00:39) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\t (00:00:45)     Journal end - Mon Aug 24 09:34:03 2026
+\t (00:00:10) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (00:00:10)     Journal start - Mon Aug 24 17:40:12 2026
+\t (00:00:10)         Host=LAPTOP-DI-ANDRE User=andre Pid=9888 CPUs=8
+\t (00:00:10) CmdLine= unison -layout -orcadx -productToken 000168F5E7D1F3B5B3F76EE5F4D6F4B1E1E227A0EDCBA5A9B2AC37A9E387F6B3B6FE368CAFA5B2C7BA8038F3EF8383C6DF9F2CF1C1A6B3F7E6AA3AC5D48690E8EC903BA9AFC6F7B4B9AD3EE5EA8AF0BCB4FC38FBED9BC09A80CF39898CEBC084E5CF27FF8C80EDC0CF9F468A9BA8FF84BFF038FBED85C08480CF38FBED85C08480CF52778857A556EA43000040BC C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/an043_flip.dra
+\t (00:00:10) 
+\d (00:00:10) Design opened: C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/an043_flip.dra
+\i (00:00:10) trapsize 796
+\i (00:00:11) QtSignal PropertyPadstackWidget PropertyPadstackEditMode CurrentIndexChanged 0
+\i (00:00:11) QtSignal PropertyPadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (00:00:11) QtSignal PropertyPadstackWidget copperPadType CurrentIndexChanged 0
+\i (00:00:18) trapsize 809
+\i (00:00:24) QtSignal Property_Docked_PadstackWidget PropertyPadstackEditMode CurrentIndexChanged +
+\i (00:00:24) QtSignal 0
+\i (00:00:24) QtSignal Property_Docked_PadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (00:00:24) QtSignal Property_Docked_PadstackWidget copperPadType CurrentIndexChanged 0
+\t (00:00:29) Loading consmgr.cxt 
+\t (00:00:29) Loading acns_formula.cxt 
+\i (00:00:29) trapsize 823
+\i (00:00:33) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
+\i (00:00:33) QtSignal ucp_shape_create_dyn_dim UCPAddShape_Type CurrentIndexChanged 1
+\i (00:00:34) updateport VisibilityPane
+\i (00:00:34) updateport CMPanelPort
+\i (00:00:34) updateport PropPane
+\i (00:00:34) updateport CVPane
+\i (00:00:35) ucpedit 
+\i (00:00:35) updateport ReportsPane
+\i (00:00:35) updateport SearchPane
+\i (00:00:35) updateport VisibilityPane
+\i (00:00:35) QtSignal UCP_Add_Text UCPTextHeight editingFinished "2.54 MM"
+\i (00:00:35) QtSignal VisLayerToolbarAllButton All clicked
+\i (00:00:35) updateport ReportsPane
+\i (00:00:35) updateport SearchPane
+\i (00:00:35) updateport VisibilityPane
+\i (00:00:35) updateport PropPane
+\i (00:00:35) updateport CVPane
+\i (00:00:35) updateport VisibilityPane
+\i (00:00:36) QtSignal VisLayerToolbarAllButton All clicked on
+\i (00:00:36) updateport ReportsPane
+\i (00:00:36) updateport SearchPane
+\i (00:00:36) updateport VisibilityPane
+\i (00:00:36) updateport PropPane
+\i (00:00:36) updateport CVPane
+\i (00:00:36) updateport VisibilityPane
+\i (00:00:36) QtSignal VisLayerToolbarAllButton All clicked
+\i (00:00:36) updateport ReportsPane
+\i (00:00:36) updateport SearchPane
+\i (00:00:36) updateport VisibilityPane
+\i (00:00:36) updateport PropPane
+\i (00:00:36) updateport CVPane
+\i (00:00:36) updateport VisibilityPane
+\i (00:00:38) pick grid -6.5637 -17.1971
+\t (00:00:38) last pick:  -6.5637 -17.1971
+\i (00:00:38) QtSignal VisLayerToolbarAllButton All clicked on
+\i (00:00:38) updateport ReportsPane
+\i (00:00:38) updateport SearchPane
+\i (00:00:38) updateport VisibilityPane
+\i (00:00:38) updateport PropPane
+\i (00:00:38) updateport CVPane
+\i (00:00:39) updateport VisibilityPane
+\i (00:00:40) zoom out 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out -9.9381 -11.3866
+\i (00:00:40) trapsize 1646
+\i (00:00:40) zoom out 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out -2.6461 -5.5431
+\i (00:00:40) trapsize 1796
+\i (00:00:40) zoom out 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out -1.3184 -4.4792
+\i (00:00:40) trapsize 1796
+\i (00:00:40) zoom out 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out -1.3184 -4.4792
+\i (00:00:40) trapsize 1796
+\i (00:00:40) zoom out 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out -1.3184 -4.4792
+\i (00:00:40) trapsize 1796
+\i (00:00:41) roam start
+\i (00:00:41) roam end
+\i (00:00:41) zoom in 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom in -3.4735 -5.1257
+\i (00:00:41) trapsize 898
+\i (00:00:41) zoom in 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom in -10.4056 -4.9281
+\i (00:00:41) trapsize 449
+\i (00:00:42) roam start
+\i (00:00:42) roam y -1
+\i (00:00:42) roam y -3
+\i (00:00:42) roam y -7
+\i (00:00:42) roam x 4
+\i (00:00:42) roam y -15
+\i (00:00:42) roam x 12
+\i (00:00:42) roam y -28
+\i (00:00:42) roam x 18
+\i (00:00:42) roam y -30
+\i (00:00:42) roam x 19
+\i (00:00:42) roam y -32
+\i (00:00:42) roam x 21
+\i (00:00:42) roam y -33
+\i (00:00:42) roam x 24
+\i (00:00:42) roam y -32
+\i (00:00:42) roam x 13
+\i (00:00:42) roam y -31
+\i (00:00:42) roam x 18
+\i (00:00:42) roam y -28
+\i (00:00:42) roam x 11
+\i (00:00:42) roam y -20
+\i (00:00:42) roam x 14
+\i (00:00:42) roam y -21
+\i (00:00:42) roam x 17
+\i (00:00:42) roam y -24
+\i (00:00:42) roam x 13
+\i (00:00:42) roam y -20
+\i (00:00:42) roam x 10
+\i (00:00:42) roam y -15
+\i (00:00:42) roam x 7
+\i (00:00:42) roam y -11
+\i (00:00:42) roam x 7
+\i (00:00:42) roam y -10
+\i (00:00:42) roam x 3
+\i (00:00:42) roam y -9
+\i (00:00:42) roam x 3
+\i (00:00:42) roam y -1
+\i (00:00:42) roam y -4
+\i (00:00:42) roam end
+\i (00:00:42) zoom out 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom out -9.0138 -3.9763
+\i (00:00:42) trapsize 898
+\i (00:00:42) zoom in 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom in -9.2203 -2.2882
+\i (00:00:42) trapsize 449
+\i (00:00:44) pick grid -3.0334 -0.2678
+\t (00:00:44) last pick:  -3.0334 -0.2678
+\i (00:00:44) updateport ReportsPane
+\i (00:00:44) updateport SearchPane
+\i (00:00:45) updateport PropPane
+\i (00:00:45) prepopup -3.0334 -0.2678
+\i (00:00:47) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (MF_AN043_FEED_POINT) (1)' 
+\i (00:00:47) mod padstack 
+\i (00:00:54) ucpedit 
+\i (00:00:54) updateport ReportsPane
+\i (00:00:54) updateport SearchPane
+\i (00:00:54) updateport VisibilityPane
+\i (00:00:54) updateport PropPane
+\i (00:00:54) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:00:55) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\t (00:01:02)     Journal end - Mon Aug 24 17:41:04 2026

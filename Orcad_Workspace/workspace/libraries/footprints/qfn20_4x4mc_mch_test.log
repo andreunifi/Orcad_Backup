@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : qfn20_4x4mc_mch_TEST.dra                      )
+(    Software Version : 25.1S030                                      )
+(    Date/Time        : Mon Aug 24 15:48:54 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints
+    Name      = qfn20_4x4mc_mch_test.psm
+    User      = andre
+    Machine   = LAPTOP-DI-ANDRE
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
