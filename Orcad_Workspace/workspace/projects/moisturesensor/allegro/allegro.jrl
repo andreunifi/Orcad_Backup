@@ -1,35 +1,91 @@
-\t (00:00:04) allegro 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
-\t (00:00:04)     Journal start - Thu Aug 13 16:37:12 2026
-\t (00:00:04)         Host=LAPTOP-DI-ANDRE User=andre Pid=16676 CPUs=8
-\t (00:00:04) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\allegro.exe -mpssession andre -proj c:\users\andre\desktop\ese_group18\orcad_workspace\workspace\projects\moisturesensor\so1l.opj c:/users/andre/desktop/ese_group18/orcad_workspace/workspace/projects/moisturesensor/allegro/so1l.brd
-\t (00:00:04) 
-\t (00:00:04) Loading axlcore.cxt 
-\t (00:00:07) Opening existing design...
-\i (00:00:08) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged so1l
-\d (00:00:08) Design opened: c:/users/andre/desktop/ese_group18/orcad_workspace/workspace/projects/moisturesensor/allegro/so1l.brd
-\i (00:00:08) trapsize 1504
-\i (00:00:09) trapsize 1558
-\i (00:00:09) trapsize 1504
-\i (00:00:09) trapsize 1126
-\i (00:00:09) trapsize 2113
-\t (00:00:09) > Sending response DoneOpenBoard
+\t (00:00:05) allegro 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (00:00:05)     Journal start - Mon Aug 24 18:12:10 2026
+\t (00:00:05)         Host=LAPTOP-DI-ANDRE User=andre Pid=3952 CPUs=8
+\t (00:00:05) CmdLine= c:\cadence\orcadx_25.1\tools\bin\allegro.exe C:\Users\andre\Desktop\Ese_Group18\Orcad_Workspace\workspace\projects\moisturesensor\allegro\SO1L_v2.brd
+\t (00:00:05) 
+\t (00:00:05) Loading axlcore.cxt 
+\t (00:00:08) Opening existing design...
+\i (00:00:08) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "SO1L_v2"
+\d (00:00:08) Design opened: C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L_v2.brd
+\i (00:00:09) trapsize 11618
+\i (00:00:09) trapsize 12039
+\i (00:00:09) trapsize 11618
+\i (00:00:09) trapsize 8701
+\i (00:00:09) trapsize 9026
+\t (00:00:10) > Sending response DoneOpenBoard
 \i (00:00:10) updateport SearchPane
-\t (00:00:10) > DoPullSchematic message received
-\t (00:00:10) > Pulling schematic...
-\t (00:00:10) Starting Cadence Logic Import...
-\w (00:00:11) WARNING(SPMHGE-269): netrev had warnings, use Viewlog to review the log file.
-\t (00:00:11) Opening existing design...
-\i (00:00:11) trapsize 2113
-\t (00:00:11) > Sending response DonePullSchematic
-\t (00:00:11) > Schematic pulled successfully
-\i (00:00:11) generaledit 
-\i (00:00:12) updateport SearchPane
-\i (00:00:16) exit 
-\e (00:00:16) Do you want to save the changes you made to c:/users/andre/desktop/ese_group18/orcad_workspace/workspace/projects/moisturesensor/allegro/so1l.brd?
-\i (00:00:18) fillin no 
-\t (00:00:18) Lic Summary:
-[16:37:26.123770] Cdslmd servers:C:\Users\andre\AppData\Roaming\Cadence\VBL\SPB\license\license.txt
-[16:37:26.649043] Feature usage summary:
-[16:37:26.649049] OrCAD_X_PCB_Professional_Plus  
-[16:37:26.649050] OrCAD_X_Professional_Plus  
-\t (00:00:18)     Journal end - Thu Aug 13 16:37:26 2026
+\i (00:00:10) generaledit 
+\i (00:00:14) zoom in 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in 171.4195 179.7477
+\i (00:00:14) trapsize 4513
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 171.4195 179.7477
+\i (00:00:14) trapsize 9026
+\i (00:00:21) zoom in 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom in 176.4740 174.1516
+\i (00:00:21) trapsize 4513
+\i (00:00:22) zoom out 1 
+\i (00:00:22) setwindow pcb
+\i (00:00:22) zoom out 176.4741 174.1517
+\i (00:00:22) trapsize 9026
+\i (00:00:32) prmed 
+\i (00:00:36) setwindow form.prmedit
+\i (00:00:36) FORM prmedit text  
+\i (00:00:37) setwindow pcb
+\i (00:00:37) QtSignal UCPTextParametersWidget UCPTextParametersTabWidget currentChanged "Font Styles"
+\i (00:00:41) QtSignal UCPTextParametersWidget UCPTextParametersView selectionChanged
+\i (00:00:41) QtSignal UCPTextParametersWidget UCPTextParametersView selectionChanged
+\i (00:00:44) QtSignal UCPTextParametersWidget UCPTextParametersView selectionChanged
+\i (00:00:44) QtSignal UCPTextParametersWidget UCPTextParametersView selectionChanged
+\i (00:00:46) QtSignal UCPTextParametersWidget UCPTextParametersTabWidget currentChanged "Text Blocks"
+\i (00:00:48) setwindow form.prmedit
+\i (00:00:48) FORM prmedit text_setup_button  
+\i (00:01:13) setwindow form.textblock
+\i (00:01:13) FORM textblock 1 photoplot_width 0.1000 
+\i (00:01:18) FORM textblock 2 photoplot_width 0.1000 
+\i (00:01:18) FORM textblock done  
+\i (00:01:20) setwindow form.prmedit
+\i (00:01:20) FORM prmedit text_setup_button  
+\i (00:01:25) setwindow form.textblock
+\i (00:01:25) FORM textblock 3 photoplot_width 0.1000 
+\i (00:01:27) FORM textblock 4 photoplot_width 0.1000 
+\i (00:01:28) FORM textblock 5 photoplot_width 0.1000 
+\i (00:01:29) FORM textblock 6 photoplot_width 0.1000 
+\i (00:01:30) FORM textblock 7 photoplot_width 0.1000 
+\i (00:01:31) FORM textblock 8 photoplot_width 0.1000 
+\i (00:01:32) FORM textblock 9 photoplot_width 0.1000 
+\i (00:01:33) FORM textblock 10 photoplot_width 0.1000 
+\i (00:01:35) FORM textblock 11 photoplot_width 0.1000 
+\i (00:01:36) FORM textblock 12 photoplot_width 0.1000 
+\i (00:01:37) FORM textblock 13 photoplot_width 0.1000 
+\i (00:01:39) FORM textblock 14 photoplot_width 0.1000 
+\i (00:01:40) FORM textblock 15 photoplot_width 0.1000 
+\i (00:01:42) FORM textblock 16 photoplot_width 0.1000 
+\i (00:01:45) FORM textblock 17 photoplot_width 0.1000 
+\i (00:01:46) FORM textblock 18 photoplot_width 0.1000 
+\i (00:01:47) FORM textblock 19 photoplot_width 0.1000 
+\i (00:01:48) FORM textblock 20 photoplot_width 0.1000 
+\i (00:01:50) FORM textblock 21 photoplot_width 0.1000 
+\i (00:01:53) FORM textblock done  
+\i (00:02:00) setwindow form.prmedit
+\i (00:02:00) FORM prmedit done  
+\i (00:02:00) setwindow pcb
+\i (00:02:00) updateport SearchPane
+\i (00:02:00) generaledit 
+\i (00:02:00) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:02:00) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:02:00) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:02:00) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:02:00) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:02:07) exit 
+\e (00:02:07) Do you want to save the changes you made to SO1L_v2.brd?
+\i (00:02:09) fillin yes 
+\t (00:02:10) Lic Summary:
+[18:14:15.237225] Cdslmd servers:C:\Users\andre\AppData\Roaming\Cadence\VBL\SPB\license\license.txt
+[18:14:15.762569] Feature usage summary:
+[18:14:15.762571] OrCAD_X_PCB_Professional_Plus  
+[18:14:15.762571] OrCAD_X_Professional_Plus  
+\t (00:02:10)     Journal end - Mon Aug 24 18:14:15 2026

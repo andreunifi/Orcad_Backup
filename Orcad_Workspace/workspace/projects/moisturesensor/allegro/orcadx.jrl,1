@@ -1,0 +1,281 @@
+\t (00:00:31) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (00:00:31)     Journal start - Mon Aug 24 17:56:39 2026
+\t (00:00:31)         Host=LAPTOP-DI-ANDRE User=andre Pid=12720 CPUs=8
+\t (00:00:31) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\unison.exe -layout -orcadx
+\t (00:00:31) 
+\d (00:00:31) Design opened: C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L_v2.brd
+\i (00:00:31) trapsize 7578
+\i (00:00:32) QtSignal PropertyPadstackWidget PropertyPadstackEditMode CurrentIndexChanged 0
+\i (00:00:32) QtSignal PropertyPadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (00:00:32) QtSignal PropertyPadstackWidget copperPadType CurrentIndexChanged 0
+\i (00:00:38) trapsize 7704
+\i (00:00:43) QtSignal Property_Docked_PadstackWidget PropertyPadstackEditMode CurrentIndexChanged +
+\i (00:00:43) QtSignal 0
+\i (00:00:43) QtSignal Property_Docked_PadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (00:00:43) QtSignal Property_Docked_PadstackWidget copperPadType CurrentIndexChanged 0
+\t (00:00:47) Loading consmgr.cxt 
+\t (00:00:47) Loading acns_formula.cxt 
+\i (00:00:47) trapsize 7833
+\i (00:00:55) QtSignal DCRMeasTypeGroup MeasTypePartialRButton toggled on
+\i (00:00:55) QtSignal DCRMeasModelGroup MeasModelL2LRButton toggled on
+\i (00:00:56) QtSignal TopXpWorkflow RectShapeRButton toggled on
+\i (00:00:58) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
+\i (00:01:00) updateport VisibilityPane
+\i (00:01:01) updateport CMPanelPort
+\i (00:01:01) updateport PropPane
+\i (00:01:01) updateport CVPane
+\i (00:01:01) ucpedit 
+\i (00:01:01) updateport ReportsPane
+\i (00:01:01) updateport SearchPane
+\i (00:01:01) updateport VisibilityPane
+\i (00:01:14) dbdoctor 
+\i (00:01:16) setwindow form.dbdoctor_allegro
+\i (00:01:16) FORM dbdoctor_allegro drc YES 
+\i (00:01:17) FORM dbdoctor_allegro shapes YES 
+\i (00:01:18) FORM dbdoctor_allegro execute  
+\t (00:01:18) Dbdoctor in progress - wait...
+\t (00:01:18) Checking db records
+\t (00:01:18)     checking for orphans...
+\t (00:01:18)     Checked 100 percent
+\t (00:01:18) Regenerating DRC
+\t (00:01:18)   Original DRC errors: 0
+\t (00:01:18) Performing DRC...
+\t (00:01:18) Multithreaded DRC update (8 threads).
+\t (00:01:19) No DRC errors detected.
+\t (00:01:19)   Updated DRC errors:  0
+\i (00:01:20) setwindow pcb
+\i (00:01:20) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:01:20) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\t (00:01:21) Done dbdoctor.
+\t (00:01:21) Dbdoctor completed.
+\i (00:01:21) updateport ReportsPane
+\i (00:01:21) updateport SearchPane
+\i (00:01:21) updateport VisibilityPane
+\i (00:01:21) updateport PropPane
+\i (00:01:24) setwindow form.dbdoctor_allegro
+\i (00:01:24) FORM dbdoctor_allegro close  
+\i (00:01:24) setwindow pcb
+\i (00:01:24) ucpedit 
+\i (00:01:24) updateport VisibilityPane
+\i (00:01:26) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:01:26) QtSignal "CP_ALLEGRO_PROPERTIES_DOCK"
+\i (00:01:30) QtSignal PropertyStatusWidget Out_of_Date_Shapes_cnt linkActivated outOfDateShapesLink
+\i (00:01:30) updateport SearchPane
+\i (00:01:31) QtSignal ADTableContainerWidget ShapesTable selectionChanged
+\i (00:01:32) QtSignal ADTableContainerWidget ShapesTable selectionChanged
+\i (00:01:32) QtSignal ADTableContainerWidget ShapesTable selectionChanged
+\i (00:01:33) QtSignal ADTableContainerWidget ShapesTable customContextMenuRequest 0 3
+\i (00:01:34) QtFillin ""
+\i (00:01:34) QtSignal ADTableContainerWidget ShapesTable selectionChanged 0 3
+\i (00:01:35) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:01:35) QtSignal "CP_ALLEGRO_PROPERTIES_DOCK"
+\i (00:01:37) QtSignal PropertyStatusWidget OrgDrcStatus clicked
+\t (00:01:37) Performing DRC...
+\t (00:01:37) Multithreaded DRC update (8 threads).
+\t (00:01:37) No DRC errors detected.
+\i (00:01:37) updateport ReportsPane
+\i (00:01:37) updateport SearchPane
+\i (00:01:37) updateport PropPane
+\i (00:01:37) ucpedit 
+\i (00:01:37) updateport VisibilityPane
+\i (00:01:39) QtSignal PropertyStatusWidget OrgRefreshOutOfDataShapes clicked
+\i (00:01:39) updateport ReportsPane
+\i (00:01:39) updateport SearchPane
+\i (00:01:39) updateport VisibilityPane
+\i (00:01:39) updateport PropPane
+\i (00:01:39) ucpedit 
+\i (00:01:39) updateport VisibilityPane
+\i (00:01:40) QtSignal PropertyStatusWidget OrgDrcStatus clicked
+\t (00:01:40) Performing DRC...
+\t (00:01:40) Multithreaded DRC update (8 threads).
+\t (00:01:41) No DRC errors detected.
+\i (00:01:41) updateport ReportsPane
+\i (00:01:41) updateport SearchPane
+\i (00:01:41) updateport PropPane
+\i (00:01:41) ucpedit 
+\i (00:01:41) updateport VisibilityPane
+\i (00:01:47) updateport CMPanelPort
+\i (00:01:47) updateport PropPane
+\i (00:01:47) updateport ReportsPane
+\i (00:01:47) updateport SearchPane
+\i (00:02:45) zoom out 1 
+\i (00:02:46) setwindow pcb
+\i (00:02:46) zoom out 257.7011 238.6408
+\i (00:02:46) trapsize 15667
+\i (00:02:47) zoom out 1 
+\i (00:02:47) setwindow pcb
+\i (00:02:47) zoom out 289.5372 238.6408
+\i (00:02:47) trapsize 25075
+\i (00:02:47) zoom in 1 
+\i (00:02:47) setwindow pcb
+\i (00:02:47) zoom in 463.5966 354.5675
+\i (00:02:47) trapsize 12538
+\i (00:02:48) roam start
+\i (00:02:48) roam x -2
+\i (00:02:48) roam y -1
+\i (00:02:48) roam x -1
+\i (00:02:48) roam y 1
+\i (00:02:48) roam y 25
+\i (00:02:48) roam y 7
+\i (00:02:48) roam y 8
+\i (00:02:48) roam y 60
+\i (00:02:49) roam x 1
+\i (00:02:49) roam y 55
+\i (00:02:49) roam x 2
+\i (00:02:49) roam y 25
+\i (00:02:49) roam y 21
+\i (00:02:49) roam y 54
+\i (00:02:49) roam y 25
+\i (00:02:49) roam y 21
+\i (00:02:49) roam y 24
+\i (00:02:49) roam x -2
+\i (00:02:49) roam y 21
+\i (00:02:49) roam x -4
+\i (00:02:49) roam y 13
+\i (00:02:49) roam y 8
+\i (00:02:49) roam y 2
+\i (00:02:49) roam y 10
+\i (00:02:49) roam y 6
+\i (00:02:49) roam x -1
+\i (00:02:49) roam y 5
+\i (00:02:49) roam y 6
+\i (00:02:49) roam end
+\i (00:02:50) zoom in 1 
+\i (00:02:50) setwindow pcb
+\i (00:02:50) zoom in 218.3583 225.9302
+\i (00:02:50) trapsize 6269
+\i (00:02:50) roam start
+\i (00:02:50) roam x -2
+\i (00:02:50) roam y -1
+\i (00:02:50) roam x 2
+\i (00:02:50) roam y 1
+\i (00:02:50) roam end
+\i (00:02:52) roam start
+\i (00:02:52) roam x -1
+\i (00:02:52) roam y 3
+\i (00:02:52) roam x 6
+\i (00:02:52) roam y 12
+\i (00:02:52) roam y 2
+\i (00:02:52) roam x 14
+\i (00:02:52) roam y 16
+\i (00:02:52) roam x 2
+\i (00:02:52) roam y 5
+\i (00:02:52) roam x 4
+\i (00:02:52) roam y 7
+\i (00:02:52) roam x 4
+\i (00:02:52) roam y 3
+\i (00:02:52) roam x 10
+\i (00:02:52) roam y 30
+\i (00:02:52) roam x 22
+\i (00:02:52) roam y 59
+\i (00:02:52) roam x 2
+\i (00:02:52) roam y 6
+\i (00:02:52) roam x 6
+\i (00:02:52) roam y 24
+\i (00:02:52) roam x 1
+\i (00:02:52) roam y 2
+\i (00:02:52) roam x 4
+\i (00:02:52) roam y 14
+\i (00:02:52) roam y 7
+\i (00:02:52) roam x 4
+\i (00:02:52) roam y 8
+\i (00:02:52) roam y 2
+\i (00:02:52) roam x 1
+\i (00:02:52) roam y 3
+\i (00:02:52) roam x 1
+\i (00:02:52) roam y 7
+\i (00:02:52) roam y 3
+\i (00:02:52) roam x 3
+\i (00:02:52) roam y 6
+\i (00:02:52) roam x 6
+\i (00:02:52) roam y 44
+\i (00:02:52) roam y 10
+\i (00:02:52) roam y 9
+\i (00:02:52) roam y 30
+\i (00:02:52) roam y 1
+\i (00:02:53) roam x 2
+\i (00:02:53) roam y 2
+\i (00:02:53) roam end
+\i (00:02:54) zoom in 1 
+\i (00:02:54) setwindow pcb
+\i (00:02:54) zoom in 245.3145 191.3260
+\i (00:02:55) trapsize 3134
+\i (00:02:55) zoom out 1 
+\i (00:02:55) setwindow pcb
+\i (00:02:55) zoom out 245.4399 191.3260
+\i (00:02:55) trapsize 6269
+\i (00:03:08) ucp_single_exports 
+\i (00:04:53) ucpedit 
+\i (00:04:54) updateport VisibilityPane
+\i (00:04:56) zoom out 1 
+\i (00:04:56) setwindow pcb
+\i (00:04:56) zoom out 194.1606 210.0073
+\i (00:04:56) trapsize 12538
+\i (00:04:58) pick grid 193.8778 207.4997
+\t (00:04:59) last pick:  193.8778 207.4997
+\i (00:04:59) ucp_shape_edit_mode 
+\i (00:04:59) updateport ReportsPane
+\i (00:04:59) updateport SearchPane
+\i (00:04:59) updateport VisibilityPane
+\i (00:04:59) updateport PropPane
+\i (00:04:59) ucpedit 
+\i (00:05:00) zoom in 1 
+\i (00:05:00) setwindow pcb
+\i (00:05:00) zoom in 193.8778 207.4997
+\i (00:05:00) trapsize 6269
+\i (00:05:01) zoom in 1 
+\i (00:05:01) setwindow pcb
+\i (00:05:01) zoom in 194.5047 207.4997
+\i (00:05:01) trapsize 3134
+\i (00:05:01) zoom in 1 
+\i (00:05:01) setwindow pcb
+\i (00:05:01) zoom in 194.5047 207.4997
+\i (00:05:01) trapsize 1567
+\i (00:05:01) zoom in 1 
+\i (00:05:01) setwindow pcb
+\i (00:05:01) zoom in 194.5047 207.4997
+\i (00:05:01) trapsize 784
+\i (00:05:02) zoom out 1 
+\i (00:05:02) setwindow pcb
+\i (00:05:02) zoom out 194.5048 207.6721
+\i (00:05:02) trapsize 1567
+\i (00:05:35) ucp_single_exports 
+\i (00:09:52) QtFillin Yes
+\i (00:15:20) ucpedit 
+\i (00:15:22) zoom out 1 
+\i (00:15:22) setwindow pcb
+\i (00:15:22) zoom out 185.4148 203.0958
+\i (00:15:22) trapsize 3134
+\i (00:15:22) zoom out 1 
+\i (00:15:22) setwindow pcb
+\i (00:15:22) zoom out 185.4147 203.0959
+\i (00:15:22) trapsize 6269
+\i (00:15:28) QtSignal MainCanvas IRDropSINKSetupDialog closed
+\i (00:15:28) QtSignal MainCanvas CplPrefDialog closed
+\i (00:15:28) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:15:28) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:15:28) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:15:28) QtSignal MainCanvas ERCDesignSetupXNetsDialog closed
+\i (00:15:28) QtSignal MainCanvas CplGrpSel closed
+\i (00:15:28) QtSignal MainCanvas PkgModelParamDialog closed
+\i (00:15:28) QtSignal MainCanvas DesignSetupPrefDialog closed
+\i (00:15:28) QtSignal MainCanvas ImpGrpSel closed
+\i (00:15:28) QtSignal MainCanvas ERCDesignSetupCompsDialog closed
+\i (00:15:28) QtSignal MainCanvas ReturnPathPrefDialog closed
+\i (00:15:28) QtSignal MainCanvas DCResistPrefDialog closed
+\i (00:15:28) QtSignal MainCanvas TopXpPrefDialog closed
+\i (00:15:28) QtSignal MainCanvas IRDropVRMSetupDialog closed
+\i (00:15:28) QtSignal MainCanvas PwrIndPrefDialog closed
+\i (00:15:29) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:15:29) QtSignal MainCanvas RfltPrefDialog closed
+\i (00:15:29) QtSignal MainCanvas DCRMeasSetupDialog closed
+\i (00:15:29) QtSignal MainCanvas InterConnModelExtPrefDialog closed
+\i (00:15:29) QtSignal MainCanvas RpGrpSel closed
+\i (00:15:29) QtSignal MainCanvas ImpPrefDialog closed
+\i (00:15:29) QtSignal MainCanvas XtalkPrefDialog closed
+\i (00:15:29) QtSignal MainCanvas IRDropPrefDialog closed
+\i (00:15:29) QtSignal MainCanvas ThermalPrefDialog closed
+\i (00:15:29) QtSignal MainCanvas ThermalCompSetupDialog closed
+\i (00:15:29) QtSignal MainCanvas ThermalModelSetupDialog closed
+\i (00:15:29) QtSignal MainCanvas TopXpLayoutLinkNewDialog closed
+\t (00:15:35)     Journal end - Mon Aug 24 18:11:43 2026

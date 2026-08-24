@@ -1,0 +1,39 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    SINGLE EXPORTS                                                   )
+(                                                                     )
+(    Drawing          : SO1L_v2.brd                                   )
+(    Software Version : 25.1S030                                      )
+(    Date/Time        : Mon Aug 24 18:15:37 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Current film records are deleted and saved as an attachment to the design.
+
+Creating new film records in the design as per configuration file
+	TOP
+	BOTTOM
+	NCLEGEND-1-2
+	SSTP
+	SSBT
+	SMTP
+	SMBT
+	SPTP
+	SPBT
+	ASSYTP
+	ASSYBT
+
+Processing group :Fabrication_IPC2581
+
+	Executing command :IPC2581 Database (Fabrication)
+		Successfully generated outputs
+
+	Executing command :Fabrication Drill View PDFs
+		Successfully generated outputs
+
+2 out of 2 exports successfully created. outputs are added to SO1L_v2_Fabrication_IPC2581.zip
+
+
+Configuration data is saved as an attachment to the design

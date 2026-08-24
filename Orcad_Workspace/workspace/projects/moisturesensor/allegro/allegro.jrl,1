@@ -1,44 +1,35 @@
-\t (00:00:03) allegro 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
-\t (00:00:03)     Journal start - Thu Jun  4 10:08:57 2026
-\t (00:00:03)         Host=LAPTOP-DI-ANDRE User=andre Pid=1580 CPUs=8
-\t (00:00:03) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\allegro.exe -mpssession andre -proj c:\users\andre\desktop\ese_group18\orcad_workspace\workspace\projects\moisturesensor\so1l.opj c:/users/andre/desktop/ese_group18/orcad_workspace/workspace/projects/moisturesensor/allegro/so1l.brd
-\t (00:00:03) 
-\t (00:00:03) Loading axlcore.cxt 
-\t (00:00:06) Opening existing design...
-\i (00:00:07) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged so1l
-\d (00:00:07) Design opened: c:/users/andre/desktop/ese_group18/orcad_workspace/workspace/projects/moisturesensor/allegro/so1l.brd
-\i (00:00:08) trapsize 236
-\i (00:00:08) trapsize 243
-\i (00:00:08) trapsize 236
-\i (00:00:08) trapsize 202
-\i (00:00:08) trapsize 252
-\t (00:00:08) > Sending response DoneOpenBoard
-\t (00:00:09) > DoPullSchematic message received
-\t (00:00:09) > Pulling schematic...
-\t (00:00:09) Starting Cadence Logic Import...
-\w (00:00:10) WARNING(SPMHGE-269): netrev had warnings, use Viewlog to review the log file.
-\t (00:00:10) Opening existing design...
-\i (00:00:11) trapsize 252
+\t (00:00:04) allegro 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Thu Aug 13 16:37:12 2026
+\t (00:00:04)         Host=LAPTOP-DI-ANDRE User=andre Pid=16676 CPUs=8
+\t (00:00:04) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\allegro.exe -mpssession andre -proj c:\users\andre\desktop\ese_group18\orcad_workspace\workspace\projects\moisturesensor\so1l.opj c:/users/andre/desktop/ese_group18/orcad_workspace/workspace/projects/moisturesensor/allegro/so1l.brd
+\t (00:00:04) 
+\t (00:00:04) Loading axlcore.cxt 
+\t (00:00:07) Opening existing design...
+\i (00:00:08) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged so1l
+\d (00:00:08) Design opened: c:/users/andre/desktop/ese_group18/orcad_workspace/workspace/projects/moisturesensor/allegro/so1l.brd
+\i (00:00:08) trapsize 1504
+\i (00:00:09) trapsize 1558
+\i (00:00:09) trapsize 1504
+\i (00:00:09) trapsize 1126
+\i (00:00:09) trapsize 2113
+\t (00:00:09) > Sending response DoneOpenBoard
+\i (00:00:10) updateport SearchPane
+\t (00:00:10) > DoPullSchematic message received
+\t (00:00:10) > Pulling schematic...
+\t (00:00:10) Starting Cadence Logic Import...
+\w (00:00:11) WARNING(SPMHGE-269): netrev had warnings, use Viewlog to review the log file.
+\t (00:00:11) Opening existing design...
+\i (00:00:11) trapsize 2113
 \t (00:00:11) > Sending response DonePullSchematic
 \t (00:00:11) > Schematic pulled successfully
-\i (00:00:11) updateport SearchPane
 \i (00:00:11) generaledit 
-\i (00:00:21) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:21) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:21) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:29) setwindow text
-\i (00:00:29) close
-\i (00:00:32) setwindow pcb
-\i (00:00:32) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:33) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:33) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:33) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:39) exit 
-\e (00:00:39) Do you want to save the changes you made to c:/users/andre/desktop/ese_group18/orcad_workspace/workspace/projects/moisturesensor/allegro/so1l.brd?
-\i (00:00:41) fillin no 
-\t (00:00:41) Lic Summary:
-[10:09:35.123570] Cdslmd servers:C:\Users\andre\AppData\Roaming\Cadence\VBL\SPB\license\license.txt
-[10:09:35.648875] Feature usage summary:
-[10:09:35.648875] OrCAD_X_PCB_Professional_Plus  
-[10:09:35.648875] OrCAD_X_Professional_Plus  
-\t (00:00:41)     Journal end - Thu Jun  4 10:09:35 2026
+\i (00:00:12) updateport SearchPane
+\i (00:00:16) exit 
+\e (00:00:16) Do you want to save the changes you made to c:/users/andre/desktop/ese_group18/orcad_workspace/workspace/projects/moisturesensor/allegro/so1l.brd?
+\i (00:00:18) fillin no 
+\t (00:00:18) Lic Summary:
+[16:37:26.123770] Cdslmd servers:C:\Users\andre\AppData\Roaming\Cadence\VBL\SPB\license\license.txt
+[16:37:26.649043] Feature usage summary:
+[16:37:26.649049] OrCAD_X_PCB_Professional_Plus  
+[16:37:26.649050] OrCAD_X_Professional_Plus  
+\t (00:00:18)     Journal end - Thu Aug 13 16:37:26 2026
