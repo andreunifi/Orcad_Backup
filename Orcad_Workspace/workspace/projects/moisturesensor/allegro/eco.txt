@@ -2,81 +2,365 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
-|  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sun Aug 23 12:20:24 2026  |
+|  C:.../workspace/projects/moisturesensor/allegro/SO1L_v2.brd                 |
+|                                                    Mon Aug 24 19:52:45 2026  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  0            pins MOVED FROM this net (to net name listed on right)
-                                 C17.2           226.823 145.005
-                                                                            GND
-                                 C18.2           215.548 162.454
-                                                                            GND
-                                 C19.1           255.469 177.383
-                                                                            GND
-                                 C20.1           249.226 151.164
-                                                                            GND
-                                 C21.1           266.928 148.145
-                                                                            GND
-                                 IC1.1           258.750 179.170
-                                                                            GND
-                                 IC1.4           258.750 177.670
-                                                                            GND
-                                 IC1.5           258.750 177.170
-                                                                            GND
-                                 IC1.6           260.750 177.170
-                                                                            GND
-                                 IC1.7           260.750 177.670
-                                                                            GND
-                                 IC1.11          259.750 178.170
-                                                                            GND
-                                 J3.2            208.881 146.579
-                                                                            GND
-                                 J4.A1           245.853 146.820
-                                                                            GND
-                                 J4.A12          251.853 146.820
-                                                                            GND
-                                 J4.B1           251.978 145.520
-                                                                            GND
-                                 J4.B12          245.728 145.520
-                                                                            GND
-                                 J5.2            280.523 148.810
-                                                                            GND
-                                 R7.1            244.405 151.043
-                                                                            GND
-                                 R8.1            253.267 151.102
-                                                                            GND
-                                 R9.1            258.721 169.403
-                                                                            GND
-                                 R10.1           260.491 169.403
-                                                                            GND
-                                 RT1.1           248.920 160.923
-                                                                            GND
+  BATT_IN      pins ADDED TO this existing net (pins not previously on any net)
+                                 IC3.14                         
+                                 IC3.15                         
+                                 IC3.16                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BUTTON1      pins ADDED TO this existing net (pins not previously on any net)
+                                 IC2.25                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DCDC_SW      pins ADDED TO this existing net (pins not previously on any net)
+                                 IC2.17                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DCOUPL       pins ADDED TO this existing net (pins not previously on any net)
+                                 IC2.12                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DIO_5        pins ADDED TO this existing net (pins not previously on any net)
+                                 IC2.15                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DIO_7        pins ADDED TO this existing net (pins not previously on any net)
+                                 IC2.20                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DIO_9        pins ADDED TO this existing net (pins not previously on any net)
+                                 IC2.22                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this existing net (pins not previously on any net)
+                                 IC2.33                         
+                                 IC3.3                          
+                                 IC3.9                          
+                                 IC3.10                         
+                                 IC3.11                         
+                                 IC3.21                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JTAG_TCKC    pins ADDED TO this existing net (pins not previously on any net)
+                                 IC2.14                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JTAG_TMSC    pins ADDED TO this existing net (pins not previously on any net)
+                                 IC2.13                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LED_GREEN    pins ADDED TO this existing net (pins not previously on any net)
+                                 IC2.26                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LED_RED      pins ADDED TO this existing net (pins not previously on any net)
+                                 IC2.24                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N05326       pins ADDED TO this existing net (pins not previously on any net)
+                                 IC3.12                         
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
-|  C:.../Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L.brd    |
-|                                                    Sun Aug 23 12:20:24 2026  |
+|  C:.../workspace/projects/moisturesensor/allegro/SO1L_v2.brd                 |
+|                                                    Mon Aug 24 19:52:45 2026  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-                                 U2.3            259.750 158.250
-                                                                            GND
-                                 U2.9            261.750 160.750
-                                                                            GND
-                                 U2.10           261.750 161.250
-                                                                            GND
-                                 U2.11           260.750 162.250
-                                                                            GND
-                                 U2.21           259.750 160.250
-                                                                            GND
+  N05411       pins ADDED TO this existing net (pins not previously on any net)
+                                 IC3.13                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N05874       pins ADDED TO this existing net (pins not previously on any net)
+                                 IC3.1                          
+                                 IC3.20                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  NLBO         pins ADDED TO this existing net (pins not previously on any net)
+                                 IC2.7                          
+                                 IC3.8                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  NPG          pins MOVED FROM this net (to net name listed on right)
+                                 U1.6            266.404 200.909
+                                                                       LOW_SIDE
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 IC2.6                          
+                                 IC3.6                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  NTC_SENSE    pins ADDED TO this existing net (pins not previously on any net)
+                                 IC3.5                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RESET_N      pins ADDED TO this existing net (pins not previously on any net)
+                                 IC2.19                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RF_N         pins ADDED TO this existing net (pins not previously on any net)
+                                 IC2.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RF_P         pins MOVED FROM this net (to net name listed on right)
+                                 U1.1            266.404 190.749
+                                                                          3.3 V
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 IC2.1                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SENSOR_IN    pins ADDED TO this existing net (pins not previously on any net)
+                                 IC2.27                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SENS_ON      pins ADDED TO this existing net (pins not previously on any net)
+                                 IC2.21                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SOLAR+USB    pins ADDED TO this existing net (pins not previously on any net)
+                                 IC3.2                          
+                                 IC3.4                          
+                                 IC3.17                         
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
 |------------------------------------------------------------------------------|
-|       Nets changed          :      27                                        |
+|  C:.../workspace/projects/moisturesensor/allegro/SO1L_v2.brd                 |
+|                                                    Mon Aug 24 19:52:45 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 IC3.18                         
+                                 IC3.19                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDDR         pins ADDED TO this existing net (pins not previously on any net)
+                                 IC2.29                         
+                                 IC2.32                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDDS         pins ADDED TO this existing net (pins not previously on any net)
+                                 IC2.11                         
+                                 IC2.18                         
+                                 IC2.28                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  X24M_N       pins ADDED TO this existing net (pins not previously on any net)
+                                 IC2.31                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  X24M_P       pins ADDED TO this existing net (pins not previously on any net)
+                                 IC2.30                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  X32K_Q1      pins ADDED TO this existing net (pins not previously on any net)
+                                 IC2.5                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  X32K_Q2      pins MOVED FROM this net (to net name listed on right)
+                                 U1.4            284.184 190.749
+                                                                             NO
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 IC2.4                          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:.../workspace/projects/moisturesensor/allegro/SO1L_v2.brd                 |
+|                                                    Mon Aug 24 19:52:45 2026  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 1725669_CONN_1725669_PXC_CONN_3P
+ 1729128_1_CONN_1729128_PXC_CONN_2P
+ 1729128_CONN_1729128_PXC_CONN_2P
+ AO3400A_1_SMSOT23123_MOSFET_N
+ CC2640R2FRHBR_9_RHB0032E_MICROCONTROLLER
+ MCP73871-2CCIML_5_QFN20_4X4MC_MCH_BATTERY CHARGER
+ MOSFET N_SMSOT23123_MOSFET_N
+ S2B-PH-K-SLFSN_CONN_S2B-PH-K-S_JST_CONN_2PH
+ TPS62177DQCR_9_SON50P200X300X80-11N_VOLTAGE REGULATOR
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:.../workspace/projects/moisturesensor/allegro/SO1L_v2.brd                 |
+|                                                    Mon Aug 24 19:52:45 2026  |
+|------------------------------------------------------------------------------|
+| COMPONENTS DELETED from design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ U1                  CC2640R2FRHBR_6_RHB0032E_MICROCONTROLLER 216.625 184.004
+ U2                  MCP73871-2CCIML_4_QFN20_4X4MC_MCH_BATTERY CHARGER 259.750 160.250
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  C:.../workspace/projects/moisturesensor/allegro/SO1L_v2.brd                 |
+|                                                    Mon Aug 24 19:52:45 2026  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ IC2                 CC2640R2FRHBR_9_RHB0032E_MICROCONTROLLER 
+ IC3                 MCP73871-2CCIML_5_QFN20_4X4MC_MCH_BATTERY CHARGER 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  C:.../workspace/projects/moisturesensor/allegro/SO1L_v2.brd                 |
+|                                                    Mon Aug 24 19:52:45 2026  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in design                 |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ IC1                 TPS62177DQCR_9_SON50P200X300X80-11N_VOLTAGE REGULATOR 254.500 178.176 TPS62177DQCR_SON50P200X300X80-11N_VOLTAGE REGULATOR
+ J1                  1725669_CONN_1725669_PXC_CONN_3P 213.568 204.359 1725669_CONN_1725669_PXC_CONN_03P_00C_1
+ J3                  1729128_CONN_1729128_PXC_CONN_2P 213.961 146.579 1729128_CONN_1729128_PXC_SOLAR PANEL
+ J5                  S2B-PH-K-SLFSN_CONN_S2B-PH-K-S_JST_CONN_2PH 280.523 146.760 S2B-PH-K-SLFSN_CONN_S2B-PH-K-S_JST_BATTERY
+ J6                  1729128_1_CONN_1729128_PXC_CONN_2P 281.940 180.340 1729128_CONN_1729128_PXC_1729128
+ Q1                  MOSFET N_SMSOT23123_MOSFET_N 245.000 191.431 MOSFET N_SMSOT23123_MOSFET N
+ Q2                  AO3400A_1_SMSOT23123_MOSFET_N 259.727 202.251 AO3400A_SMSOT23123_AO3400A
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  C:.../workspace/projects/moisturesensor/allegro/SO1L_v2.brd                 |
+|                                                    Mon Aug 24 19:52:45 2026  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ IC1.10         254.500 178.176 PRIM_FILE      .\pstchip.dat
+ IC1.10         254.500 178.176 SCH_BBOX       (432,488,512,568)
+ IC1.10         254.500 178.176 SCH_MIRROR     (0)
+ IC1.10         254.500 178.176 SCH_ORIENT     (0)
+ IC1.10         254.500 178.176 XY             (432,488)
+ IC2.5                          PRIM_FILE      .\pstchip.dat
+ IC2.5                          SCH_BBOX       (470,190,630,490)
+ IC2.5                          SCH_MIRROR     (0)
+ IC2.5                          SCH_ORIENT     (0)
+ IC2.5                          XY             (470,190)
+ IC3.2                          PRIM_FILE      .\pstchip.dat
+ IC3.2                          SCH_BBOX       (386,226,546,396)
+ IC3.2                          SCH_MIRROR     (0)
+ IC3.2                          SCH_ORIENT     (0)
+ IC3.2                          XY             (386,226)
+ IC3.11                         PRIM_FILE      .\pstchip.dat
+ IC3.11                         SCH_BBOX       (126,527,226,577)
+ IC3.11                         SCH_MIRROR     (0)
+ IC3.11                         SCH_ORIENT     (180)
+ IC3.11                         XY             (386,226)
+ J1.3           213.568 204.359 PRIM_FILE      .\pstchip.dat
+ J1.3           213.568 204.359 SCH_BBOX       (880,330,910,370)
+ J1.3           213.568 204.359 SCH_MIRROR     (0)
+ J1.3           213.568 204.359 SCH_ORIENT     (0)
+ J1.3           213.568 204.359 XY             (880,330)
+ J3.2           213.961 146.579 PRIM_FILE      .\pstchip.dat
+ J3.2           213.961 146.579 SCH_BBOX       (857,46,887,76)
+ J3.2           213.961 146.579 SCH_MIRROR     (0)
+ J3.2           213.961 146.579 SCH_ORIENT     (0)
+ J3.2           213.961 146.579 XY             (857,46)
+ J5.2           280.523 146.760 PRIM_FILE      .\pstchip.dat
+ J5.2           280.523 146.760 SCH_BBOX       (771,389,801,419)
+ J5.2           280.523 146.760 SCH_MIRROR     (0)
+ J5.2           280.523 146.760 SCH_ORIENT     (0)
+ J5.2           280.523 146.760 XY             (771,389)
+ J6.2           281.940 180.340 PRIM_FILE      .\pstchip.dat
+ J6.2           281.940 180.340 SCH_BBOX       (853,296,893,326)
+ J6.2           281.940 180.340 SCH_MIRROR     (0)
+ J6.2           281.940 180.340 SCH_ORIENT     (0)
+ J6.2           281.940 180.340 XY             (853,296)
+ Q1.3           245.000 191.431 PRIM_FILE      .\pstchip.dat
+ Q1.3           245.000 191.431 SCH_BBOX       (820,270,840,290)
+ Q1.3           245.000 191.431 SCH_MIRROR     (0)
+ Q1.3           245.000 191.431 SCH_ORIENT     (0)
+ Q1.3           245.000 191.431 XY             (820,270)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   9  |
+|------------------------------------------------------------------------------|
+|  C:.../workspace/projects/moisturesensor/allegro/SO1L_v2.brd                 |
+|                                                    Mon Aug 24 19:52:45 2026  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ Q2.2           259.727 202.251 PRIM_FILE      .\pstchip.dat
+ Q2.2           259.727 202.251 SCH_BBOX       (380,300,410,340)
+ Q2.2           259.727 202.251 SCH_MIRROR     (0)
+ Q2.2           259.727 202.251 SCH_ORIENT     (0)
+ Q2.2           259.727 202.251 XY             (380,300)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  10  |
+|------------------------------------------------------------------------------|
+|  C:.../workspace/projects/moisturesensor/allegro/SO1L_v2.brd                 |
+|                                                    Mon Aug 24 19:52:45 2026  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ IC2.1                          SCH_LOC        (630,390)
+ IC2.2                          SCH_LOC        (630,380)
+ IC2.4                          SCH_LOC        (470,390)
+ IC2.5                          SCH_LOC        (470,380)
+ IC2.6                          SCH_LOC        (630,210)
+ IC2.7                          SCH_LOC        (630,220)
+ IC2.11                         SCH_LOC        (470,220)
+ IC2.12                         SCH_LOC        (630,410)
+ IC2.13                         SCH_LOC        (470,440)
+ IC2.14                         SCH_LOC        (470,430)
+ IC2.15                         SCH_LOC        (630,260)
+ IC2.17                         SCH_LOC        (470,290)
+ IC2.18                         SCH_LOC        (470,270)
+ IC2.19                         SCH_LOC        (470,420)
+ IC2.20                         SCH_LOC        (630,280)
+ IC2.21                         SCH_LOC        (630,290)
+ IC2.22                         SCH_LOC        (630,300)
+ IC2.24                         SCH_LOC        (630,320)
+ IC2.25                         SCH_LOC        (630,330)
+ IC2.26                         SCH_LOC        (630,340)
+ IC2.27                         SCH_LOC        (630,350)
+ IC2.28                         SCH_LOC        (470,210)
+ IC2.29                         SCH_LOC        (470,240)
+ IC2.30                         SCH_LOC        (470,360)
+ IC2.31                         SCH_LOC        (470,350)
+ IC2.32                         SCH_LOC        (470,250)
+ IC2.33                         SCH_LOC        (630,480)
+ IC3.1                          SCH_LOC        (546,256)
+ IC3.2                          SCH_LOC        (386,336)
+ IC3.3                          SCH_LOC        (386,326)
+ IC3.4                          SCH_LOC        (386,306)
+ IC3.5                          SCH_LOC        (386,366)
+ IC3.6                          SCH_LOC        (546,246)
+ IC3.8                          SCH_LOC        (546,286)
+ IC3.9                          SCH_LOC        (386,246)
+ IC3.10                         SCH_LOC        (226,557)
+ IC3.11                         SCH_LOC        (226,547)
+ IC3.12                         SCH_LOC        (546,326)
+ IC3.13                         SCH_LOC        (546,316)
+ IC3.14                         SCH_LOC        (546,346)
+ IC3.15                         SCH_LOC        (546,356)
+ IC3.16                         SCH_LOC        (546,376)
+ IC3.17                         SCH_LOC        (386,256)
+ IC3.18                         SCH_LOC        (386,276)
+ IC3.19                         SCH_LOC        (386,286)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  11  |
+|------------------------------------------------------------------------------|
+|  C:.../workspace/projects/moisturesensor/allegro/SO1L_v2.brd                 |
+|                                                    Mon Aug 24 19:52:45 2026  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ IC3.20                         SCH_LOC        (546,266)
+ IC3.21                         SCH_LOC        (386,356)
+|------------------------------------------------------------------------------|
+|       Nets changed          :      50                                        |
+|       Comp definitions added:       9                                        |
+|       Components added      :       2                                        |
+|       Components deleted    :       2                                        |
+|       Components changed    :       7                                        |
+|       Pin property added    :      47                                        |
+|       Slot property added   :      50                                        |
 |                                                                              |
-|   Total ECO changes reported:      27                                        |
+|   Total ECO changes reported:     167                                        |
 |------------------------------------------------------------------------------|

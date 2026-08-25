@@ -1,6 +1,6 @@
 (ExpressProject "MoistureSensor"
   (ProjectVersion "19981106")
-  (SoftwareVersion "25.1 S030 (4414069)  [3/25/2026]-[08/24/26]")
+  (SoftwareVersion "25.1 S030 (4414069)  [3/25/2026]-[08/25/26]")
   (Folder "Design Resources"
     (Folder "Library"
       (File "C:\Users\andre\Desktop\Ese_Group18\olb_library\LIBRARY_SO1L.OLB"
@@ -24,7 +24,7 @@
     (BOM_Scope "0")
     (BOM_Mode "1")
     (BOM_Report_File
-       "C:\USERS\ANDRE\DESKTOP\ESE_GROUP18\ORCAD_WORKSPACE\WORKSPACE\PROJECTS\MOISTURESENSOR\2\MOISTURESENSOR.BOM")
+       "C:\Users\andre\Desktop\Ese_Group18\Orcad_Workspace\workspace\projects\moisturesensor\SO1L.BOM")
     (BOM_Merge_Include "FALSE")
     (BOM_Property_Combine_7.0
        "{Item}\t{Quantity}\t{Reference}\t{Value}\t{Manufacturer Part Number} ")
@@ -43,17 +43,17 @@
     (Crossref__Outputtype "1")
     (CrossRef_XY "FALSE")
     (CrossRef_Unused "FALSE")
-    (XRF_View_Output "TRUE")
+    (XRF_View_Output "FALSE")
     (ANNOTATE_Scope "0")
     (ANNOTATE_Mode "0")
-    (ANNOTATE_Action "1")
+    (ANNOTATE_Action "0")
     (Annotate_Page_Order "0")
     (ANNOTATE_Reset_References_to_1 "FALSE")
     (ANNOTATE_No_Page_Number_Change "FALSE")
-    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}")
     (ANNOTATE_IncludeNonPrimitive "TRUE")
     (ANNOTATE_PreserveDesignator "FALSE")
-    (ANNOTATE_PreserveUserEdits "TRUE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
     (ANNOTATE_Refdes_Control_Required "FALSE")
     (Update_Instace_for_External_Design "FALSE")
     (Annotate_type "Default")
@@ -124,7 +124,7 @@
     ("View Allegro Netlist Files" "FALSE")
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "FALSE")
-    ("Allegro Netlist Output Board File" ".\allegro\so1l.brd")
+    ("Allegro Netlist Output Board File" ".\allegro\so1l_v2.brd")
     ("Allegro Netlist Remove Etch" "FALSE")
     ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
     ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
@@ -139,6 +139,11 @@
     (File ".\allegro\so1l.brd"
       (Type "Board File")
       (OutputBoard ".\allegro\so1l.brd")
+      (NetListPath "c:\users\andre\desktop\ese_group18\pcb_layout")
+      (ActiveBoard "0"))
+    (File ".\allegro\so1l_v2.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\so1l_v2.brd")
       (NetListPath "c:\users\andre\desktop\ese_group18\pcb_layout")
       (ActiveBoard "1")))
   (Folder "Outputs"
@@ -171,7 +176,9 @@
       (DisplayName "pstxprt.dat"))
     (File "c:\users\andre\desktop\ese_group18\pcb_layout\pstchip.dat"
       (Type "Report")
-      (DisplayName "pstchip.dat")))
+      (DisplayName "pstchip.dat"))
+    (File ".\so1l.bom"
+      (Type "Report")))
   (Folder "PSpice Resources"
     (Folder "Simulation Profiles")
     (Folder "Model Libraries"
@@ -282,22 +289,19 @@
       (Path "Design Resources" "Library")
       (Path "Layout")
       (Path "Outputs")
-      (Path "Logs")
-      (Select "Design Resources"
-         "c:\users\andre\desktop\ese_group18\orcad_workspace\workspace\projects\moisturesensor\so1l.DSN"
-         "SO1L" "PWR"))
+      (Path "Logs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 539"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 309 0 539"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1255 24 557")
-        (Scroll "198 243")
-        (Zoom "180")
+        (Placement "44 0 1 -1 -1 5 24 5 1146 24 557")
+        (Scroll "-200 0")
+        (Zoom "73")
         (Occurrence "/"))
       (Path
          "C:\USERS\ANDRE\DESKTOP\ESE_GROUP18\ORCAD_WORKSPACE\WORKSPACE\PROJECTS\MOISTURESENSOR\SO1L.DSN")
@@ -306,8 +310,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1255 24 557")
-        (Scroll "-153 0")
+        (Placement "44 0 1 -1 -1 5 24 5 1146 24 557")
+        (Scroll "-98 81")
         (Zoom "94")
         (Occurrence "/"))
       (Path
@@ -317,8 +321,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1255 24 557")
-        (Scroll "-99 1")
+        (Placement "44 0 1 -1 -1 5 24 5 1146 24 557")
+        (Scroll "-45 1")
         (Zoom "105")
         (Occurrence "/"))
       (Path
@@ -328,9 +332,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1255 24 557")
-        (Scroll "-172 0")
-        (Zoom "90")
+        (Placement "44 0 1 -1 -1 5 24 5 1146 24 557")
+        (Scroll "168 80")
+        (Zoom "146")
         (Occurrence "/"))
       (Path
          "C:\USERS\ANDRE\DESKTOP\ESE_GROUP18\ORCAD_WORKSPACE\WORKSPACE\PROJECTS\MOISTURESENSOR\SO1L.DSN")
