@@ -24,7 +24,7 @@ Quantity,Part Number,Part Reference,Value,Description,Manufacturer Name,Manufact
 1,TPS62177DQCR,IC1,Voltage Regulator,"TEXAS INSTRUMENTS - TPS62177DQCR - DC/DC CONV, SYNC BUCK, 1MHZ, WSON-10",Texas Instruments,TPS62177DQCR,TPS62177DQCR-1247201299,TPS62177DQCR,Texas Instruments Incorporated,10,10,,,Active,$0.87470-$0.92214
 1,CC2640R2FRHBR,IC2,MCU,SimpleLink 32bit Arm Cortex-M3 Bluetooth Low Energy 5.1 wireless MCU with 128kB flash 32-VQFN -40 to 85,Texas Instruments,CC2640R2FRHBR,CC2640R2FRHBR-8211461479,CC2640R2FRHBR,Texas Instruments Incorporated,10,7,,,Active,$2.18124-$2.22068
 1,,IC3,Battery Charger,,Microchip Tech,MCP73871-2CCI/ML,,,,,,,,,
-1,1725669,J1,Sensor,"PCB terminal block, nominal current: 6 A, rated voltage (III/2): 160 V, nominal cross section: 0.5 mm, number of potentials: 3, Number of rows: 1, Number of positions per row: 3, product range: MPT 0,5, pitch: 2.54 mm, connection method: Screw connection",Phoenix Contact,1725669,1725669-1453666544,1725669,PHOENIX CONTACT GMBH & CO KG,10,10,,,Active,$3.19475-$7.00283
+1,1725669,J1,Sensor,"PCB terminal block, nominal current: 6 A, rated voltage (III/2): 160 V, nominal cross section: 0.5 mm, number of potentials: 3, Number of rows: 1, Number of positions per row: 3, product range: MPT 0,5, pitch: 2.54 mm, connection method: Screw connection",Phoenix Contact,1725669,1725669-1453666544,1725669,PHOENIX CONTACT GMBH & CO KG,10,10,,,Active,$3.85803-$6.53545
 1,FTSH-105-01-F-DV,J2,JTAG,,Samtec Inc.,FTSH-105-01-F-DV,FTSH-105-01-F-DV-2091833722,FTSH-105-01-F-DV,"Samtec, Inc",10,10,,,Active,$0.70221-$0.77798
 1,,J3,Solar Panel,"PCB terminal block, nominal current: 13.5 A, nom. voltage: 400 V, pitch: 5.08 mm, number of positions: 2, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 , color: green",PHOENIX CONTACT GMBH & CO KG,1729128,1729128-1453667844,1729128,PHOENIX CONTACT GMBH & CO KG,10,10,,,Active,$0.98664-$1.08973
 1,1054550101,J4,USB-C,"Universal Serial Bus (USB) Shielded I/O Receptacle, Type C, Right-Angle,  Mid-Mount, Surface Mount, Gold (Au) Flash over 0.75m Palladium Nickel Plating, 0.70mm Solder Tab, Paper Reel",Molex,1054550101,1054550101-8290921814,1054550101,"Molex, LLC",10,10,,,Active,$1.08368-$1.24043
@@ -45,8 +45,8 @@ Quantity,Part Number,Part Reference,Value,Description,Manufacturer Name,Manufact
 1,,R4,680 Ohm,,YAGEO Corp.,RC0603JR-07680RL,RC0603JR-07680RL-2121404169,RC0603JR-07680RL,YAGEO Corp.,10,10,,,Active,$0.00112-$0.00308
 1,,R5,680 Ohm,,YAGEO Corp.,RC0603JR-07680RL,RC0603JR-07680RL-2121404169,RC0603JR-07680RL,YAGEO Corp.,10,10,,,Active,$0.00112-$0.00308
 1,,R6,270 Ohm,,YAGEO Corp.,RC0603FR-07270RL,RC0603FR-07270RL-2121402710,RC0603FR-07270RL,YAGEO Corp.,10,10,,,Active,$0.00314-$0.00346
-1,,R7,5.1 kOhm,,YAGEO Corp.,RC0603FR-075K1L,RC0603FR-075K1L-2121403022,RC0603FR-075K1L,YAGEO Corp.,10,8,,,Active,$0.00506-$0.02156
-1,,R8,5.1 kOhm,,YAGEO Corp.,RC0603FR-075K1L,RC0603FR-075K1L-2121403022,RC0603FR-075K1L,YAGEO Corp.,10,8,,,Active,$0.00506-$0.02156
+1,,R7,5.1 kOhm,,YAGEO Corp.,RC0603FR-075K1L,RC0603FR-075K1L-2121403022,RC0603FR-075K1L,YAGEO Corp.,10,8,,,Active,$0.00516-$0.02734
+1,,R8,5.1 kOhm,,YAGEO Corp.,RC0603FR-075K1L,RC0603FR-075K1L-2121403022,RC0603FR-075K1L,YAGEO Corp.,10,8,,,Active,$0.00516-$0.02734
 1,,R9,2 kOhm,Thick Film Resistors - SMD 2 kOhms 100mW 0603 1%,YAGEO Corp.,RC0603FR-072KL,RC0603FR-072KL-1918764037,RC0603FR-072KL,YAGEO Corp.,10,10,,,Active,$0.00512-$0.01535
 1,,R10,20 kOhm,"RC0603 SMD resistor,47K5 1% 0.1W (Reel) Yageo RC Series Thick Film Surface Mount Resistor 603 Case 20k +/-1% 0.1W +/-100ppm/C",YAGEO Corp.,RC0603FR-0720KL,RC0603FR-0720KL-1918764019,RC0603FR-0720KL,YAGEO Corp.,10,10,,,Active,$0.00328-$0.01840
 1,,R11,100 Ohm,Yageo RC Series Thick Film Surface Mount Resistor 0603 Case 100,YAGEO Corp.,RC0603FR-07100RL,RC0603FR-07100RL-2121402425,RC0603FR-07100RL,YAGEO Corp.,10,10,,,Active,$0.00719-$0.01047

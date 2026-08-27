@@ -211,14 +211,25 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1639 24 678")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1255 24 557")
         (Scroll "0 0")
-        (Zoom "200")
+        (Zoom "100")
         (Occurrence "/"))
       (Path
          "C:\USERS\ANDRE\DESKTOP\ESE_GROUP18\ORCAD_WORKSPACE\WORKSPACE\PROJECTS\BLE_TH_SENSOR\BLE_TH_SENSOR.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "Microcontroller")))
+      (Page "Microcontroller"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1255 24 557")
+        (Scroll "-124 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\ANDRE\DESKTOP\ESE_GROUP18\ORCAD_WORKSPACE\WORKSPACE\PROJECTS\BLE_TH_SENSOR\BLE_TH_SENSOR.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "Peripherals")))
   (MPSSessionName "andre")
   (ISPCBBASICLICENSE "false")
   (Folder "PSpice Resources"
