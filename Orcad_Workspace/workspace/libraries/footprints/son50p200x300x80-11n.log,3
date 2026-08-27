@@ -4,14 +4,14 @@
 (                                                                     )
 (    Drawing          : son50p200x300x80-11n.dra                      )
 (    Software Version : 25.1S030                                      )
-(    Date/Time        : Mon Aug 24 15:47:07 2026                      )
+(    Date/Time        : Mon Aug 24 16:24:39 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Create Symbol of type: MECHANICAL
+Create Symbol of type: PACKAGE
     Directory = C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints
-    Name      = son50p200x300x80-11n.bsm
+    Name      = son50p200x300x80-11n.psm
     User      = andre
     Machine   = LAPTOP-DI-ANDRE
 

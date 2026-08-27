@@ -4,12 +4,12 @@
 (                                                                     )
 (    Drawing          : SO1L_v2.brd                                   )
 (    Software Version : 25.1S030                                      )
-(    Date/Time        : Mon Aug 24 16:44:58 2026                      )
+(    Date/Time        : Tue Aug 25 16:29:16 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Mon Aug 24 16:44:58 2026				Page     1
+Tue Aug 25 16:29:16 2026				Page     1
 
 
 ------ Symbol Refresh Directives ------
@@ -27,7 +27,7 @@ Reset symbol text and size locations   = 'YES'
 Reset Pin Escapes (fanouts)            = 'NO'
 Ripup Etch                             = 'NO'
 Reset custom drill data                = 'NO'
-Symbol list file                       = 'C:/Users/andre/AppData/Local/Temp/#Taaaadi17160.tmp'
+Symbol list file                       = 'C:/Users/andre/AppData/Local/Temp/#Taaaaey13968.tmp'
 
 
 ------ Library Paths ------
@@ -55,12 +55,12 @@ PADPATH =  C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/librarie
 
 ------ Symbol Refresh Messages ------
 
-'CONN_1729128_PXC'  symbol refreshed successfully.
+'INDPM4040X190N'  symbol refreshed successfully.
 
 
 ------ Pad Stack Refresh Messages ------
 
-'C180H130'  pad stack refreshed successfully.
+'R325_215'  pad stack refreshed successfully.
 
 
 ----- Symbol Update Summary ----
