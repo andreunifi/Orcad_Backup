@@ -293,8 +293,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 1255 24 526")
-        (Scroll "1373 536")
-        (Zoom "268")
+        (Scroll "-303 -8")
+        (Zoom "63")
         (Occurrence "/"))
       (Path
          "C:\USERS\ANDRE\DESKTOP\ESE_GROUP18\ORCAD_WORKSPACE\WORKSPACE\PROJECTS\MOISTURESENSOR\SO1L.DSN")
