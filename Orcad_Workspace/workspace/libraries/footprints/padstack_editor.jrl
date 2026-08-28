@@ -1,7 +1,13 @@
 \t (00:00:01) padstack_editor 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Mon Aug 24 17:40:52 2026
-\t (00:00:01)         Host=LAPTOP-DI-ANDRE User=andre Pid=1636 CPUs=8
-\t (00:00:01) CmdLine= padstack_editor -mpssession andre -file C:/Users/andre/AppData/Local/Temp/#Taaaaao09888.tmp -pname MF_AN043_FEED_POINT -data C:/Users/andre/AppData/Local/Temp/#Taaaaas09888.tmp -unison
+\t (00:00:01)     Journal start - Thu Aug 27 19:10:54 2026
+\t (00:00:01)         Host=LAPTOP-DI-ANDRE User=andre Pid=16456 CPUs=8
+\t (00:00:01) CmdLine= padstack_editor -mpssession andre -file C:/Users/andre/AppData/Local/Temp/#Taaaafv06032.tmp -pname S_R74T279M74_279P74_279-1 -data C:/Users/andre/AppData/Local/Temp/#Taaaafz06032.tmp -unison
 \t (00:00:01) 
-\d (00:00:05) QtSignal MainWindow Exit triggered
-\t (00:00:05)     Journal end - Mon Aug 24 17:40:56 2026
+\d (00:00:20) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:21) QtSignal GuidedTabsParent GuidedTabs currentChanged Options
+\d (00:00:24) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:26) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:27) QtSignal GuidedTabsParent GuidedTabs currentChanged Options
+\d (00:00:28) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:30) QtSignal MainWindow Exit triggered
+\t (00:00:30)     Journal end - Thu Aug 27 19:11:23 2026

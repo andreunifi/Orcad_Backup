@@ -1,27 +1,45 @@
-Date and Time : 05/31/26 23:05:34
+Date and Time : 08/27/26 18:44:54
 
 --------------------------------------------------
 Checking Schematic:  SO1L
 --------------------------------------------------
 Checking Electrical Rules 
 WARNING(ORCAP-1829): Possible pin type conflict GND  Power Connected to Bidirectional
-                    SO1L, PWR  (1.57, 2.53) 
-WARNING(ORCAP-1829): Possible pin type conflict U1,VSS  Power Connected to Bidirectional
-                    SO1L, MCU  (6.50, 4.80) 
-WARNING(ORCAP-1829): Possible pin type conflict Y1,B  Bidirectional Connected to Power
-                    SO1L, MCU  (1.20, 4.10) 
+                    SO1L, MCU  (3.80, 1.20) 
 WARNING(ORCAP-1829): Possible pin type conflict Y1,D  Bidirectional Connected to Power
                     SO1L, MCU  (1.40, 4.10) 
+WARNING(ORCAP-1829): Possible pin type conflict Y1,B  Bidirectional Connected to Power
+                    SO1L, MCU  (1.20, 4.10) 
+WARNING(ORCAP-1829): Possible pin type conflict IC2,VSS  Power Connected to Bidirectional
+                    SO1L, MCU  (6.50, 4.80) 
 WARNING(ORCAP-1829): Possible pin type conflict A1,Feed  Bidirectional Connected to Power
                     SO1L, PERIPH  (4.70, 2.20) 
-WARNING(ORCAP-1829): Possible pin type conflict U2A,STAT1/*LBO  Output Connected to Bidirectional
-                    SO1L, PWR  (5.76, 2.86) 
-WARNING(ORCAP-1829): Possible pin type conflict U1,DIO_1  Bidirectional Connected to Output
-                    SO1L, MCU  (6.50, 2.20) 
-WARNING(ORCAP-1829): Possible pin type conflict U2A,*PG  Output Connected to Bidirectional
-                    SO1L, PWR  (5.76, 2.46) 
-WARNING(ORCAP-1829): Possible pin type conflict U1,DIO_0  Bidirectional Connected to Output
+WARNING(ORCAP-1829): Possible pin type conflict J2,GND  Power Connected to Bidirectional
+                    SO1L, PERIPH  (6.12, 4.03) 
+WARNING(ORCAP-1829): Possible pin type conflict J2,GND  Power Connected to Bidirectional
+                    SO1L, PERIPH  (7.12, 4.13) 
+WARNING(ORCAP-1829): Possible pin type conflict J2,GND  Power Connected to Bidirectional
+                    SO1L, PERIPH  (6.12, 4.13) 
+WARNING(ORCAP-1829): Possible pin type conflict J4,GND_2  Power Connected to Bidirectional
+                    SO1L, PWR  (0.84, 4.52) 
+WARNING(ORCAP-1829): Possible pin type conflict J4,GND  Power Connected to Bidirectional
+                    SO1L, PWR  (0.84, 3.42) 
+WARNING(ORCAP-1829): Possible pin type conflict IC3B,VSS_2  Power Connected to Bidirectional
+                    SO1L, PWR  (2.56, 5.47) 
+WARNING(ORCAP-1829): Possible pin type conflict IC3B,VSS  Power Connected to Bidirectional
+                    SO1L, PWR  (2.56, 5.57) 
+WARNING(ORCAP-1829): Possible pin type conflict J4,GND_3  Power Connected to Bidirectional
+                    SO1L, PWR  (2.44, 4.52) 
+WARNING(ORCAP-1829): Possible pin type conflict J4,GND_4  Power Connected to Bidirectional
+                    SO1L, PWR  (2.44, 3.42) 
+WARNING(ORCAP-1829): Possible pin type conflict IC2,DIO_0  Bidirectional Connected to Output
                     SO1L, MCU  (6.50, 2.10) 
+WARNING(ORCAP-1829): Possible pin type conflict IC3A,*PG  Output Connected to Bidirectional
+                    SO1L, PWR  (5.76, 2.46) 
+WARNING(ORCAP-1829): Possible pin type conflict IC2,DIO_1  Bidirectional Connected to Output
+                    SO1L, MCU  (6.50, 2.20) 
+WARNING(ORCAP-1829): Possible pin type conflict IC3A,STAT1/*LBO  Output Connected to Bidirectional
+                    SO1L, PWR  (5.76, 2.86) 
 
 Checking For Single Node Nets
 
@@ -59,26 +77,24 @@ Checking Name Property for Hierarchical Instances
 INFO(ORCAP-2211): Check High Speed Properties Syntax
 
 INFO(ORCAP-2212): Check Power Ground Mismatch
-WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. U5,VSS  VSS  GND
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. IC?,VSS  VSS  GND
                     SO1L, MCU  (6.50, 4.80) 
-WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. U5,VDDS_DCDC  VDDS_DCDC  VDDS
-                    SO1L, MCU  (4.50, 2.70) 
-WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. U5,VDDS2  VDDS2  VDDS
-                    SO1L, MCU  (4.50, 2.20) 
-WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. U5,VDDR_RF  VDDR_RF  VDDR
-                    SO1L, MCU  (4.50, 2.50) 
-WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. U2,VSS  VSS  0
-                    SO1L, PWR  (2.56, 5.57) 
-WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. U2,VSS_2  VSS_2  0
-                    SO1L, PWR  (2.56, 5.47) 
-WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. J7,GND  GND  0
-                    SO1L, PWR  (0.84, 3.42) 
-WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. J7,GND_2  GND_2  0
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. J7,GND_2  GND_2  GND
                     SO1L, PWR  (0.84, 4.52) 
-WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. J7,GND_4  GND_4  0
-                    SO1L, PWR  (2.44, 3.42) 
-WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. J7,GND_3  GND_3  0
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. IC?,VSS_2  VSS_2  GND
+                    SO1L, PWR  (2.56, 5.47) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. IC?,VSS  VSS  GND
+                    SO1L, PWR  (2.56, 5.57) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. J7,GND_3  GND_3  GND
                     SO1L, PWR  (2.44, 4.52) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. J7,GND_4  GND_4  GND
+                    SO1L, PWR  (2.44, 3.42) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. IC?,VDDS_DCDC  VDDS_DCDC  VDDS
+                    SO1L, MCU  (4.50, 2.70) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. IC?,VDDS2  VDDS2  VDDS
+                    SO1L, MCU  (4.50, 2.20) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. IC?,VDDR_RF  VDDR_RF  VDDR
+                    SO1L, MCU  (4.50, 2.50) 
 
 Reporting Unused Refdes in multiple part packages
 Part	                       Quantity	                       Reference

@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 25.1.0 d001Aug-24-2026 at 19:52:44 }
+{ Using PSTWRITER 25.1.0 d001Aug-27-2026 at 19:17:23 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='SO1L';
@@ -134,12 +134,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C17 'EEV477M010A9MAA_0_CAPAE1030X1050N_470 UF':;
+ C17 'EEV477M010A9MAA_1_CAPAE1030X1050N_470 UF':;
 
 SECTION_NUMBER 1
- '@SO1L.SO1L(SCH_1):INS83451@SO1L.EEV477M010A9MAA_0.NORMAL(CHIPS)':
- C_PATH='@so1l.so1l(sch_1):ins83451@so1l.\eev477m010a9maa_0.normal\(chips)',
- P_PATH='@so1l.so1l(sch_1):page3_ins83451@so1l.\eev477m010a9maa_0.normal\(chips)',
+ '@SO1L.SO1L(SCH_1):INS83451@SO1L.EEV477M010A9MAA_1.NORMAL(CHIPS)':
+ C_PATH='@so1l.so1l(sch_1):ins83451@so1l.\eev477m010a9maa_1.normal\(chips)',
+ P_PATH='@so1l.so1l(sch_1):page3_ins83451@so1l.\eev477m010a9maa_1.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(536,66)',
  SCH_ORIENT='(270)',
@@ -316,12 +316,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- D1 'SS14_0_DIOM5127X261N_SS14':;
+ D1 'SS14_2_DIOM5127X261N_SS14':;
 
 SECTION_NUMBER 1
- '@SO1L.SO1L(SCH_1):INS83375@SO1L.SS14_0.NORMAL(CHIPS)':
- C_PATH='@so1l.so1l(sch_1):ins83375@so1l.\ss14_0.normal\(chips)',
- P_PATH='@so1l.so1l(sch_1):page3_ins83375@so1l.\ss14_0.normal\(chips)',
+ '@SO1L.SO1L(SCH_1):INS83375@SO1L.SS14_2.NORMAL(CHIPS)':
+ C_PATH='@so1l.so1l(sch_1):ins83375@so1l.\ss14_2.normal\(chips)',
+ P_PATH='@so1l.so1l(sch_1):page3_ins83375@so1l.\ss14_2.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(721,46)',
  SCH_ORIENT='(0)',
@@ -330,12 +330,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- D2 'M7_DIOM5327X240N_M7':;
+ D2 'M7_8_DIOM5327X240N_M7':;
 
 SECTION_NUMBER 1
- '@SO1L.SO1L(SCH_1):INS131282@M7.M7.NORMAL(CHIPS)':
- C_PATH='@so1l.so1l(sch_1):ins131282@m7.\m7.normal\(chips)',
- P_PATH='@so1l.so1l(sch_1):page4_ins131282@m7.\m7.normal\(chips)',
+ '@SO1L.SO1L(SCH_1):INS131282@SO1L.M7_8.NORMAL(CHIPS)':
+ C_PATH='@so1l.so1l(sch_1):ins131282@so1l.\m7_8.normal\(chips)',
+ P_PATH='@so1l.so1l(sch_1):page4_ins131282@so1l.\m7_8.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(564,286)',
  SCH_ORIENT='(270)',
@@ -344,12 +344,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- IC1 'TPS62177DQCR_9_SON50P200X300X80-11N_VOLTAGE REGULATOR':;
+ IC1 'TPS62177DQCR_10_SON50P200X300X80-11N_VOLTAGE REGULATOR':;
 
 SECTION_NUMBER 1
- '@SO1L.SO1L(SCH_1):INS131859@SO1L.TPS62177DQCR_9.NORMAL(CHIPS)':
- C_PATH='@so1l.so1l(sch_1):ins131859@so1l.\tps62177dqcr_9.normal\(chips)',
- P_PATH='@so1l.so1l(sch_1):page3_ins131859@so1l.\tps62177dqcr_9.normal\(chips)',
+ '@SO1L.SO1L(SCH_1):INS131859@SO1L.TPS62177DQCR_10.NORMAL(CHIPS)':
+ C_PATH='@so1l.so1l(sch_1):ins131859@so1l.\tps62177dqcr_10.normal\(chips)',
+ P_PATH='@so1l.so1l(sch_1):page3_ins131859@so1l.\tps62177dqcr_10.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(432,488)',
  SCH_ORIENT='(0)',
@@ -358,12 +358,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- IC2 'CC2640R2FRHBR_9_RHB0032E_MICROCONTROLLER':;
+ IC2 'CC2640R2FRHBR_12_RHB0032E_MCU':;
 
 SECTION_NUMBER 1
- '@SO1L.SO1L(SCH_1):INS86467@SO1L.CC2640R2FRHBR_9.NORMAL(SCH_1)':
- C_PATH='@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_9.normal\(sch_1)',
- P_PATH='@so1l.so1l(sch_1):page1_ins86467@so1l.\cc2640r2frhbr_9.normal\(sch_1)',
+ '@SO1L.SO1L(SCH_1):INS86467@SO1L.CC2640R2FRHBR_12.NORMAL(SCH_1)':
+ C_PATH='@so1l.so1l(sch_1):ins86467@so1l.\cc2640r2frhbr_12.normal\(sch_1)',
+ P_PATH='@so1l.so1l(sch_1):page1_ins86467@so1l.\cc2640r2frhbr_12.normal\(sch_1)',
  PRIM_FILE='.\pstchip.dat',
  XY='(470,190)',
  SCH_ORIENT='(0)',
@@ -372,12 +372,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- IC3 'MCP73871-2CCIML_5_QFN20_4X4MC_MCH_BATTERY CHARGER':;
+ IC3 'MCP73871-2CCIML_8_QFN20_4X4MC_MCH_BATTERY CHARGER':;
 
 SECTION_NUMBER 1
- '@SO1L.SO1L(SCH_1):INS83583@SO1L.MCP73871-2CCIML_5A.NORMAL(SCH_1)':
- C_PATH='@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_5a.normal\(sch_1)',
- P_PATH='@so1l.so1l(sch_1):page3_ins83583@so1l.\mcp73871-2cciml_5a.normal\(sch_1)',
+ '@SO1L.SO1L(SCH_1):INS83583@SO1L.MCP73871-2CCIML_8A.NORMAL(SCH_1)':
+ C_PATH='@so1l.so1l(sch_1):ins83583@so1l.\mcp73871-2cciml_8a.normal\(sch_1)',
+ P_PATH='@so1l.so1l(sch_1):page3_ins83583@so1l.\mcp73871-2cciml_8a.normal\(sch_1)',
  PRIM_FILE='.\pstchip.dat',
  XY='(386,226)',
  SCH_ORIENT='(0)',
@@ -386,9 +386,9 @@ SECTION_NUMBER 1
  SECTION='A';
 
 SECTION_NUMBER 2
- '@SO1L.SO1L(SCH_1):INS83671@SO1L.MCP73871-2CCIML_5B.NORMAL(SCH_1)':
- C_PATH='@so1l.so1l(sch_1):ins83671@so1l.\mcp73871-2cciml_5b.normal\(sch_1)',
- P_PATH='@so1l.so1l(sch_1):page3_ins83671@so1l.\mcp73871-2cciml_5b.normal\(sch_1)',
+ '@SO1L.SO1L(SCH_1):INS83671@SO1L.MCP73871-2CCIML_8B.NORMAL(SCH_1)':
+ C_PATH='@so1l.so1l(sch_1):ins83671@so1l.\mcp73871-2cciml_8b.normal\(sch_1)',
+ P_PATH='@so1l.so1l(sch_1):page3_ins83671@so1l.\mcp73871-2cciml_8b.normal\(sch_1)',
  PRIM_FILE='.\pstchip.dat',
  XY='(386,226)',
  SCH_ORIENT='(180)',
@@ -397,12 +397,12 @@ SECTION_NUMBER 2
  SECTION='B';
 
 PART_NAME
- J1 '1725669_CONN_1725669_PXC_CONN_3P':;
+ J1 '1725669_0_CONN_1725669_PXC_SENSOR':;
 
 SECTION_NUMBER 1
- '@SO1L.SO1L(SCH_1):INS82851@277-1274-ND.1725669.NORMAL(SCH_1)':
- C_PATH='@so1l.so1l(sch_1):ins82851@\277-1274-nd\.\1725669.normal\(sch_1)',
- P_PATH='@so1l.so1l(sch_1):page1_ins82851@\277-1274-nd\.\1725669.normal\(sch_1)',
+ '@SO1L.SO1L(SCH_1):INS82851@SO1L.1725669_0.NORMAL(SCH_1)':
+ C_PATH='@so1l.so1l(sch_1):ins82851@so1l.\1725669_0.normal\(sch_1)',
+ P_PATH='@so1l.so1l(sch_1):page1_ins82851@so1l.\1725669_0.normal\(sch_1)',
  PRIM_FILE='.\pstchip.dat',
  XY='(880,330)',
  SCH_ORIENT='(0)',
@@ -411,12 +411,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- J2 'FTSH-105-XX-X-DV_SAMTEC_FTSH-105-XX-X-DV_FTSH-105-XX-X-DV':;
+ J2 'FTSH-105-XX-X-DV_10_SAMTEC_FTSH-105-XX-X-DV_JTAG':;
 
 SECTION_NUMBER 1
- '@SO1L.SO1L(SCH_1):INS136685@FTSH-105-XX-X-DV.FTSH-105-XX-X-DV.NORMAL(CHIPS)':
- C_PATH='@so1l.so1l(sch_1):ins136685@\ftsh-105-xx-x-dv\.\ftsh-105-xx-x-dv.normal\(chips)',
- P_PATH='@so1l.so1l(sch_1):page2_ins136685@\ftsh-105-xx-x-dv\.\ftsh-105-xx-x-dv.normal\(chips)',
+ '@SO1L.SO1L(SCH_1):INS136685@SO1L.FTSH-105-XX-X-DV_10.NORMAL(CHIPS)':
+ C_PATH='@so1l.so1l(sch_1):ins136685@so1l.\ftsh-105-xx-x-dv_10.normal\(chips)',
+ P_PATH='@so1l.so1l(sch_1):page2_ins136685@so1l.\ftsh-105-xx-x-dv_10.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(632,393)',
  SCH_ORIENT='(0)',
@@ -425,12 +425,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- J3 '1729128_CONN_1729128_PXC_CONN_2P':;
+ J3 '1729128_5_CONN_1729128_PXC_SOLAR PANEL':;
 
 SECTION_NUMBER 1
- '@SO1L.SO1L(SCH_1):INS83787@1729128.1729128.NORMAL(SCH_1)':
- C_PATH='@so1l.so1l(sch_1):ins83787@\1729128\.\1729128.normal\(sch_1)',
- P_PATH='@so1l.so1l(sch_1):page3_ins83787@\1729128\.\1729128.normal\(sch_1)',
+ '@SO1L.SO1L(SCH_1):INS83787@SO1L.1729128_5.NORMAL(SCH_1)':
+ C_PATH='@so1l.so1l(sch_1):ins83787@so1l.\1729128_5.normal\(sch_1)',
+ P_PATH='@so1l.so1l(sch_1):page3_ins83787@so1l.\1729128_5.normal\(sch_1)',
  PRIM_FILE='.\pstchip.dat',
  XY='(857,46)',
  SCH_ORIENT='(0)',
@@ -439,12 +439,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- J4 '1054550101_14_CONN_1054550101_MOL_USB-C':;
+ J4 '1054550101_16_CONN_1054550101_MOL_USB-C':;
 
 SECTION_NUMBER 1
- '@SO1L.SO1L(SCH_1):INS101061@SO1L.1054550101_14.NORMAL(SCH_1)':
- C_PATH='@so1l.so1l(sch_1):ins101061@so1l.\1054550101_14.normal\(sch_1)',
- P_PATH='@so1l.so1l(sch_1):page3_ins101061@so1l.\1054550101_14.normal\(sch_1)',
+ '@SO1L.SO1L(SCH_1):INS101061@SO1L.1054550101_16.NORMAL(SCH_1)':
+ C_PATH='@so1l.so1l(sch_1):ins101061@so1l.\1054550101_16.normal\(sch_1)',
+ P_PATH='@so1l.so1l(sch_1):page3_ins101061@so1l.\1054550101_16.normal\(sch_1)',
  PRIM_FILE='.\pstchip.dat',
  XY='(114,322)',
  SCH_ORIENT='(0)',
@@ -453,12 +453,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- J5 'S2B-PH-K-SLFSN_CONN_S2B-PH-K-S_JST_CONN_2PH':;
+ J5 'S2B-PH-K-SLFSN_0_CONN_S2B-PH-K-S_JST_BATTERY':;
 
 SECTION_NUMBER 1
- '@SO1L.SO1L(SCH_1):INS83355@S2B-PH-K-S-LF-SN.S2B-PH-K-SLFSN.NORMAL(SCH_1)':
- C_PATH='@so1l.so1l(sch_1):ins83355@\s2b-ph-k-s-lf-sn\.\s2b-ph-k-slfsn.normal\(sch_1)',
- P_PATH='@so1l.so1l(sch_1):page3_ins83355@\s2b-ph-k-s-lf-sn\.\s2b-ph-k-slfsn.normal\(sch_1)',
+ '@SO1L.SO1L(SCH_1):INS83355@SO1L.S2B-PH-K-SLFSN_0.NORMAL(SCH_1)':
+ C_PATH='@so1l.so1l(sch_1):ins83355@so1l.\s2b-ph-k-slfsn_0.normal\(sch_1)',
+ P_PATH='@so1l.so1l(sch_1):page3_ins83355@so1l.\s2b-ph-k-slfsn_0.normal\(sch_1)',
  PRIM_FILE='.\pstchip.dat',
  XY='(771,389)',
  SCH_ORIENT='(0)',
@@ -467,17 +467,17 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- J6 '1729128_1_CONN_1729128_PXC_CONN_2P':;
+ J6 '1729128_4_CONN_1729128_PXC_ACTUATOR':;
 
 SECTION_NUMBER 1
- '@SO1L.SO1L(SCH_1):INS84244@SO1L.1729128_1.NORMAL(CHIPS)':
- C_PATH='@so1l.so1l(sch_1):ins84244@so1l.\1729128_1.normal\(chips)',
- P_PATH='@so1l.so1l(sch_1):page4_ins84244@so1l.\1729128_1.normal\(chips)',
+ '@SO1L.SO1L(SCH_1):INS84244@SO1L.1729128_4.NORMAL(CHIPS)':
+ C_PATH='@so1l.so1l(sch_1):ins84244@so1l.\1729128_4.normal\(chips)',
+ P_PATH='@so1l.so1l(sch_1):page4_ins84244@so1l.\1729128_4.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
- XY='(853,296)',
+ XY='(851,295)',
  SCH_ORIENT='(0)',
  SCH_MIRROR='(0)',
- SCH_BBOX='(853,296,893,326)',
+ SCH_BBOX='(851,295,891,325)',
  SECTION='';
 
 PART_NAME
@@ -509,12 +509,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- L3 'B82422-A1103-J/EPC_3_INDC1006X60N_15 NH':;
+ L3 'B82422-A1103-J/EPC_4_INDC1006X60N_15 NH':;
 
 SECTION_NUMBER 1
- '@SO1L.SO1L(SCH_1):INS81643@SO1L.B82422-A1103-J/EPC_3.NORMAL(CHIPS)':
- C_PATH='@so1l.so1l(sch_1):ins81643@so1l.\b82422-a1103-j/epc_3.normal\(chips)',
- P_PATH='@so1l.so1l(sch_1):page2_ins81643@so1l.\b82422-a1103-j/epc_3.normal\(chips)',
+ '@SO1L.SO1L(SCH_1):INS81643@SO1L.B82422-A1103-J/EPC_4.NORMAL(CHIPS)':
+ C_PATH='@so1l.so1l(sch_1):ins81643@so1l.\b82422-a1103-j/epc_4.normal\(chips)',
+ P_PATH='@so1l.so1l(sch_1):page2_ins81643@so1l.\b82422-a1103-j/epc_4.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(170,190)',
  SCH_ORIENT='(0)',
@@ -523,12 +523,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- L4 'B82422-A1103-J/EPC_3_IND_LQG15_MUR-M_2 NH':;
+ L4 'B82422-A1103-J/EPC_4_IND_LQG15_MUR-M_2 NH':;
 
 SECTION_NUMBER 1
- '@SO1L.SO1L(SCH_1):INS81832@SO1L.B82422-A1103-J/EPC_3.NORMAL(CHIPS)':
- C_PATH='@so1l.so1l(sch_1):ins81832@so1l.\b82422-a1103-j/epc_3.normal\(chips)',
- P_PATH='@so1l.so1l(sch_1):page2_ins81832@so1l.\b82422-a1103-j/epc_3.normal\(chips)',
+ '@SO1L.SO1L(SCH_1):INS81832@SO1L.B82422-A1103-J/EPC_4.NORMAL(CHIPS)':
+ C_PATH='@so1l.so1l(sch_1):ins81832@so1l.\b82422-a1103-j/epc_4.normal\(chips)',
+ P_PATH='@so1l.so1l(sch_1):page2_ins81832@so1l.\b82422-a1103-j/epc_4.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(320,210)',
  SCH_ORIENT='(0)',
@@ -551,12 +551,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- LED1 'LED_LEDC1608X45N_GREEN LED':;
+ LED1 'LED_0_LEDC1608X45N_GREEN LED':;
 
 SECTION_NUMBER 1
- '@SO1L.SO1L(SCH_1):INS71791@ESE_PROJECT_LIB.LED.NORMAL(CHIPS)':
- C_PATH='@so1l.so1l(sch_1):ins71791@ese_project_lib.\led.normal\(chips)',
- P_PATH='@so1l.so1l(sch_1):page2_ins71791@ese_project_lib.\led.normal\(chips)',
+ '@SO1L.SO1L(SCH_1):INS71791@SO1L.LED_0.NORMAL(CHIPS)':
+ C_PATH='@so1l.so1l(sch_1):ins71791@so1l.\led_0.normal\(chips)',
+ P_PATH='@so1l.so1l(sch_1):page2_ins71791@so1l.\led_0.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(330,390)',
  SCH_ORIENT='(0)',
@@ -565,12 +565,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- LED2 'LED_LEDC1608X45N_RED LED':;
+ LED2 'LED_0_LEDC1608X45N_RED LED':;
 
 SECTION_NUMBER 1
- '@SO1L.SO1L(SCH_1):INS71853@ESE_PROJECT_LIB.LED.NORMAL(CHIPS)':
- C_PATH='@so1l.so1l(sch_1):ins71853@ese_project_lib.\led.normal\(chips)',
- P_PATH='@so1l.so1l(sch_1):page2_ins71853@ese_project_lib.\led.normal\(chips)',
+ '@SO1L.SO1L(SCH_1):INS71853@SO1L.LED_0.NORMAL(CHIPS)':
+ C_PATH='@so1l.so1l(sch_1):ins71853@so1l.\led_0.normal\(chips)',
+ P_PATH='@so1l.so1l(sch_1):page2_ins71853@so1l.\led_0.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(330,460)',
  SCH_ORIENT='(0)',
@@ -579,31 +579,31 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- Q1 'MOSFET N_SMSOT23123_MOSFET_N':;
+ Q1 'MOSFET N_3_SMSOT23123_MOSFET_N':;
 
 SECTION_NUMBER 1
- '@SO1L.SO1L(SCH_1):INS5653@DISCRETE.MOSFET N.NORMAL(CHIPS)':
- C_PATH='@so1l.so1l(sch_1):ins5653@discrete.\mosfet n.normal\(chips)',
- P_PATH='@so1l.so1l(sch_1):page1_ins5653@discrete.\mosfet n.normal\(chips)',
+ '@SO1L.SO1L(SCH_1):INS5653@SO1L.MOSFET N_3.NORMAL(CHIPS)':
+ C_PATH='@so1l.so1l(sch_1):ins5653@so1l.\mosfet n_3.normal\(chips)',
+ P_PATH='@so1l.so1l(sch_1):page1_ins5653@so1l.\mosfet n_3.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
- XY='(820,270)',
+ XY='(820,260)',
  SCH_ORIENT='(0)',
  SCH_MIRROR='(0)',
- SCH_BBOX='(820,270,840,290)',
+ SCH_BBOX='(820,260,850,300)',
  SECTION='';
 
 PART_NAME
- Q2 'AO3400A_1_SMSOT23123_MOSFET_N':;
+ Q2 'AO3400A_6_SMSOT23123_MOSFET_N':;
 
 SECTION_NUMBER 1
- '@SO1L.SO1L(SCH_1):INS84284@SO1L.AO3400A_1.NORMAL(CHIPS)':
- C_PATH='@so1l.so1l(sch_1):ins84284@so1l.\ao3400a_1.normal\(chips)',
- P_PATH='@so1l.so1l(sch_1):page4_ins84284@so1l.\ao3400a_1.normal\(chips)',
+ '@SO1L.SO1L(SCH_1):INS84284@SO1L.AO3400A_6.NORMAL(CHIPS)':
+ C_PATH='@so1l.so1l(sch_1):ins84284@so1l.\ao3400a_6.normal\(chips)',
+ P_PATH='@so1l.so1l(sch_1):page4_ins84284@so1l.\ao3400a_6.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
- XY='(380,300)',
+ XY='(380,299)',
  SCH_ORIENT='(0)',
  SCH_MIRROR='(0)',
- SCH_BBOX='(380,300,410,340)',
+ SCH_BBOX='(380,299,410,339)',
  SECTION='';
 
 PART_NAME
@@ -789,12 +789,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- S1 '1825910-6_18259106_1825910-6':;
+ S1 '1825910-6_0_18259106_BUTTON':;
 
 SECTION_NUMBER 1
- '@SO1L.SO1L(SCH_1):INS131369@1825910-6.1825910-6.NORMAL(CHIPS)':
- C_PATH='@so1l.so1l(sch_1):ins131369@\1825910-6\.\1825910-6.normal\(chips)',
- P_PATH='@so1l.so1l(sch_1):page2_ins131369@\1825910-6\.\1825910-6.normal\(chips)',
+ '@SO1L.SO1L(SCH_1):INS131369@SO1L.1825910-6_0.NORMAL(CHIPS)':
+ C_PATH='@so1l.so1l(sch_1):ins131369@so1l.\1825910-6_0.normal\(chips)',
+ P_PATH='@so1l.so1l(sch_1):page2_ins131369@so1l.\1825910-6_0.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(381,540)',
  SCH_ORIENT='(0)',
@@ -803,17 +803,17 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- U1 'DK1A-3V-F_0_AW3212F_RELAY':;
+ U1 'DK1A-3V-F_3_AW3212F_RELAY':;
 
 SECTION_NUMBER 1
- '@SO1L.SO1L(SCH_1):INS84320@SO1L.DK1A-3V-F_0.NORMAL(SCH_1)':
- C_PATH='@so1l.so1l(sch_1):ins84320@so1l.\dk1a-3v-f_0.normal\(sch_1)',
- P_PATH='@so1l.so1l(sch_1):page4_ins84320@so1l.\dk1a-3v-f_0.normal\(sch_1)',
+ '@SO1L.SO1L(SCH_1):INS84320@SO1L.DK1A-3V-F_3.NORMAL(SCH_1)':
+ C_PATH='@so1l.so1l(sch_1):ins84320@so1l.\dk1a-3v-f_3.normal\(sch_1)',
+ P_PATH='@so1l.so1l(sch_1):page4_ins84320@so1l.\dk1a-3v-f_3.normal\(sch_1)',
  PRIM_FILE='.\pstchip.dat',
- XY='(663,256)',
+ XY='(663,255)',
  SCH_ORIENT='(90)',
  SCH_MIRROR='(0)',
- SCH_BBOX='(663,256,773,376)',
+ SCH_BBOX='(663,255,773,375)',
  SECTION='';
 
 PART_NAME
@@ -831,7 +831,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- Y2 'FC-135R_0_XTAL_KA-A3_EPS-M_32.768KHZ':;
+ Y2 'FC-135R_0_XTAL_KA-A3_EPS-M_32.768 KHZ':;
 
 SECTION_NUMBER 1
  '@SO1L.SO1L(SCH_1):INS74486@SO1L.FC-135R_0.NORMAL(CHIPS)':
