@@ -1,1 +1,1 @@
-son50p200x300x80-11n.dra
+conn_s2b-ph-k-s_jst.dra

@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 25.1.0 d001Aug-27-2026 at 19:17:23 }
+{ Using PSTWRITER 25.1.0 d001Aug-28-2026 at 14:53:59 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='SO1L';
@@ -691,26 +691,26 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R4 'RESISTOR_RC0603N_YAG_680 OHM':;
+ R4 'RESISTOR_1_RC0603N_YAG_680 OHM':;
 
 SECTION_NUMBER 1
- '@SO1L.SO1L(SCH_1):INS71807@ESE_PROJECT_LIB.RESISTOR.NORMAL(CHIPS)':
- C_PATH='@so1l.so1l(sch_1):ins71807@ese_project_lib.\resistor.normal\(chips)',
- P_PATH='@so1l.so1l(sch_1):page2_ins71807@ese_project_lib.\resistor.normal\(chips)',
+ '@SO1L.SO1L(SCH_1):INS71807@SO1L.RESISTOR_1.NORMAL(CHIPS)':
+ C_PATH='@so1l.so1l(sch_1):ins71807@so1l.\resistor_1.normal\(chips)',
+ P_PATH='@so1l.so1l(sch_1):page2_ins71807@so1l.\resistor_1.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
- XY='(390,390)',
+ XY='(388,390)',
  SCH_ORIENT='(0)',
  SCH_MIRROR='(0)',
- SCH_BBOX='(390,390,420,410)',
+ SCH_BBOX='(388,390,418,410)',
  SECTION='';
 
 PART_NAME
- R5 'RESISTOR_RC0603N_YAG_680 OHM':;
+ R5 'RESISTOR_1_RC0603N_YAG_680 OHM':;
 
 SECTION_NUMBER 1
- '@SO1L.SO1L(SCH_1):INS71869@ESE_PROJECT_LIB.RESISTOR.NORMAL(CHIPS)':
- C_PATH='@so1l.so1l(sch_1):ins71869@ese_project_lib.\resistor.normal\(chips)',
- P_PATH='@so1l.so1l(sch_1):page2_ins71869@ese_project_lib.\resistor.normal\(chips)',
+ '@SO1L.SO1L(SCH_1):INS71869@SO1L.RESISTOR_1.NORMAL(CHIPS)':
+ C_PATH='@so1l.so1l(sch_1):ins71869@so1l.\resistor_1.normal\(chips)',
+ P_PATH='@so1l.so1l(sch_1):page2_ins71869@so1l.\resistor_1.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(390,460)',
  SCH_ORIENT='(0)',
@@ -719,12 +719,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R6 'RESISTOR_RC0603N_YAG_270 OHM':;
+ R6 'RESISTOR_1_RC0603N_YAG_270 OHM':;
 
 SECTION_NUMBER 1
- '@SO1L.SO1L(SCH_1):INS71931@ESE_PROJECT_LIB.RESISTOR.NORMAL(CHIPS)':
- C_PATH='@so1l.so1l(sch_1):ins71931@ese_project_lib.\resistor.normal\(chips)',
- P_PATH='@so1l.so1l(sch_1):page2_ins71931@ese_project_lib.\resistor.normal\(chips)',
+ '@SO1L.SO1L(SCH_1):INS71931@SO1L.RESISTOR_1.NORMAL(CHIPS)':
+ C_PATH='@so1l.so1l(sch_1):ins71931@so1l.\resistor_1.normal\(chips)',
+ P_PATH='@so1l.so1l(sch_1):page2_ins71931@so1l.\resistor_1.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(320,540)',
  SCH_ORIENT='(0)',

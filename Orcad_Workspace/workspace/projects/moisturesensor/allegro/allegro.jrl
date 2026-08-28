@@ -1,89 +1,64 @@
-\t (00:00:04) allegro 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
-\t (00:00:04)     Journal start - Mon Aug 24 19:52:38 2026
-\t (00:00:04)         Host=LAPTOP-DI-ANDRE User=andre Pid=15680 CPUs=8
-\t (00:00:04) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\allegro.exe -mpssession andre -proj c:\users\andre\desktop\ese_group18\orcad_workspace\workspace\projects\moisturesensor\so1l.opj C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L_v2.brd
-\t (00:00:04) 
-\t (00:00:04) Loading axlcore.cxt 
-\t (00:00:07) Opening existing design...
-\i (00:00:07) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "SO1L_v2"
-\d (00:00:07) Design opened: C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L_v2.brd
-\i (00:00:08) trapsize 15062
-\i (00:00:08) trapsize 15607
-\i (00:00:08) trapsize 15062
-\i (00:00:09) trapsize 11279
-\i (00:00:09) trapsize 11701
-\t (00:00:09) > Sending response DoneOpenBoard
-\i (00:00:10) updateport SearchPane
-\i (00:00:10) generaledit 
-\t (00:00:10) > DoPullSchematic message received
-\t (00:00:10) > Pulling schematic...
-\t (00:00:10) Starting Cadence Logic Import...
-\w (00:00:11) WARNING(SPMHGE-269): netrev had warnings, use Viewlog to review the log file.
-\t (00:00:16) Opening existing design...
-\i (00:00:16) trapsize 11701
-\t (00:00:16) > Sending response DonePullSchematic
-\t (00:00:16) > Schematic pulled successfully
-\i (00:00:17) zoom in 1 
-\i (00:00:17) setwindow pcb
-\i (00:00:17) zoom in 204.0163 182.1126
-\i (00:00:17) trapsize 5851
-\i (00:00:17) updateport SearchPane
-\i (00:00:17) generaledit 
-\i (00:00:35) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:35) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:35) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:36) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:36) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:37) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:37) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:37) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:38) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:38) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:38) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:39) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:39) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:41) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:42) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:42) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:42) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:42) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:42) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:43) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:43) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:43) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:43) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:43) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:43) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:45) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:45) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:49) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:49) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:53) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:53) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:54) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:55) setwindow text
-\i (00:00:55) close
-\i (00:00:56) setwindow pcb
-\i (00:00:56) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:57) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:57) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:57) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:57) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:57) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:58) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:58) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:58) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:58) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:00:58) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
-\i (00:01:00) exit 
-\e (00:01:00) Do you want to save the changes you made to C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L_v2.brd?
-\i (00:01:03) fillin yes 
-\t (00:01:04) Lic Summary:
-[19:53:38.469057] Cdslmd servers:C:\Users\andre\AppData\Roaming\Cadence\VBL\SPB\license\license.txt
-[19:53:38.470064] Feature usage summary:
-[19:53:38.470066] OrCAD_X_PCB_Professional_Plus  
-[19:53:38.470066] OrCAD_X_Professional_Plus  
-\t (00:01:04)     Journal end - Mon Aug 24 19:53:38 2026
+\t (00:00:03) allegro 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Fri Aug 28 16:16:55 2026
+\t (00:00:03)         Host=LAPTOP-DI-ANDRE User=andre Pid=6096 CPUs=8
+\t (00:00:03) CmdLine= c:\cadence\orcadx_25.1\tools\bin\allegro.exe C:\Users\andre\Desktop\Ese_Group18\Orcad_Workspace\workspace\projects\moisturesensor\allegro\SO1L_v2.brd
+\t (00:00:03) 
+\t (00:00:03) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "SO1L_v2"
+\d (00:00:06) Design opened: C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L_v2.brd
+\i (00:00:07) trapsize 12052
+\i (00:00:07) trapsize 12488
+\i (00:00:07) trapsize 12052
+\i (00:00:07) trapsize 9025
+\i (00:00:07) trapsize 9026
+\t (00:00:08) > Sending response DoneOpenBoard
+\i (00:00:08) updateport SearchPane
+\i (00:00:08) generaledit 
+\i (00:00:27) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:27) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:27) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:27) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:27) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:27) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:38) prmed 
+\i (00:00:40) setwindow form.prmedit
+\i (00:00:40) FORM prmedit text  
+\i (00:00:40) setwindow pcb
+\i (00:00:40) QtSignal UCPTextParametersWidget UCPTextParametersTabWidget currentChanged "Font Styles"
+\i (00:00:41) QtSignal UCPTextParametersWidget UCPTextParametersView selectionChanged
+\i (00:00:42) QtSignal UCPTextParametersWidget UCPTextParametersTabWidget currentChanged "Text Blocks"
+\i (00:00:44) setwindow form.prmedit
+\i (00:00:44) FORM prmedit text_setup_button  
+\i (00:00:55) setwindow form.textblock
+\i (00:00:55) FORM textblock 22 photoplot_width 0.1000 
+\i (00:00:55) FORM textblock done  
+\i (00:00:57) setwindow form.prmedit
+\i (00:00:57) FORM prmedit text_setup_button  
+\i (00:01:01) setwindow form.textblock
+\i (00:01:01) FORM textblock 23 photoplot_width 0.1000 
+\i (00:01:02) FORM textblock 24 photoplot_width 0.1000 
+\i (00:01:03) FORM textblock 25 photoplot_width 0.1000 
+\i (00:01:05) FORM textblock done  
+\i (00:01:07) setwindow form.prmedit
+\i (00:01:07) FORM prmedit done  
+\i (00:01:07) setwindow pcb
+\i (00:01:07) updateport SearchPane
+\i (00:01:07) generaledit 
+\i (00:01:07) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:07) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:07) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:07) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:07) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:08) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:08) save 
+\i (00:01:10) fillin yes 
+\t (00:01:10) > Sending response DoneOpenBoard
+\i (00:01:10) generaledit 
+\i (00:01:13) exit 
+\t (00:01:13) Lic Summary:
+[16:18:05.133561] Cdslmd servers:C:\Users\andre\AppData\Roaming\Cadence\VBL\SPB\license\license.txt
+[16:18:05.658875] Feature usage summary:
+[16:18:05.658875] OrCAD_X_PCB_Professional_Plus  
+[16:18:05.658875] OrCAD_X_Professional_Plus  
+\t (00:01:13)     Journal end - Fri Aug 28 16:18:05 2026

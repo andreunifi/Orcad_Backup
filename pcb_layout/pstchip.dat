@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 25.1.0 d001Aug-27-2026 at 19:17:23}
+{ Using PSTWRITER 25.1.0 d001Aug-28-2026 at 14:53:59}
 primitive 'ANTEENA_AN043_FLIP_ANTENNA';
   pin
     'FEED':
@@ -949,7 +949,7 @@ primitive 'R_RC0603N_YAG_100 KOHM';
     VALUE='100 kOhm';
   end_body;
 end_primitive;
-primitive 'RESISTOR_RC0603N_YAG_680 OHM';
+primitive 'RESISTOR_1_RC0603N_YAG_680 OHM';
   pin
     'B':
       PIN_NUMBER='(2)';
@@ -959,12 +959,12 @@ primitive 'RESISTOR_RC0603N_YAG_680 OHM';
       PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='Resistor';
+    PART_NAME='Resistor_1';
     JEDEC_TYPE='RC0603N_YAG';
     VALUE='680 Ohm';
   end_body;
 end_primitive;
-primitive 'RESISTOR_RC0603N_YAG_270 OHM';
+primitive 'RESISTOR_1_RC0603N_YAG_270 OHM';
   pin
     'B':
       PIN_NUMBER='(2)';
@@ -974,7 +974,7 @@ primitive 'RESISTOR_RC0603N_YAG_270 OHM';
       PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='Resistor';
+    PART_NAME='Resistor_1';
     JEDEC_TYPE='RC0603N_YAG';
     VALUE='270 Ohm';
   end_body;

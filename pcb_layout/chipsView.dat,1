@@ -1,5 +1,92 @@
 FILE_TYPE=LIBRARY_PARTS;
-primitive 'TPS62177DQCR_9_SON50P200X300X80-11N_VOLTAGE REGULATOR';
+primitive 'EEV477M010A9MAA_1_CAPAE1030X1050N_470 UF';
+  pin
+	 '-':
+	   PIN_NUMBER='(2)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '+':
+	   PIN_NUMBER='(1)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+	 PART_NAME='EEV477M010A9MAA_1';
+	 VALUE='470 uF';
+	 BODY_NAME='EEV477M010A9MAA_1_CAPAE1030X1050N_470 UF';
+	 JEDEC_TYPE='CAPAE1030X1050N';
+	 PHYS_DES_PREFIX='C';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'SS14_2_DIOM5127X261N_SS14';
+  pin
+	 'K':
+	   PIN_NUMBER='(1)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'A':
+	   PIN_NUMBER='(2)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+	 PART_NAME='SS14_2';
+	 VALUE='SS14';
+	 BODY_NAME='SS14_2_DIOM5127X261N_SS14';
+	 JEDEC_TYPE='DIOM5127X261N';
+	 PHYS_DES_PREFIX='D';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'M7_8_DIOM5327X240N_M7';
+  pin
+	 'K':
+	   PIN_NUMBER='(1)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'A':
+	   PIN_NUMBER='(2)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+	 PART_NAME='M7_8';
+	 VALUE='M7';
+	 BODY_NAME='M7_8_DIOM5327X240N_M7';
+	 JEDEC_TYPE='DIOM5327X240N';
+	 PHYS_DES_PREFIX='D';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'TPS62177DQCR_10_SON50P200X300X80-11N_VOLTAGE REGULATOR';
   pin
 	 'VOS':
 	   PIN_NUMBER='(10)';
@@ -91,16 +178,16 @@ primitive 'TPS62177DQCR_9_SON50P200X300X80-11N_VOLTAGE REGULATOR';
 	   ALLOW_CONNECT='TRUE';
   end_pin;
   body
-	 PART_NAME='TPS62177DQCR_9';
+	 PART_NAME='TPS62177DQCR_10';
 	 VALUE='Voltage Regulator';
-	 BODY_NAME='TPS62177DQCR_9_SON50P200X300X80-11N_VOLTAGE REGULATOR';
+	 BODY_NAME='TPS62177DQCR_10_SON50P200X300X80-11N_VOLTAGE REGULATOR';
 	 JEDEC_TYPE='SON50P200X300X80-11N';
 	 PHYS_DES_PREFIX='IC';
 	 CLASS='IC';
   end_body;
 end_primitive;
 
-primitive 'CC2640R2FRHBR_9_RHB0032E_MICROCONTROLLER';
+primitive 'CC2640R2FRHBR_12_RHB0032E_MCU';
   pin
 	 'X32K_Q2':
 	   PIN_NUMBER='(5)';
@@ -291,16 +378,16 @@ primitive 'CC2640R2FRHBR_9_RHB0032E_MICROCONTROLLER';
 	   ALLOW_CONNECT='TRUE';
   end_pin;
   body
-	 PART_NAME='CC2640R2FRHBR_9';
-	 VALUE='Microcontroller';
-	 BODY_NAME='CC2640R2FRHBR_9_RHB0032E_MICROCONTROLLER';
+	 PART_NAME='CC2640R2FRHBR_12';
+	 VALUE='MCU';
+	 BODY_NAME='CC2640R2FRHBR_12_RHB0032E_MCU';
 	 JEDEC_TYPE='RHB0032E';
 	 PHYS_DES_PREFIX='IC';
 	 CLASS='IC';
   end_body;
 end_primitive;
 
-primitive 'MCP73871-2CCIML_5_QFN20_4X4MC_MCH_BATTERY CHARGER';
+primitive 'MCP73871-2CCIML_8_QFN20_4X4MC_MCH_BATTERY CHARGER';
   pin
 	 'VSS_2':
 	   PIN_NUMBER='(0,11)';
@@ -401,16 +488,16 @@ primitive 'MCP73871-2CCIML_5_QFN20_4X4MC_MCH_BATTERY CHARGER';
 	   OUTPUT_LOAD='(1.0,-1.0)';
   end_pin;
   body
-	 PART_NAME='MCP73871-2CCIML_5';
+	 PART_NAME='MCP73871-2CCIML_8';
 	 VALUE='Battery Charger';
-	 BODY_NAME='MCP73871-2CCIML_5_QFN20_4X4MC_MCH_BATTERY CHARGER';
+	 BODY_NAME='MCP73871-2CCIML_8_QFN20_4X4MC_MCH_BATTERY CHARGER';
 	 JEDEC_TYPE='QFN20_4X4MC_MCH';
 	 PHYS_DES_PREFIX='IC';
 	 CLASS='IC';
   end_body;
 end_primitive;
 
-primitive '1725669_CONN_1725669_PXC_CONN_3P';
+primitive '1725669_0_CONN_1725669_PXC_SENSOR';
   pin
 	 '3':
 	   PIN_NUMBER='(3)';
@@ -438,16 +525,109 @@ primitive '1725669_CONN_1725669_PXC_CONN_3P';
 	   ALLOW_CONNECT='TRUE';
   end_pin;
   body
-	 PART_NAME='1725669';
-	 VALUE='CONN_3P';
-	 BODY_NAME='1725669_CONN_1725669_PXC_CONN_3P';
+	 PART_NAME='1725669_0';
+	 VALUE='Sensor';
+	 BODY_NAME='1725669_0_CONN_1725669_PXC_SENSOR';
 	 JEDEC_TYPE='CONN_1725669_PXC';
 	 PHYS_DES_PREFIX='J';
 	 CLASS='IC';
   end_body;
 end_primitive;
 
-primitive '1729128_CONN_1729128_PXC_CONN_2P';
+primitive 'FTSH-105-XX-X-DV_10_SAMTEC_FTSH-105-XX-X-DV_JTAG';
+  pin
+	 'VDDS':
+	   PIN_NUMBER='(05)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'TMSC':
+	   PIN_NUMBER='(10)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'TDO':
+	   PIN_NUMBER='(07)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'TDI':
+	   PIN_NUMBER='(08)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'TCKC':
+	   PIN_NUMBER='(09)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'RST_N':
+	   PIN_NUMBER='(06)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'NC':
+	   PIN_NUMBER='(02)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'GND#04':
+	   PIN_NUMBER='(04)';
+	   PINUSE='POWER';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'GND#03':
+	   PIN_NUMBER='(03)';
+	   PINUSE='POWER';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'GND#01':
+	   PIN_NUMBER='(01)';
+	   PINUSE='POWER';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+	 PART_NAME='FTSH-105-XX-X-DV_10';
+	 VALUE='JTAG';
+	 BODY_NAME='FTSH-105-XX-X-DV_10_SAMTEC_FTSH-105-XX-X-DV_JTAG';
+	 JEDEC_TYPE='SAMTEC_FTSH-105-XX-X-DV';
+	 PHYS_DES_PREFIX='J';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive '1729128_5_CONN_1729128_PXC_SOLAR PANEL';
   pin
 	 '2':
 	   PIN_NUMBER='(2)';
@@ -467,143 +647,16 @@ primitive '1729128_CONN_1729128_PXC_CONN_2P';
 	   ALLOW_CONNECT='TRUE';
   end_pin;
   body
-	 PART_NAME='1729128';
-	 VALUE='CONN_2P';
-	 BODY_NAME='1729128_CONN_1729128_PXC_CONN_2P';
+	 PART_NAME='1729128_5';
+	 VALUE='Solar Panel';
+	 BODY_NAME='1729128_5_CONN_1729128_PXC_SOLAR PANEL';
 	 JEDEC_TYPE='CONN_1729128_PXC';
 	 PHYS_DES_PREFIX='J';
 	 CLASS='IC';
   end_body;
 end_primitive;
 
-primitive 'S2B-PH-K-SLFSN_CONN_S2B-PH-K-S_JST_CONN_2PH';
-  pin
-	 '2':
-	   PIN_NUMBER='(2)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '1':
-	   PIN_NUMBER='(1)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-  end_pin;
-  body
-	 PART_NAME='S2B-PH-K-SLFSN';
-	 VALUE='CONN_2PH';
-	 BODY_NAME='S2B-PH-K-SLFSN_CONN_S2B-PH-K-S_JST_CONN_2PH';
-	 JEDEC_TYPE='CONN_S2B-PH-K-S_JST';
-	 PHYS_DES_PREFIX='J';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
-primitive '1729128_1_CONN_1729128_PXC_CONN_2P';
-  pin
-	 '2':
-	   PIN_NUMBER='(2)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '1':
-	   PIN_NUMBER='(1)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-  end_pin;
-  body
-	 PART_NAME='1729128_1';
-	 VALUE='CONN_2P';
-	 BODY_NAME='1729128_1_CONN_1729128_PXC_CONN_2P';
-	 JEDEC_TYPE='CONN_1729128_PXC';
-	 PHYS_DES_PREFIX='J';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
-primitive 'MOSFET N_SMSOT23123_MOSFET_N';
-  pin
-	 'SOURCE':
-	   PIN_NUMBER='(3)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'GATE':
-	   PIN_NUMBER='(1)';
-	   INPUT_LOAD='(-0.01,0.01)';
-	 'DRAIN':
-	   PIN_NUMBER='(2)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-  end_pin;
-  body
-	 PART_NAME='MOSFET N';
-	 VALUE='MOSFET_N';
-	 BODY_NAME='MOSFET N_SMSOT23123_MOSFET_N';
-	 JEDEC_TYPE='SMSOT23123';
-	 PHYS_DES_PREFIX='Q';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
-primitive 'AO3400A_1_SMSOT23123_MOSFET_N';
-  pin
-	 'S':
-	   PIN_NUMBER='(2)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'G':
-	   PIN_NUMBER='(1)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'D':
-	   PIN_NUMBER='(3)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-  end_pin;
-  body
-	 PART_NAME='AO3400A_1';
-	 VALUE='MOSFET_N';
-	 BODY_NAME='AO3400A_1_SMSOT23123_MOSFET_N';
-	 JEDEC_TYPE='SMSOT23123';
-	 PHYS_DES_PREFIX='Q';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
-primitive '1054550101_14_CONN_1054550101_MOL_USB-C';
+primitive '1054550101_16_CONN_1054550101_MOL_USB-C';
   pin
 	 'VBUS_4':
 	   PIN_NUMBER='(B9)';
@@ -831,11 +884,380 @@ primitive '1054550101_14_CONN_1054550101_MOL_USB-C';
 	   ALLOW_CONNECT='TRUE';
   end_pin;
   body
-	 PART_NAME='1054550101_14';
+	 PART_NAME='1054550101_16';
 	 VALUE='USB-C';
-	 BODY_NAME='1054550101_14_CONN_1054550101_MOL_USB-C';
+	 BODY_NAME='1054550101_16_CONN_1054550101_MOL_USB-C';
 	 JEDEC_TYPE='CONN_1054550101_MOL';
 	 PHYS_DES_PREFIX='J';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'S2B-PH-K-SLFSN_0_CONN_S2B-PH-K-S_JST_BATTERY';
+  pin
+	 '2':
+	   PIN_NUMBER='(2)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '1':
+	   PIN_NUMBER='(1)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+	 PART_NAME='S2B-PH-K-SLFSN_0';
+	 VALUE='Battery';
+	 BODY_NAME='S2B-PH-K-SLFSN_0_CONN_S2B-PH-K-S_JST_BATTERY';
+	 JEDEC_TYPE='CONN_S2B-PH-K-S_JST';
+	 PHYS_DES_PREFIX='J';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive '1729128_4_CONN_1729128_PXC_ACTUATOR';
+  pin
+	 '2':
+	   PIN_NUMBER='(2)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '1':
+	   PIN_NUMBER='(1)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+	 PART_NAME='1729128_4';
+	 VALUE='Actuator';
+	 BODY_NAME='1729128_4_CONN_1729128_PXC_ACTUATOR';
+	 JEDEC_TYPE='CONN_1729128_PXC';
+	 PHYS_DES_PREFIX='J';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'B82422-A1103-J/EPC_4_INDC1006X60N_15 NH';
+  pin
+	 '2':
+	   PIN_NUMBER='(2)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '1':
+	   PIN_NUMBER='(1)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+	 PART_NAME='B82422-A1103-J/EPC_4';
+	 VALUE='15 nH';
+	 BODY_NAME='B82422-A1103-J/EPC_4_INDC1006X60N_15 NH';
+	 JEDEC_TYPE='INDC1006X60N';
+	 PHYS_DES_PREFIX='L';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'B82422-A1103-J/EPC_4_IND_LQG15_MUR-M_2 NH';
+  pin
+	 '2':
+	   PIN_NUMBER='(2)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '1':
+	   PIN_NUMBER='(1)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+	 PART_NAME='B82422-A1103-J/EPC_4';
+	 VALUE='2 nH';
+	 BODY_NAME='B82422-A1103-J/EPC_4_IND_LQG15_MUR-M_2 NH';
+	 JEDEC_TYPE='IND_LQG15_MUR-M';
+	 PHYS_DES_PREFIX='L';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'LED_0_LEDC1608X45N_GREEN LED';
+  pin
+	 'B':
+	   PIN_NUMBER='(2)';
+	   OUTPUT_LOAD='(1.0,-1.0)';
+	 'A':
+	   PIN_NUMBER='(1)';
+	   INPUT_LOAD='(-0.01,0.01)';
+  end_pin;
+  body
+	 PART_NAME='led_0';
+	 VALUE='green led';
+	 BODY_NAME='LED_0_LEDC1608X45N_GREEN LED';
+	 JEDEC_TYPE='LEDC1608X45N';
+	 PHYS_DES_PREFIX='LED';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'LED_0_LEDC1608X45N_RED LED';
+  pin
+	 'B':
+	   PIN_NUMBER='(2)';
+	   OUTPUT_LOAD='(1.0,-1.0)';
+	 'A':
+	   PIN_NUMBER='(1)';
+	   INPUT_LOAD='(-0.01,0.01)';
+  end_pin;
+  body
+	 PART_NAME='led_0';
+	 VALUE='red led';
+	 BODY_NAME='LED_0_LEDC1608X45N_RED LED';
+	 JEDEC_TYPE='LEDC1608X45N';
+	 PHYS_DES_PREFIX='LED';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'MOSFET N_3_SMSOT23123_MOSFET_N';
+  pin
+	 'SOURCE':
+	   PIN_NUMBER='(3)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'GATE':
+	   PIN_NUMBER='(1)';
+	   INPUT_LOAD='(-0.01,0.01)';
+	 'DRAIN':
+	   PIN_NUMBER='(2)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+	 PART_NAME='MOSFET N_3';
+	 VALUE='MOSFET_N';
+	 BODY_NAME='MOSFET N_3_SMSOT23123_MOSFET_N';
+	 JEDEC_TYPE='SMSOT23123';
+	 PHYS_DES_PREFIX='Q';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'AO3400A_6_SMSOT23123_MOSFET_N';
+  pin
+	 'S':
+	   PIN_NUMBER='(2)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'G':
+	   PIN_NUMBER='(1)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'D':
+	   PIN_NUMBER='(3)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+	 PART_NAME='AO3400A_6';
+	 VALUE='MOSFET_N';
+	 BODY_NAME='AO3400A_6_SMSOT23123_MOSFET_N';
+	 JEDEC_TYPE='SMSOT23123';
+	 PHYS_DES_PREFIX='Q';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive '1825910-6_0_18259106_BUTTON';
+  pin
+	 'NO_2':
+	   PIN_NUMBER='(4)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'NO_1':
+	   PIN_NUMBER='(3)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'COM_2':
+	   PIN_NUMBER='(2)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'COM_1':
+	   PIN_NUMBER='(1)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+	 PART_NAME='1825910-6_0';
+	 VALUE='BUTTON';
+	 BODY_NAME='1825910-6_0_18259106_BUTTON';
+	 JEDEC_TYPE='18259106';
+	 PHYS_DES_PREFIX='S';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'DK1A-3V-F_3_AW3212F_RELAY';
+  pin
+	 '6':
+	   PIN_NUMBER='(6)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '4':
+	   PIN_NUMBER='(4)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '3':
+	   PIN_NUMBER='(3)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '1':
+	   PIN_NUMBER='(1)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+	 PART_NAME='DK1A-3V-F_3';
+	 VALUE='RELAY';
+	 BODY_NAME='DK1A-3V-F_3_AW3212F_RELAY';
+	 JEDEC_TYPE='AW3212F';
+	 PHYS_DES_PREFIX='U';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'TXS-3225_CX3225FB48000F0FZZH1_24 MHZ';
+  pin
+	 'D':
+	   PIN_NUMBER='(4)';
+	   BIDIRECTIONAL='TRUE';
+	   INPUT_LOAD='(-0.01,0.01)';
+	   OUTPUT_LOAD='(1.0,-1.0)';
+	 'C':
+	   PIN_NUMBER='(3)';
+	   BIDIRECTIONAL='TRUE';
+	   INPUT_LOAD='(-0.01,0.01)';
+	   OUTPUT_LOAD='(1.0,-1.0)';
+	 'B':
+	   PIN_NUMBER='(2)';
+	   BIDIRECTIONAL='TRUE';
+	   INPUT_LOAD='(-0.01,0.01)';
+	   OUTPUT_LOAD='(1.0,-1.0)';
+	 'A':
+	   PIN_NUMBER='(1)';
+	   BIDIRECTIONAL='TRUE';
+	   INPUT_LOAD='(-0.01,0.01)';
+	   OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+	 PART_NAME='TXS-3225';
+	 VALUE='24 MHz';
+	 BODY_NAME='TXS-3225_CX3225FB48000F0FZZH1_24 MHZ';
+	 JEDEC_TYPE='CX3225FB48000F0FZZH1';
+	 PHYS_DES_PREFIX='Y';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'FC-135R_0_XTAL_KA-A3_EPS-M_32.768 KHZ';
+  pin
+	 'B':
+	   PIN_NUMBER='(2)';
+	   BIDIRECTIONAL='TRUE';
+	   INPUT_LOAD='(-0.01,0.01)';
+	   OUTPUT_LOAD='(1.0,-1.0)';
+	 'A':
+	   PIN_NUMBER='(1)';
+	   BIDIRECTIONAL='TRUE';
+	   INPUT_LOAD='(-0.01,0.01)';
+	   OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+	 PART_NAME='FC-135R_0';
+	 VALUE='32.768 kHz';
+	 BODY_NAME='FC-135R_0_XTAL_KA-A3_EPS-M_32.768 KHZ';
+	 JEDEC_TYPE='XTAL_KA-A3_EPS-M';
+	 PHYS_DES_PREFIX='Y';
 	 CLASS='IC';
   end_body;
 end_primitive;
@@ -1061,35 +1483,6 @@ primitive 'CAPACITOR_CAP_CC0603_YAG_1.2 PF';
   end_body;
 end_primitive;
 
-primitive 'EEV477M010A9MAA_0_CAPAE1030X1050N_470 UF';
-  pin
-	 '-':
-	   PIN_NUMBER='(2)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '+':
-	   PIN_NUMBER='(1)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-  end_pin;
-  body
-	 PART_NAME='EEV477M010A9MAA_0';
-	 VALUE='470 uF';
-	 BODY_NAME='EEV477M010A9MAA_0_CAPAE1030X1050N_470 UF';
-	 JEDEC_TYPE='CAPAE1030X1050N';
-	 PHYS_DES_PREFIX='C';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
 primitive 'CC0603MRX7R5BB475_CAP_CC0603_YAG_4.7 UF';
   pin
 	 '2':
@@ -1235,157 +1628,6 @@ primitive 'C_CK05_DNM';
   end_body;
 end_primitive;
 
-primitive 'SS14_0_DIOM5127X261N_SS14';
-  pin
-	 'K':
-	   PIN_NUMBER='(1)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'A':
-	   PIN_NUMBER='(2)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-  end_pin;
-  body
-	 PART_NAME='SS14_0';
-	 VALUE='SS14';
-	 BODY_NAME='SS14_0_DIOM5127X261N_SS14';
-	 JEDEC_TYPE='DIOM5127X261N';
-	 PHYS_DES_PREFIX='D';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
-primitive 'M7_DIOM5327X240N_M7';
-  pin
-	 'K':
-	   PIN_NUMBER='(1)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'A':
-	   PIN_NUMBER='(2)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-  end_pin;
-  body
-	 PART_NAME='M7';
-	 VALUE='M7';
-	 BODY_NAME='M7_DIOM5327X240N_M7';
-	 JEDEC_TYPE='DIOM5327X240N';
-	 PHYS_DES_PREFIX='D';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
-primitive 'FTSH-105-XX-X-DV_SAMTEC_FTSH-105-XX-X-DV_FTSH-105-XX-X-DV';
-  pin
-	 '10':
-	   PIN_NUMBER='(10)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '09':
-	   PIN_NUMBER='(09)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '08':
-	   PIN_NUMBER='(08)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '07':
-	   PIN_NUMBER='(07)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '06':
-	   PIN_NUMBER='(06)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '05':
-	   PIN_NUMBER='(05)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '04':
-	   PIN_NUMBER='(04)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '03':
-	   PIN_NUMBER='(03)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '02':
-	   PIN_NUMBER='(02)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '01':
-	   PIN_NUMBER='(01)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-  end_pin;
-  body
-	 PART_NAME='FTSH-105-XX-X-DV';
-	 VALUE='FTSH-105-XX-X-DV';
-	 BODY_NAME='FTSH-105-XX-X-DV_SAMTEC_FTSH-105-XX-X-DV_FTSH-105-XX-X-DV';
-	 JEDEC_TYPE='SAMTEC_FTSH-105-XX-X-DV';
-	 PHYS_DES_PREFIX='J';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
 primitive 'BLM18HE152SN1D_IND_BLM18_0603_MUR-M_1.5 UH';
   pin
 	 '2':
@@ -1444,64 +1686,6 @@ primitive 'IFSC1515AHER100M01_INDPM4040X190N_10 UH';
   end_body;
 end_primitive;
 
-primitive 'B82422-A1103-J/EPC_3_INDC1006X60N_15 NH';
-  pin
-	 '2':
-	   PIN_NUMBER='(2)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '1':
-	   PIN_NUMBER='(1)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-  end_pin;
-  body
-	 PART_NAME='B82422-A1103-J/EPC_3';
-	 VALUE='15 nH';
-	 BODY_NAME='B82422-A1103-J/EPC_3_INDC1006X60N_15 NH';
-	 JEDEC_TYPE='INDC1006X60N';
-	 PHYS_DES_PREFIX='L';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
-primitive 'B82422-A1103-J/EPC_3_IND_LQG15_MUR-M_2 NH';
-  pin
-	 '2':
-	   PIN_NUMBER='(2)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '1':
-	   PIN_NUMBER='(1)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-  end_pin;
-  body
-	 PART_NAME='B82422-A1103-J/EPC_3';
-	 VALUE='2 nH';
-	 BODY_NAME='B82422-A1103-J/EPC_3_IND_LQG15_MUR-M_2 NH';
-	 JEDEC_TYPE='IND_LQG15_MUR-M';
-	 PHYS_DES_PREFIX='L';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
 primitive 'IFSC1515AHER100M01_0_IND_IFSC_1515AH_VIS_10 UH';
   pin
 	 '2':
@@ -1527,44 +1711,6 @@ primitive 'IFSC1515AHER100M01_0_IND_IFSC_1515AH_VIS_10 UH';
 	 BODY_NAME='IFSC1515AHER100M01_0_IND_IFSC_1515AH_VIS_10 UH';
 	 JEDEC_TYPE='IND_IFSC_1515AH_VIS';
 	 PHYS_DES_PREFIX='L';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
-primitive 'LED_LEDC1608X45N_GREEN LED';
-  pin
-	 'B':
-	   PIN_NUMBER='(2)';
-	   OUTPUT_LOAD='(1.0,-1.0)';
-	 'A':
-	   PIN_NUMBER='(1)';
-	   INPUT_LOAD='(-0.01,0.01)';
-  end_pin;
-  body
-	 PART_NAME='led';
-	 VALUE='green led';
-	 BODY_NAME='LED_LEDC1608X45N_GREEN LED';
-	 JEDEC_TYPE='LEDC1608X45N';
-	 PHYS_DES_PREFIX='LED';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
-primitive 'LED_LEDC1608X45N_RED LED';
-  pin
-	 'B':
-	   PIN_NUMBER='(2)';
-	   OUTPUT_LOAD='(1.0,-1.0)';
-	 'A':
-	   PIN_NUMBER='(1)';
-	   INPUT_LOAD='(-0.01,0.01)';
-  end_pin;
-  body
-	 PART_NAME='led';
-	 VALUE='red led';
-	 BODY_NAME='LED_LEDC1608X45N_RED LED';
-	 JEDEC_TYPE='LEDC1608X45N';
-	 PHYS_DES_PREFIX='LED';
 	 CLASS='IC';
   end_body;
 end_primitive;
@@ -1884,152 +2030,6 @@ primitive 'NTCLE350E4103FHB0_0_NTCLE350E4103FHB0_10 KOHM';
 	 BODY_NAME='NTCLE350E4103FHB0_0_NTCLE350E4103FHB0_10 KOHM';
 	 JEDEC_TYPE='NTCLE350E4103FHB0';
 	 PHYS_DES_PREFIX='RT';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
-primitive '1825910-6_18259106_1825910-6';
-  pin
-	 'NO_2':
-	   PIN_NUMBER='(4)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'NO_1':
-	   PIN_NUMBER='(3)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'COM_2':
-	   PIN_NUMBER='(2)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'COM_1':
-	   PIN_NUMBER='(1)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-  end_pin;
-  body
-	 PART_NAME='1825910-6';
-	 VALUE='1825910-6';
-	 BODY_NAME='1825910-6_18259106_1825910-6';
-	 JEDEC_TYPE='18259106';
-	 PHYS_DES_PREFIX='S';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
-primitive 'DK1A-3V-F_0_AW3212F_RELAY';
-  pin
-	 '6':
-	   PIN_NUMBER='(6)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '4':
-	   PIN_NUMBER='(4)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '3':
-	   PIN_NUMBER='(3)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '1':
-	   PIN_NUMBER='(1)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-  end_pin;
-  body
-	 PART_NAME='DK1A-3V-F_0';
-	 VALUE='RELAY';
-	 BODY_NAME='DK1A-3V-F_0_AW3212F_RELAY';
-	 JEDEC_TYPE='AW3212F';
-	 PHYS_DES_PREFIX='U';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
-primitive 'TXS-3225_CX3225FB48000F0FZZH1_24 MHZ';
-  pin
-	 'D':
-	   PIN_NUMBER='(4)';
-	   BIDIRECTIONAL='TRUE';
-	   INPUT_LOAD='(-0.01,0.01)';
-	   OUTPUT_LOAD='(1.0,-1.0)';
-	 'C':
-	   PIN_NUMBER='(3)';
-	   BIDIRECTIONAL='TRUE';
-	   INPUT_LOAD='(-0.01,0.01)';
-	   OUTPUT_LOAD='(1.0,-1.0)';
-	 'B':
-	   PIN_NUMBER='(2)';
-	   BIDIRECTIONAL='TRUE';
-	   INPUT_LOAD='(-0.01,0.01)';
-	   OUTPUT_LOAD='(1.0,-1.0)';
-	 'A':
-	   PIN_NUMBER='(1)';
-	   BIDIRECTIONAL='TRUE';
-	   INPUT_LOAD='(-0.01,0.01)';
-	   OUTPUT_LOAD='(1.0,-1.0)';
-  end_pin;
-  body
-	 PART_NAME='TXS-3225';
-	 VALUE='24 MHZ';
-	 BODY_NAME='TXS-3225_CX3225FB48000F0FZZH1_24 MHZ';
-	 JEDEC_TYPE='CX3225FB48000F0FZZH1';
-	 PHYS_DES_PREFIX='Y';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
-primitive 'FC-135R_0_XTAL_KA-A3_EPS-M_32.768KHZ';
-  pin
-	 'B':
-	   PIN_NUMBER='(2)';
-	   BIDIRECTIONAL='TRUE';
-	   INPUT_LOAD='(-0.01,0.01)';
-	   OUTPUT_LOAD='(1.0,-1.0)';
-	 'A':
-	   PIN_NUMBER='(1)';
-	   BIDIRECTIONAL='TRUE';
-	   INPUT_LOAD='(-0.01,0.01)';
-	   OUTPUT_LOAD='(1.0,-1.0)';
-  end_pin;
-  body
-	 PART_NAME='FC-135R_0';
-	 VALUE='32.768kHz';
-	 BODY_NAME='FC-135R_0_XTAL_KA-A3_EPS-M_32.768KHZ';
-	 JEDEC_TYPE='XTAL_KA-A3_EPS-M';
-	 PHYS_DES_PREFIX='Y';
 	 CLASS='IC';
   end_body;
 end_primitive;

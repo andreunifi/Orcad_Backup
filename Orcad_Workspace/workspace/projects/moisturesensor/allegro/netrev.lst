@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : SO1L_v2.brd                                   )
 (    Software Version : 25.1S030                                      )
-(    Date/Time        : Thu Aug 27 19:17:24 2026                      )
+(    Date/Time        : Fri Aug 28 14:54:00 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -22,7 +22,7 @@ Design Directory:            'C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace
 Old design name:             'C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L_v2.brd'
 New design name:             'C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L_v2.brd'
 
-CmdLine: netrev -y 1 -i c:\users\andre\desktop\ese_group18\pcb_layout -q netrev_constraint_report.xml C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/#Taaaagm06032.tmp
+CmdLine: netrev -y 1 -i c:\users\andre\desktop\ese_group18\pcb_layout -q netrev_constraint_report.xml C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/#Taaaabm04264.tmp
 
 ------ Preparing to read pst files ------
 
@@ -72,7 +72,7 @@ PADPATH =  C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/librarie
 ------ Summary Statistics ------
 
 
-netrev run on Aug 27 19:17:24 2026
+netrev run on Aug 28 14:54:00 2026
    DESIGN NAME : 'SO1L'
    PACKAGING ON Mar 25 2026 22:25:38
 
@@ -97,6 +97,6 @@ netrev run on Aug 27 19:17:24 2026
  No oversight detected
   1 warnings detected
 
-cpu time      0:01:23
+cpu time      0:01:16
 elapsed time  0:00:01
 

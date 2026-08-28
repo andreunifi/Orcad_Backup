@@ -3,43 +3,28 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  C:.../workspace/projects/moisturesensor/allegro/SO1L_v2.brd                 |
-|                                                    Thu Aug 27 18:59:02 2026  |
+|                                                    Thu Aug 27 19:17:24 2026  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  DIO_5        pins ADDED TO this existing net (pins not previously on any net)
-                                 J2.7                           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
   DIO_6        pins ADDED TO this new net
                                  IC2.16          218.371 181.603
-                                 J2.8                           
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
   DIO_7        pins DELETED FROM this net (all pins deleted)
                                  IC2.20          219.021 183.753
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  GND          pins ADDED TO this existing net (pins not previously on any net)
-                                 J2.1                           
-                                 J2.3                           
-                                 J2.4                           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  JTAG_TCKC    pins ADDED TO this existing net (pins not previously on any net)
-                                 J2.9                           
+               pins MOVED FROM this net (to net name listed on right)
+                                 J2.08           223.209 166.680
+                                                                          DIO_6
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
   N02347       net RENAMED (to net name listed on right)           N02351       
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  RESET_N      pins ADDED TO this existing net (pins not previously on any net)
-                                 J2.6                           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  VDDS         pins ADDED TO this existing net (pins not previously on any net)
-                                 J2.5                           
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
 |  C:.../workspace/projects/moisturesensor/allegro/SO1L_v2.brd                 |
-|                                                    Thu Aug 27 18:59:02 2026  |
+|                                                    Thu Aug 27 19:17:24 2026  |
 |------------------------------------------------------------------------------|
 | COMPONENT DEFINITION added to design                                         |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -57,7 +42,7 @@
  DK1A-3V-F_3_AW3212F_RELAY
  EEV477M010A9MAA_1_CAPAE1030X1050N_470 UF
  FC-135R_0_XTAL_KA-A3_EPS-M_32.768 KHZ
- FTSH-105-XX-X-DV_8_SAMTEC_FTSH-105-XX-X-DV_JTAG
+ FTSH-105-XX-X-DV_10_SAMTEC_FTSH-105-XX-X-DV_JTAG
  LED_0_LEDC1608X45N_GREEN LED
  LED_0_LEDC1608X45N_RED LED
  M7_8_DIOM5327X240N_M7
@@ -72,7 +57,7 @@
 |                                                                    Page   3  |
 |------------------------------------------------------------------------------|
 |  C:.../workspace/projects/moisturesensor/allegro/SO1L_v2.brd                 |
-|                                                    Thu Aug 27 18:59:02 2026  |
+|                                                    Thu Aug 27 19:17:24 2026  |
 |------------------------------------------------------------------------------|
 | COMPONENTS CHANGED from one device type to another in design                 |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -85,7 +70,7 @@
  IC2                 CC2640R2FRHBR_12_RHB0032E_MCU 216.621 184.003 CC2640R2FRHBR_9_RHB0032E_MICROCONTROLLER
  IC3                 MCP73871-2CCIML_8_QFN20_4X4MC_MCH_BATTERY CHARGER 259.758 160.279 MCP73871-2CCIML_5_QFN20_4X4MC_MCH_BATTERY CHARGER
  J1                  1725669_0_CONN_1725669_PXC_SENSOR 213.568 204.359 1725669_CONN_1725669_PXC_CONN_3P
- J2                  FTSH-105-XX-X-DV_8_SAMTEC_FTSH-105-XX-X-DV_JTAG 224.479 168.715 FTSH-105-XX-X-DV_SAMTEC_FTSH-105-XX-X-DV_FTSH-105-XX-X-DV
+ J2                  FTSH-105-XX-X-DV_10_SAMTEC_FTSH-105-XX-X-DV_JTAG 224.479 168.715 FTSH-105-XX-X-DV_SAMTEC_FTSH-105-XX-X-DV_FTSH-105-XX-X-DV
  J3                  1729128_5_CONN_1729128_PXC_SOLAR PANEL 213.961 146.579 1729128_CONN_1729128_PXC_CONN_2P
  J4                  1054550101_16_CONN_1054550101_MOL_USB-C 248.853 143.011 1054550101_14_CONN_1054550101_MOL_USB-C
  J5                  S2B-PH-K-SLFSN_0_CONN_S2B-PH-K-S_JST_BATTERY 280.523 146.760 S2B-PH-K-SLFSN_CONN_S2B-PH-K-S_JST_CONN_2PH
@@ -105,7 +90,7 @@
 |                                                                    Page   4  |
 |------------------------------------------------------------------------------|
 |  C:.../workspace/projects/moisturesensor/allegro/SO1L_v2.brd                 |
-|                                                    Thu Aug 27 18:59:02 2026  |
+|                                                    Thu Aug 27 19:17:24 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -151,17 +136,17 @@
  J1.3           213.568 204.359 SCH_MIRROR     (0)
  J1.3           213.568 204.359 SCH_ORIENT     (0)
  J1.3           213.568 204.359 XY             (880,330)
- J2.5                           PRIM_FILE      .\pstchip.dat
- J2.5                           SCH_BBOX       (632,393,692,453)
- J2.5                           SCH_MIRROR     (0)
- J2.5                           SCH_ORIENT     (0)
- J2.5                           XY             (632,393)
+ J2.05          224.479 168.715 PRIM_FILE      .\pstchip.dat
+ J2.05          224.479 168.715 SCH_BBOX       (632,393,692,453)
+ J2.05          224.479 168.715 SCH_MIRROR     (0)
+ J2.05          224.479 168.715 SCH_ORIENT     (0)
+ J2.05          224.479 168.715 XY             (632,393)
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   5  |
 |------------------------------------------------------------------------------|
 |  C:.../workspace/projects/moisturesensor/allegro/SO1L_v2.brd                 |
-|                                                    Thu Aug 27 18:59:02 2026  |
+|                                                    Thu Aug 27 19:17:24 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -217,7 +202,7 @@
 |                                                                    Page   6  |
 |------------------------------------------------------------------------------|
 |  C:.../workspace/projects/moisturesensor/allegro/SO1L_v2.brd                 |
-|                                                    Thu Aug 27 18:59:02 2026  |
+|                                                    Thu Aug 27 19:17:24 2026  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -253,22 +238,13 @@
 |                                                                    Page   7  |
 |------------------------------------------------------------------------------|
 |  C:.../workspace/projects/moisturesensor/allegro/SO1L_v2.brd                 |
-|                                                    Thu Aug 27 18:59:02 2026  |
+|                                                    Thu Aug 27 19:17:24 2026  |
 |------------------------------------------------------------------------------|
 | PIN PROPERTIES added to design                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    pin_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
  IC2.16         218.371 181.603 SCH_LOC        (630,270)
- J2.1                           SCH_LOC        (632,403)
- J2.3                           SCH_LOC        (632,413)
- J2.4                           SCH_LOC        (692,413)
- J2.5                           SCH_LOC        (632,423)
- J2.6                           SCH_LOC        (692,423)
- J2.7                           SCH_LOC        (632,433)
- J2.8                           SCH_LOC        (692,433)
- J2.9                           SCH_LOC        (632,443)
- J2.10                          SCH_LOC        (692,443)
  J6.1           281.940 180.340 SCH_LOC        (851,305)
  J6.2           281.940 175.260 SCH_LOC        (851,315)
  Q1.2           245.000 191.431 SCH_LOC        (840,260)
@@ -281,11 +257,11 @@
  U1.4           284.184 190.749 SCH_LOC        (763,255)
  U1.6           266.404 200.909 SCH_LOC        (693,375)
 |------------------------------------------------------------------------------|
-|       Nets changed          :      11                                        |
+|       Nets changed          :       4                                        |
 |       Comp definitions added:      22                                        |
 |       Components changed    :      22                                        |
-|       Pin property added    :      21                                        |
+|       Pin property added    :      12                                        |
 |       Slot property added   :     115                                        |
 |                                                                              |
-|   Total ECO changes reported:     191                                        |
+|   Total ECO changes reported:     175                                        |
 |------------------------------------------------------------------------------|
