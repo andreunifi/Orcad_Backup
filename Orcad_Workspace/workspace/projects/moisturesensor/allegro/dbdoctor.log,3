@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : SO1L_v2.brd                                   )
 (    Software Version : 25.1S030                                      )
-(    Date/Time        : Mon Aug 24 17:57:26 2026                      )
+(    Date/Time        : Sun Aug 30 17:31:21 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -12,7 +12,7 @@
 
 Regenerating DRC
   Original DRC errors:   0
-  Updated DRC errors:    0
+  Updated DRC errors:    6
   DRC elapsed time:      00:00:01
 
 0 warnings, 0 errors detected, 0 errors  fixed.

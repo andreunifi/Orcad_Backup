@@ -8,7 +8,7 @@ P  NUM   001
 P  REV   A                                                                      
 C                                                                               
 C  IPC-D-356 Output File from Allegro                                           
-C  IPC File Date: Sun Aug 30 16:26:11 2026                                      
+C  IPC File Date: Sun Aug 30 17:36:47 2026                                      
 C  Login Name:    andre                                                         
 C                                                                               
 C                                                                               
@@ -153,9 +153,9 @@ C
 317N05411           VIA   -    MD0250PA00X+259750Y+163804X0600Y0600     S3      
 317N05411           VIA   -    MD0250PA00X+253515Y+168508X0600Y0600     S3      
 327N05411           R9    -2          A01X+253510Y+169527X0756Y0813R270 S1      
+327CC2              J4    -B5         A01X+249603Y+145520X0330Y0750     S1      
 317CC2              VIA   -    MD0250PA00X+252231Y+148391X0600Y0600     S3      
 317CC2              VIA   -    MD0250PA00X+249495Y+148002X0600Y0600     S3      
-327CC2              J4    -B5         A01X+249603Y+145520X0330Y0750     S1      
 327CC2              R8    -2          A01X+253268Y+149559X0756Y0813R270 S1      
 317CC1              VIA   -    MD0250PA00X+248398Y+148387X0600Y0600     S3      
 317CC1              VIA   -    MD0250PA00X+245291Y+148384X0600Y0600     S3      
@@ -210,7 +210,6 @@ C
 317GND              S1    -4   MD1000PA00X+247187Y+201265X1350Y1350     S3      
 317GND              RT1   -1   MD0250PA00X+240102Y+160923X0600Y0600R270 S3      
 317GND              J1    -3   MD1100PA00X+208347Y+202281X1450Y1450R180 S3      
-317GND              VIA   -     D0250PA00X+222233Y+184208X0600Y0600     S3      
 327GND              IC1   -1          A01X+253500Y+179176X0250Y0500R090 S1      
 327GND              IC1   -4          A01X+253500Y+177676X0250Y0500R090 S1      
 327GND              IC1   -5          A01X+253500Y+177176X0250Y0500R090 S1      

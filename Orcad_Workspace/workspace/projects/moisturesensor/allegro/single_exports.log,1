@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : SO1L_v2.brd                                   )
 (    Software Version : 25.1S030                                      )
-(    Date/Time        : Sun Aug 30 16:18:08 2026                      )
+(    Date/Time        : Sun Aug 30 16:18:29 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -14,6 +14,17 @@ Failed to update the NC Drill Legend location
 Current film records are deleted and saved as an attachment to the design.
 
 Creating new film records in the design as per configuration file
+	TOP
+	BOTTOM
+	SSTP
+	SSBT
+	SMTP
+	SMBT
+	SPTP
+	SPBT
+	NCLEGEND-1-2
+	ASSYTP
+	ASSYBT
 	TOP
 	BOTTOM
 	SSTP

@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : SO1L_v2.brd                                   )
 (    Software Version : 25.1S030                                      )
-(    Date/Time        : Sun Aug 30 16:26:06 2026                      )
+(    Date/Time        : Sun Aug 30 17:36:43 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -49,14 +49,14 @@ Drill files being output to directory 'C:/Users/andre/Desktop/Ese_Group18/Orcad_
 
            Num     Size      +/- Tolerance     Plating   Quantity
 
-            1.   9.8425    0.0000/  0.0000      PLATED         97
+            1.   9.8425    0.0000/  0.0000      PLATED         96
             2.  27.5591    0.0000/  0.0000      PLATED          2
             3.  35.4331    0.0000/  0.0000      PLATED          2
             4.  39.3701    0.0000/  0.0000      PLATED          4
             5.  43.3071    0.0000/  0.0000      PLATED          8
             6.  51.1811    0.0000/  0.0000      PLATED          4
 
-     ---- Total holes:                                        117
+     ---- Total holes:                                        116
 
-     ---- Total head travel:              3.93 feet (1.20 meters)
+     ---- Total head travel:              3.92 feet (1.20 meters)
 

@@ -3,8 +3,8 @@ INCH,TZ
 ;LEADER: 12 
 ;HEADER: 
 ;CODE  : ASCII 
-;FILE  : SO1L_v2-1-2.drl for board C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/#Taaaadq12444.tmp ... layers TOP and BOTTOM
-;   Holesize 1. = 9.842520 Tolerance = +0.000000/-0.000000 PLATED MILS Quantity = 97
+;FILE  : SO1L_v2-1-2.drl for board C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/#Taaaacu14444.tmp ... layers TOP and BOTTOM
+;   Holesize 1. = 9.842520 Tolerance = +0.000000/-0.000000 PLATED MILS Quantity = 96
 ;   Holesize 2. = 27.559055 Tolerance = +0.000000/-0.000000 PLATED MILS Quantity = 2
 ;   Holesize 3. = 35.433071 Tolerance = +0.000000/-0.000000 PLATED MILS Quantity = 2
 ;   Holesize 4. = 39.370079 Tolerance = +0.000000/-0.000000 PLATED MILS Quantity = 4
@@ -86,7 +86,6 @@ X883852Y723136
 X879983Y727183
 X879447Y736736
 X876033Y729936
-X874932Y725228
 X873804Y736791
 X868922Y736870
 X857848Y724413

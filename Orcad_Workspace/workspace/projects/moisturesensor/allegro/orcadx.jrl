@@ -1,89 +1,1228 @@
-\t (00:00:49) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
-\t (00:00:49)     Journal start - Sun Aug 30 16:40:48 2026
-\t (00:00:49)         Host=LAPTOP-DI-ANDRE User=andre Pid=14564 CPUs=8
-\t (00:00:49) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\unison.exe -layout -orcadx
-\t (00:00:49) 
-\d (00:00:49) Design opened: C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L_v2.brd
-\i (00:00:50) trapsize 3836
-\i (00:00:51) QtSignal PropertyPadstackWidget PropertyPadstackEditMode CurrentIndexChanged 0
-\i (00:00:51) QtSignal PropertyPadstackWidget copperPadLayer CurrentIndexChanged 0
-\i (00:00:51) QtSignal PropertyPadstackWidget copperPadType CurrentIndexChanged 0
-\i (00:00:56) trapsize 3900
-\i (00:01:01) QtSignal Property_Docked_PadstackWidget PropertyPadstackEditMode CurrentIndexChanged +
-\i (00:01:01) QtSignal 0
-\i (00:01:01) QtSignal Property_Docked_PadstackWidget copperPadLayer CurrentIndexChanged 0
-\i (00:01:01) QtSignal Property_Docked_PadstackWidget copperPadType CurrentIndexChanged 0
-\t (00:01:05) Loading consmgr.cxt 
-\t (00:01:05) Loading acns_formula.cxt 
-\i (00:01:05) trapsize 3965
-\i (00:01:13) QtSignal DCRMeasTypeGroup MeasTypePartialRButton toggled on
-\i (00:01:13) QtSignal DCRMeasModelGroup MeasModelL2LRButton toggled on
-\i (00:01:14) QtSignal TopXpWorkflow RectShapeRButton toggled on
-\i (00:01:16) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
-\i (00:01:18) updateport VisibilityPane
-\i (00:01:18) updateport CMPanelPort
-\i (00:01:18) updateport PropPane
-\i (00:01:18) updateport CVPane
-\i (00:01:18) ucpedit 
-\i (00:01:19) updateport ReportsPane
-\i (00:01:19) updateport SearchPane
-\i (00:01:19) updateport VisibilityPane
-\i (00:02:16) ucp_switchview 
-\i (00:02:18) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
-\i (00:02:18) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
-\i (00:02:18) ucpedit 
-\i (00:02:18) updateport VisibilityPane
-\i (00:02:19) QtSignal Algro3DViewCameraWidget Algro3DViewTopAction triggered 
-\i (00:02:31) QtSignal Visibility3DCompWidget Vis3DCompTopVisToggle clicked
-\i (00:02:31) updateport ReportsPane
-\i (00:02:31) updateport SearchPane
-\i (00:02:31) updateport PropPane
-\i (00:02:31) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
-\i (00:02:35) updateport ReportsPane
-\i (00:02:35) updateport SearchPane
-\i (00:02:35) updateport PropPane
-\i (00:02:35) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
-\i (00:02:42) QtSignal Vis3DCompGeneralWidget 3DCompBoundaryMode CurrentIndexChanged 1
-\i (00:02:42) updateport ReportsPane
-\i (00:02:42) updateport SearchPane
-\i (00:02:42) updateport PropPane
-\i (00:02:42) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
-\i (00:02:50) QtSignal Algro3DViewCameraWidget Algro3DViewTopAction triggered 
-\i (00:02:59) QtSignal Export3DMainPanel ExportModeChooser CurrentIndexChanged 1
-\i (00:03:03) QtSignal Export3DMainPanel ExportFormatChooser CurrentIndexChanged PDF
-\i (00:03:11) QtSignal Export3DMainPanel ExportZ0LayerChooser CurrentIndexChanged "DIELECTRIC(2)"
-\i (00:03:13) QtSignal Export3DMainPanel ExportZ0LayerChooser CurrentIndexChanged TOP
-\i (00:03:25) QtSignal Export3DMainPanel ExportZ0LayerChooser CurrentIndexChanged "DIELECTRIC(2)"
-\i (00:03:30) QtSignal Export3DMainPanel ExportZ0LayerChooser CurrentIndexChanged BOTTOM
-\i (00:03:33) QtSignal Export3DMainPanel ExportZ0LayerChooser CurrentIndexChanged TOP
-\i (00:03:34) QtSignal Export3DConfig ExportButton clicked
-\i (00:03:42) QtFillin "screenshots/3D.pdf"
-\i (00:03:43) QtFillin Yes
-\w (00:04:11) WARNING(SPMH3D-13): Cannot export the following 3D models because the mapped files are not available in the STEPPATH locations: CAP_CC0603_YAG.step;CAP_CL10_SAM.step;IND_IFSC_1515AH_VIS.step;IND_LQG15_MUR.step;RC0603N_YAG.step;XTAL_KA-A3_EPS.step
-\i (00:06:45) QtSignal Export3DMainPanel ExportZ0StackupChooser CurrentIndexChanged CENTER
-\i (00:06:48) QtSignal Export3DConfig ExportButton clicked
-\i (00:06:50) QtFillin "screenshots/3D.pdf"
-\i (00:06:52) QtFillin Yes
-\w (00:07:13) WARNING(SPMH3D-13): Cannot export the following 3D models because the mapped files are not available in the STEPPATH locations: CAP_CC0603_YAG.step;CAP_CL10_SAM.step;IND_IFSC_1515AH_VIS.step;IND_LQG15_MUR.step;RC0603N_YAG.step;XTAL_KA-A3_EPS.step
-\i (00:07:29) QtSignal Export3DMainPanel ExportModeChooser CurrentIndexChanged 0
-\i (00:07:35) QtSignal Export3DPanelUseOptions OptLayersInternalConductors clicked true
-\i (00:07:36) QtSignal Export3DPanelUseOptions OptLayersSoldermasks clicked true
-\i (00:07:37) QtSignal Export3DPanelUseOptions OptLayersSolderpastes clicked true
-\i (00:07:37) QtSignal Export3DPanelUseOptions OptLayersSolderpastes clicked false
-\i (00:07:38) QtSignal Export3DPanelUseOptions OptLayersSilkscreens clicked true
-\i (00:07:38) QtSignal Export3DPanelUseOptions OptLayersSolderpastes clicked true
-\i (00:07:39) QtSignal Export3DPanelUseOptions OptHolesVias clicked true
-\i (00:07:40) QtSignal Export3DPanelUseOptions OptHolesMechanicals clicked false
-\i (00:07:41) QtSignal Export3DPanelUseOptions OptHolesMechanicals clicked true
-\i (00:07:42) QtSignal Export3DPanelUseOptions OptHolesThroughPins clicked true
-\i (00:07:57) QtSignal Export3DMainPanel OptSeparateFiles clicked true
-\i (00:08:00) QtSignal Export3DMainPanel OptSeparateFiles clicked false
-\i (00:12:57) QtSignal Export3DMainPanel ExportModeChooser CurrentIndexChanged 1
-\i (00:13:02) QtSignal Export3DMainPanel ExportZ0StackupChooser CurrentIndexChanged UPPER
-\i (00:13:06) QtSignal Export3DConfig ExportButton clicked
-\i (00:13:08) QtFillin ""
-\i (00:13:13) QtSignal Export3DMainPanel ExportFormatChooser CurrentIndexChanged STEP
-\i (00:14:27) QtSignal Export3DConfig ExportButton clicked
-\i (00:14:35) QtFillin "screenshots/3D"
-\w (00:15:07) WARNING(SPMH3D-13): Cannot export the following 3D models because the mapped files are not available in the STEPPATH locations: CAP_CC0603_YAG.step;CAP_CL10_SAM.step;IND_IFSC_1515AH_VIS.step;IND_LQG15_MUR.step;RC0603N_YAG.step;XTAL_KA-A3_EPS.step
-\e (00:15:08) The program has encountered a memory corruption and must exit. The design cannot be saved. A MiniDump (*MiniDump.dmp) file has been created either in the working directory or the pcbenv folder. To resolve the problem, obtain the latest software update from Cadence. If the problem persists contact Cadence Customer Support and provide the MiniDump file.
+\t (00:02:21) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (00:02:21)     Journal start - Sun Aug 30 17:24:32 2026
+\t (00:02:21)         Host=LAPTOP-DI-ANDRE User=andre Pid=14444 CPUs=8
+\t (00:02:21) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\unison.exe -layout -orcadx
+\t (00:02:21) 
+\d (00:02:21) Design opened: C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L_v2.brd
+\i (00:02:21) trapsize 3836
+\i (00:02:23) QtSignal PropertyPadstackWidget PropertyPadstackEditMode CurrentIndexChanged 0
+\i (00:02:23) QtSignal PropertyPadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (00:02:23) QtSignal PropertyPadstackWidget copperPadType CurrentIndexChanged 0
+\i (00:02:30) trapsize 3900
+\i (00:02:35) QtSignal Property_Docked_PadstackWidget PropertyPadstackEditMode CurrentIndexChanged +
+\i (00:02:35) QtSignal 0
+\i (00:02:35) QtSignal Property_Docked_PadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (00:02:35) QtSignal Property_Docked_PadstackWidget copperPadType CurrentIndexChanged 0
+\t (00:02:40) Loading consmgr.cxt 
+\t (00:02:40) Loading acns_formula.cxt 
+\i (00:02:40) trapsize 3965
+\i (00:02:49) QtSignal DCRMeasTypeGroup MeasTypePartialRButton toggled on
+\i (00:02:49) QtSignal DCRMeasModelGroup MeasModelL2LRButton toggled on
+\i (00:02:50) QtSignal TopXpWorkflow RectShapeRButton toggled on
+\i (00:02:52) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
+\i (00:02:54) updateport VisibilityPane
+\i (00:02:54) updateport CMPanelPort
+\i (00:02:54) updateport PropPane
+\i (00:02:54) updateport CVPane
+\i (00:02:55) ucpedit 
+\i (00:02:55) updateport ReportsPane
+\i (00:02:55) updateport SearchPane
+\i (00:02:55) updateport VisibilityPane
+\i (00:03:00) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:03:00) QtSignal "CP_ALLEGRO_PROPERTIES_DOCK"
+\i (00:03:06) dbdoctor 
+\i (00:03:08) setwindow form.dbdoctor_allegro
+\i (00:03:08) FORM dbdoctor_allegro drc YES 
+\i (00:03:08) FORM dbdoctor_allegro shapes YES 
+\i (00:03:10) FORM dbdoctor_allegro execute  
+\t (00:03:10) Dbdoctor in progress - wait...
+\t (00:03:10) Checking db records
+\t (00:03:10)     checking for orphans...
+\t (00:03:10)     Checked 100 percent
+\t (00:03:10) Regenerating DRC
+\t (00:03:10)   Original DRC errors: 0
+\t (00:03:10) Performing DRC...
+\t (00:03:10) Multithreaded DRC update (8 threads).
+\t (00:03:11) No DRC errors detected.
+\t (00:03:11)   Updated DRC errors:  0
+\i (00:03:12) setwindow pcb
+\i (00:03:12) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:03:12) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\t (00:03:13) Done dbdoctor.
+\t (00:03:13) Dbdoctor completed.
+\i (00:03:13) updateport ReportsPane
+\i (00:03:13) updateport SearchPane
+\i (00:03:13) updateport VisibilityPane
+\i (00:03:13) updateport PropPane
+\i (00:03:16) setwindow form.dbdoctor_allegro
+\i (00:03:16) FORM dbdoctor_allegro vlog  
+\i (00:03:19) FORM dbdoctor_allegro close  
+\i (00:03:19) setwindow pcb
+\i (00:03:19) ucpedit 
+\i (00:03:19) updateport VisibilityPane
+\i (00:03:22) trapsize 3835
+\i (00:03:22) trapsize 3900
+\i (00:03:22) trapsize 3965
+\i (00:03:27) cmgr 
+\i (00:03:27) ucpedit 
+\i (00:03:27) updateport VisibilityPane
+\i (00:03:30) QtSignal m_domainSelector WS_Electrical_0 itemSelectionChanged "Electrical Constraint Set" +
+\i (00:03:30) QtSignal Routing
+\i (00:03:30) QtSignal m_domainSelector WS_Electrical_0 itemClicked "Electrical Constraint Set" +
+\i (00:03:30) QtSignal Routing
+\i (00:03:41) QtSignal m_domainSelector WS_Electrical_0 itemSelectionChanged "Electrical Constraint Set" +
+\i (00:03:41) QtSignal Routing
+\i (00:03:41) QtSignal m_domainSelector WS_Electrical_0 itemClicked "Electrical Constraint Set" +
+\i (00:03:41) QtSignal Routing
+\i (00:03:45) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Spacing
+\i (00:03:47) QtSignal m_domainSelector WS_Spacing_0 itemSelectionChanged "Spacing Constraint Set"
+\i (00:03:47) QtSignal m_domainSelector WS_Spacing_0 itemClicked "Spacing Constraint Set"
+\i (00:03:48) QtSignal m_domainSelector WS_Spacing_0 itemSelectionChanged "Spacing Constraint Set" +
+\i (00:03:48) QtSignal "All Layers"
+\i (00:03:48) QtSignal m_domainSelector WS_Spacing_0 itemClicked "Spacing Constraint Set" "All Layers"
+\i (00:05:15) QtSignal m_domainSelector WS_Spacing_0 itemClicked "Spacing Constraint Set" "All Layers"
+\i (00:05:19) QtSignal All_Layers_WorksheetView_0_167 All_Layers_WorksheetView_0_167Header sectionPressed +
+\i (00:05:19) QtSignal 6
+\i (00:05:19) QtSignal All_Layers_WorksheetView_0_167 All_Layers_WorksheetView_0_167Header sectionClicked +
+\i (00:05:19) QtSignal 6
+\i (00:05:50) QtSignal m_domainSelector WS_Spacing_0 itemSelectionChanged "Spacing Constraint Set"
+\i (00:05:50) QtSignal m_domainSelector WS_Spacing_0 itemClicked "Spacing Constraint Set"
+\i (00:05:51) QtSignal m_domainSelector WS_Spacing_0 itemClicked "Spacing Constraint Set"
+\i (00:05:55) QtSignal m_domainSelector WS_Spacing_0 itemSelectionChanged "Spacing Constraint Set" +
+\i (00:05:55) QtSignal "All Layers"
+\i (00:05:55) QtSignal m_domainSelector WS_Spacing_0 itemClicked "Spacing Constraint Set" "All Layers"
+\i (00:07:46) QtFillin OK
+\i (00:07:53) QtSignal All_Layers_WorksheetView_0_167Header FilterAll editingFinished "0.150"
+\i (00:07:53) QtSignal CCMVTabbediewHost_0_80 CCMViewHost_0_167 keyPressEvent 16777220 0 false 1 +
+\i (00:07:53) QtSignal ""
+\i (00:08:04) QtSignal CCMVTabbediewHost_0_80 CCMViewHost_0_167 keyPressEvent 92 0 false 1 "\"
+\i (00:08:04) QtSignal CCMVTabbediewHost_0_80 CCMViewHost_0_167 keyPressEvent 16777216 0 false 1 +
+\i (00:08:04) QtSignal ""
+\i (00:08:11) cmgr 
+\i (00:08:11) QtSignal m_domainSelector WS_Spacing_0 itemSelectionChanged
+\i (00:08:11) QtSignal m_domainSelector WS_Spacing_0 itemSelectionChanged "Spacing Constraint Set" +
+\i (00:08:11) QtSignal "All Layers"
+\i (00:08:11) QtSignal Frozen_Wiring_WorksheetView_0_8 Frozen_Wiring_WorksheetView_0_8Header sectionMoved +
+\i (00:08:11) QtSignal 0 0 1
+\i (00:08:11) QtSignal Frozen_Wiring_WorksheetView_0_8 Frozen_Wiring_WorksheetView_0_8Header sectionMoved +
+\i (00:08:11) QtSignal 1 1 0
+\i (00:08:11) QtSignal Wiring_WorksheetView_0_8 Wiring_WorksheetView_0_8Header sectionMoved 0 0 +
+\i (00:08:11) QtSignal 1
+\i (00:08:11) QtSignal Wiring_WorksheetView_0_8 Wiring_WorksheetView_0_8Header sectionMoved 1 1 +
+\i (00:08:11) QtSignal 0
+\i (00:08:11) QtSignal Frozen_Wiring_WorksheetView_0_8 Frozen_Wiring_WorksheetView_0_8Header sectionMoved +
+\i (00:08:11) QtSignal 0 1 3
+\i (00:08:11) QtSignal Frozen_Wiring_WorksheetView_0_8 Frozen_Wiring_WorksheetView_0_8Header sectionMoved +
+\i (00:08:11) QtSignal 3 3 1
+\i (00:08:11) QtSignal Wiring_WorksheetView_0_8 Wiring_WorksheetView_0_8Header sectionMoved 0 1 +
+\i (00:08:11) QtSignal 3
+\i (00:08:11) QtSignal Wiring_WorksheetView_0_8 Wiring_WorksheetView_0_8Header sectionMoved 3 3 +
+\i (00:08:11) QtSignal 1
+\i (00:08:11) QtSignal CCMViewHost_0_8 tableWidget currentChanged "SO1L_v2"
+\i (00:08:11) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:08:11) QtSignal m_domainSelector WS_Electrical_0 itemSelectionChanged
+\i (00:08:11) QtSignal m_domainSelector WS_Electrical_0 itemSelectionChanged "Electrical Constraint Set" +
+\i (00:08:11) QtSignal Routing Wiring
+\i (00:08:11) QtSignal Frozen_All_Layers_WorksheetView_0_167 Frozen_All_Layers_WorksheetView_0_167Header sectionMoved +
+\i (00:08:11) QtSignal 0 0 1
+\i (00:08:11) QtSignal Frozen_All_Layers_WorksheetView_0_167 Frozen_All_Layers_WorksheetView_0_167Header sectionMoved +
+\i (00:08:11) QtSignal 1 1 0
+\i (00:08:11) QtSignal All_Layers_WorksheetView_0_167 All_Layers_WorksheetView_0_167Header sectionMoved +
+\i (00:08:11) QtSignal 0 0 1
+\i (00:08:11) QtSignal All_Layers_WorksheetView_0_167 All_Layers_WorksheetView_0_167Header sectionMoved +
+\i (00:08:11) QtSignal 1 1 0
+\i (00:08:11) QtSignal Frozen_All_Layers_WorksheetView_0_167 Frozen_All_Layers_WorksheetView_0_167Header sectionMoved +
+\i (00:08:11) QtSignal 0 1 3
+\i (00:08:11) QtSignal Frozen_All_Layers_WorksheetView_0_167 Frozen_All_Layers_WorksheetView_0_167Header sectionMoved +
+\i (00:08:11) QtSignal 3 3 1
+\i (00:08:11) QtSignal All_Layers_WorksheetView_0_167 All_Layers_WorksheetView_0_167Header sectionMoved +
+\i (00:08:11) QtSignal 0 1 3
+\i (00:08:11) QtSignal All_Layers_WorksheetView_0_167 All_Layers_WorksheetView_0_167Header sectionMoved +
+\i (00:08:11) QtSignal 3 3 1
+\i (00:08:11) QtSignal CCMViewHost_0_167 tableWidget currentChanged "SO1L_v2"
+\i (00:08:11) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Spacing
+\i (00:08:11) QtSignal m_domainSelector WS_Spacing_0 itemSelectionChanged
+\i (00:08:11) QtSignal m_domainSelector WS_Spacing_0 itemSelectionChanged "Spacing Constraint Set" +
+\i (00:08:11) QtSignal "All Layers"
+\i (00:08:11) ucpedit 
+\i (00:08:11) updateport VisibilityPane
+\i (00:08:15) QtSignal CCMVTabbediewHost_0_80 CCMViewHost_0_167 keyPressEvent 16777248 33554432 +
+\i (00:08:15) QtSignal false 1
+\i (00:08:17) QtSignal All_Layers_WorksheetView_0_167Header FilterAll editingFinished "*"
+\i (00:08:20) QtFillin OK
+\i (00:08:25) save 
+\i (00:08:26) fillin yes 
+\t (00:08:27) > Sending response DoneOpenBoard
+\i (00:08:27) updateport ReportsPane
+\i (00:08:27) updateport SearchPane
+\i (00:08:27) updateport PropPane
+\i (00:08:27) ucpedit 
+\i (00:08:27) updateport VisibilityPane
+\i (00:08:31) cmgr 
+\i (00:08:31) QtSignal m_domainSelector WS_Spacing_0 itemSelectionChanged
+\i (00:08:31) QtSignal m_domainSelector WS_Spacing_0 itemSelectionChanged "Spacing Constraint Set" +
+\i (00:08:31) QtSignal "All Layers"
+\i (00:08:31) QtSignal Frozen_Wiring_WorksheetView_0_8 Frozen_Wiring_WorksheetView_0_8Header sectionMoved +
+\i (00:08:31) QtSignal 0 0 1
+\i (00:08:31) QtSignal Frozen_Wiring_WorksheetView_0_8 Frozen_Wiring_WorksheetView_0_8Header sectionMoved +
+\i (00:08:31) QtSignal 1 1 0
+\i (00:08:31) QtSignal Wiring_WorksheetView_0_8 Wiring_WorksheetView_0_8Header sectionMoved 0 0 +
+\i (00:08:31) QtSignal 1
+\i (00:08:31) QtSignal Wiring_WorksheetView_0_8 Wiring_WorksheetView_0_8Header sectionMoved 1 1 +
+\i (00:08:31) QtSignal 0
+\i (00:08:31) QtSignal Frozen_Wiring_WorksheetView_0_8 Frozen_Wiring_WorksheetView_0_8Header sectionMoved +
+\i (00:08:31) QtSignal 0 1 3
+\i (00:08:31) QtSignal Frozen_Wiring_WorksheetView_0_8 Frozen_Wiring_WorksheetView_0_8Header sectionMoved +
+\i (00:08:31) QtSignal 3 3 1
+\i (00:08:31) QtSignal Wiring_WorksheetView_0_8 Wiring_WorksheetView_0_8Header sectionMoved 0 1 +
+\i (00:08:31) QtSignal 3
+\i (00:08:31) QtSignal Wiring_WorksheetView_0_8 Wiring_WorksheetView_0_8Header sectionMoved 3 3 +
+\i (00:08:31) QtSignal 1
+\i (00:08:31) QtSignal CCMViewHost_0_8 tableWidget currentChanged "SO1L_v2"
+\i (00:08:31) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:08:31) QtSignal m_domainSelector WS_Electrical_0 itemSelectionChanged
+\i (00:08:31) QtSignal m_domainSelector WS_Electrical_0 itemSelectionChanged "Electrical Constraint Set" +
+\i (00:08:31) QtSignal Routing Wiring
+\i (00:08:31) QtSignal Frozen_All_Layers_WorksheetView_0_167 Frozen_All_Layers_WorksheetView_0_167Header sectionMoved +
+\i (00:08:31) QtSignal 0 0 1
+\i (00:08:31) QtSignal Frozen_All_Layers_WorksheetView_0_167 Frozen_All_Layers_WorksheetView_0_167Header sectionMoved +
+\i (00:08:31) QtSignal 1 1 0
+\i (00:08:31) QtSignal All_Layers_WorksheetView_0_167 All_Layers_WorksheetView_0_167Header sectionMoved +
+\i (00:08:31) QtSignal 0 0 1
+\i (00:08:31) QtSignal All_Layers_WorksheetView_0_167 All_Layers_WorksheetView_0_167Header sectionMoved +
+\i (00:08:31) QtSignal 1 1 0
+\i (00:08:31) QtSignal Frozen_All_Layers_WorksheetView_0_167 Frozen_All_Layers_WorksheetView_0_167Header sectionMoved +
+\i (00:08:31) QtSignal 0 1 3
+\i (00:08:31) QtSignal Frozen_All_Layers_WorksheetView_0_167 Frozen_All_Layers_WorksheetView_0_167Header sectionMoved +
+\i (00:08:31) QtSignal 3 3 1
+\i (00:08:31) QtSignal All_Layers_WorksheetView_0_167 All_Layers_WorksheetView_0_167Header sectionMoved +
+\i (00:08:31) QtSignal 0 1 3
+\i (00:08:31) QtSignal All_Layers_WorksheetView_0_167 All_Layers_WorksheetView_0_167Header sectionMoved +
+\i (00:08:31) QtSignal 3 3 1
+\i (00:08:31) QtSignal CCMViewHost_0_167 tableWidget currentChanged "SO1L_v2"
+\i (00:08:31) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Spacing
+\i (00:08:31) QtSignal m_domainSelector WS_Spacing_0 itemSelectionChanged
+\i (00:08:31) QtSignal m_domainSelector WS_Spacing_0 itemSelectionChanged "Spacing Constraint Set" +
+\i (00:08:31) QtSignal "All Layers"
+\i (00:08:31) ucpedit 
+\i (00:08:32) updateport VisibilityPane
+\i (00:08:33) QtSignal m_domainSelector WS_Spacing_0 itemClicked "Spacing Constraint Set" "All Layers"
+\i (00:08:34) QtSignal m_domainSelector WS_Spacing_0 itemSelectionChanged "Spacing Constraint Set"
+\i (00:08:34) QtSignal m_domainSelector WS_Spacing_0 itemClicked "Spacing Constraint Set"
+\i (00:08:35) QtSignal m_domainSelector WS_Spacing_0 itemClicked "Spacing Constraint Set"
+\i (00:08:41) QtSignal inCell text editingFinished "0.150"
+\i (00:08:41) QtSignal CCMVTabbediewHost_0_80 CCMViewHost_0_167 keyPressEvent 16777220 0 false 1 +
+\i (00:08:41) QtSignal ""
+\i (00:08:41) updateport ReportsPane
+\i (00:08:41) updateport SearchPane
+\i (00:08:41) updateport PropPane
+\i (00:09:01) save 
+\i (00:09:03) fillin yes 
+\t (00:09:03) > Sending response DoneOpenBoard
+\i (00:09:03) updateport ReportsPane
+\i (00:09:03) updateport SearchPane
+\i (00:09:03) updateport PropPane
+\i (00:09:03) ucpedit 
+\i (00:09:03) updateport VisibilityPane
+\i (00:09:06) dbdoctor 
+\i (00:09:08) setwindow form.dbdoctor_allegro
+\i (00:09:08) FORM dbdoctor_allegro drc YES 
+\i (00:09:08) FORM dbdoctor_allegro shapes YES 
+\i (00:09:10) FORM dbdoctor_allegro execute  
+\t (00:09:10) Dbdoctor in progress - wait...
+\t (00:09:10) Checking db records
+\t (00:09:10)     checking for orphans...
+\t (00:09:10)     Checked 100 percent
+\t (00:09:10) Regenerating DRC
+\t (00:09:10)   Original DRC errors: 0
+\t (00:09:10) Performing DRC...
+\t (00:09:10) Multithreaded DRC update (8 threads).
+\t (00:09:11) DRC done; 6 errors detected.
+\t (00:09:11)   Updated DRC errors:  6
+\i (00:09:11) setwindow pcb
+\i (00:09:11) QtSignal m_domainSelector WS_Electrical_0 itemSelectionChanged
+\i (00:09:11) QtSignal m_domainSelector WS_Spacing_0 itemSelectionChanged
+\i (00:09:12) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:09:12) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:09:12) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\t (00:09:12) Done dbdoctor.
+\t (00:09:12) Dbdoctor completed.
+\i (00:09:13) updateport ReportsPane
+\i (00:09:13) updateport SearchPane
+\i (00:09:13) updateport VisibilityPane
+\i (00:09:13) updateport PropPane
+\i (00:09:15) setwindow form.dbdoctor_allegro
+\i (00:09:15) FORM dbdoctor_allegro vlog  
+\i (00:09:17) FORM dbdoctor_allegro close  
+\i (00:09:17) setwindow pcb
+\i (00:09:17) ucpedit 
+\i (00:09:17) updateport VisibilityPane
+\i (00:09:19) trapsize 3835
+\i (00:09:19) trapsize 3900
+\i (00:09:19) trapsize 3965
+\i (00:09:21) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:09:21) QtSignal "CP_ALLEGRO_PROPERTIES_DOCK"
+\i (00:09:23) QtSignal PropertyStatusWidget OrgRefreshOutOfDataShapes clicked
+\i (00:09:24) updateport ReportsPane
+\i (00:09:24) updateport SearchPane
+\i (00:09:24) updateport VisibilityPane
+\i (00:09:24) updateport PropPane
+\i (00:09:24) ucpedit 
+\i (00:09:24) updateport VisibilityPane
+\i (00:09:25) QtSignal PropertyStatusWidget OrgDrcStatus clicked
+\t (00:09:25) Performing DRC...
+\t (00:09:25) Multithreaded DRC update (8 threads).
+\t (00:09:25) DRC done; 6 errors detected.
+\i (00:09:25) updateport ReportsPane
+\i (00:09:25) updateport SearchPane
+\i (00:09:25) updateport PropPane
+\i (00:09:25) ucpedit 
+\i (00:09:25) updateport VisibilityPane
+\i (00:09:29) QtSignal PropertyStatusWidget DRC_Errors_cnt linkActivated drcErrorsLink
+\i (00:09:29) updateport SearchPane
+\i (00:09:29) updateport CMPanelPort
+\i (00:09:29) updateport PropPane
+\i (00:09:29) updateport ReportsPane
+\i (00:09:29) updateport SearchPane
+\i (00:09:30) QtSignal ADTableContainerWidget DRCTable selectionChanged
+\i (00:09:30) QtSignal ADTableContainerWidget DRCTable selectionChanged
+\i (00:09:31) QtSignal ADTableContainerWidget DRCTable selectionChanged
+\i (00:09:31) QtSignal ADTableContainerWidget DRCTable selectionChanged
+\i (00:09:31) QtSignal ADTableContainerWidget DRCTable selectionChanged
+\i (00:09:31) QtSignal ADTableContainerWidget DRCTable selectionChanged
+\i (00:09:31) QtSignal ADTableContainerWidget DRCTable selectionChanged
+\i (00:09:35) QtSignal ADTableContainerWidget DRCTable selectionChanged
+\i (00:09:36) QtSignal ADTableContainerWidget DRCTable selectionChanged 0 1
+\i (00:09:36) QtSignal ADTableContainerWidget DRCTable selectionChanged 0 1
+\i (00:09:36) QtSignal ADTableContainerWidget DRCTable selectionChanged 0 1
+\i (00:09:36) QtSignal ADTableContainerWidget DRCTable customContextMenuRequest 0 1
+\i (00:09:38) QtFillin Zoom
+\i (00:09:38) trapsize 86
+\i (00:09:39) QtSignal ADTableContainerWidget DRCTable selectionChanged 0 1
+\i (00:09:39) QtSignal ADTableContainerWidget DRCTable selectionChanged 0 1
+\i (00:09:39) QtSignal ADTableContainerWidget DRCTable selectionChanged 0 1
+\i (00:09:39) QtSignal ADTableContainerWidget DRCTable selectionChanged 0 1
+\i (00:09:39) zoom out 1 
+\i (00:09:39) setwindow pcb
+\i (00:09:39) zoom out 219.3997 185.0853
+\i (00:09:39) trapsize 171
+\i (00:09:40) zoom out 1 
+\i (00:09:40) setwindow pcb
+\i (00:09:40) zoom out 219.3996 185.0853
+\i (00:09:40) trapsize 342
+\i (00:09:41) zoom in 1 
+\i (00:09:41) setwindow pcb
+\i (00:09:41) zoom in 219.3654 184.8664
+\i (00:09:41) trapsize 171
+\i (00:09:44) roam start
+\i (00:09:44) roam x 2
+\i (00:09:44) roam x 2
+\i (00:09:44) roam x 1
+\i (00:09:44) roam x 44
+\i (00:09:44) roam x 8
+\i (00:09:44) roam x 8
+\i (00:09:44) roam x 21
+\i (00:09:44) roam y 4
+\i (00:09:45) roam x 13
+\i (00:09:45) roam y 2
+\i (00:09:45) roam x 48
+\i (00:09:45) roam y 8
+\i (00:09:45) roam x 52
+\i (00:09:45) roam y 11
+\i (00:09:45) roam x 6
+\i (00:09:45) roam y 1
+\i (00:09:45) roam x 30
+\i (00:09:45) roam y 7
+\i (00:09:45) roam x 20
+\i (00:09:45) roam y 6
+\i (00:09:45) roam x 15
+\i (00:09:45) roam y 7
+\i (00:09:45) roam x 4
+\i (00:09:45) roam x 13
+\i (00:09:45) roam y 2
+\i (00:09:45) roam x 43
+\i (00:09:45) roam y 6
+\i (00:09:45) roam x 12
+\i (00:09:45) roam y 1
+\i (00:09:45) roam x 13
+\i (00:09:45) roam y 4
+\i (00:09:45) roam x 5
+\i (00:09:45) roam x 5
+\i (00:09:45) roam x 6
+\i (00:09:45) roam x 49
+\i (00:09:45) roam y 10
+\i (00:09:45) roam x 65
+\i (00:09:45) roam y 15
+\i (00:09:45) roam x 19
+\i (00:09:45) roam y 6
+\i (00:09:45) roam x 7
+\i (00:09:45) roam y 4
+\i (00:09:45) roam x 1
+\i (00:09:45) roam x 3
+\i (00:09:45) roam y 1
+\i (00:09:45) roam end
+\i (00:09:46) zoom out 1 
+\i (00:09:46) setwindow pcb
+\i (00:09:46) zoom out 220.0503 184.1470
+\i (00:09:46) trapsize 342
+\i (00:09:47) zoom in 1 
+\i (00:09:47) setwindow pcb
+\i (00:09:47) zoom in 220.0504 184.1470
+\i (00:09:47) trapsize 171
+\i (00:09:49) drag_start grid 219.4346 184.4891
+\i (00:09:49) ucp_trace_slide_pick 
+\t (00:09:49) last pick:  219.3750 184.5000
+\t (00:09:49) Waiting for the destination pick.
+\i (00:09:49) updateport ReportsPane
+\i (00:09:49) updateport SearchPane
+\i (00:09:49) updateport PropPane
+\i (00:09:50) drag_stop grid 219.6228 184.4925
+\t (00:09:50) No DRC errors detected.
+\i (00:09:50) updateport ReportsPane
+\i (00:09:50) updateport SearchPane
+\i (00:09:50) updateport PropPane
+\i (00:09:50) ucpedit 
+\i (00:09:50) updateport ReportsPane
+\i (00:09:50) updateport SearchPane
+\i (00:09:50) updateport VisibilityPane
+\i (00:09:50) updateport PropPane
+\i (00:09:52) drag_start grid 219.5167 185.0639
+\i (00:09:52) ucp_trace_slide_pick 
+\t (00:09:52) last pick:  219.5000 185.1250
+\t (00:09:52) Waiting for the destination pick.
+\i (00:09:52) updateport ReportsPane
+\i (00:09:52) updateport SearchPane
+\i (00:09:52) updateport PropPane
+\i (00:09:52) drag_stop grid 219.6775 185.0057
+\t (00:09:52) No DRC errors detected.
+\i (00:09:52) updateport ReportsPane
+\i (00:09:52) updateport SearchPane
+\i (00:09:52) updateport PropPane
+\i (00:09:52) ucpedit 
+\i (00:09:53) updateport ReportsPane
+\i (00:09:53) updateport SearchPane
+\i (00:09:53) updateport VisibilityPane
+\i (00:09:53) updateport PropPane
+\i (00:09:54) zoom out 1 
+\i (00:09:54) setwindow pcb
+\i (00:09:54) zoom out 220.8168 185.0947
+\i (00:09:54) trapsize 342
+\i (00:09:55) zoom out 1 
+\i (00:09:55) setwindow pcb
+\i (00:09:55) zoom out 220.8236 185.0947
+\i (00:09:55) trapsize 684
+\i (00:09:55) zoom out 1 
+\i (00:09:55) setwindow pcb
+\i (00:09:55) zoom out 220.8237 185.0809
+\i (00:09:55) trapsize 1368
+\i (00:09:55) zoom out 1 
+\i (00:09:55) setwindow pcb
+\i (00:09:55) zoom out 220.8237 185.0810
+\i (00:09:55) trapsize 2737
+\i (00:09:56) zoom in 1 
+\i (00:09:56) setwindow pcb
+\i (00:09:56) zoom in 217.0467 180.9755
+\i (00:09:56) trapsize 1368
+\i (00:09:56) zoom in 1 
+\i (00:09:56) setwindow pcb
+\i (00:09:56) zoom in 217.8404 181.3861
+\i (00:09:56) trapsize 684
+\i (00:09:56) zoom in 1 
+\i (00:09:57) setwindow pcb
+\i (00:09:57) zoom in 217.8404 181.3861
+\i (00:09:57) trapsize 342
+\i (00:09:59) roam start
+\i (00:09:59) roam x -3
+\i (00:09:59) roam y -4
+\i (00:09:59) roam y -2
+\i (00:09:59) roam x 3
+\i (00:09:59) roam y -5
+\i (00:09:59) roam x 6
+\i (00:09:59) roam y -17
+\i (00:09:59) roam x 5
+\i (00:09:59) roam y -10
+\i (00:09:59) roam x 2
+\i (00:09:59) roam y -8
+\i (00:09:59) roam x 3
+\i (00:09:59) roam y -9
+\i (00:09:59) roam x 9
+\i (00:09:59) roam y -8
+\i (00:09:59) roam x 71
+\i (00:09:59) roam y -78
+\i (00:09:59) roam x 6
+\i (00:09:59) roam y -7
+\i (00:09:59) roam x 3
+\i (00:09:59) roam end
+\i (00:09:59) roam start
+\i (00:09:59) roam x 71
+\i (00:09:59) roam y -55
+\i (00:09:59) roam x 15
+\i (00:09:59) roam y -11
+\i (00:09:59) roam end
+\i (00:10:02) zoom out 1 
+\i (00:10:02) setwindow pcb
+\i (00:10:02) zoom out 222.3255 184.3283
+\i (00:10:02) trapsize 684
+\i (00:10:02) zoom out 1 
+\i (00:10:02) setwindow pcb
+\i (00:10:02) zoom out 222.3255 184.3284
+\i (00:10:02) trapsize 1368
+\i (00:10:03) zoom in 1 
+\i (00:10:03) setwindow pcb
+\i (00:10:03) zoom in 222.3254 184.3284
+\i (00:10:03) trapsize 684
+\i (00:10:03) zoom in 1 
+\i (00:10:03) setwindow pcb
+\i (00:10:03) zoom in 222.3255 184.3284
+\i (00:10:03) trapsize 342
+\i (00:10:06) zoom out 1 
+\i (00:10:06) setwindow pcb
+\i (00:10:06) zoom out 223.2424 184.3284
+\i (00:10:06) trapsize 684
+\i (00:10:06) roam start
+\i (00:10:06) roam x -1
+\i (00:10:06) roam x 1
+\i (00:10:06) roam y -3
+\i (00:10:06) roam end
+\i (00:10:08) roam start
+\i (00:10:08) roam y -1
+\i (00:10:08) roam x 21
+\i (00:10:08) roam y -34
+\i (00:10:08) roam x 5
+\i (00:10:08) roam y -9
+\i (00:10:08) roam x 74
+\i (00:10:08) roam y -101
+\i (00:10:08) roam x 7
+\i (00:10:08) roam y -6
+\i (00:10:08) roam x 19
+\i (00:10:08) roam y -19
+\i (00:10:08) roam x 4
+\i (00:10:08) roam y -3
+\i (00:10:08) roam x 10
+\i (00:10:08) roam y -8
+\i (00:10:08) roam x 11
+\i (00:10:08) roam y -8
+\i (00:10:08) roam x 24
+\i (00:10:08) roam y -15
+\i (00:10:08) roam x 5
+\i (00:10:08) roam y -4
+\i (00:10:08) roam x 2
+\i (00:10:08) roam y -2
+\i (00:10:08) roam x 7
+\i (00:10:08) roam y -5
+\i (00:10:08) roam x 13
+\i (00:10:08) roam y -15
+\i (00:10:08) roam x 17
+\i (00:10:08) roam y -20
+\i (00:10:08) roam x 2
+\i (00:10:08) roam y -4
+\i (00:10:08) roam x 4
+\i (00:10:08) roam y -2
+\i (00:10:08) roam x 2
+\i (00:10:08) roam y -4
+\i (00:10:08) roam x 4
+\i (00:10:08) roam y -3
+\i (00:10:08) roam x 3
+\i (00:10:08) roam end
+\i (00:10:10) prepopup 222.4349 184.2120
+\i (00:10:10) updateport ReportsPane
+\i (00:10:10) updateport SearchPane
+\i (00:10:10) updateport PropPane
+\i (00:10:12) pop dyn_option_select @:@Delete 
+\i (00:10:12) ucp_delete 
+\i (00:10:12) updateport ReportsPane
+\i (00:10:12) updateport SearchPane
+\i (00:10:12) updateport PropPane
+\i (00:10:12) ucpedit 
+\i (00:10:12) updateport ReportsPane
+\i (00:10:12) updateport SearchPane
+\i (00:10:12) updateport VisibilityPane
+\i (00:10:12) updateport PropPane
+\i (00:10:21) zoom out 1 
+\i (00:10:21) setwindow pcb
+\i (00:10:21) zoom out 227.4846 181.8035
+\i (00:10:21) trapsize 1368
+\i (00:10:22) zoom in 1 
+\i (00:10:23) setwindow pcb
+\i (00:10:23) zoom in 220.4779 178.6286
+\i (00:10:23) trapsize 684
+\i (00:10:23) zoom in 1 
+\i (00:10:23) setwindow pcb
+\i (00:10:23) zoom in 220.4780 178.6286
+\i (00:10:23) trapsize 342
+\i (00:10:23) zoom out 1 
+\i (00:10:23) setwindow pcb
+\i (00:10:23) zoom out 220.5191 178.6628
+\i (00:10:23) trapsize 684
+\i (00:10:24) zoom out 1 
+\i (00:10:24) setwindow pcb
+\i (00:10:24) zoom out 220.5191 178.6629
+\i (00:10:24) trapsize 1368
+\i (00:10:26) undo 
+\i (00:10:26) trapsize 684
+\i (00:10:26) updateport ReportsPane
+\i (00:10:26) updateport SearchPane
+\i (00:10:26) updateport VisibilityPane
+\i (00:10:26) updateport PropPane
+\i (00:10:26) ucpedit 
+\i (00:10:27) updateport ReportsPane
+\i (00:10:27) updateport SearchPane
+\i (00:10:27) updateport VisibilityPane
+\i (00:10:27) updateport PropPane
+\i (00:10:29) QtSignal PropertyPadstackWidget finishedDia editingFinished "0.2500"
+\i (00:10:29) QtSignal VisLayerToolbarAllButton All clicked on
+\i (00:10:29) updateport ReportsPane
+\i (00:10:29) updateport SearchPane
+\i (00:10:29) updateport VisibilityPane
+\i (00:10:29) updateport PropPane
+\i (00:10:29) updateport CVPane
+\i (00:10:29) updateport VisibilityPane
+\i (00:10:33) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged Bottom 0
+\i (00:10:33) updateport ReportsPane
+\i (00:10:33) updateport SearchPane
+\i (00:10:33) updateport VisibilityPane
+\i (00:10:33) updateport PropPane
+\i (00:10:33) updateport CVPane
+\i (00:10:33) updateport VisibilityPane
+\i (00:10:33) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Soldermask_Bottom" +
+\i (00:10:33) QtSignal 0
+\i (00:10:33) updateport ReportsPane
+\i (00:10:33) updateport SearchPane
+\i (00:10:33) updateport VisibilityPane
+\i (00:10:33) updateport PropPane
+\i (00:10:33) updateport CVPane
+\i (00:10:33) updateport VisibilityPane
+\i (00:10:34) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Silkscreen_Bottom" +
+\i (00:10:34) QtSignal 0
+\i (00:10:34) updateport ReportsPane
+\i (00:10:34) updateport SearchPane
+\i (00:10:34) updateport VisibilityPane
+\i (00:10:34) updateport PropPane
+\i (00:10:34) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Pastemask_Bottom" +
+\i (00:10:34) QtSignal 0
+\i (00:10:34) updateport ReportsPane
+\i (00:10:34) updateport SearchPane
+\i (00:10:34) updateport VisibilityPane
+\i (00:10:34) updateport PropPane
+\i (00:10:34) updateport CVPane
+\i (00:10:34) updateport VisibilityPane
+\i (00:10:35) prepopup 222.2296 184.0752
+\i (00:10:36) pop dyn_option_select @:@Delete 
+\i (00:10:36) ucp_delete 
+\i (00:10:36) updateport ReportsPane
+\i (00:10:36) updateport SearchPane
+\i (00:10:36) updateport PropPane
+\i (00:10:36) ucpedit 
+\i (00:10:37) updateport ReportsPane
+\i (00:10:37) updateport SearchPane
+\i (00:10:37) updateport VisibilityPane
+\i (00:10:37) updateport PropPane
+\i (00:10:39) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:10:39) QtSignal "CP_ALLEGRO_PROPERTIES_DOCK"
+\i (00:10:41) QtSignal PropertyStatusWidget OrgDrcStatus clicked
+\t (00:10:41) Performing DRC...
+\t (00:10:42) Multithreaded DRC update (8 threads).
+\t (00:10:42) DRC done; 4 errors detected.
+\i (00:10:42) updateport ReportsPane
+\i (00:10:42) updateport SearchPane
+\i (00:10:42) updateport PropPane
+\i (00:10:42) ucpedit 
+\i (00:10:42) updateport VisibilityPane
+\i (00:10:45) QtSignal PropertyStatusWidget DRC_Errors_cnt linkActivated drcErrorsLink
+\i (00:10:45) updateport SearchPane
+\i (00:10:45) updateport CMPanelPort
+\i (00:10:45) updateport PropPane
+\i (00:10:45) updateport ReportsPane
+\i (00:10:45) updateport SearchPane
+\i (00:10:45) QtSignal ADTableContainerWidget DRCTable selectionChanged
+\i (00:10:46) QtSignal ADTableContainerWidget DRCTable selectionChanged
+\i (00:10:47) QtSignal ADTableContainerWidget DRCTable selectionChanged 0 1
+\i (00:10:47) QtSignal ADTableContainerWidget DRCTable customContextMenuRequest 0 1
+\i (00:10:49) QtFillin Zoom
+\i (00:10:49) trapsize 86
+\i (00:10:49) QtSignal ADTableContainerWidget DRCTable selectionChanged 0 1
+\i (00:10:50) QtSignal ADTableContainerWidget DRCTable selectionChanged 0 1
+\i (00:10:50) QtSignal ADTableContainerWidget DRCTable customContextMenuRequest 0 1
+\i (00:10:51) QtFillin "Select on Canvas"
+\i (00:10:51) trapsize 86
+\i (00:10:51) updateport ReportsPane
+\i (00:10:51) updateport SearchPane
+\i (00:10:51) updateport VisibilityPane
+\i (00:10:51) updateport PropPane
+\i (00:10:52) QtSignal ADTableContainerWidget DRCTable selectionChanged 0 1
+\i (00:10:52) QtSignal ADTableContainerWidget DRCTable selectionChanged 0 1
+\i (00:10:52) QtSignal ADTableContainerWidget DRCTable selectionChanged 0 1
+\i (00:10:52) QtSignal ADTableContainerWidget DRCTable selectionChanged 0 1
+\i (00:10:53) drag_start grid 247.5545 146.3070
+\i (00:10:54) drag_stop 247.4929 146.2899
+\i (00:10:54) updateport ReportsPane
+\i (00:10:54) updateport SearchPane
+\i (00:10:54) updateport PropPane
+\i (00:10:54) drag_start grid 247.5408 146.2847
+\i (00:10:54) ucp_trace_slide_pick 
+\t (00:10:54) Selected item not valid for current operation, ignored: Drc Error "Top, Line To Smd Pin Spacing"
+\t (00:10:54) Selected item not valid for current operation, ignored: Symbol "J4"
+\t (00:10:54) last pick:  247.5000 146.2500
+\t (00:10:54) last pick:  247.5408 146.2847
+\t (00:10:54) Waiting for the destination pick.
+\i (00:10:55) drag_stop grid 247.4826 146.2642
+\t (00:10:55) No DRC errors detected.
+\i (00:10:55) updateport ReportsPane
+\i (00:10:55) updateport SearchPane
+\i (00:10:55) updateport VisibilityPane
+\i (00:10:55) updateport PropPane
+\i (00:10:55) ucpedit 
+\i (00:10:56) updateport ReportsPane
+\i (00:10:56) updateport SearchPane
+\i (00:10:56) updateport VisibilityPane
+\i (00:10:56) updateport PropPane
+\i (00:10:59) roam start
+\i (00:10:59) roam x 2
+\i (00:10:59) roam x 3
+\i (00:10:59) roam x 1
+\i (00:10:59) roam y -1
+\i (00:10:59) roam x 30
+\i (00:10:59) roam y -5
+\i (00:10:59) roam x 5
+\i (00:10:59) roam x 10
+\i (00:10:59) roam x 5
+\i (00:10:59) roam x 130
+\i (00:10:59) roam y -19
+\i (00:10:59) roam x 10
+\i (00:10:59) roam y -3
+\i (00:10:59) roam x 49
+\i (00:10:59) roam y -6
+\i (00:10:59) roam x 76
+\i (00:10:59) roam y -10
+\i (00:10:59) roam x 74
+\i (00:10:59) roam y -10
+\i (00:10:59) roam x 25
+\i (00:10:59) roam y -5
+\i (00:10:59) roam x 18
+\i (00:10:59) roam y -2
+\i (00:10:59) roam end
+\i (00:10:59) roam start
+\i (00:10:59) roam x 63
+\i (00:10:59) roam x 1
+\i (00:10:59) roam x 4
+\i (00:10:59) roam x 5
+\i (00:10:59) roam x 10
+\i (00:10:59) roam x 1
+\i (00:10:59) roam end
+\i (00:11:01) drag_start grid 249.0520 146.3101
+\i (00:11:01) ucp_trace_slide_pick 
+\t (00:11:01) last pick:  249.0000 146.2500
+\t (00:11:01) Waiting for the destination pick.
+\i (00:11:02) updateport ReportsPane
+\i (00:11:02) updateport SearchPane
+\i (00:11:02) updateport PropPane
+\i (00:11:04) drag_stop grid 249.0931 146.3511
+\t (00:11:04) DRC errors detected.
+\i (00:11:04) updateport ReportsPane
+\i (00:11:04) updateport SearchPane
+\i (00:11:04) updateport PropPane
+\i (00:11:04) ucpedit 
+\i (00:11:04) updateport ReportsPane
+\i (00:11:04) updateport SearchPane
+\i (00:11:04) updateport VisibilityPane
+\i (00:11:04) updateport PropPane
+\i (00:11:05) pick grid 249.0503 146.4041
+\t (00:11:05) last pick:  249.0503 146.4041
+\i (00:11:05) updateport ReportsPane
+\i (00:11:05) updateport SearchPane
+\i (00:11:05) updateport PropPane
+\i (00:11:06) drag_start grid 248.7783 146.6966
+\i (00:11:06) ucp_trace_slide_pick 
+\t (00:11:06) last pick:  248.7500 146.7500
+\t (00:11:06) Waiting for the destination pick.
+\i (00:11:07) drag_stop grid 248.7834 146.4537
+\t (00:11:07) DRC errors detected.
+\i (00:11:07) updateport ReportsPane
+\i (00:11:07) updateport SearchPane
+\i (00:11:07) updateport PropPane
+\i (00:11:07) ucpedit 
+\i (00:11:07) updateport ReportsPane
+\i (00:11:07) updateport SearchPane
+\i (00:11:07) updateport VisibilityPane
+\i (00:11:07) updateport PropPane
+\i (00:11:08) zoom out 1 
+\i (00:11:08) setwindow pcb
+\i (00:11:08) zoom out 249.5874 145.9936
+\i (00:11:08) trapsize 171
+\i (00:11:10) zoom in 1 
+\i (00:11:10) setwindow pcb
+\i (00:11:10) zoom in 249.4061 146.1646
+\i (00:11:10) trapsize 86
+\i (00:11:11) zoom out 1 
+\i (00:11:11) setwindow pcb
+\i (00:11:11) zoom out 249.5054 146.0962
+\i (00:11:11) trapsize 171
+\i (00:11:12) roam start
+\i (00:11:12) roam y 6
+\i (00:11:12) roam x 3
+\i (00:11:12) roam y 2
+\i (00:11:12) roam x 4
+\i (00:11:12) roam y 3
+\i (00:11:12) roam x 85
+\i (00:11:12) roam y 55
+\i (00:11:12) roam x 8
+\i (00:11:12) roam y 5
+\i (00:11:12) roam x 8
+\i (00:11:12) roam y 10
+\i (00:11:12) roam x 7
+\i (00:11:12) roam y 9
+\i (00:11:12) roam x 8
+\i (00:11:12) roam y 11
+\i (00:11:12) roam x 2
+\i (00:11:12) roam x 28
+\i (00:11:12) roam y 35
+\i (00:11:12) roam end
+\i (00:11:14) drag_start grid 249.6062 145.6754
+\i (00:11:14) ucp_trace_slide_pick 
+\t (00:11:14) last pick:  249.6250 145.6250
+\t (00:11:14) Waiting for the destination pick.
+\i (00:11:14) updateport ReportsPane
+\i (00:11:14) updateport SearchPane
+\i (00:11:14) updateport PropPane
+\i (00:11:16) drag_stop grid 249.4386 146.2707
+\t (00:11:16) DRC errors detected.
+\i (00:11:16) updateport ReportsPane
+\i (00:11:16) updateport SearchPane
+\i (00:11:16) updateport PropPane
+\i (00:11:16) ucpedit 
+\i (00:11:16) updateport ReportsPane
+\i (00:11:16) updateport SearchPane
+\i (00:11:16) updateport VisibilityPane
+\i (00:11:16) updateport PropPane
+\i (00:11:17) drag_start grid 248.7886 146.9789
+\i (00:11:17) ucp_trace_slide_pick 
+\t (00:11:17) last pick:  248.7500 147.0000
+\t (00:11:17) Waiting for the destination pick.
+\i (00:11:17) updateport ReportsPane
+\i (00:11:17) updateport SearchPane
+\i (00:11:17) updateport PropPane
+\i (00:11:18) drag_stop grid 248.7954 145.8636
+\t (00:11:18) DRC errors detected.
+\i (00:11:18) updateport ReportsPane
+\i (00:11:18) updateport SearchPane
+\i (00:11:18) updateport PropPane
+\i (00:11:18) ucpedit 
+\i (00:11:19) updateport ReportsPane
+\i (00:11:19) updateport SearchPane
+\i (00:11:19) updateport VisibilityPane
+\i (00:11:19) updateport PropPane
+\i (00:11:19) drag_start grid 249.0931 146.6812
+\i (00:11:19) ucp_trace_slide_pick 
+\t (00:11:19) last pick:  249.1250 146.6250
+\t (00:11:19) Waiting for the destination pick.
+\i (00:11:19) updateport ReportsPane
+\i (00:11:19) updateport SearchPane
+\i (00:11:19) updateport PropPane
+\i (00:11:21) drag_stop grid 248.9528 146.3802
+\t (00:11:21) DRC errors detected.
+\i (00:11:21) updateport ReportsPane
+\i (00:11:21) updateport SearchPane
+\i (00:11:21) updateport PropPane
+\i (00:11:21) ucpedit 
+\i (00:11:21) updateport ReportsPane
+\i (00:11:21) updateport SearchPane
+\i (00:11:21) updateport VisibilityPane
+\i (00:11:21) updateport PropPane
+\i (00:11:22) drag_start grid 249.4968 145.8601
+\i (00:11:23) ucp_trace_slide_pick 
+\t (00:11:23) last pick:  249.5000 145.8750
+\t (00:11:23) Waiting for the destination pick.
+\i (00:11:23) updateport ReportsPane
+\i (00:11:23) updateport SearchPane
+\i (00:11:23) updateport PropPane
+\i (00:11:23) drag_stop grid 249.4523 145.9970
+\t (00:11:23) DRC errors detected.
+\i (00:11:23) updateport ReportsPane
+\i (00:11:23) updateport SearchPane
+\i (00:11:23) updateport PropPane
+\i (00:11:23) ucpedit 
+\i (00:11:23) updateport ReportsPane
+\i (00:11:23) updateport SearchPane
+\i (00:11:23) updateport VisibilityPane
+\i (00:11:23) updateport PropPane
+\i (00:11:24) pick grid 249.2949 146.1886
+\t (00:11:24) last pick:  249.2949 146.1886
+\i (00:11:24) updateport ReportsPane
+\i (00:11:24) updateport SearchPane
+\i (00:11:24) updateport PropPane
+\i (00:11:26) ucp_delete 
+\i (00:11:26) updateport ReportsPane
+\i (00:11:26) updateport SearchPane
+\i (00:11:26) updateport PropPane
+\i (00:11:26) ucpedit 
+\i (00:11:26) updateport ReportsPane
+\i (00:11:26) updateport SearchPane
+\i (00:11:26) updateport VisibilityPane
+\i (00:11:26) updateport PropPane
+\i (00:11:28) ucp_add_connect_mode 
+\i (00:11:28) ucpedit 
+\i (00:11:28) updateport ReportsPane
+\i (00:11:28) updateport SearchPane
+\i (00:11:28) updateport VisibilityPane
+\i (00:11:28) updateport PropPane
+\i (00:11:30) pick grid 248.7373 146.7496
+\t (00:11:30) last pick:  248.7373 146.7496
+\i (00:11:30) ucp_add_connect_pick 
+\t (00:11:31) Pick first element.
+\t (00:11:31) Target Vertical Line Segment is defined on TOP.
+\i (00:11:31) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:11:31) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "< VIA >"
+\t (00:11:31) last pick:  248.7500 146.7500
+\i (00:11:31) mouse_pos 248.7783 146.5717
+\i (00:11:31) updateport ReportsPane
+\i (00:11:31) updateport SearchPane
+\i (00:11:31) updateport PropPane
+\i (00:11:33) pick grid 248.8365 146.3117
+\t (00:11:33) last pick:  248.8365 146.3117
+\t (00:11:33) No DRC errors detected.
+\t (00:11:33) last pick:  248.8750 146.2500
+\i (00:11:33) updateport SearchPane
+\i (00:11:33) mouse_pos 248.9391 146.2262
+\i (00:11:36) pick grid 249.5652 146.0038
+\t (00:11:36) last pick:  249.5652 146.0038
+\t (00:11:36) DRC error(s) created.
+\t (00:11:36) last pick:  249.6250 146.0000
+\i (00:11:36) updateport SearchPane
+\i (00:11:36) mouse_pos 249.6097 145.9149
+\i (00:11:38) pick grid 249.6199 145.7951
+\t (00:11:38) last pick:  249.6199 145.7951
+\t (00:11:38) No DRC errors detected.
+\t (00:11:38) Pick first element.
+\i (00:11:38) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:11:38) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:11:38) updateport ReportsPane
+\i (00:11:38) updateport SearchPane
+\i (00:11:38) updateport PropPane
+\i (00:11:38) ucpedit 
+\i (00:11:39) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:11:39) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:11:39) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged
+\i (00:11:39) QtSignal UCP_Add_connect ViaDropDownComboBox CurrentIndexChanged "No available via"
+\i (00:11:39) updateport ReportsPane
+\i (00:11:39) updateport SearchPane
+\i (00:11:39) updateport VisibilityPane
+\i (00:11:39) updateport PropPane
+\i (00:11:48) esc 
+\i (00:11:48) updateport ReportsPane
+\i (00:11:48) updateport SearchPane
+\i (00:11:48) updateport VisibilityPane
+\i (00:11:48) updateport PropPane
+\i (00:11:48) esc 
+\i (00:11:48) esc 
+\i (00:11:49) ucp_selection_mode 
+\i (00:11:49) ucp_selection_mode 
+\i (00:11:49) esc 
+\e (00:11:49) No command active
+\i (00:11:49) ucpedit 
+\i (00:11:49) updateport VisibilityPane
+\i (00:11:49) drag_start grid 249.2402 146.2228
+\i (00:11:50) ucp_trace_slide_pick 
+\t (00:11:50) last pick:  249.2500 146.2500
+\t (00:11:50) Waiting for the destination pick.
+\i (00:11:50) updateport ReportsPane
+\i (00:11:50) updateport SearchPane
+\i (00:11:50) updateport PropPane
+\i (00:11:50) drag_stop grid 249.1957 146.1715
+\t (00:11:50) No DRC errors detected.
+\i (00:11:50) updateport ReportsPane
+\i (00:11:50) updateport SearchPane
+\i (00:11:50) updateport PropPane
+\i (00:11:50) ucpedit 
+\i (00:11:51) updateport ReportsPane
+\i (00:11:51) updateport SearchPane
+\i (00:11:51) updateport VisibilityPane
+\i (00:11:51) updateport PropPane
+\i (00:11:52) drag_start grid 249.6097 145.8943
+\i (00:11:53) ucp_trace_slide_pick 
+\t (00:11:53) last pick:  249.6250 145.8750
+\t (00:11:53) Waiting for the destination pick.
+\i (00:11:53) updateport ReportsPane
+\i (00:11:53) updateport SearchPane
+\i (00:11:53) updateport PropPane
+\i (00:11:55) drag_stop grid 249.5481 145.9388
+\t (00:11:55) No DRC errors detected.
+\i (00:11:55) updateport ReportsPane
+\i (00:11:55) updateport SearchPane
+\i (00:11:55) updateport PropPane
+\i (00:11:55) ucpedit 
+\i (00:11:55) updateport ReportsPane
+\i (00:11:55) updateport SearchPane
+\i (00:11:55) updateport VisibilityPane
+\i (00:11:55) updateport PropPane
+\i (00:11:56) pick grid 249.6576 146.1030
+\t (00:11:56) last pick:  249.6576 146.1030
+\i (00:11:58) zoom out 1 
+\i (00:11:58) setwindow pcb
+\i (00:11:58) zoom out 249.7260 146.3391
+\i (00:11:58) trapsize 342
+\i (00:12:01) save 
+\i (00:12:02) fillin yes 
+\t (00:12:03) > Sending response DoneOpenBoard
+\i (00:12:03) updateport ReportsPane
+\i (00:12:03) updateport SearchPane
+\i (00:12:03) updateport PropPane
+\i (00:12:03) ucpedit 
+\i (00:12:03) updateport VisibilityPane
+\i (00:12:03) zoom out 1 
+\i (00:12:03) setwindow pcb
+\i (00:12:03) zoom out 248.5286 147.0986
+\i (00:12:03) trapsize 684
+\i (00:12:03) zoom out 1 
+\i (00:12:03) setwindow pcb
+\i (00:12:03) zoom out 248.5285 147.0986
+\i (00:12:03) trapsize 1368
+\i (00:12:06) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:12:06) QtSignal "CP_ALLEGRO_PROPERTIES_DOCK"
+\i (00:12:11) pick grid 235.5553 136.9445
+\t (00:12:11) last pick:  235.5553 136.9445
+\i (00:12:11) updateport CMPanelPort
+\i (00:12:11) updateport PropPane
+\i (00:12:11) updateport ReportsPane
+\i (00:12:11) updateport SearchPane
+\i (00:12:13) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:12:13) QtSignal "CP_ALLEGRO_PROPERTIES_DOCK"
+\i (00:12:15) QtSignal PropertyStatusWidget OrgDrcStatus clicked
+\t (00:12:15) Performing DRC...
+\t (00:12:15) Multithreaded DRC update (8 threads).
+\t (00:12:15) DRC done; 1 errors detected.
+\i (00:12:15) updateport ReportsPane
+\i (00:12:15) updateport SearchPane
+\i (00:12:15) updateport PropPane
+\i (00:12:15) ucpedit 
+\i (00:12:15) updateport VisibilityPane
+\i (00:12:17) QtSignal PropertyStatusWidget DRC_Errors_cnt linkActivated drcErrorsLink
+\i (00:12:17) updateport SearchPane
+\i (00:12:17) updateport CMPanelPort
+\i (00:12:17) updateport PropPane
+\i (00:12:17) updateport ReportsPane
+\i (00:12:17) updateport SearchPane
+\i (00:12:18) QtSignal ADTableContainerWidget DRCTable selectionChanged
+\i (00:12:18) QtSignal ADTableContainerWidget DRCTable selectionChanged 0 1
+\i (00:12:18) QtSignal ADTableContainerWidget DRCTable doubleClicked 0 1
+\i (00:12:19) trapsize 86
+\i (00:12:19) updateport ReportsPane
+\i (00:12:19) updateport SearchPane
+\i (00:12:19) updateport VisibilityPane
+\i (00:12:19) updateport PropPane
+\i (00:12:20) zoom out 1 
+\i (00:12:20) setwindow pcb
+\i (00:12:20) zoom out 236.8240 189.2347
+\i (00:12:20) trapsize 171
+\i (00:12:24) zoom out 1 
+\i (00:12:24) setwindow pcb
+\i (00:12:24) zoom out 237.1970 189.3784
+\i (00:12:24) trapsize 342
+\i (00:12:24) zoom out 1 
+\i (00:12:24) setwindow pcb
+\i (00:12:24) zoom out 237.1970 189.3783
+\i (00:12:24) trapsize 684
+\i (00:12:25) zoom in 1 
+\i (00:12:25) setwindow pcb
+\i (00:12:25) zoom in 237.1970 189.3510
+\i (00:12:25) trapsize 342
+\i (00:12:25) zoom in 1 
+\i (00:12:25) setwindow pcb
+\i (00:12:25) zoom in 237.1970 189.3510
+\i (00:12:25) trapsize 171
+\i (00:12:25) zoom in 1 
+\i (00:12:25) setwindow pcb
+\i (00:12:25) zoom in 237.1970 189.3510
+\i (00:12:25) trapsize 86
+\i (00:12:26) pick grid 237.0738 189.2997
+\t (00:12:26) last pick:  237.0738 189.2997
+\i (00:12:28) prepopup 237.0465 189.3459
+\i (00:12:29) pick grid 237.0396 189.3373
+\t (00:12:29) last pick:  237.0396 189.3373
+\i (00:12:31) pick grid 237.0944 189.0277
+\t (00:12:31) last pick:  237.0944 189.0277
+\i (00:12:34) prepopup 237.0465 189.2877
+\i (00:12:35) pick grid 237.0396 189.2860
+\t (00:12:35) last pick:  237.0396 189.2860
+\i (00:12:36) pick grid 237.0345 189.2621
+\t (00:12:36) last pick:  237.0345 189.2621
+\i (00:12:39) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:12:39) QtSignal "CP_ALLEGRO_PROPERTIES_DOCK"
+\i (00:12:41) QtSignal PropertySelectionFilterWidget Groups clicked on
+\i (00:12:42) QtSignal PropertySelectionFilterWidget ObjectAll clicked
+\i (00:12:43) QtSignal PropertySelectionFilterWidget Traces clicked on
+\i (00:12:43) QtSignal PropertySelectionFilterWidget Groups clicked
+\i (00:12:45) drag_start grid 237.0396 189.2860
+\i (00:12:45) ucp_move 
+\t (00:12:45) last pick:  237.0497 189.3175
+\t (00:12:45) Pick new location for the element(s).
+\i (00:12:47) drag_stop grid 236.3725 188.9884
+\i (00:12:47) updateport ReportsPane
+\i (00:12:47) updateport SearchPane
+\i (00:12:47) updateport CMPanelPort
+\i (00:12:47) updateport PropPane
+\i (00:12:47) ucpedit 
+\i (00:12:47) updateport ReportsPane
+\i (00:12:47) updateport SearchPane
+\i (00:12:47) updateport VisibilityPane
+\i (00:12:48) pick grid 236.3725 188.9884
+\t (00:12:48) last pick:  236.3725 188.9884
+\i (00:12:49) prepopup 236.3964 188.9866
+\i (00:12:51) pop dyn_option_select @:@Delete 
+\i (00:12:51) ucp_delete 
+\i (00:12:51) updateport ReportsPane
+\i (00:12:51) updateport SearchPane
+\i (00:12:51) updateport PropPane
+\i (00:12:51) ucpedit 
+\i (00:12:51) updateport VisibilityPane
+\i (00:12:52) zoom out 1 
+\i (00:12:52) setwindow pcb
+\i (00:12:52) zoom out 236.5743 189.1731
+\i (00:12:52) trapsize 171
+\i (00:12:52) zoom out 1 
+\i (00:12:52) setwindow pcb
+\i (00:12:52) zoom out 236.5744 189.1731
+\i (00:12:52) trapsize 342
+\i (00:12:53) zoom out 1 
+\i (00:12:53) setwindow pcb
+\i (00:12:53) zoom out 236.5744 189.1731
+\i (00:12:53) trapsize 684
+\i (00:12:53) zoom out 1 
+\i (00:12:53) setwindow pcb
+\i (00:12:53) zoom out 236.5743 189.1731
+\i (00:12:53) trapsize 1368
+\i (00:12:53) zoom out 1 
+\i (00:12:53) setwindow pcb
+\i (00:12:53) zoom out 236.5743 189.1732
+\i (00:12:53) trapsize 2737
+\i (00:12:54) zoom out 1 
+\i (00:12:54) setwindow pcb
+\i (00:12:54) zoom out 244.8401 197.0556
+\i (00:12:54) trapsize 5474
+\i (00:12:55) save 
+\i (00:12:57) fillin yes 
+\t (00:12:57) > Sending response DoneOpenBoard
+\i (00:12:57) updateport ReportsPane
+\i (00:12:57) updateport SearchPane
+\i (00:12:57) updateport PropPane
+\i (00:12:57) ucpedit 
+\i (00:12:57) updateport VisibilityPane
+\i (00:13:04) dbdoctor 
+\i (00:13:06) setwindow form.dbdoctor_allegro
+\i (00:13:06) FORM dbdoctor_allegro drc YES 
+\i (00:13:06) FORM dbdoctor_allegro shapes YES 
+\i (00:13:07) FORM dbdoctor_allegro execute  
+\t (00:13:07) Dbdoctor in progress - wait...
+\t (00:13:07) Checking db records
+\t (00:13:07)     checking for orphans...
+\t (00:13:07)     Checked 100 percent
+\t (00:13:07) Regenerating DRC
+\t (00:13:07)   Original DRC errors: 0
+\t (00:13:07) Performing DRC...
+\t (00:13:07) Multithreaded DRC update (8 threads).
+\t (00:13:08) No DRC errors detected.
+\t (00:13:09)   Updated DRC errors:  0
+\i (00:13:09) setwindow pcb
+\i (00:13:09) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:13:09) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\t (00:13:10) Done dbdoctor.
+\t (00:13:10) Dbdoctor completed.
+\i (00:13:10) updateport ReportsPane
+\i (00:13:10) updateport SearchPane
+\i (00:13:10) updateport VisibilityPane
+\i (00:13:10) updateport PropPane
+\i (00:13:14) setwindow form.dbdoctor_allegro
+\i (00:13:14) FORM dbdoctor_allegro close  
+\i (00:13:14) setwindow pcb
+\i (00:13:14) ucpedit 
+\i (00:13:14) updateport VisibilityPane
+\i (00:13:16) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:13:16) QtSignal "CP_ALLEGRO_PROPERTIES_DOCK"
+\i (00:13:40) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:13:40) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:13:42) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:13:42) QtSignal "CP_ALLEGRO_PROPERTIES_DOCK"
+\i (00:13:52) ucp_single_exports 
+\i (00:14:18) fillin "gerber_config_noRefDes.json"
+\w (00:14:25) The current Gerber layer definitions will be replaced with the new definitions based on the default configuration file. The current Gerber layer definitions will be saved to SO1L_v2_films.txt and can be restored in a layout editor, if needed. Do you want to replace the current Gerber layer definitions?
+\i (00:14:27) fillin confirm
+\t (00:14:27) Loading mfg.cxt 
+\i (00:14:46) updateport ReportsPane
+\i (00:14:46) updateport SearchPane
+\i (00:14:46) updateport VisibilityPane
+\i (00:14:46) updateport PropPane
+\i (00:14:46) ucpedit 
+\i (00:14:46) updateport VisibilityPane
+\i (00:14:55) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:55) QtSignal MainCanvas ThermalPrefDialog closed
+\i (00:14:55) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:55) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:55) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:55) QtSignal MainCanvas CplGrpSel closed
+\i (00:14:55) QtSignal MainCanvas IRDropVRMSetupDialog closed
+\i (00:14:55) QtSignal MainCanvas IRDropSINKSetupDialog closed
+\i (00:14:55) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:55) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:55) QtSignal MainCanvas ERCDesignSetupXNetsDialog closed
+\i (00:14:55) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:55) QtSignal MainCanvas TopXpPrefDialog closed
+\i (00:14:55) QtSignal MainCanvas ImpPrefDialog closed
+\i (00:14:55) QtSignal MainCanvas RpGrpSel closed
+\i (00:14:55) QtSignal MainCanvas ERCDesignSetupCompsDialog closed
+\i (00:14:55) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:55) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:55) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:56) QtSignal MainCanvas ReturnPathPrefDialog closed
+\i (00:14:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:56) QtSignal MainCanvas RfltPrefDialog closed
+\i (00:14:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:56) QtSignal MainCanvas XtalkPrefDialog closed
+\i (00:14:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:56) QtSignal MainCanvas IRDropPrefDialog closed
+\i (00:14:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:56) QtSignal MainCanvas DCRMeasSetupDialog closed
+\i (00:14:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:56) QtSignal MainCanvas ThermalCompSetupDialog closed
+\i (00:14:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:56) QtSignal MainCanvas DCResistPrefDialog closed
+\i (00:14:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:56) QtSignal MainCanvas PkgModelParamDialog closed
+\i (00:14:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:56) QtSignal MainCanvas DesignSetupPrefDialog closed
+\i (00:14:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:56) QtSignal MainCanvas CplPrefDialog closed
+\i (00:14:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:56) QtSignal MainCanvas ThermalModelSetupDialog closed
+\i (00:14:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:56) QtSignal MainCanvas PwrIndPrefDialog closed
+\i (00:14:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:56) QtSignal MainCanvas ImpGrpSel closed
+\i (00:14:56) QtSignal MainCanvas InterConnModelExtPrefDialog closed
+\i (00:14:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:14:56) QtSignal MainCanvas TopXpLayoutLinkNewDialog closed
+\t (00:15:03)     Journal end - Sun Aug 30 17:37:14 2026
