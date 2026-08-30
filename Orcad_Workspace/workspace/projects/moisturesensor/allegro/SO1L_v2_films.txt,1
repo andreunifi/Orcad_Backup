@@ -45,13 +45,13 @@ axlFilmCreate( "SSBT" ?negative nil ?undefineLineWidth 0.1000 ?sequence 4
 	?suppressUnconnectPads nil ?drawMissingPadApertures nil ?useApertureRotation nil 
 	?suppressShapeFill nil ?vectorBasedPad t ?drawHolesOnly nil 
 	?domains '(ipc2581 pdf artwork visibility ) ?ipc2581 '(silkscreen ) 
-	?layers '("BOARD GEOMETRY/DESIGN_OUTLINE" "PACKAGE GEOMETRY/SILKSCREEN_BOTTOM" "BOARD GEOMETRY/SILKSCREEN_BOTTOM" ))
+	?layers '("BOARD GEOMETRY/DESIGN_OUTLINE" "REF DES/SILKSCREEN_BOTTOM" "PACKAGE GEOMETRY/SILKSCREEN_BOTTOM" "BOARD GEOMETRY/SILKSCREEN_BOTTOM" ))
 axlFilmCreate( "SSTP" ?negative nil ?undefineLineWidth 0.1000 ?sequence 3 
 	?rotation 0 ?xOffset 0.0000 ?yOffset 0.0000 ?shapeBoundingBox 2.5400 ?mirrored nil ?fullContact nil 
 	?suppressUnconnectPads nil ?drawMissingPadApertures nil ?useApertureRotation nil 
 	?suppressShapeFill nil ?vectorBasedPad t ?drawHolesOnly nil 
 	?domains '(ipc2581 pdf artwork visibility ) ?ipc2581 '(silkscreen ) 
-	?layers '("BOARD GEOMETRY/DESIGN_OUTLINE" "PACKAGE GEOMETRY/SILKSCREEN_TOP" "BOARD GEOMETRY/SILKSCREEN_TOP" ))
+	?layers '("BOARD GEOMETRY/DESIGN_OUTLINE" "REF DES/SILKSCREEN_TOP" "PACKAGE GEOMETRY/SILKSCREEN_TOP" "BOARD GEOMETRY/SILKSCREEN_TOP" ))
 axlFilmCreate( "BOTTOM" ?negative nil ?undefineLineWidth 0.1000 ?sequence 2 
 	?rotation 0 ?xOffset 0.0000 ?yOffset 0.0000 ?shapeBoundingBox 2.5400 ?mirrored nil ?fullContact nil 
 	?suppressUnconnectPads nil ?drawMissingPadApertures nil ?useApertureRotation nil 

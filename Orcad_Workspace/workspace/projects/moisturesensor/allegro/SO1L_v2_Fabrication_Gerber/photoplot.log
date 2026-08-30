@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : SO1L_v2.brd                                   )
 (    Software Version : 25.1S030                                      )
-(    Date/Time        : Sun Aug 30 17:36:41 2026                      )
+(    Date/Time        : Sun Aug 30 18:06:00 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -50,8 +50,7 @@ Results from parameter file ...
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
   CIRCLE     0.10000                                  DARK 
-  CIRCLE     0.12700                                  DARK 
-  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.15000                                  DARK 
   CIRCLE     0.60000                                  DARK 
   CIRCLE     1.05000                                  DARK 
   CIRCLE     1.25000                                  DARK 
@@ -363,7 +362,7 @@ Results from parameter file ...
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
   CIRCLE     0.10000                                  DARK 
-  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.15000                                  DARK 
   CIRCLE     0.60000                                  DARK 
   CIRCLE     1.05000                                  DARK 
   CIRCLE     1.25000                                  DARK 

@@ -8,7 +8,7 @@ P  NUM   001
 P  REV   A                                                                      
 C                                                                               
 C  IPC-D-356 Output File from Allegro                                           
-C  IPC File Date: Sun Aug 30 17:36:47 2026                                      
+C  IPC File Date: Sun Aug 30 18:06:08 2026                                      
 C  Login Name:    andre                                                         
 C                                                                               
 C                                                                               
@@ -167,10 +167,10 @@ C
 327DIO_9            R11   -1          A01X+254455Y+205769X0756Y0813R270 S1      
 327NLBO             IC2   -7          A01X+214222Y+182753X0250Y0600R090 S1      
 317NLBO             VIA   -    MD0250PA00X+216217Y+157474X0600Y0600     S3      
-317NLBO             VIA   -    MD0250PA00X+248291Y+155453X0600Y0600     S3      
+317NLBO             VIA   -    MD0250PA00X+248375Y+155000X0600Y0600     S3      
 327NLBO             IC3   -8          A01X+261758Y+160280X0300Y0800R270 S1      
 327NPG              IC3   -6          A01X+261758Y+159280X0300Y0800R270 S1      
-317NPG              VIA   -    MD0250PA00X+249375Y+156123X0600Y0600     S3      
+317NPG              VIA   -    MD0250PA00X+249750Y+155750X0600Y0600     S3      
 317NPG              VIA   -    MD0250PA00X+210000Y+158375X0600Y0600     S3      
 327NPG              IC2   -6          A01X+214222Y+183253X0250Y0600R090 S1      
 327N78130           Q1    -1          A01X+243100Y+191431X0800Y0800     S1      
@@ -299,7 +299,7 @@ C
 317GND              VIA   -    MD0250PA00X+256625Y+177675X0600Y0600     S3      
 317GND              VIA   -    MD0250PA00X+253500Y+176500X0600Y0600     S3      
 317GND              VIA   -    MD0250PA00X+252650Y+177675X0600Y0600     S3      
-317GND              VIA   -    MD0250PA00X+252634Y+179189X0600Y0600     S3      
+317GND              VIA   -    MD0250PA00X+252021Y+179715X0600Y0600     S3      
 317GND              VIA   -    MD0250PA00X+249050Y+177400X0600Y0600     S3      
 317GND              VIA   -    MD0250PA00X+258775Y+202175X0600Y0600     S3      
 327GND              Q2    -2          A01X+259728Y+202252X0800Y0800R270 S1      
