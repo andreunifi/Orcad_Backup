@@ -1,0 +1,62 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : SO1L_v2.brd                                   )
+(    Software Version : 25.1S030                                      )
+(    Date/Time        : Sun Aug 30 16:26:06 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (inch)
+ FEEDRATE		0
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		ENGLISH
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	YES
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		YES
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	YES
+ ENHANCED_EXCELLON	YES
+ SCALE			1.000000
+
+ WARNING(SPMHMF-363): Units system is being switched when generating drill output file data.
+ WARNING(SPMHMF-365): This design contains 4 slot holes that cannot be drilled.
+ WARNING(SPMHMF-366): They can be processed by NC routing instead.
+
+
+Drill files being output to directory 'C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro' ...
+
+
+
+     'SO1L_v2-1-2.drl' created for holes connecting TOP and BOTTOM
+     -------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.   9.8425    0.0000/  0.0000      PLATED         97
+            2.  27.5591    0.0000/  0.0000      PLATED          2
+            3.  35.4331    0.0000/  0.0000      PLATED          2
+            4.  39.3701    0.0000/  0.0000      PLATED          4
+            5.  43.3071    0.0000/  0.0000      PLATED          8
+            6.  51.1811    0.0000/  0.0000      PLATED          4
+
+     ---- Total holes:                                        117
+
+     ---- Total head travel:              3.93 feet (1.20 meters)
+

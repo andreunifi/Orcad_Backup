@@ -1,0 +1,391 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : SO1L_v2.brd                                   )
+(    Software Version : 25.1S030                                      )
+(    Date/Time        : Sun Aug 30 16:26:04 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          MM
+    FILM-SIZE             9700000 7100000
+    FORMAT                3.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.60000                                  DARK 
+  CIRCLE     1.05000                                  DARK 
+  CIRCLE     1.25000                                  DARK 
+  CIRCLE     1.35000                                  DARK 
+  CIRCLE     1.45000                                  DARK 
+  CIRCLE     1.80340                                  DARK 
+  CIRCLE     4.50000                                  DARK 
+  SQUARE     0.80000                     0.000 NO     DARK 
+  SQUARE     0.90000                     0.000 NO     DARK 
+  SQUARE     1.25000                     0.000 NO     DARK 
+  SQUARE     2.80000                     0.000 NO     DARK 
+  SQUARE     3.45000                     0.000 NO     DARK 
+  RECTANGLE  0.25000     x 0.50000      90.000 NO     DARK 
+  RECTANGLE  0.33000     x 0.75000       0.000 NO     DARK 
+  RECTANGLE  0.50000     x 0.50000      90.000 NO     DARK 
+  RECTANGLE  0.51000     x 0.73000       0.000 NO     DARK 
+  RECTANGLE  0.65000     x 0.82000       0.000 NO     DARK 
+  RECTANGLE  0.74000     x 2.79000       0.000 NO     DARK 
+  RECTANGLE  0.75640     x 0.81280      90.000 NO     DARK 
+  RECTANGLE  0.80000     x 0.95000      90.000 NO     DARK 
+  RECTANGLE  0.80960     x 0.88900       0.000 NO     DARK 
+  RECTANGLE  0.80960     x 0.88900      90.000 NO     DARK 
+  RECTANGLE  0.84000     x 2.40000       0.000 NO     DARK 
+  RECTANGLE  0.91440     x 0.60960       0.000 NO     DARK 
+  RECTANGLE  0.95000     x 0.70000       0.000 NO     DARK 
+  RECTANGLE  1.10000     x 1.30000       0.000 NO     DARK 
+  RECTANGLE  1.16840     x 0.99060      90.000 NO     DARK 
+  RECTANGLE  1.60000     x 1.90000      90.000 NO     DARK 
+  RECTANGLE  1.60000     x 2.30000       0.000 NO     DARK 
+  RECTANGLE  1.80340     x 1.00000      90.000 NO     DARK 
+  RECTANGLE  2.00100     x 4.01320      90.000 NO     DARK 
+  RECTANGLE  2.10000     x 4.35000       0.000 NO     DARK 
+  RECTANGLE  2.15000     x 3.25000      90.000 NO     DARK 
+  OBLONG     0.30000     x 0.80000       0.000 NO     DARK 
+  OBLONG     0.30000     x 0.80000      90.000 NO     DARK 
+  OBLONG     2.10000     x 1.10000      90.000 NO     DARK 
+  OBLONG     2.60000     x 1.10000      90.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00  90.000 NO     DARK 
+
+     TOP created.
+
+
+================================================================
+     PROCESSING FILM < SSTP >
+     TO FILE < C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/SSTP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.15240                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.25000                                  DARK 
+  CIRCLE     0.50800                                  DARK 
+
+     SSTP created.
+
+
+================================================================
+     PROCESSING FILM < SSBT >
+     TO FILE < C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/SSBT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.50800                                  DARK 
+
+     SSBT created.
+
+
+================================================================
+     PROCESSING FILM < SPTP >
+     TO FILE < C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/SPTP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  SQUARE     0.02540                     0.000 NO     DARK 
+  SQUARE     0.71550                     0.000 NO     DARK 
+  SQUARE     0.80490                     0.000 NO     DARK 
+  RECTANGLE  0.22360     x 0.44720      90.000 NO     DARK 
+  RECTANGLE  0.29520     x 0.67180       0.000 NO     DARK 
+  RECTANGLE  0.45600     x 0.65290       0.000 NO     DARK 
+  RECTANGLE  0.50000     x 0.50000      90.000 NO     DARK 
+  RECTANGLE  0.58140     x 0.73340       0.000 NO     DARK 
+  RECTANGLE  0.71550     x 0.84970      90.000 NO     DARK 
+  RECTANGLE  0.72410     x 0.79510       0.000 NO     DARK 
+  RECTANGLE  0.72410     x 0.79510      90.000 NO     DARK 
+  RECTANGLE  0.74000     x 2.79000       0.000 NO     DARK 
+  RECTANGLE  0.75640     x 0.81280      90.000 NO     DARK 
+  RECTANGLE  0.84970     x 0.58140       0.000 NO     DARK 
+  RECTANGLE  0.91440     x 0.60960       0.000 NO     DARK 
+  RECTANGLE  0.98000     x 1.16000       0.000 NO     DARK 
+  RECTANGLE  1.16840     x 0.99060      90.000 NO     DARK 
+  RECTANGLE  1.43100     x 1.69990      90.000 NO     DARK 
+  RECTANGLE  1.43100     x 2.05710       0.000 NO     DARK 
+  RECTANGLE  1.61290     x 0.89000      90.000 NO     DARK 
+  RECTANGLE  1.78970     x 3.58950      90.000 NO     DARK 
+  RECTANGLE  1.87830     x 3.89080       0.000 NO     DARK 
+  RECTANGLE  1.92300     x 2.90690      90.000 NO     DARK 
+  OBLONG     0.26830     x 0.71550       0.000 NO     DARK 
+  OBLONG     0.26830     x 0.71550      90.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00  90.000 NO     DARK 
+
+     SPTP created.
+
+
+================================================================
+     PROCESSING FILM < SPBT >
+     TO FILE < C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/SPBT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+
+     SPBT created.
+
+
+================================================================
+     PROCESSING FILM < SMTP >
+     TO FILE < C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/SMTP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.65000                                  DARK 
+  CIRCLE     0.70000                                  DARK 
+  CIRCLE     1.10000                                  DARK 
+  CIRCLE     1.30000                                  DARK 
+  CIRCLE     1.40000                                  DARK 
+  CIRCLE     1.50000                                  DARK 
+  CIRCLE     1.85340                                  DARK 
+  SQUARE     0.85000                     0.000 NO     DARK 
+  SQUARE     0.95000                     0.000 NO     DARK 
+  SQUARE     1.30000                     0.000 NO     DARK 
+  SQUARE     2.85000                     0.000 NO     DARK 
+  SQUARE     3.50000                     0.000 NO     DARK 
+  RECTANGLE  0.30000     x 0.55000      90.000 NO     DARK 
+  RECTANGLE  0.38000     x 0.80000       0.000 NO     DARK 
+  RECTANGLE  0.56000     x 0.78000       0.000 NO     DARK 
+  RECTANGLE  0.60000     x 0.60000      90.000 NO     DARK 
+  RECTANGLE  0.70000     x 0.87000       0.000 NO     DARK 
+  RECTANGLE  0.75640     x 0.81280      90.000 NO     DARK 
+  RECTANGLE  0.85000     x 1.00000      90.000 NO     DARK 
+  RECTANGLE  0.85960     x 0.93900       0.000 NO     DARK 
+  RECTANGLE  0.85960     x 0.93900      90.000 NO     DARK 
+  RECTANGLE  0.89000     x 2.45000       0.000 NO     DARK 
+  RECTANGLE  0.91440     x 0.60960       0.000 NO     DARK 
+  RECTANGLE  0.94000     x 2.99000       0.000 NO     DARK 
+  RECTANGLE  1.00000     x 0.75000       0.000 NO     DARK 
+  RECTANGLE  1.15000     x 1.35000       0.000 NO     DARK 
+  RECTANGLE  1.16840     x 0.99060      90.000 NO     DARK 
+  RECTANGLE  1.65000     x 1.95000      90.000 NO     DARK 
+  RECTANGLE  1.65000     x 2.35000       0.000 NO     DARK 
+  RECTANGLE  1.85340     x 1.05000      90.000 NO     DARK 
+  RECTANGLE  2.05100     x 4.06320      90.000 NO     DARK 
+  RECTANGLE  2.15000     x 4.40000       0.000 NO     DARK 
+  RECTANGLE  2.20000     x 3.30000      90.000 NO     DARK 
+  OBLONG     0.35000     x 0.85000       0.000 NO     DARK 
+  OBLONG     0.35000     x 0.85000      90.000 NO     DARK 
+  OBLONG     2.20000     x 1.20000      90.000 NO     DARK 
+  OBLONG     2.70000     x 1.20000      90.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00  90.000 NO     DARK 
+
+     SMTP created.
+
+
+================================================================
+     PROCESSING FILM < SMBT >
+     TO FILE < C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/SMBT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.65000                                  DARK 
+  CIRCLE     0.70000                                  DARK 
+  CIRCLE     1.10000                                  DARK 
+  CIRCLE     1.30000                                  DARK 
+  CIRCLE     1.40000                                  DARK 
+  CIRCLE     1.50000                                  DARK 
+  CIRCLE     1.85340                                  DARK 
+  SQUARE     1.30000                     0.000 NO     DARK 
+  OBLONG     2.20000     x 1.20000      90.000 NO     DARK 
+  OBLONG     2.70000     x 1.20000      90.000 NO     DARK 
+
+     SMBT created.
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.60000                                  DARK 
+  CIRCLE     1.05000                                  DARK 
+  CIRCLE     1.25000                                  DARK 
+  CIRCLE     1.35000                                  DARK 
+  CIRCLE     1.45000                                  DARK 
+  CIRCLE     1.80340                                  DARK 
+  SQUARE     1.25000                     0.000 NO     DARK 
+  OBLONG     2.10000     x 1.10000      90.000 NO     DARK 
+  OBLONG     2.60000     x 1.10000      90.000 NO     DARK 
+
+     BOTTOM created.
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created.
+        SSTP created.
+        SSBT created.
+        SPTP created.
+        SPBT created.
+        SMTP created.
+        SMBT created.
+        BOTTOM created.
+
+ ARTWORK finished

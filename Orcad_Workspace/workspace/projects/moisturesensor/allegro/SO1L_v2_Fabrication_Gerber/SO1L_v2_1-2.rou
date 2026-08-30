@@ -1,0 +1,36 @@
+M48
+INCH,TZ
+T01C.023622
+;EXTENTS: -0.012  0.000   21.000  17.000  
+;LEADER: 12 
+;HEADER: 
+;CODE  : ASCII 
+;FILE  : C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L_v2_1-2.rou for board C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/#Taaaaeb12444.tmp, layers TOP to BOTTOM
+%
+G90
+F0
+M16
+T01
+M16
+G00X962630Y574866
+G40
+M15
+G01Y578804
+M16
+G00X957493Y552957
+G40
+M15
+G01Y558469
+M16
+G00X1001981Y552957
+G40
+M15
+G01Y558469
+M16
+G00X996843Y574866
+G40
+M15
+G01Y578804
+M16
+G40
+M30

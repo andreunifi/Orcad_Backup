@@ -805,7 +805,7 @@
                         "name": "Fabrication Drill View PDFs"
                     }
                 ],
-                "exportStatus": "True",
+                "exportStatus": "False",
                 "name": "Fabrication_IPC2581"
             },
             {
@@ -825,7 +825,7 @@
                             ],
                             "FilmPrefix": "",
                             "FilmSuffix": "",
-                            "IntegerPlaces": "2",
+                            "IntegerPlaces": 3,
                             "OutputFormat": "Gerber RS274X",
                             "Scale": "1",
                             "SizeLimitX": "97.00000",
@@ -926,7 +926,7 @@
                         "name": "Artwork Film Record PDFs"
                     }
                 ],
-                "exportStatus": "False",
+                "exportStatus": "True",
                 "name": "Fabrication_Gerber"
             },
             {
@@ -1109,3 +1109,4 @@
         "SoftwareVersion": 17.4
     }
 }
+

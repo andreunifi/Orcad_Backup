@@ -1,0 +1,21 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    IPC-D-356                                                        )
+(                                                                     )
+(    Software Version : 25.1S030                                      )
+(    Date/Time        : Sun Aug 30 16:26:10 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Warning: String S_R74T279M74_279P74_279 exceeds record length on line 73 at column 4
+Warning: Unplaced component C9 - skipping pin (C9 2)
+Warning: Unplaced component C1 - skipping pin (C1 2)
+Warning: Unplaced component C1 - skipping pin (C1 1)
+Warning: Unplaced component C9 - skipping pin (C9 1)
+
+
+------------------------------------------
+SUMMARY:
+  Errors:       0
+  Warnings:     5

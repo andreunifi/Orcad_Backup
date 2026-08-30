@@ -1,0 +1,89 @@
+\t (00:00:49) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (00:00:49)     Journal start - Sun Aug 30 16:40:48 2026
+\t (00:00:49)         Host=LAPTOP-DI-ANDRE User=andre Pid=14564 CPUs=8
+\t (00:00:49) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\unison.exe -layout -orcadx
+\t (00:00:49) 
+\d (00:00:49) Design opened: C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/projects/moisturesensor/allegro/SO1L_v2.brd
+\i (00:00:50) trapsize 3836
+\i (00:00:51) QtSignal PropertyPadstackWidget PropertyPadstackEditMode CurrentIndexChanged 0
+\i (00:00:51) QtSignal PropertyPadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (00:00:51) QtSignal PropertyPadstackWidget copperPadType CurrentIndexChanged 0
+\i (00:00:56) trapsize 3900
+\i (00:01:01) QtSignal Property_Docked_PadstackWidget PropertyPadstackEditMode CurrentIndexChanged +
+\i (00:01:01) QtSignal 0
+\i (00:01:01) QtSignal Property_Docked_PadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (00:01:01) QtSignal Property_Docked_PadstackWidget copperPadType CurrentIndexChanged 0
+\t (00:01:05) Loading consmgr.cxt 
+\t (00:01:05) Loading acns_formula.cxt 
+\i (00:01:05) trapsize 3965
+\i (00:01:13) QtSignal DCRMeasTypeGroup MeasTypePartialRButton toggled on
+\i (00:01:13) QtSignal DCRMeasModelGroup MeasModelL2LRButton toggled on
+\i (00:01:14) QtSignal TopXpWorkflow RectShapeRButton toggled on
+\i (00:01:16) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
+\i (00:01:18) updateport VisibilityPane
+\i (00:01:18) updateport CMPanelPort
+\i (00:01:18) updateport PropPane
+\i (00:01:18) updateport CVPane
+\i (00:01:18) ucpedit 
+\i (00:01:19) updateport ReportsPane
+\i (00:01:19) updateport SearchPane
+\i (00:01:19) updateport VisibilityPane
+\i (00:02:16) ucp_switchview 
+\i (00:02:18) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
+\i (00:02:18) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (00:02:18) ucpedit 
+\i (00:02:18) updateport VisibilityPane
+\i (00:02:19) QtSignal Algro3DViewCameraWidget Algro3DViewTopAction triggered 
+\i (00:02:31) QtSignal Visibility3DCompWidget Vis3DCompTopVisToggle clicked
+\i (00:02:31) updateport ReportsPane
+\i (00:02:31) updateport SearchPane
+\i (00:02:31) updateport PropPane
+\i (00:02:31) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (00:02:35) updateport ReportsPane
+\i (00:02:35) updateport SearchPane
+\i (00:02:35) updateport PropPane
+\i (00:02:35) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (00:02:42) QtSignal Vis3DCompGeneralWidget 3DCompBoundaryMode CurrentIndexChanged 1
+\i (00:02:42) updateport ReportsPane
+\i (00:02:42) updateport SearchPane
+\i (00:02:42) updateport PropPane
+\i (00:02:42) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (00:02:50) QtSignal Algro3DViewCameraWidget Algro3DViewTopAction triggered 
+\i (00:02:59) QtSignal Export3DMainPanel ExportModeChooser CurrentIndexChanged 1
+\i (00:03:03) QtSignal Export3DMainPanel ExportFormatChooser CurrentIndexChanged PDF
+\i (00:03:11) QtSignal Export3DMainPanel ExportZ0LayerChooser CurrentIndexChanged "DIELECTRIC(2)"
+\i (00:03:13) QtSignal Export3DMainPanel ExportZ0LayerChooser CurrentIndexChanged TOP
+\i (00:03:25) QtSignal Export3DMainPanel ExportZ0LayerChooser CurrentIndexChanged "DIELECTRIC(2)"
+\i (00:03:30) QtSignal Export3DMainPanel ExportZ0LayerChooser CurrentIndexChanged BOTTOM
+\i (00:03:33) QtSignal Export3DMainPanel ExportZ0LayerChooser CurrentIndexChanged TOP
+\i (00:03:34) QtSignal Export3DConfig ExportButton clicked
+\i (00:03:42) QtFillin "screenshots/3D.pdf"
+\i (00:03:43) QtFillin Yes
+\w (00:04:11) WARNING(SPMH3D-13): Cannot export the following 3D models because the mapped files are not available in the STEPPATH locations: CAP_CC0603_YAG.step;CAP_CL10_SAM.step;IND_IFSC_1515AH_VIS.step;IND_LQG15_MUR.step;RC0603N_YAG.step;XTAL_KA-A3_EPS.step
+\i (00:06:45) QtSignal Export3DMainPanel ExportZ0StackupChooser CurrentIndexChanged CENTER
+\i (00:06:48) QtSignal Export3DConfig ExportButton clicked
+\i (00:06:50) QtFillin "screenshots/3D.pdf"
+\i (00:06:52) QtFillin Yes
+\w (00:07:13) WARNING(SPMH3D-13): Cannot export the following 3D models because the mapped files are not available in the STEPPATH locations: CAP_CC0603_YAG.step;CAP_CL10_SAM.step;IND_IFSC_1515AH_VIS.step;IND_LQG15_MUR.step;RC0603N_YAG.step;XTAL_KA-A3_EPS.step
+\i (00:07:29) QtSignal Export3DMainPanel ExportModeChooser CurrentIndexChanged 0
+\i (00:07:35) QtSignal Export3DPanelUseOptions OptLayersInternalConductors clicked true
+\i (00:07:36) QtSignal Export3DPanelUseOptions OptLayersSoldermasks clicked true
+\i (00:07:37) QtSignal Export3DPanelUseOptions OptLayersSolderpastes clicked true
+\i (00:07:37) QtSignal Export3DPanelUseOptions OptLayersSolderpastes clicked false
+\i (00:07:38) QtSignal Export3DPanelUseOptions OptLayersSilkscreens clicked true
+\i (00:07:38) QtSignal Export3DPanelUseOptions OptLayersSolderpastes clicked true
+\i (00:07:39) QtSignal Export3DPanelUseOptions OptHolesVias clicked true
+\i (00:07:40) QtSignal Export3DPanelUseOptions OptHolesMechanicals clicked false
+\i (00:07:41) QtSignal Export3DPanelUseOptions OptHolesMechanicals clicked true
+\i (00:07:42) QtSignal Export3DPanelUseOptions OptHolesThroughPins clicked true
+\i (00:07:57) QtSignal Export3DMainPanel OptSeparateFiles clicked true
+\i (00:08:00) QtSignal Export3DMainPanel OptSeparateFiles clicked false
+\i (00:12:57) QtSignal Export3DMainPanel ExportModeChooser CurrentIndexChanged 1
+\i (00:13:02) QtSignal Export3DMainPanel ExportZ0StackupChooser CurrentIndexChanged UPPER
+\i (00:13:06) QtSignal Export3DConfig ExportButton clicked
+\i (00:13:08) QtFillin ""
+\i (00:13:13) QtSignal Export3DMainPanel ExportFormatChooser CurrentIndexChanged STEP
+\i (00:14:27) QtSignal Export3DConfig ExportButton clicked
+\i (00:14:35) QtFillin "screenshots/3D"
+\w (00:15:07) WARNING(SPMH3D-13): Cannot export the following 3D models because the mapped files are not available in the STEPPATH locations: CAP_CC0603_YAG.step;CAP_CL10_SAM.step;IND_IFSC_1515AH_VIS.step;IND_LQG15_MUR.step;RC0603N_YAG.step;XTAL_KA-A3_EPS.step
+\e (00:15:08) The program has encountered a memory corruption and must exit. The design cannot be saved. A MiniDump (*MiniDump.dmp) file has been created either in the working directory or the pcbenv folder. To resolve the problem, obtain the latest software update from Cadence. If the problem persists contact Cadence Customer Support and provide the MiniDump file.
