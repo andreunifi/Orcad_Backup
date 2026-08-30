@@ -1,0 +1,40 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    SINGLE EXPORTS                                                   )
+(                                                                     )
+(    Drawing          : Tesis_minimum_size_v3.brd                     )
+(    Software Version : 25.1S030                                      )
+(    Date/Time        : Sun Aug 30 15:50:06 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Failed to update the NC Drill Legend location
+Current film records are deleted and saved as an attachment to the design.
+
+Creating new film records in the design as per configuration file
+	TOP
+	BOTTOM
+	SSTP
+	SSBT
+	SMTP
+	SMBT
+	SPTP
+	SPBT
+	NCLEGEND-1-2
+	ASSYTP
+	ASSYBT
+
+Processing group :Fabrication_IPC2581
+
+	Executing command :IPC2581 Database (Fabrication)
+		Successfully generated outputs
+
+	Executing command :Fabrication Drill View PDFs
+		Successfully generated outputs
+
+2 out of 2 exports successfully created. outputs are added to Tesis_minimum_size_v3_Fabrication_IPC2581.zip
+
+
+Configuration data is saved as an attachment to the design
