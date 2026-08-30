@@ -8,7 +8,7 @@ P  NUM   001
 P  REV   A                                                                      
 C                                                                               
 C  IPC-D-356 Output File from Allegro                                           
-C  IPC File Date: Sun Aug 30 19:08:55 2026                                      
+C  IPC File Date: Mon Aug 31 01:01:04 2026                                      
 C  Login Name:    andre                                                         
 C                                                                               
 C                                                                               
@@ -35,6 +35,7 @@ C
 C     Padstack          First     Last                                          
 C     Name              Layer     Layer     Width     Height                    
 C  ---------------------------------------------------------                    
+C  S_R51T73M51_73P51_73 TOP       TOP            5600      7800                 
 C  C132H81              TOP       BOTTOM        11000     11000                 
 C  C154_H99             TOP       BOTTOM        14000     14000                 
 C  C80_H40              TOP       BOTTOM         6500      6500                 
@@ -53,7 +54,6 @@ C  O10090240000200A     TOP       TOP            3000      6500
 C  R81_89               TOP       TOP            8596      9390                 
 C  R230_160             TOP       TOP           16500     23500                 
 C  R95_80               TOP       TOP            8500     10000                 
-C  S_R51T73M51_73P51_73 TOP       TOP            5600      7800                 
 C  R210_155             TOP       TOP           16500     19500                 
 C  VIA-1-2-1            TOP       BOTTOM        28000     28000                 
 C  VIA-1-2              TOP       BOTTOM         6000      6000                 
@@ -328,9 +328,9 @@ C
 317GND              VIA   -    MD0250PA00X+258686Y+160280X0600Y0600     S0      
 327N71829           LED1  -2          A01X+229820Y+199488X0800Y0950R270 S1      
 327N71829           R4    -1          A01X+227008Y+199502X0756Y0813R270 S1      
+327RF_P             L3    -2          A01X+209251Y+185249X0510Y0730R180 S1      
 327RF_P             IC2   -1          A01X+214222Y+185753X0250Y0600R090 S1      
 327RF_P             C15   -2   M      A01X+211173Y+186537X0810Y0889R270 S1      
-327RF_P             L3    -2          A01X+209251Y+185249X0510Y0730R180 S1      
 327RF_P             L4    -1          A01X+209150Y+187236X0914Y0610R180 S1      
 327RESET_N          IC2   -19         A01X+219022Y+183253X0250Y0600R090 S1      
 327RESET_N          C13   -2   M      A01X+230828Y+168989X0810Y0889R270 S1      

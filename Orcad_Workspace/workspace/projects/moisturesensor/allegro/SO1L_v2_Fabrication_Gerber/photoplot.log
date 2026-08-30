@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : SO1L_v2.brd                                   )
 (    Software Version : 25.1S030                                      )
-(    Date/Time        : Sun Aug 30 19:08:48 2026                      )
+(    Date/Time        : Mon Aug 31 01:00:57 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -51,6 +51,7 @@ Results from parameter file ...
   ---------------------------------------------------------
   CIRCLE     0.10000                                  DARK 
   CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.50000                                  DARK 
   CIRCLE     0.60000                                  DARK 
   CIRCLE     1.05000                                  DARK 
   CIRCLE     1.25000                                  DARK 
