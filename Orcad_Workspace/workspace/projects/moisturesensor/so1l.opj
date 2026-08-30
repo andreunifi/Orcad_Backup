@@ -24,11 +24,12 @@
     (BOM_Scope "0")
     (BOM_Mode "1")
     (BOM_Report_File
-       "C:\Users\andre\Desktop\Ese_Group18\Orcad_Workspace\workspace\projects\moisturesensor\SO1L.BOM")
+       "C:\Users\andre\Desktop\Ese_Group18\Orcad_Workspace\workspace\projects\moisturesensor\SO1L_MPN.BOM")
     (BOM_Merge_Include "FALSE")
     (BOM_Property_Combine_7.0
-       "{Item}\t{Quantity}\t{Reference}\t{Value}\t{Manufacturer Part Number} ")
-    (BOM_Header "Item,\t\tQuantity,\t\tReference,\t\tPart,\t\tMPN")
+       "{Item}\t{Quantity}\t{Reference}\t{Value}\t{Manufacturer Part Number}\t{Manufacturer Name}  ")
+    (BOM_Header
+       "Item,\t\tQuantity,\t\tReference,\t\tPart,\t\tMPN\t\tManufacturerName")
     (BOM_Include_File
        "C:\USERS\ANDRE\DESKTOP\ESE_GROUP18\ORCAD_WORKSPACE\WORKSPACE\PROJECTS\MOISTURESENSOR\2\MOISTURESENSOR.INC")
     (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
@@ -178,6 +179,8 @@
       (Type "Report")
       (DisplayName "pstchip.dat"))
     (File ".\so1l.bom"
+      (Type "Report"))
+    (File ".\so1l_mpn.bom"
       (Type "Report")))
   (Folder "PSpice Resources"
     (Folder "Simulation Profiles")
@@ -282,7 +285,10 @@
          "c:\users\andre\desktop\ese_group18\orcad_workspace\workspace\projects\moisturesensor\so1l.dsn")
       (Path "Design Resources"
          "c:\users\andre\desktop\ese_group18\orcad_workspace\workspace\projects\moisturesensor\so1l.dsn"
-         "SO1L"))
+         "SO1L")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "c:\users\andre\desktop\ese_group18\orcad_workspace\workspace\projects\moisturesensor\so1l.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -293,8 +299,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 1255 24 526")
-        (Scroll "-303 -8")
-        (Zoom "63")
+        (Scroll "-299 -5")
+        (Zoom "64")
         (Occurrence "/"))
       (Path
          "C:\USERS\ANDRE\DESKTOP\ESE_GROUP18\ORCAD_WORKSPACE\WORKSPACE\PROJECTS\MOISTURESENSOR\SO1L.DSN")

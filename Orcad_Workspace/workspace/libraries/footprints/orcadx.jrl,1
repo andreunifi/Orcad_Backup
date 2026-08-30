@@ -1,89 +1,84 @@
-\t (00:00:12) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
-\t (00:00:12)     Journal start - Fri Aug 28 15:52:35 2026
-\t (00:00:12)         Host=LAPTOP-DI-ANDRE User=andre Pid=12836 CPUs=8
-\t (00:00:12) CmdLine= unison -layout -orcadx -productToken 00016FF6B8D1A2E6B4F664E3F485F4B3B9E223AFBD9BA3A9B6F938FEBBD5F0E1B8FB6485FBF1B2C7BA8038F3EF8383C6DF9F2CF1C1A6B3F7E6AA3AC5D48690E8EC9036FDFCCFA4BDB4AD6DE6BD84A1BCB1FF38FBED9BC09A80CF39898CEBC084E5CF27FF8C80EDC0CF9F468A9BA8FF84BFF038FBED85C08480CF38FBED85C08480CF526A7F135212EA5E000040DC C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/ntcle350e4103fhb0.dra
-\t (00:00:12) 
-\d (00:00:12) Design opened: C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/ntcle350e4103fhb0.dra
-\i (00:00:13) trapsize 679
-\i (00:00:14) QtSignal PropertyPadstackWidget PropertyPadstackEditMode CurrentIndexChanged 0
-\i (00:00:14) QtSignal PropertyPadstackWidget copperPadLayer CurrentIndexChanged 0
-\i (00:00:14) QtSignal PropertyPadstackWidget copperPadType CurrentIndexChanged 0
-\i (00:00:21) trapsize 690
-\i (00:00:27) QtSignal Property_Docked_PadstackWidget PropertyPadstackEditMode CurrentIndexChanged +
-\i (00:00:27) QtSignal 0
-\i (00:00:27) QtSignal Property_Docked_PadstackWidget copperPadLayer CurrentIndexChanged 0
-\i (00:00:27) QtSignal Property_Docked_PadstackWidget copperPadType CurrentIndexChanged 0
-\t (00:00:32) Loading consmgr.cxt 
-\t (00:00:32) Loading acns_formula.cxt 
-\i (00:00:32) trapsize 702
-\i (00:00:37) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
-\i (00:00:37) QtSignal ucp_shape_create_dyn_dim UCPAddShape_Type CurrentIndexChanged 1
-\i (00:00:39) updateport VisibilityPane
-\i (00:00:39) updateport CMPanelPort
-\i (00:00:39) updateport PropPane
-\i (00:00:39) updateport CVPane
-\i (00:00:39) ucpedit 
-\i (00:00:39) updateport ReportsPane
-\i (00:00:39) updateport SearchPane
-\i (00:00:39) updateport VisibilityPane
-\i (00:00:50) zoom in 1 
-\i (00:00:50) setwindow pcb
-\i (00:00:50) zoom in 0.8548 1.0879
-\i (00:00:50) trapsize 351
-\i (00:00:50) zoom in 1 
-\i (00:00:50) setwindow pcb
-\i (00:00:50) zoom in 0.8548 1.1300
-\i (00:00:50) trapsize 175
-\i (00:00:52) prepopup 0.7320 0.1442
+\t (00:00:09) orcadx 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (00:00:09)     Journal start - Fri Aug 28 16:34:47 2026
+\t (00:00:09)         Host=LAPTOP-DI-ANDRE User=andre Pid=16880 CPUs=8
+\t (00:00:09) CmdLine= unison -layout -orcadx -productToken 00013DFFB9DBA5E2E4F93AB3F48FF4B6E4E277ABE8CCA3A9E2FD6BFFBD86F2E5B6F963D5ABF4B2C7BA8038F3EF8383C6DF9F2CF1C1A6B3F7E6AA3AC5D48690E8EC9035FDFC93A4E1B7AA33B4EAB5F084B8AD38FBED9BC09A80CF39898CEBC084E5CF27FF8C80EDC0CF9F468A9BA8FF84BFF038FBED85C08480CF38FBED85C08480CF526A71F85CF9EA5E00004112 C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/conn_s2b-ph-k-s_jst.dra
+\t (00:00:09) 
+\d (00:00:09) Design opened: C:/Users/andre/Desktop/Ese_Group18/Orcad_Workspace/workspace/libraries/footprints/conn_s2b-ph-k-s_jst.dra
+\i (00:00:09) trapsize 1628
+\i (00:00:10) QtSignal PropertyPadstackWidget PropertyPadstackEditMode CurrentIndexChanged 0
+\i (00:00:10) QtSignal PropertyPadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (00:00:10) QtSignal PropertyPadstackWidget copperPadType CurrentIndexChanged 0
+\i (00:00:17) trapsize 1654
+\i (00:00:21) QtSignal Property_Docked_PadstackWidget PropertyPadstackEditMode CurrentIndexChanged +
+\i (00:00:21) QtSignal 0
+\i (00:00:21) QtSignal Property_Docked_PadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (00:00:21) QtSignal Property_Docked_PadstackWidget copperPadType CurrentIndexChanged 0
+\t (00:00:26) Loading consmgr.cxt 
+\t (00:00:26) Loading acns_formula.cxt 
+\i (00:00:26) trapsize 1682
+\i (00:00:29) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
+\i (00:00:30) QtSignal ucp_shape_create_dyn_dim UCPAddShape_Type CurrentIndexChanged 1
+\i (00:00:31) updateport VisibilityPane
+\i (00:00:31) updateport CMPanelPort
+\i (00:00:31) updateport PropPane
+\i (00:00:31) updateport CVPane
+\i (00:00:31) ucpedit 
+\i (00:00:31) updateport ReportsPane
+\i (00:00:31) updateport SearchPane
+\i (00:00:31) updateport VisibilityPane
+\i (00:00:39) zoom in 1 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom in 0.8043 0.0622
+\i (00:00:39) trapsize 841
+\i (00:00:39) zoom in 1 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom in 0.8043 0.0622
+\i (00:00:39) trapsize 421
+\i (00:00:41) prepopup 0.3417 -0.1060
+\i (00:00:43) pick grid 0.7118 1.4922
+\t (00:00:43) last pick:  0.7118 1.4922
+\i (00:00:44) prepopup 1.8473 0.1968
+\i (00:00:44) updateport ReportsPane
+\i (00:00:44) updateport SearchPane
+\i (00:00:44) updateport PropPane
+\i (00:00:47) pick grid 5.2204 -0.9892
+\t (00:00:47) last pick:  5.2204 -0.9892
+\i (00:00:52) prepopup 2.4446 -0.2070
 \i (00:00:52) updateport ReportsPane
 \i (00:00:52) updateport SearchPane
 \i (00:00:52) updateport PropPane
-\i (00:00:55) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (C80_H40) (2)' 
-\i (00:00:55) mod padstack 
-\i (00:07:16) updateport ReportsPane
-\i (00:07:16) updateport SearchPane
-\i (00:07:16) updateport PropPane
-\i (00:07:16) ucpedit 
-\i (00:07:16) updateport ReportsPane
-\i (00:07:16) updateport SearchPane
-\i (00:07:16) updateport VisibilityPane
-\i (00:07:16) updateport PropPane
-\i (00:07:16) pick grid 1.9951 0.8809
-\t (00:07:16) last pick:  1.9951 0.8809
-\i (00:07:17) zoom out 1 
-\i (00:07:17) setwindow pcb
-\i (00:07:17) zoom out 1.9951 0.8809
-\i (00:07:17) trapsize 351
-\i (00:07:17) zoom out 1 
-\i (00:07:17) setwindow pcb
-\i (00:07:17) zoom out 1.9950 0.8810
-\i (00:07:17) trapsize 702
-\i (00:07:17) zoom out 1 
-\i (00:07:17) setwindow pcb
-\i (00:07:17) zoom out 1.9950 0.8810
-\i (00:07:17) trapsize 1403
-\i (00:07:19) save 
-\i (00:07:20) fillin yes 
-\t (00:07:21) Symbol 'ntcle350e4103fhb0.psm' created.
-\i (00:07:21) updateport ReportsPane
-\i (00:07:21) updateport SearchPane
-\i (00:07:21) updateport PropPane
-\i (00:07:21) ucpedit 
-\i (00:07:21) updateport VisibilityPane
-\i (00:07:21) save 
-\i (00:07:23) fillin yes 
-\t (00:07:24) Symbol 'ntcle350e4103fhb0.psm' created.
-\i (00:07:24) updateport ReportsPane
-\i (00:07:24) updateport SearchPane
-\i (00:07:24) updateport PropPane
-\i (00:07:24) ucpedit 
-\i (00:07:24) updateport VisibilityPane
-\i (00:07:24) zoom in 1 
-\i (00:07:24) setwindow pcb
-\i (00:07:24) zoom in 7.4121 -1.2521
-\i (00:07:24) trapsize 702
-\i (00:07:26) pick grid 6.4579 1.4705
-\t (00:07:26) last pick:  6.4579 1.4705
-\i (00:07:28) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\i (00:07:28) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
-\t (00:07:35)     Journal end - Fri Aug 28 15:59:58 2026
+\i (00:00:54) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (C132H81) (2)' 
+\i (00:00:54) mod padstack 
+\i (00:05:45) updateport ReportsPane
+\i (00:05:45) updateport SearchPane
+\i (00:05:46) updateport PropPane
+\i (00:05:46) ucpedit 
+\i (00:05:46) updateport ReportsPane
+\i (00:05:46) updateport SearchPane
+\i (00:05:46) updateport VisibilityPane
+\i (00:05:46) updateport PropPane
+\i (00:05:46) zoom out 1 
+\i (00:05:46) setwindow pcb
+\i (00:05:46) zoom out 3.9586 1.7529
+\i (00:05:46) trapsize 841
+\i (00:05:47) pick grid 6.1457 0.0707
+\t (00:05:47) last pick:  6.1457 0.0707
+\i (00:05:48) zoom out 1 
+\i (00:05:48) setwindow pcb
+\i (00:05:48) zoom out 6.1457 0.0538
+\i (00:05:48) trapsize 1682
+\i (00:05:48) zoom out 1 
+\i (00:05:48) setwindow pcb
+\i (00:05:48) zoom out 6.1457 0.0539
+\i (00:05:48) trapsize 3365
+\i (00:05:49) save 
+\i (00:05:50) fillin yes 
+\t (00:05:51) Symbol 'conn_s2b-ph-k-s_jst.psm' created.
+\i (00:05:51) updateport ReportsPane
+\i (00:05:51) updateport SearchPane
+\i (00:05:51) updateport PropPane
+\i (00:05:51) ucpedit 
+\i (00:05:51) updateport VisibilityPane
+\i (00:05:52) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:05:52) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\t (00:06:00)     Journal end - Fri Aug 28 16:40:37 2026
